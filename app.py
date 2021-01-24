@@ -15,18 +15,36 @@ app = App(
 )
 
 
+def prepare_text(suggestion):
+    text = ['Посмотри похожие обсуждения:']
+    text.extend(suggestion)
+    return '\n\n'.join(text)
+
+
 @app.message(re.compile(r"\w*"))
-def all_messages(client, message):
+def non_thread_message(client, message):
     logger.info(message)
 
+    # пропускаем сообщения, которые отправлены в треды
     if message.get('thread_ts'):
         return
 
+    suggestion = [
+        'https://opendatascience.slack.com/archives/'
+        'C04DP7BUY/p1611478116040000'
+    ] * 5
+
     client.chat_postMessage(
-        text='<some response>',
+        text=prepare_text(suggestion),
         channel=message['channel'],
         thread_ts=message['ts'],
     )
+
+
+# заглушка для всех остальных event по сообщениям
+@app.event({'type': 'message'})
+def just_ack():
+    return
 
 
 if __name__ == "__main__":
