@@ -27,8 +27,7 @@ class SemanticEngine:
         self.embeddings = corpus_embeddings
 
     def get_top_k(self, query: str, k=5) -> List[Dict]:
-        """[summary]
-
+        """ Get k most similar to query sentences 
         Args:
             query (str): text for which you want to find similar sentences 
             k (int, optional): number of sentences to find. Defaults to 5.
@@ -68,10 +67,3 @@ if __name__ == "__main__":
     for res in result:
         print(res["ts"], res["text"], res["score"], sep="\n")
         print("---------------")
-
-    import sentence_transformers
-
-    print(
-        sentence_transformers.__version__, pd.__version__, pickle.__version__,
-    )
-
