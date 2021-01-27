@@ -7,5 +7,6 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 ADD app.py .
+ADD utils utils
 
 CMD ["python", "app.py"]
