@@ -27,7 +27,8 @@ class SemanticEngine:
         self.embeddings = corpus_embeddings
 
     def get_top_k(self, query: str, k=5) -> List[Dict]:
-        """ Get k most similar to query sentences 
+        """ Get k most similar to query sentences
+        You need to call load_embeddings or calc_embeddings first to use this method
         Args:
             query (str): text for which you want to find similar sentences 
             k (int, optional): number of sentences to find. Defaults to 5.
@@ -40,9 +41,13 @@ class SemanticEngine:
                 text: message text  
             }
         """
+        if self.embeddings is None:
+            raise ValueError(
+                "embeddings are not initialized. Call load_embeddings or calc_embeddings first"
+            )
         query_embedding = self.model.encode([query], convert_to_tensor=True)
         hits = util.semantic_search(query_embedding, self.embeddings, top_k=k)
-        hits = hits[0]  # Get the hits for the first query
+        hits = hits[0]
         result = [
             {
                 "ts": self.text_df[hit["corpus_id"]][0],
@@ -55,6 +60,8 @@ class SemanticEngine:
 
 
 if __name__ == "__main__":
+    """ Usage example
+    """
     df = pd.read_csv("./data/prepared/edu_courses.tsv", sep="\t")
     df.dropna(inplace=True)
     engine = SemanticEngine(text_df=df)
