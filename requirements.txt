@@ -1,3 +1,6 @@
 slack-bolt==1.2.3
 nltk==3.5
 pymystem3==0.2.0
+sentence-transformers==0.4.1.2
+pandas==1.2.1
+torch==1.7.1

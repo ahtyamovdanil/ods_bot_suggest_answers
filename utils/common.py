@@ -1,22 +1,5 @@
 
 
-def prepare_response_text(prefix, suggestion):
-    """
-    Подготавливает текст ответа от имени бота.
-
-    :param prefix:
-        `str`, префикс, который будет указан перед ссылками на похожие треды.
-    :param suggestion:
-        `iter`, список ссылок на похожие тереды.
-
-    :return:
-        `str`, текст ответа.
-    """
-    text = [prefix]
-    text.extend(suggestion)
-    return '\n\n'.join(text)
-
-
 def preprocess_message(text, stem, stop_words):
     """
     Выполняет прероцессинг текста сообщения:
