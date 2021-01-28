@@ -2,33 +2,31 @@ import re
 import os
 import logging
 
-import nltk
-
-from pymystem3 import Mystem
 from slack_bolt import App
 
-from utils.common import prepare_response_text, preprocess_message
-
-
-try:
-    nltk.corpus.stopwords.words('russian')
-except LookupError:
-    nltk.download('stopwords')
+from adviser import Adviser
 
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('app')
 
 
-STOP_WORDS = set(nltk.corpus.stopwords.words('russian'))
-STEM = Mystem()
-
-
 app = App(
     name='ODS bot suggest answers',
     logger=logger,
-    token=os.environ.get("SLACK_BOT_TOKEN"),
-    signing_secret=os.environ.get("SLACK_SIGNING_SECRET")
+    token=os.environ.get('SLACK_BOT_TOKEN'),
+    signing_secret=os.environ.get('SLACK_SIGNING_SECRET')
+)
+
+# FIXME: вынести параметры в конфиг файл
+adviser = Adviser(
+    prefix='Посмотри похожие обсуждения:',
+    channel_id='C04DP7BUY',
+    base_url='https://opendatascience.slack.com/archives',
+    top_k=3,
+    threshold=0.8,
+    corpus_path='./data/prepared/corpus_df.pickle',
+    embeddings_path='./data/prepared/embeddings.pt',
 )
 
 
@@ -41,20 +39,17 @@ def non_thread_message(client, message):
         return
 
     text = message.get('text')
+    # в норме такого быть не должно
     if not text:
         return
 
-    msg = preprocess_message(text, STEM, STOP_WORDS)
-    logger.info(msg)
-
-    prefix = 'Посмотри похожие обсуждения:'
-    suggestion = [
-        'https://opendatascience.slack.com/archives/'
-        'C04DP7BUY/p1611478116040000'
-    ] * 5
+    test_response = adviser.get_advice(text)
+    # не найдены похожие треды, который бы удовлетворяли threshold
+    if not test_response:
+        return
 
     client.chat_postMessage(
-        text=prepare_response_text(prefix, suggestion),
+        text=test_response,
         channel=message['channel'],
         thread_ts=message['ts'],
     )
