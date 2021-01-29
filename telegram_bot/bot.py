@@ -6,12 +6,7 @@ import os
 
 
 token = os.environ.get("BOT_TOKEN")
-port = os.environ.get("ENGINE_PORT")
-
 bot = telebot.TeleBot(token=token)
-
-# ENGINE_IP = "0.0.0.0"
-# ENGINE_PORT = "8989"
 
 adviser = Adviser(
     prefix="Посмотри похожие обсуждения:",
@@ -24,8 +19,13 @@ adviser = Adviser(
 
 @bot.message_handler(content_types=["text"])
 def repeat_all_messages(message):
-    response = adviser.get_advice(message.text)
-    bot.send_message(message.chat.id, response)
+    timestamps, messages = adviser.get_advice(message.text)
+    if messages == []:
+        bot.send_message(message.chat.id, "По вашему запросу ничего не найдено")
+    else:
+        for ts, m in zip(messages, timestamps):
+            responce = "\n".join([ts, m])
+            bot.send_message(message.chat.id, responce)
 
 
 if __name__ == "__main__":
