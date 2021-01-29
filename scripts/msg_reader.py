@@ -10,7 +10,7 @@ def get_channel_messages(channel: str):
 
     files = list(glob.iglob(f"./data/raw/{channel}/*.json"))
 
-    with open(f"./data/prepared/{channel}.tsv", "w") as file:
+    with open(f"./engine/app/data/prepared/{channel}.tsv", "w") as file:
         file.write("ts\ttext\n")
 
     for name in files:
@@ -18,7 +18,7 @@ def get_channel_messages(channel: str):
         with open(name) as msgs_file:
             messages = json.load(msgs_file)
 
-        with open(f"./data/prepared/{channel}.tsv", "a") as file:
+        with open(f"./engine/app/data/prepared/{channel}.tsv", "a") as file:
             for msg in messages:
                 if (
                     ("user" not in msg)
@@ -28,8 +28,14 @@ def get_channel_messages(channel: str):
                 ):
                     continue
 
-                msg["text"] = msg["text"].replace("\t", " ").replace("\n", " ")
-                file.writelines([msg["ts"], "\t", '"' + msg["text"] + '"' + "\n"])
+                msg["text"] = (
+                    msg["text"].replace("\t", " ").replace("\n", " ").replace('"', "'")
+                )
+                if msg["text"] == "":
+                    continue
+                ts = '"' + msg["ts"] + '"'
+                text = '"' + msg["text"] + '"'
+                file.writelines([ts, "\t", text + "\n"])
 
 
 if __name__ == "__main__":
