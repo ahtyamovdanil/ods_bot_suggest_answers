@@ -1,0 +1,12 @@
+version: "3"
+services:
+  engine:
+    build: ./engine
+    restart: always
+    expose:
+      - 5000
+
+  telebot:
+    build: ./telegram_bot
+    env_file:
+      - ./telegram_bot/.env
