@@ -65,19 +65,22 @@ class Adviser:
             `None`, если не найдено рекомендации со скором выше установленного
             порога `threshold`.
         """
-        # result = self.semantic_engine.get_top_k(query=text, top_k=self.top_k)
         result = requests.post(
             f"http://{ENGINE_IP}:{ENGINE_PORT}/api/get_messages",
             json={"text": text, "top_k": self.top_k},
         )
-        # print(result)
         thread_ids = [
             i["ts"] for i in result.json() if float(i["score"]) >= self.threshold
         ]
+        thread_urls = [
+            f'{self.base_url}/{self.channel_id}/p{ts.replace(".", "")}'
+            for ts in thread_ids
+        ]
+        messages = [
+            i["text"] for i in result.json() if float(i["score"]) >= self.threshold
+        ]
 
-        if not thread_ids:
-            return
-        return self.prepare_response_text(thread_ids)
+        return thread_urls, messages
 
 
 if __name__ == "__main__":
