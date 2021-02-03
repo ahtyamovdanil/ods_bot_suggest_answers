@@ -1,0 +1,1180 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1603956142.051700",
+        "thread_ts": "1603956142.051700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1603958075.057700",
+        "reply_users": [
+            "UAHMQJA92",
+            "U5FSVH9UJ",
+            "U3KBYJQSF"
+        ],
+        "replies": [
+            {
+                "user": "UAHMQJA92",
+                "ts": "1603956766.053000"
+            },
+            {
+                "user": "U5FSVH9UJ",
+                "ts": "1603957543.054700"
+            },
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1603958006.057400"
+            },
+            {
+                "user": "U5FSVH9UJ",
+                "ts": "1603958075.057700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ban",
+                "users": [
+                    "UQMCTGYEL",
+                    "U4ZRFG1V0",
+                    "U4DDQEE94",
+                    "U01364G3W84",
+                    "U15UZGX9A",
+                    "UUUDAA4UU",
+                    "UAHMQJA92",
+                    "U09JEC7V0",
+                    "U9HSZRDP1",
+                    "U4UQPNV9S",
+                    "UBM4B8CBU",
+                    "U5GCU82HX",
+                    "U8R5CR38W",
+                    "U6WUCDKKM",
+                    "UD0A6J75L",
+                    "UJ8BXBM36",
+                    "UH1GA3UQ6"
+                ],
+                "count": 17
+            },
+            {
+                "name": "spam",
+                "users": [
+                    "U15UZGX9A",
+                    "U09JEC7V0",
+                    "UBM4B8CBU",
+                    "UJ8BXBM36"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64254A5D-4783-48C8-B7B4-8A59CE4C407C",
+        "type": "message",
+        "text": "Так нашёл или основал?",
+        "user": "UAHMQJA92",
+        "ts": "1603956766.053000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5859c1ebb977",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-27\/961322386083_5859c1ebb977d96b2711_72.png",
+            "first_name": "German",
+            "real_name": "German Chesnokov",
+            "display_name": "gerok",
+            "team": "T040HKJE3",
+            "name": "geryc2008",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Так нашёл или основал?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603956142.051700",
+        "parent_user_id": "U5FSVH9UJ",
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U09JEC7V0",
+                    "UBM4B8CBU",
+                    "U7SFPUVQF",
+                    "UUCMUC3D1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b042c2c2-c3e2-44f8-9e96-c65f1e1d1987",
+        "type": "message",
+        "text": "и то и то уже показали канал где можно пиариться pr_jerk так что расслабьтесь )) Сам не похвалишь, никто не похвалит, а вот по башке вдарить это каждый у нас горазд",
+        "user": "U5FSVH9UJ",
+        "ts": "1603957543.054700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd142a174b41",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a6d142a174b4174916ec4f227bef7c9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "physmodel",
+            "real_name": "physmodel",
+            "display_name": "physmodel",
+            "team": "T040HKJE3",
+            "name": "physmodel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppj18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "и то и то уже показали канал где можно пиариться pr_jerk так что расслабьтесь )) Сам не похвалишь, никто не похвалит, а вот по башке вдарить это каждый у нас горазд"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603956142.051700",
+        "parent_user_id": "U5FSVH9UJ"
+    },
+    {
+        "client_msg_id": "A300A8DE-8D2B-4479-ABA7-67692AC3DB33",
+        "type": "message",
+        "text": "<@U5FSVH9UJ> не нужно дублировать сообщения во многих каналах ",
+        "user": "U3KBYJQSF",
+        "ts": "1603958006.057400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7296a1e07c9a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1396937501219_7296a1e07c9a27f4a764_72.png",
+            "first_name": "vtrokhymenko",
+            "real_name": "vtrokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5FSVH9UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " не нужно дублировать сообщения во многих каналах "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603956142.051700",
+        "parent_user_id": "U5FSVH9UJ"
+    },
+    {
+        "client_msg_id": "818efb67-b28b-4a0e-a827-801d826881e5",
+        "type": "message",
+        "text": "уже поправил",
+        "user": "U5FSVH9UJ",
+        "ts": "1603958075.057700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd142a174b41",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a6d142a174b4174916ec4f227bef7c9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "physmodel",
+            "real_name": "physmodel",
+            "display_name": "physmodel",
+            "team": "T040HKJE3",
+            "name": "physmodel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La7oY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "уже поправил"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603956142.051700",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "3f905723-8b53-49db-be6f-a1b791625e24",
+        "type": "message",
+        "text": "Доброго времени суток, уважаемые. Подскажите, пожалуйста, зелёному духу:catshake: :peperun: , что думаете по поводу курсов DataCamp? \nЗаранее благодарю",
+        "user": "U019FK53UMD",
+        "ts": "1603998148.062600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0ff02a6591f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0ff02a6591f38b5b40774a1d4ef21bff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Vsevolod",
+            "real_name": "Vsevolod Romanchenko",
+            "display_name": "VRO",
+            "team": "T040HKJE3",
+            "name": "vsev777rom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Доброго времени суток, уважаемые. Подскажите, пожалуйста, зелёному духу"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "catshake"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "peperun"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , что думаете по поводу курсов DataCamp? \nЗаранее благодарю"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998148.062600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1604014670.073600",
+        "reply_users": [
+            "U5H0L5T98",
+            "U01ABUGV8SJ",
+            "UATUW65FG"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1604006476.068000"
+            },
+            {
+                "user": "U01ABUGV8SJ",
+                "ts": "1604010509.068200"
+            },
+            {
+                "user": "UATUW65FG",
+                "ts": "1604014670.073600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U6SHTGD5X",
+                    "UFF6QFJ86",
+                    "UL95F64PP",
+                    "U30LWK54N"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B55C3660-DD49-4857-9AA9-5589934C32C9",
+        "type": "message",
+        "text": "Добрый вечер, а не подскажет ли кто-нибудь курсов, где детально бы разбирались классические (и сейчас уже, возможно, не очень популярные) алгоритмы МЛ по типу различных модификаций SVM, SVM для регрессии, RVM, GPC\/GPR итд. Знаю, что у Сергея Николенко есть лекции на ютубе на эту тему, у Воронцова вроде бы тоже, но хотелось бы именно полноценный курс с домашками и каким-то (хотя бы автоматизированным) контролем этих домашек. Спасибо за советы",
+        "user": "U9BDT48M8",
+        "ts": "1603998528.067400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9BDT48M8",
+            "ts": "1603998585.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/sa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый вечер, а не подскажет ли кто-нибудь курсов, где детально бы разбирались классические (и сейчас уже, возможно, не очень популярные) алгоритмы МЛ по типу различных модификаций SVM, SVM для регрессии, RVM, GPC\/GPR итд. Знаю, что у Сергея Николенко есть лекции на ютубе на эту тему, у Воронцова вроде бы тоже, но хотелось бы именно полноценный курс с домашками и каким-то (хотя бы автоматизированным) контролем этих домашек. Спасибо за советы"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998528.067400",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1604063030.087200",
+        "reply_users": [
+            "U60EETE7N",
+            "U2D4XJL3A",
+            "UCMC5J36D",
+            "U9BDT48M8"
+        ],
+        "replies": [
+            {
+                "user": "U60EETE7N",
+                "ts": "1604010883.068400"
+            },
+            {
+                "user": "U2D4XJL3A",
+                "ts": "1604011598.068600"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1604015656.074000"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1604040125.079000"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1604063030.087200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "71112d44-5838-4da2-b2c2-9ecc97507fd6",
+        "type": "message",
+        "text": "для новичком очень хорошо.\n\nА если ты хочешь изучить R, то наверное это одно из самых приятных мест.",
+        "user": "U5H0L5T98",
+        "ts": "1604006476.068000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+hW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "для новичком очень хорошо.\n\nА если ты хочешь изучить R, то наверное это одно из самых приятных мест."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998148.062600",
+        "parent_user_id": "U019FK53UMD"
+    },
+    {
+        "client_msg_id": "70b20dac-c7db-4898-b1ca-56223593345d",
+        "type": "message",
+        "text": "В англоязычном интернете много про них отзывов. Многим не нравится, что ты не полностью пишешь код, а просто вставляешь одно слово - такой метод не особо способствует эффективному обучению Если вкратце - то своих денег они не особо стоят, но у них бывают акции \"неделя бесплатно\".  Мне хорошо зашли курсы по SQL.",
+        "user": "U01ABUGV8SJ",
+        "ts": "1604010509.068200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "56e9621cb3f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1490314581616_56e9621cb3f69ac6eb09_72.jpg",
+            "first_name": "Maria",
+            "real_name": "Maria Plastinina",
+            "display_name": "plmaria",
+            "team": "T040HKJE3",
+            "name": "plastininamary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В англоязычном интернете много про них отзывов. Многим не нравится, что ты не полностью пишешь код, а просто вставляешь одно слово - такой метод не особо способствует эффективному обучению Если вкратце - то своих денег они не особо стоят, но у них бывают акции \"неделя бесплатно\".  Мне хорошо зашли курсы по SQL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998148.062600",
+        "parent_user_id": "U019FK53UMD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6VR5P1JB",
+                    "UDSJKKTJ8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b557b5ed-18c6-40e3-98e8-932c2b2a1cce",
+        "type": "message",
+        "text": "вот это топ\n<http:\/\/work.caltech.edu\/telecourse.html>",
+        "user": "U60EETE7N",
+        "ts": "1604010883.068400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот это топ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/work.caltech.edu\/telecourse.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998528.067400",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U29TG6K9U",
+                    "UUHBNFF8X",
+                    "UCMC5J36D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9c70ef1-dfa6-455d-9fbc-594ef4a50fc8",
+        "type": "message",
+        "text": "Да. Yaser forever!",
+        "user": "U2D4XJL3A",
+        "ts": "1604011598.068600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "53dcc050b600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-25\/108328945824_53dcc050b60000d4d7be_72.jpg",
+            "first_name": "Semion",
+            "real_name": "Semion VP",
+            "display_name": "psv",
+            "team": "T040HKJE3",
+            "name": "psv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Dhq0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да. Yaser forever!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998528.067400",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U29TG6K9U",
+                    "UCMC5J36D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0181408e-3aca-491f-9d2d-dcb24c6b56d1",
+        "type": "message",
+        "text": "Всем привет.  Слышал хорошие отзывы о курсе от МФТИ и Яндекса на Coursera \"Специализация Машинное обучение и анализ данных\", но он платный, а я бедный студент.  Знаю основы python и немного высшей математики.  Подскажите пожалуйста, как и по каким ресурсам бесплатно пройти путь к DS разработчика",
+        "user": "U01DB9NVCB0",
+        "ts": "1604013437.069100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3f0f9b72b8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1457541897350_f3f0f9b72b8c30624e96_72.jpg",
+            "first_name": "",
+            "real_name": "Mark Juzefin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "hilarionium",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет.  Слышал хорошие отзывы о курсе от МФТИ и Яндекса на Coursera \"Специализация Машинное обучение и анализ данных\", но он платный, а я бедный студент.  Знаю основы python и немного высшей математики.  Подскажите пожалуйста, как и по каким ресурсам бесплатно пройти путь к DS разработчика"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1604058298.085300",
+        "reply_users": [
+            "U1TJJJZQ8",
+            "U01AVDD0DP0",
+            "U262NSHCK",
+            "U9MAVHVEW",
+            "U019GKJQGR3",
+            "U01DB9NVCB0"
+        ],
+        "replies": [
+            {
+                "user": "U1TJJJZQ8",
+                "ts": "1604013549.069200"
+            },
+            {
+                "user": "U01AVDD0DP0",
+                "ts": "1604016370.074600"
+            },
+            {
+                "user": "U262NSHCK",
+                "ts": "1604031541.074800"
+            },
+            {
+                "user": "U9MAVHVEW",
+                "ts": "1604035651.075200"
+            },
+            {
+                "user": "U019GKJQGR3",
+                "ts": "1604040812.079200"
+            },
+            {
+                "user": "U019GKJQGR3",
+                "ts": "1604040903.079400"
+            },
+            {
+                "user": "U262NSHCK",
+                "ts": "1604041617.079600"
+            },
+            {
+                "user": "U01DB9NVCB0",
+                "ts": "1604058298.085300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "U7SFPUVQF",
+                    "U60EETE7N",
+                    "UHSBA8F35"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7abe0436-2888-4d63-b428-6dee47af7ba7",
+        "type": "message",
+        "text": "для бедных студентов по классике есть financial aid",
+        "user": "U1TJJJZQ8",
+        "ts": "1604013549.069200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7aa8e2344c10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-02\/745539998484_7aa8e2344c106ec55fd9_72.png",
+            "first_name": "Veronika",
+            "real_name": "Veronika Ponizova",
+            "display_name": "Veronika Ponizova",
+            "team": "T040HKJE3",
+            "name": "dyupon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "для бедных студентов по классике есть financial aid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6T11F9T4",
+                    "U01AVDD0DP0",
+                    "UD2EX7JP9",
+                    "UUHBNFF8X",
+                    "U01CX0XER3R",
+                    "ULA9M7CM9",
+                    "UBM4B8CBU",
+                    "U6XMXEHHT",
+                    "ULMML7Z5K",
+                    "U01113DLJAE",
+                    "UHGUXSJRK",
+                    "U6Z21KSBC",
+                    "US2DY9BPH",
+                    "U1G303UTW",
+                    "UEE7N6YMT",
+                    "U8PMZ6397",
+                    "UBA7N1YSG",
+                    "U6VR5P1JB",
+                    "U4DQUUTS7",
+                    "U21MU5ATE",
+                    "U6432888H",
+                    "UKQTHKEPJ",
+                    "U016XAJU21E",
+                    "UDSJKKTJ8",
+                    "U4WM1939Q",
+                    "U6CKPN7C5",
+                    "ULB0N22LF",
+                    "U5K3FP3RQ"
+                ],
+                "count": 28
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CD35CBB5-B65A-4EAD-B38B-D41760C955F7",
+        "type": "message",
+        "text": "Проходил трек data science. ИМХО научится там особо не получится, потому, что большинство заданий это вставь пропущенное слово. Для формирования картины примерного пайплайна в data science и ознакомления с инструментарием сойдет.",
+        "user": "UATUW65FG",
+        "ts": "1604014670.073600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g513644d31f9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f513644d31f9d800448293bbc86b9da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kirill Terekhov",
+            "display_name": "Darbe",
+            "team": "T040HKJE3",
+            "name": "droubnier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+1+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проходил трек data science. ИМХО научится там особо не получится, потому, что большинство заданий это вставь пропущенное слово. Для формирования картины примерного пайплайна в data science и ознакомления с инструментарием сойдет."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998148.062600",
+        "parent_user_id": "U019FK53UMD"
+    },
+    {
+        "client_msg_id": "cd66fcfb-b47a-4d84-b9d5-6fa718b50cd1",
+        "type": "message",
+        "text": "<https:\/\/courses.edx.org\/courses\/course-v1:MITx+6.86x+1T2019\/course\/>\nМатериалы, правда, немного устаревшие+экзамены. Можно посмотреть чему учат.\n<https:\/\/github.com\/kchobo13\/6.036\/tree\/master\/OldExams>\n<https:\/\/github.com\/nsuman\/6036>\nТакже у них в серии SDS стартует новый курс с 21г.. Как я понял это аналог ESL от МИТа.",
+        "user": "UCMC5J36D",
+        "ts": "1604015656.074000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCMC5J36D",
+            "ts": "1604048951.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCi9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/courses.edx.org\/courses\/course-v1:MITx+6.86x+1T2019\/course\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nМатериалы, правда, немного устаревшие+экзамены. Можно посмотреть чему учат.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kchobo13\/6.036\/tree\/master\/OldExams"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/nsuman\/6036"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nТакже у них в серии SDS стартует новый курс с 21г.. Как я понял это аналог ESL от МИТа."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603998528.067400",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "885aaa40-a86a-4fe3-87d7-5836fa3932cd",
+        "type": "message",
+        "text": "Мне курс не понравился. По поводу стоимости: попроси fin aid.",
+        "user": "U01AVDD0DP0",
+        "ts": "1604016370.074600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "524dba3b09b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-27\/1442176622103_524dba3b09b88fc0b300_72.jpg",
+            "first_name": "Yauheni",
+            "real_name": "Yauheni Kavaliou",
+            "display_name": "bu4er88",
+            "team": "T040HKJE3",
+            "name": "bu4er88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pTCsg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мне курс не понравился. По поводу стоимости: попроси fin aid."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc8a7e86-4f6b-4029-8e42-32ceca84806d",
+        "type": "message",
+        "text": "На Курсере можно видео смотреть бесплатно, ты только задания сдавать не сможешь.",
+        "user": "U262NSHCK",
+        "ts": "1604031541.074800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0e7da2cbd87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e7da2cbd87e0b63ca11ea59d9c5816b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ershov",
+            "display_name": "ea",
+            "team": "T040HKJE3",
+            "name": "ea",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVGR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На Курсере можно видео смотреть бесплатно, ты только задания сдавать не сможешь."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U013C3GM53L",
+                    "U4WGFD012",
+                    "U01DAS4T7FU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3549698d-8d20-417f-a5d0-e00562f164c3",
+        "type": "message",
+        "text": "Ещё есть тема, что во время пандемии на Курсере конкретно учащимся вузов доступ бесплатный. Узнай, есть ли в твоём такое. У меня провинциальный вуз, не МФТИ какой, но тем не менее, через представительство можно специально аккаунт зарегистрировать и куча курсов становятся доступны бесплатно с пометкой \"спонсор университет такой-то\"",
+        "user": "U9MAVHVEW",
+        "ts": "1604035651.075200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a00a87dbfeba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-01\/772578306497_a00a87dbfeba79ad5b1d_72.jpg",
+            "first_name": "",
+            "real_name": "Mikhail Makarkin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "mikhail.mak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9g9Pu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ещё есть тема, что во время пандемии на Курсере конкретно учащимся вузов доступ бесплатный. Узнай, есть ли в твоём такое. У меня провинциальный вуз, не МФТИ какой, но тем не менее, через представительство можно специально аккаунт зарегистрировать и куча курсов становятся доступны бесплатно с пометкой \"спонсор университет такой-то\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULA9M7CM9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49839313-5D99-475B-A2C6-5D24D5433837",
+        "type": "message",
+        "text": "Да, Yaser крутой, но у него все-таки разбирается широкоиспользуемая классика. А хотелось бы именно разбора вещей чуть более экзотичных: по типу тех же методов релевантных векторов, регрессии\/классификации на гауссовских процессах итд",
+        "user": "U9BDT48M8",
+        "ts": "1604040125.079000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1603998528.067400",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "b08d66e3-b579-407e-97e6-8dce6d3ca602",
+        "type": "message",
+        "text": "Можно же проходить бесплатно от тех же МФТИ курсы на степике, от deep learning school. Курсов бесплатных полно.",
+        "user": "U019GKJQGR3",
+        "ts": "1604040812.079200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6820d21b76ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434710978579_6820d21b76ee9db726c7_72.png",
+            "first_name": "",
+            "real_name": "Vladimir Gurevich",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "imvladikon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Можно же проходить бесплатно от тех же МФТИ курсы на степике, от deep learning school. Курсов бесплатных полно."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23811d69-64bf-4192-ae74-fa0ba8ad1744",
+        "type": "message",
+        "text": "<@U262NSHCK>  более того, сделав все домашки можно потом взять trial на неделю и сдать домашки и получить сертификат",
+        "user": "U019GKJQGR3",
+        "ts": "1604040903.079400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6820d21b76ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434710978579_6820d21b76ee9db726c7_72.png",
+            "first_name": "",
+            "real_name": "Vladimir Gurevich",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "imvladikon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U262NSHCK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  более того, сделав все домашки можно потом взять trial на неделю и сдать домашки и получить сертификат"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604013437.069100",
+        "parent_user_id": "U01DB9NVCB0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01DB9NVCB0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

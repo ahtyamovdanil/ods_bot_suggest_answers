@@ -1,0 +1,590 @@
+[
+    {
+        "type": "message",
+        "text": "начинали еще с врн офиса, преподавали на базе ВГУ, материал норм, но само обучение проходило слегка уныло,   выпуски 2012-2013 годы были более-менее, но следующие выпуски были так себе. Делили на группы, и там нужно было делать проекты, Делили на группы 4-6 чел, но группы постоянно разваливались. В итоге, из 5-6 человек весь проект делал 1. Ну это еще пол дела, дальше на базе ВГУ T-Systems открыл школу, и неткрекер планку входа сразу снизил, брали всех подряд - в результате обучение стало ужасным - приходили даже те, кто вообще ничего не знал даже о программировании, и таких было большинство. Кстати, выпускники 2012-13 года почти все пошли в Т-Systems. Уже о чем-то говорит. хз может это фишка только воронежского офиса :smiley:",
+        "user": "U15V81K6V",
+        "ts": "1499162546.728028",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1499162627.000000"
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "А есть подборки курсов для начинающих? Что-то я в pinned не нашёл.",
+        "user": "U5FUU47GA",
+        "ts": "1499173661.178149",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1499176408.176338",
+        "reply_users": [
+            "U4BU5BR6X",
+            "U5FUU47GA",
+            "U3T5QEDJ8"
+        ],
+        "replies": [
+            {
+                "user": "U4BU5BR6X",
+                "ts": "1499173774.217223"
+            },
+            {
+                "user": "U5FUU47GA",
+                "ts": "1499173798.225604"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1499175091.694268"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1499175109.700790"
+            },
+            {
+                "user": "U4BU5BR6X",
+                "ts": "1499175839.965919"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1499175963.012237"
+            },
+            {
+                "user": "U4BU5BR6X",
+                "ts": "1499176023.034806"
+            },
+            {
+                "user": "U5FUU47GA",
+                "ts": "1499176025.035775"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1499176168.086818"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1499176189.094344"
+            },
+            {
+                "user": "U4BU5BR6X",
+                "ts": "1499176408.176338"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "lasteg: <http:\/\/spark-in.me\/post\/learn-data-science>",
+        "user": "U4BU5BR6X",
+        "ts": "1499173774.217223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8a8886975e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239666441730_8a8886975e0a183220a4_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Veysov",
+            "display_name": "snakers41",
+            "team": "T040HKJE3",
+            "name": "snaker41",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spark in me",
+                "title": "Как научиться науке о данных (Data Science)",
+                "title_link": "http:\/\/spark-in.me\/post\/learn-data-science",
+                "text": "В статье описан подход автора к самообразованию в сфере Data Science и приведен список бесплатных онлайн курсов Статьи автора - <http:\/\/spark-in.me\/author\/snakers41> Блог - <http:\/\/spark-in.me>",
+                "fallback": "Spark in me: Как научиться науке о данных (Data Science)",
+                "image_url": "https:\/\/pics.spark-in.me\/upload\/54a44f7c6f0b81ffc3b87ca48c10ca28.jpg",
+                "ts": 1496404084,
+                "from_url": "http:\/\/spark-in.me\/post\/learn-data-science",
+                "image_width": 390,
+                "image_height": 250,
+                "image_bytes": 42980,
+                "service_icon": "https:\/\/spark-in.me\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U09JEC7V0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5FUU47GA",
+                    "U5VNM4NHJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вот ещё нашёл.\nСпасибо! \n\n<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1498152439585915>",
+        "user": "U5FUU47GA",
+        "ts": "1499173798.225604",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1498152439585915",
+                "fallback": "[June 22nd, 2017 10:27 AM] danis9yearsago: Привет. Посоветуйте, пожалуйста, курс по Data Science для новичков. Есть знания SQL, немного Python (могу написать несложный код в ~50 строк), Hadoop. Сейчас прохожу курс по статистике на Stepic. Хочется попробовать что-нибудь сделать. Не знаю с чего начать. Курсы Яндекса тяжело заходят, потому что матподготовки у меня практически нет. Хочется чего-то быстрого, без глубокого разбора, чтобы понять общую схему, а то представление вообще плохое. Сейчас приметил вот эти курсы:\n<https:\/\/www.coursera.org\/specializations\/data-analysis>\n\nСкажите, они хорошие? По описанию вроде нормальные, но может есть что-то более подходящее?",
+                "ts": "1498152439.585915",
+                "author_subname": "danis9yearsago",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Привет. Посоветуйте, пожалуйста, курс по Data Science для новичков. Есть знания SQL, немного Python (могу написать несложный код в ~50 строк), Hadoop. Сейчас прохожу курс по статистике на Stepic. Хочется попробовать что-нибудь сделать. Не знаю с чего начать. Курсы Яндекса тяжело заходят, потому что матподготовки у меня практически нет. Хочется чего-то быстрого, без глубокого разбора, чтобы понять общую схему, а то представление вообще плохое. Сейчас приметил вот эти курсы:\n<https:\/\/www.coursera.org\/specializations\/data-analysis>\n\nСкажите, они хорошие? По описанию вроде нормальные, но может есть что-то более подходящее?",
+                "author_name": "Danis Nya",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/danis9yearsago",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/1b7b309a086f6ade4f57688d277a9c8f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo\/edit#gid=0>",
+        "user": "U3T5QEDJ8",
+        "ts": "1499175091.694268",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5FUU47GA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "вероятно, там не все для начинающих, но подборка тут ходит такая.",
+        "user": "U3T5QEDJ8",
+        "ts": "1499175109.700790",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "lasteg: ну там комменты есть))",
+        "user": "U4BU5BR6X",
+        "ts": "1499175839.965919",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8a8886975e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239666441730_8a8886975e0a183220a4_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Veysov",
+            "display_name": "snakers41",
+            "team": "T040HKJE3",
+            "name": "snaker41",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "Но помни, начинающий! не топи себя в курсах, для погружения, скажем, курса от Ng и специализации МФТИ+ЯДФ будет достаточно, но ничто так не будет растить опыт и так подстегивать к самообучению, как реальные задачи :kaggle:",
+        "user": "U3T5QEDJ8",
+        "ts": "1499175963.012237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "А еще лучше реальные реальные задачи.",
+        "user": "U4BU5BR6X",
+        "ts": "1499176023.034806",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8a8886975e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239666441730_8a8886975e0a183220a4_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Veysov",
+            "display_name": "snakers41",
+            "team": "T040HKJE3",
+            "name": "snaker41",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "Из моего опыта, я считаю, что просто обязательно сразу садиться за практическую задачу, а вот уже в курсах искать их решение.",
+        "user": "U5FUU47GA",
+        "ts": "1499176025.035775",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "быстрее найти не в курсах, а в обсуждениях похожих задач на кэгле и стэке",
+        "user": "U3T5QEDJ8",
+        "ts": "1499176168.086818",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<@U4BU5BR6X> как это? ))",
+        "user": "U3T5QEDJ8",
+        "ts": "1499176189.094344",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "Это когда выбирается одна реальная задача из мира и для нее делается всё: железо датасет разметка сервера модели деплой",
+        "user": "U4BU5BR6X",
+        "ts": "1499176408.176338",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8a8886975e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239666441730_8a8886975e0a183220a4_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Veysov",
+            "display_name": "snakers41",
+            "team": "T040HKJE3",
+            "name": "snaker41",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499173661.178149",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "Кстати, новый cs231n в конце следующей недели обещают подвезти: <https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/6kxzcv\/d_when_will_the_cs231n_2017_video_lectures_be\/djpnxwg\/>",
+        "user": "U1CGKK865",
+        "ts": "1499179576.352026",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "[D] When will the CS231n 2017 video lectures be released? • r\/MachineLearning",
+                "title_link": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/6kxzcv\/d_when_will_the_cs231n_2017_video_lectures_be\/djpnxwg\/",
+                "text": "32 points and 15 comments so far on reddit",
+                "fallback": "reddit: [D] When will the CS231n 2017 video lectures be released? • r\/MachineLearning",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/6kxzcv\/d_when_will_the_cs231n_2017_video_lectures_be\/djpnxwg\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4WMPCB7W",
+                    "U0ZHCGY5T",
+                    "U53E5MFNU",
+                    "U4YMDHURY",
+                    "U2N853RGF",
+                    "U1BMURR5G",
+                    "U3UR4BKFS",
+                    "U1Z40FGQ6",
+                    "U14CTBLFJ",
+                    "U0DA4J82H",
+                    "U4DQUUTS7",
+                    "U4ZRFG1V0",
+                    "U0L4KM9R9",
+                    "U049NHC4X",
+                    "U1UBZLMKK"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "из нового обещают GAN'ы и введение в PyTorch помимо тех фреймворков, которые уже были (если не изменяет память, в прошлом году был theano, tensorflow и torch) + больше state of the art",
+        "user": "U1CGKK865",
+        "ts": "1499185738.322076",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CGKK865",
+            "ts": "1499185775.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Задания на <http:\/\/cs231n.github.io|cs231n.github.io> уже новые, кстати. И с пайторчем",
+        "user": "U18PYFC9L",
+        "ts": "1499186071.401879",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a4328b2f25a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-13\/663950566900_a4328b2f25a0a7400c1c_72.jpg",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Semyachkin",
+            "display_name": "letfoolsdie",
+            "team": "T040HKJE3",
+            "name": "mwrln",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U09NC5XLN",
+                    "U36Q9NJMD",
+                    "U1BMURR5G",
+                    "U0L4KM9R9"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Так задания на 2017 еще в мае выложили",
+        "user": "U4ZRFG1V0",
+        "ts": "1499186165.422877",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499186165.422877",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1499186228.436787",
+        "reply_users": [
+            "U18PYFC9L"
+        ],
+        "replies": [
+            {
+                "user": "U18PYFC9L",
+                "ts": "1499186228.436787"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Ну вдруг мужики не знают :idk: ",
+        "user": "U18PYFC9L",
+        "ts": "1499186228.436787",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a4328b2f25a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-13\/663950566900_a4328b2f25a0a7400c1c_72.jpg",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Semyachkin",
+            "display_name": "letfoolsdie",
+            "team": "T040HKJE3",
+            "name": "mwrln",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499186165.422877",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

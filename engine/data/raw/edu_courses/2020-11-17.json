@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "b9bec7a7-a59a-4450-bd74-bce027a49cd9",
+        "type": "message",
+        "text": "AFAIK, без знания предметной области для задач с временными рядами наверное можно добавить как фичи лаги к известным переменным, плюс праздничные дни. Все остальное идёт из понимания процесса.",
+        "user": "UF1ED121H",
+        "ts": "1605640958.004100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a61069ffbd7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-28\/813811460966_a61069ffbd7c3207a990_72.jpg",
+            "first_name": "Zaur",
+            "real_name": "Zaur Begiev",
+            "display_name": "Focus",
+            "team": "T040HKJE3",
+            "name": "zaur_beg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FafA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AFAIK, без знания предметной области для задач с временными рядами наверное можно добавить как фичи лаги к известным переменным, плюс праздничные дни. Все остальное идёт из понимания процесса."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7"
+    },
+    {
+        "client_msg_id": "61471036-83ed-4cd7-9227-40f1799c1fd7",
+        "type": "message",
+        "text": "<@U0U2ENJ4U> если бы по любым данным было пару книжек, датасаентисты были бы не нужны",
+        "user": "URV3BA571",
+        "ts": "1605678619.005500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6418c7a95e0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6418c7a95e0c4c4c0bf36c5a6fe49067.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Perturbator",
+            "real_name": "Perturbator Perturbatorovich",
+            "display_name": "perturbator",
+            "team": "T040HKJE3",
+            "name": "walkrunman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URV3BA571",
+            "ts": "1605678630.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0U2ENJ4U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " если бы по любым данным было пару книжек, датасаентисты были бы не нужны"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7",
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U6Z21KSBC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

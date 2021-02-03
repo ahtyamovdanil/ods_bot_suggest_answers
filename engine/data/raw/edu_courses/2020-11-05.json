@@ -1,0 +1,289 @@
+[
+    {
+        "client_msg_id": "9e9077dd-0de2-4b3a-8f3f-80f708e7e32f",
+        "type": "message",
+        "text": "CERN собирается прочитать \"Introduction to Quantum Computing\"\n<https:\/\/home.cern\/news\/announcement\/computing\/online-introductory-lectures-quantum-computing-6-november>\nНачинается 6 ноября",
+        "user": "U3P82LKDK",
+        "ts": "1604569785.187000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CERN",
+                "title": "Online introductory lectures on quantum computing from 6 November",
+                "title_link": "https:\/\/home.cern\/news\/announcement\/computing\/online-introductory-lectures-quantum-computing-6-november",
+                "text": "A series of weekly lectures on the basics of quantum computing will be broadcast via webcast starting 6 November 2020 at 10.30 a.m. New lectures will be broadcast each Friday of the next seven weeks. The talks will focus on the practical aspects of quantum computing and are organised by CERN openlab and the CERN Quantum Technology Initiative. They will be given by Elias Fernandez-Combarro Alvarez, an associate professor in the Computer Science Department at the University of Oviedo in Spain since 2009 and a cooperation associate at CERN since earlier this year. Quantum computing is one the most promising new trends in information processing. This course introduces basic concepts of the quantum circuit model (qubits, gates and measures) and important quantum algorithms and protocols, including those that can be implemented with a few qubits (BB84, quantum teleportation, superdense coding, etc.), as well as those that require multi-qubit systems (Deutsch-Jozsa, Grover, Shor, etc.). Some of the most recent applications of quantum computing in the fields of optimisation and simulation will be addressed (with special emphasis on the use of quantum annealing, the quantum approximate optimisation algorithm and the variational quantum eigensolver) along with quantum machine learning (for instance, through the use of quantum support vector machines and quantum variational classifiers). Examples of how these techniques can be used in chemistry simulations and high-energy physics problems will also be provided. Beyond the practical aspects of quantum computing, the course will cover the implementation of algorithms in quantum simulators and actual quantum computers (such as the ones available through the IBM Quantum Experience and D-Wave Leap). No previous knowledge of quantum physics is required and only a good command of basic linear algebra is necessary. Some familiarity with the Python programming language would be helpful, but is also not required. Individual links to each lecture are provided below. Lecture 1\/7, Friday 6 November: <https:\/\/indico.cern.ch\/event\/970903\/> Lecture 2\/7, Friday 13 November: <https:\/\/indico.cern.ch\/event\/970904\/>   Lecture 3\/7, Friday 20 November: <https:\/\/indico.cern.ch\/event\/970905\/> Lecture 4\/7, Friday 27 November: <https:\/\/indico.cern.ch\/event\/970906\/> Lecture 5\/7, Friday 4 December: <https:\/\/indico.cern.ch\/event\/970907\/> Lecture 6\/7, Friday 11 December: <https:\/\/indico.cern.ch\/event\/970908\/> Lecture 7\/7, Friday 18 December: <https:\/\/indico.cern.ch\/event\/970909\/>",
+                "fallback": "CERN: Online introductory lectures on quantum computing from 6 November",
+                "image_url": "https:\/\/cds.cern.ch\/images\/CERN-CO-1008294-02\/file?size=large",
+                "from_url": "https:\/\/home.cern\/news\/announcement\/computing\/online-introductory-lectures-quantum-computing-6-november",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 465726,
+                "service_icon": "https:\/\/home.cern\/sites\/home.web.cern.ch\/themes\/custom\/cernpublic\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/home.cern\/news\/announcement\/computing\/online-introductory-lectures-quantum-computing-6-november"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CERN собирается прочитать \"Introduction to Quantum Computing\"\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/home.cern\/news\/announcement\/computing\/online-introductory-lectures-quantum-computing-6-november"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nНачинается 6 ноября"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "quantum",
+                "users": [
+                    "U7SFPUVQF",
+                    "UB4F4DZGV",
+                    "UQRH33GM8",
+                    "UELA14HSS",
+                    "UHSBA8F35",
+                    "U01A0Q7KT62"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U7SFPUVQF",
+                    "U1UNFRQ1K",
+                    "UQRH33GM8",
+                    "UELA14HSS",
+                    "UPAT6FM3N",
+                    "UHSBA8F35",
+                    "U5XV8RXBM"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U7SFPUVQF",
+                    "UQRH33GM8",
+                    "UELA14HSS",
+                    "URFHG8KDF",
+                    "UPAT6FM3N",
+                    "UHSBA8F35",
+                    "UTB85ATA5",
+                    "UPBMWP7FF",
+                    "U01DAS4T7FU"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d233505-6f4d-4de7-b779-f12a6a40c196",
+        "type": "message",
+        "text": "Джентельмены! А не попадалось ли вам хороших туториалов по *Makefile*'ам?\nЧтобы прям именно туториалов, на конкретных примерах?\nА то сколько лет с ними встречаюсь встречаю, а понимание -- на уровне \"поменять значение переменной и молиться, чтобы сработало\".",
+        "user": "U50FY1AG6",
+        "ts": "1604570784.190700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ff9e4d2371a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-19\/214760058354_ff9e4d2371a5d20508fe_72.gif",
+            "first_name": "Alexey",
+            "real_name": "Alexey",
+            "display_name": "kitekat",
+            "team": "T040HKJE3",
+            "name": "kitekat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U50FY1AG6",
+            "ts": "1604571166.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQhC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Джентельмены! А не попадалось ли вам хороших туториалов по "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Makefile",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "'ам?\nЧтобы прям именно туториалов, на конкретных примерах?\nА то сколько лет с ними встречаюсь встречаю, а понимание -- на уровне \"поменять значение переменной и молиться, чтобы сработало\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604570784.190700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1604670970.200200",
+        "reply_users": [
+            "UGRFZ1DS5",
+            "U70TZK6Q3"
+        ],
+        "replies": [
+            {
+                "user": "UGRFZ1DS5",
+                "ts": "1604573540.191300"
+            },
+            {
+                "user": "U70TZK6Q3",
+                "ts": "1604670970.200200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "triggered",
+                "users": [
+                    "UMM4N60K1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b635decd-7fb3-446c-a411-5f86aa3bf810",
+        "type": "message",
+        "text": "В свое время мне помог разобраться мануал <https:\/\/www.gnu.org\/software\/make\/manual\/make.html>",
+        "user": "UGRFZ1DS5",
+        "ts": "1604573540.191300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "42403a2a90ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-18\/577729391056_42403a2a90ca65728597_72.jpg",
+            "first_name": "sheregeda",
+            "real_name": "sheregeda",
+            "display_name": "sheregeda",
+            "team": "T040HKJE3",
+            "name": "ns.sheregeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGRFZ1DS5",
+            "ts": "1604573545.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tg=8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В свое время мне помог разобраться мануал "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gnu.org\/software\/make\/manual\/make.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604570784.190700",
+        "parent_user_id": "U50FY1AG6",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "UA92L7ACC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40c04177-5e66-4cb3-b115-00c6f9aa177a",
+        "type": "message",
+        "text": "нет, не начала. Но постараюсь таки найти силу воли стать  морской свинкой первого эксперимента :slightly_smiling_face:",
+        "user": "U1UV86WJU",
+        "ts": "1604611504.199100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7KiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "нет, не начала. Но постараюсь таки найти силу воли стать  морской свинкой первого эксперимента "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604518378.175700",
+        "parent_user_id": "U1UV86WJU"
+    }
+]

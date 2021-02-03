@@ -1,0 +1,265 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494918823.982437",
+        "user": "U5EPMSLLE",
+        "text": "<@U5EPMSLLE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494920812.368918",
+        "user": "U5DTMCCUB",
+        "text": "<@U5DTMCCUB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494922867.826236",
+        "user": "U5DTY0WBD",
+        "text": "<@U5DTY0WBD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Я платил за Хинтона и за PGM, в целом того стоит, но контент (особенно за деньги) не идеален. С другой стороны это одни из немногих специализированных и хоть немного углубленных курсов на курсэра по машинному обучению.",
+        "user": "U0SBLSTJ4",
+        "ts": "1494941898.395216",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0SBLSTJ4",
+            "ts": "1494941923.000000"
+        },
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.datacamp.com\/promo\/one-million>",
+        "user": "U47F2RC9J",
+        "ts": "1494947154.513449",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74521d058227",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-25\/146474411266_74521d058227041fa61a_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Komarov",
+            "display_name": "komarovma",
+            "team": "T040HKJE3",
+            "name": "komarovma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494948531.086900",
+        "user": "U5F07FB5M",
+        "text": "<@U5F07FB5M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Вы или ваши друзья брали курс по Java от Javarush? <https:\/\/javarush.ru>\n\nКакие впечатления? Я братану смотрю, у него пока с английским не очень.\nСпасибо. ",
+        "user": "U14CTBLFJ",
+        "ts": "1494957492.424564",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1494957638.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Javarush",
+                "title": "Выбор подписки",
+                "title_link": "https:\/\/javarush.ru\/prices",
+                "text": "Побписки: Бесплатная, Premium, Premium Pro. Первые 10 уровней (квест Java Syntax) доступны бесплатно, остальные квесты доступны при наличии подписки",
+                "fallback": "Javarush: Выбор подписки",
+                "thumb_url": "https:\/\/javarush.ru\/images\/share\/price.jpg",
+                "from_url": "https:\/\/javarush.ru\/prices",
+                "thumb_width": 800,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/javarush.ru\/images\/favicon\/apple-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1494957492.424564",
+        "reply_count": 10,
+        "reply_users_count": 6,
+        "latest_reply": "1496038478.155298",
+        "reply_users": [
+            "U0J1U64FK",
+            "U14CTBLFJ",
+            "U0DA4J82H",
+            "U2ACFHQF2",
+            "U448J59RB",
+            "U459QGLVD"
+        ],
+        "replies": [
+            {
+                "user": "U0J1U64FK",
+                "ts": "1494957641.483342"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1494957683.499674"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1494957939.594062"
+            },
+            {
+                "user": "U2ACFHQF2",
+                "ts": "1494975178.860949"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1495010729.841384"
+            },
+            {
+                "user": "U448J59RB",
+                "ts": "1495180510.135511"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1495182498.565079"
+            },
+            {
+                "user": "U448J59RB",
+                "ts": "1495188288.894300"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1495188730.988365"
+            },
+            {
+                "user": "U459QGLVD",
+                "ts": "1496038478.155298"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "artem: <http:\/\/hexlet.io|hexlet.io> смотрел?",
+        "user": "U0J1U64FK",
+        "ts": "1494957641.483342",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d094b0fd852f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-04\/1477399666882_d094b0fd852f8fd572fd_72.png",
+            "first_name": "omnislash",
+            "real_name": "omnislash",
+            "display_name": "omnislash",
+            "team": "T040HKJE3",
+            "name": "vadim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "О, точно, надо, спасибо) Он пока смотрит Якова Фэйна на Ютубе.",
+        "user": "U14CTBLFJ",
+        "ts": "1494957683.499674",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "слышал как положительные, так и отрицательные отзывы про javarush, так что надо пробовать и смотреть самому, как пойдет",
+        "user": "U0DA4J82H",
+        "ts": "1494957939.594062",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494962069.077059",
+        "user": "U5DJQ3W64",
+        "text": "<@U5DJQ3W64> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Мой коллега проходит <http:\/\/otus.ru\/> говорит, что очень нравится и полезно.",
+        "user": "U2ACFHQF2",
+        "ts": "1494975178.860949",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "693e924aeceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/351118369186_693e924aeceb963fe8ad_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Zhdanovich",
+            "display_name": "kiryl",
+            "team": "T040HKJE3",
+            "name": "kiryl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    }
+]

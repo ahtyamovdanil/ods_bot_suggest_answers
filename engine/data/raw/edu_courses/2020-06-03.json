@@ -1,0 +1,492 @@
+[
+    {
+        "client_msg_id": "a9f24fb0-7269-4703-83af-8750c1e9f4ec",
+        "type": "message",
+        "text": "Всем привет! Где бы можно почитать про TensorBoard, чтобы разобраться в Histograms, Distribution e.t.c, чтобы это приносило пользу при обучении модели, а не  просто выглядело красиво?))) Спасибо!",
+        "user": "UPXF90USE",
+        "ts": "1591168014.299400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g997f392a692",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/997f392a69208782bc11ec6577de4e55.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii",
+            "display_name": "Oleg",
+            "team": "T040HKJE3",
+            "name": "mazurok007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y39ot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Где бы можно почитать про TensorBoard, чтобы разобраться в Histograms, Distribution e.t.c, чтобы это приносило пользу при обучении модели, а не  просто выглядело красиво?))) Спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168014.299400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1591179775.300100",
+        "reply_users": [
+            "UJ2PZ7Y6M"
+        ],
+        "replies": [
+            {
+                "user": "UJ2PZ7Y6M",
+                "ts": "1591179775.300100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9V48C738",
+                    "U8PMZ6397"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "UJ2PZ7Y6M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03bc9745-9f75-42ec-9e38-3213159d0ffc",
+        "type": "message",
+        "text": "Хороший вопрос! Ничего такого не встречал хотя искал, пока что у меня единственный тип проблемы когда помогают histograms, distributions весов\/градиентов, это когда численные проблемы какие-то есть, и можно увидеть там что веса или сильно увеличиваются или сильно уменьшаются в процессе оптимизации, и потом вылазит NaN.\n\nДля того чтобы тречить что-то связанное с предиктами \/ метриками \/ интересными отдельными датапоинтами мне кажется куда лучше рисовать в matplotlib плот какой хочешь, и пихать его как image. Например 5 worst preds, 5 best preds, 5 random preds. Можно немало проблем с данными так поймать, или какие-то обнаружить нездоровые тенденции.",
+        "user": "UJ2PZ7Y6M",
+        "ts": "1591179775.300100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "87b3e9c63f86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/987402987376_87b3e9c63f868182e897_72.jpg",
+            "first_name": "Ilia",
+            "real_name": "Ilia Krets",
+            "display_name": "Ilia Krets",
+            "team": "T040HKJE3",
+            "name": "mrchair2170",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZ7he",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хороший вопрос! Ничего такого не встречал хотя искал, пока что у меня единственный тип проблемы когда помогают histograms, distributions весов\/градиентов, это когда численные проблемы какие-то есть, и можно увидеть там что веса или сильно увеличиваются или сильно уменьшаются в процессе оптимизации, и потом вылазит NaN.\n\nДля того чтобы тречить что-то связанное с предиктами \/ метриками \/ интересными отдельными датапоинтами мне кажется куда лучше рисовать в matplotlib плот какой хочешь, и пихать его как image. Например 5 worst preds, 5 best preds, 5 random preds. Можно немало проблем с данными так поймать, или какие-то обнаружить нездоровые тенденции."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168014.299400",
+        "parent_user_id": "UPXF90USE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPXF90USE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Где можно почитать про собеседования и устройство на работу джунам? Меня эта тема интересует, пока такого не нашел кроме пары сообщений тут :)",
+        "user": "U013PPV77PS",
+        "ts": "1591183323.300500",
+        "thread_ts": "1590835270.224400",
+        "root": {
+            "client_msg_id": "9387fed1-a5a2-4c9d-9492-ebfa6d60a537",
+            "type": "message",
+            "text": "Привет!\nПрошу совета от опытных.\nСоставил себе план жизни до конца этого года, но вообще не понимаю про его реальность и эффективность.\nХочу во второй половине лета попасть на стажировку в ML, осенью получить работу junior ML-engineer (не уверен, что ML-engineer бывает junior))).\nРеален ли такой план вообще? Что можно докрутить?\nBackground: базовое образование — физик. Сейчас IT-директор. Для себя писал автоматизацию на VBA, SQL, Python, Pandas, Numpy. Английский свободный.\nПрофессионального опыта программиста нет.\nВзял 2-хлетний курс по Data Science не скажу где, ибо не нравится. За 3 недели прошел 5 месяцев программы в режиме 4\/7, но думаю поменять программу.\nСмотрю на <https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis|Машинное обучение и анализ данных Specialization> на Coursera, они оценивают программу в 240 часов. Я с сегодняшнего дня перехожу на режим обучения 12\/7. Со всеми перекурами планирую проскочить программу за месяц-два и в июле начать искать стажировки, потом — работу.\nPS если канал не тот, то подскажите куда с этим вопросом, плз.\nPPS курс Andrew Ng на Coursera отложил, т.к. он на Octave &amp; Matlab, а мне Python практиковать надо.",
+            "user": "U014VNCM4JC",
+            "ts": "1590835270.224400",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "service_name": "Coursera",
+                    "title": "Машинное обучение и анализ данных",
+                    "title_link": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                    "text": "Offered by Moscow Institute of Physics and Technology. Мы покажем, как проходит полный цикл анализа, от сбора данных до выбора оптимального решения и оценки его качества. Вы научитесь пользоваться современными аналитическими инструментами и адаптировать их под особенности конкретных задач. В рамках специализации вы освоите основные темы, необходимые в работе с большим массивом данных, в т.ч. современные методы классификации и регрессии, поиск структуры в данных, проведение экспериментов, построение выводов, базовая фундаментальная математика, основы программирования на Python. Мы разберём, как построить рекомендательную систему, оценить эмоциональную окраску текста, спрогнозировать спрос на товар, оценить вероятность клика по рекламе и т.д. В финале вам потребуется выполнить проект собственной системы, решающей любую актуальную для бизнеса задачу. Результатом будет наглядная работающая модель, которую вы сможете использовать в вашей повседневной работе или продемонстрировать на собеседовании. Все, прошедшие специализацию, могут принять участие в Программе трудоустройства. Если вы заинтересованы в новых проектах, новых перспективах и возможностях - пройдите обучение по Специализации и подайте заявку.",
+                    "fallback": "Coursera: Машинное обучение и анализ данных",
+                    "image_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                    "from_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 278328,
+                    "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Xk0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Привет!\nПрошу совета от опытных.\nСоставил себе план жизни до конца этого года, но вообще не понимаю про его реальность и эффективность.\nХочу во второй половине лета попасть на стажировку в ML, осенью получить работу junior ML-engineer (не уверен, что ML-engineer бывает junior))).\nРеален ли такой план вообще? Что можно докрутить?\nBackground: базовое образование — физик. Сейчас IT-директор. Для себя писал автоматизацию на VBA, SQL, Python, Pandas, Numpy. Английский свободный.\nПрофессионального опыта программиста нет.\nВзял 2-хлетний курс по Data Science не скажу где, ибо не нравится. За 3 недели прошел 5 месяцев программы в режиме 4\/7, но думаю поменять программу.\nСмотрю на "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                                    "text": "Машинное обучение и анализ данных Specialization"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " на Coursera, они оценивают программу в 240 часов. Я с сегодняшнего дня перехожу на режим обучения 12\/7. Со всеми перекурами планирую проскочить программу за месяц-два и в июле начать искать стажировки, потом — работу.\nPS если канал не тот, то подскажите куда с этим вопросом, плз.\nPPS курс Andrew Ng на Coursera отложил, т.к. он на Octave & Matlab, а мне Python практиковать надо."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1590835270.224400",
+            "reply_count": 43,
+            "reply_users_count": 14,
+            "latest_reply": "1593768990.198000",
+            "reply_users": [
+                "U2N853RGF",
+                "U33G91CMV",
+                "UHY5KKK6D",
+                "U014VNCM4JC",
+                "UGF8L176H",
+                "URJ5P92N5",
+                "U0U2ENJ4U",
+                "U012XB25GDV",
+                "URQATE4CR",
+                "U7N4E8GBF",
+                "U013PPV77PS",
+                "U012K713DSB",
+                "UUWNN05EK",
+                "U60EETE7N"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eldx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Где можно почитать про собеседования и устройство на работу джунам? Меня эта тема интересует, пока такого не нашел кроме пары сообщений тут :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f0d55c49-4952-4fca-8f01-90297648e50b"
+    },
+    {
+        "client_msg_id": "31869ebd-b469-4f9d-9756-a96dea840ea3",
+        "type": "message",
+        "text": "Имхо норм набор курсов. Мб кому-то полезно будет, если тяжко самому решить, что учить\n<https:\/\/www.mihaileric.com\/posts\/complete-artificial-intelligence-undergraduate-course-plan\/>",
+        "user": "U786EB23G",
+        "ts": "1591185010.301500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dee5186d927b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/989960295280_dee5186d927bf97b59bd_72.png",
+            "first_name": "Nodari",
+            "real_name": "Nodari Lipartiya",
+            "display_name": "Nodar",
+            "team": "T040HKJE3",
+            "name": "nodari.lipartiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "A Complete 4-Year Course Plan for an Artificial Intelligence Undergraduate Degree - Mihail Eric",
+                "title_link": "https:\/\/www.mihaileric.com\/posts\/complete-artificial-intelligence-undergraduate-course-plan\/",
+                "text": "I describe in-depth the courses necessary for a 4-year undergraduate degree in artificial intelligence, assuming you step onto campus tomorrow.",
+                "fallback": "A Complete 4-Year Course Plan for an Artificial Intelligence Undergraduate Degree - Mihail Eric",
+                "from_url": "https:\/\/www.mihaileric.com\/posts\/complete-artificial-intelligence-undergraduate-course-plan\/",
+                "service_icon": "https:\/\/www.mihaileric.com\/static\/favicon.64d552ee.ico",
+                "service_name": "mihaileric.com",
+                "id": 1,
+                "original_url": "https:\/\/www.mihaileric.com\/posts\/complete-artificial-intelligence-undergraduate-course-plan\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L812G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Имхо норм набор курсов. Мб кому-то полезно будет, если тяжко самому решить, что учить\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mihaileric.com\/posts\/complete-artificial-intelligence-undergraduate-course-plan\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012K62CDQT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80f24646-12fc-4368-be9b-3609958f0b96",
+        "type": "message",
+        "text": "Привет!\nТут год или два назад скидывали курс по image processing на чистом С. Потерял, не могу найти: может, кто-то знает, как он называется?",
+        "user": "U7F560VE1",
+        "ts": "1591228395.304500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfbbb0ccca3c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbbb0ccca3c6c0f8df42f48d94fc8fe3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey",
+            "display_name": "andreqwert",
+            "team": "T040HKJE3",
+            "name": "timebird",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет!\nТут год или два назад скидывали курс по image processing на чистом С. Потерял, не могу найти: может, кто-то знает, как он называется?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591228395.304500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1591229289.304900",
+        "reply_users": [
+            "U53E5MFNU"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1591229234.304600"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1591229289.304900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2783f50e-b40f-4263-a8b3-8d5723c5ad6f",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1550044960069400>",
+        "user": "U53E5MFNU",
+        "ts": "1591229234.304600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1550044960069400",
+                "fallback": "[February 13th, 2019 12:02 AM] vvmandroid: Вроде еще не постили: <https:\/\/pjreddie.com\/courses\/computer-vision\/>\nКурс по CV от авторов YOLO и Darknet, читался в 2018 at the University of Washington. Домашки на C! :hugging_face:",
+                "ts": "1550044960.069400",
+                "author_id": "UEAGMMV3K",
+                "author_subname": "Vova",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Вроде еще не постили: <https:\/\/pjreddie.com\/courses\/computer-vision\/>\nКурс по CV от авторов YOLO и Darknet, читался в 2018 at the University of Washington. Домашки на C! :hugging_face:",
+                "author_name": "Vova",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UEAGMMV3K",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-01-09\/519622773235_6e4c7a71bf80fbfa0007_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1550044960069400",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "74Ee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1550044960069400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591228395.304500",
+        "parent_user_id": "U7F560VE1",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U7F560VE1",
+                    "UNFTX1XT9",
+                    "UQCMBBS9W",
+                    "UNQQ84PUG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U7F560VE1",
+                    "UNFTX1XT9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0edeb94-f162-46cc-ab9c-83641e26363a",
+        "type": "message",
+        "text": "есть еще одна страница этого курса <https:\/\/courses.cs.washington.edu\/courses\/cse455\/18sp\/>",
+        "user": "U53E5MFNU",
+        "ts": "1591229289.304900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1591229354.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TN=tp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "есть еще одна страница этого курса "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/courses.cs.washington.edu\/courses\/cse455\/18sp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591228395.304500",
+        "parent_user_id": "U7F560VE1",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U7F560VE1",
+                    "UNFTX1XT9",
+                    "U7VFY2DUM",
+                    "UNQQ84PUG",
+                    "U1BMURR5G",
+                    "ULMML7Z5K"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U7F560VE1",
+                    "UNFTX1XT9",
+                    "ULMML7Z5K"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

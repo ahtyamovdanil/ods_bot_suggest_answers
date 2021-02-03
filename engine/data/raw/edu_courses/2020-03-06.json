@@ -1,0 +1,332 @@
+[
+    {
+        "client_msg_id": "9bdf2935-f6eb-4c83-b635-2098ac3d63eb",
+        "type": "message",
+        "text": "there is fpp3 already - <https:\/\/otexts.com\/fpp3\/>",
+        "user": "UHR5Q170B",
+        "ts": "1583485807.292100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf2286686abc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bbf2286686abc98df96edc1d51aebfc7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Misha",
+            "real_name": "Misha",
+            "display_name": "Misha",
+            "team": "T040HKJE3",
+            "name": "mikhail.balyasin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Forecasting: Principles and Practice",
+                "title_link": "https:\/\/otexts.com\/fpp3\/",
+                "text": "3rd edition",
+                "fallback": "Forecasting: Principles and Practice",
+                "from_url": "https:\/\/otexts.com\/fpp3\/",
+                "service_icon": "https:\/\/otexts.com\/favicon.ico",
+                "service_name": "otexts.com",
+                "id": 1,
+                "original_url": "https:\/\/otexts.com\/fpp3\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nr1M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there is fpp3 already - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/otexts.com\/fpp3\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583446515.287900",
+        "parent_user_id": "UUY2DGQ9J",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71JW8JHE",
+                    "U2ZAVPXND"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d029a67-a9d1-4150-bc59-87385e2337f5",
+        "type": "message",
+        "text": "<@URG5JTMSL>: <http:\/\/mitxds.slack.com|mitxds.slack.com>, могу выслать приглашение, если оставите свою почту (можно в личные сообщения)",
+        "user": "UCMC5J36D",
+        "ts": "1583488378.292400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EY1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URG5JTMSL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mitxds.slack.com",
+                                "text": "mitxds.slack.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", могу выслать приглашение, если оставите свою почту (можно в личные сообщения)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583364102.204100",
+        "parent_user_id": "URG5JTMSL",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "URG5JTMSL",
+                    "U4YEK80R1",
+                    "UESD31MJ5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e328004-959f-46ea-be6b-c035ccb58528",
+        "type": "message",
+        "text": "Thanks, I will start with otexts.",
+        "user": "UUY2DGQ9J",
+        "ts": "1583521794.299200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5e3e540a5ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e3e540a5ee5c409fe11c3e0104ee21f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Karan Chhabra",
+            "display_name": "Karan Chhabra",
+            "team": "T040HKJE3",
+            "name": "karanc2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFqYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, I will start with otexts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583446515.287900",
+        "parent_user_id": "UUY2DGQ9J"
+    },
+    {
+        "client_msg_id": "4260398b-75dd-4707-98e6-94ca09aa52ee",
+        "type": "message",
+        "text": "<@UBZ2BHKPZ> а вы проходите курс у них?",
+        "user": "U7F82BSSJ",
+        "ts": "1583541304.299400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b420f7f9cb77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-24\/920682975397_b420f7f9cb77b5de18bc_72.jpg",
+            "first_name": "Akbar",
+            "real_name": "Akbar Akhverdov",
+            "display_name": "MacJei",
+            "team": "T040HKJE3",
+            "name": "a.ahverdov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6G9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UBZ2BHKPZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а вы проходите курс у них?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1558409562.362300",
+        "parent_user_id": "UHJKEC3KQ"
+    },
+    {
+        "client_msg_id": "6a9492b5-f868-4c85-87be-c945fcda3d9f",
+        "type": "message",
+        "text": "В свете последних событий, может быть актуально, крутой курс по вирусологии от классного профессора из колумбийского университета. <https:\/\/www.youtube.com\/watch?v=lj3NhPgOoX4&amp;list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip&amp;index=12> Эти записи совсем свежие. Недавно даже его Андрей Карпатый у себя в твитере отметил.\nРаньше этот курс на курсере делали, но потом убрали. Кто хочет поглубже, есть двухтомник сопровождающий Principles of Virology. Есть еще сайт, но он не часто обновляется <http:\/\/www.virology.ws\/course\/ю|http:\/\/www.virology.ws\/course\/> . Первые две лекции рекомендую всем, для общего представления, для остальных надо неплохо знать школьную программу по биологии",
+        "user": "U53E5MFNU",
+        "ts": "1583557435.304300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1583557600.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Virology Lectures 2020 #11: The Infected Cell",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VVhwrES4CjA",
+                "author_name": "Vincent Racaniello",
+                "author_link": "https:\/\/www.youtube.com\/user\/profvrr",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VVhwrES4CjA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Virology Lectures 2020 #11: The Infected Cell",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VVhwrES4CjA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VVhwrES4CjA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VVhwrES4CjA&amp;list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В свете последних событий, может быть актуально, крутой курс по вирусологии от классного профессора из колумбийского университета. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=lj3NhPgOoX4&list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip&index=12"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Эти записи совсем свежие. Недавно даже его Андрей Карпатый у себя в твитере отметил.\nРаньше этот курс на курсере делали, но потом убрали. Кто хочет поглубже, есть двухтомник сопровождающий Principles of Virology. Есть еще сайт, но он не часто обновляется "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.virology.ws\/course\/ю",
+                                "text": "http:\/\/www.virology.ws\/course\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Первые две лекции рекомендую всем, для общего представления, для остальных надо неплохо знать школьную программу по биологии"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UB4BD0R6W",
+                    "U9MAVHVEW",
+                    "UFVDU2FJP",
+                    "UCMC5J36D",
+                    "U3R32B38W",
+                    "UDK41MN5U",
+                    "UASGXRLU9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U74DLUWUC",
+                    "U71R6PJ73",
+                    "U3R32B38W",
+                    "URCGB191S",
+                    "U41LBNH6J",
+                    "U4DT019M2",
+                    "UASGXRLU9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U2AML8LEB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

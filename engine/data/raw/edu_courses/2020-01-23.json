@@ -1,0 +1,169 @@
+[
+    {
+        "client_msg_id": "937a4011-9470-45b7-9e33-7ee70283d017",
+        "type": "message",
+        "text": "В humblebundle сейчас доступен набор курсов по DS\/ML от Pluralsight. Из особенностей - в роликах есть сносные субтитры на русском. Качество самих материалов пока не смотрел.\n\n<https:\/\/www.humblebundle.com\/software\/data-science-and-machine-learning-software>",
+        "user": "UDA1RU43Y",
+        "ts": "1579799659.003700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "453473b4e6fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/708359271798_453473b4e6fe71d19559_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Shkarin",
+            "display_name": "Kouki",
+            "team": "T040HKJE3",
+            "name": "kouki.sergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Humble Bundle",
+                "title": "Humble Data Science &amp; Machine Learning Bundle",
+                "title_link": "https:\/\/www.humblebundle.com\/software\/data-science-and-machine-learning-software",
+                "text": "Pay what you want for online courses and support charity!",
+                "fallback": "Humble Bundle: Humble Data Science &amp; Machine Learning Bundle",
+                "image_url": "https:\/\/hb.imgix.net\/26861a02cca5a701e91ad8d6b4299a0b2cbcf09b.png?auto=compress,format&h=630&w=1200&s=635993803f8bdef9280bb21a3e205eff",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.humblebundle.com\/software\/data-science-and-machine-learning-software",
+                "image_bytes": 99514,
+                "service_icon": "https:\/\/humblebundle-a.akamaihd.net\/static\/hashed\/03df0490a53d595fd930f9fff52038366d60a05d.png",
+                "id": 1,
+                "original_url": "https:\/\/www.humblebundle.com\/software\/data-science-and-machine-learning-software"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В humblebundle сейчас доступен набор курсов по DS\/ML от Pluralsight. Из особенностей - в роликах есть сносные субтитры на русском. Качество самих материалов пока не смотрел.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.humblebundle.com\/software\/data-science-and-machine-learning-software"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579799659.003700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1579803359.004900",
+        "reply_users": [
+            "UCKTJQG9K",
+            "UDA1RU43Y"
+        ],
+        "replies": [
+            {
+                "user": "UCKTJQG9K",
+                "ts": "1579803168.004700"
+            },
+            {
+                "user": "UDA1RU43Y",
+                "ts": "1579803359.004900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "but_why",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f0a6d58-d2a4-4ece-ba3d-1595fc1dae31",
+        "type": "message",
+        "text": "Pluralsight же г***ще?",
+        "user": "UCKTJQG9K",
+        "ts": "1579803168.004700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g89a9e119a4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd89a9e119a4aeea00d90026998d6994.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Petr Kungurtsev",
+            "display_name": "corwin",
+            "team": "T040HKJE3",
+            "name": "pk456",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ntbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pluralsight же г***ще?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579799659.003700",
+        "parent_user_id": "UDA1RU43Y"
+    },
+    {
+        "client_msg_id": "5f12019e-589c-4a2d-90e6-307fa389ee00",
+        "type": "message",
+        "text": "Ну что-то на уровне Udemy, но есть интересные материалы по не очень популярным на других платформах темам.",
+        "user": "UDA1RU43Y",
+        "ts": "1579803359.004900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "453473b4e6fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/708359271798_453473b4e6fe71d19559_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Shkarin",
+            "display_name": "Kouki",
+            "team": "T040HKJE3",
+            "name": "kouki.sergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kS320",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну что-то на уровне Udemy, но есть интересные материалы по не очень популярным на других платформах темам."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579799659.003700",
+        "parent_user_id": "UDA1RU43Y"
+    }
+]

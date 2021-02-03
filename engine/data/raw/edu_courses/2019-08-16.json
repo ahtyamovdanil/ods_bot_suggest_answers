@@ -1,0 +1,751 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Тогда тоже воспользуюсь случаем и задам вопрос. А может кто знает еще и курсы по дискретной оптимизации? Из того что видел был вводный на курсере (ничего нового, курс для школьников скорее) и курс на datacamp (как и все на ресурсе он для автоматизма и по принципу \"повторяй за мной\"). Из книжек я находил лишь какие-то реально лютые академичные штуки. А мне бы попрроще все эти методы внутренних точек, многомерных конусов и тд, желательно с упором в индустрию. У меня просто уже спрашивали комбинаторную оптимизацию на собесах, я много ее приложений вижу на текущей работе, но все мои познания пока ограничены чем-то типа \"ну придумаем функцию потерь и запихнем в гуроби\/oj-algo\/gnu linear programming kit\/..., они умные, они справятся\". Хочется больше понимания вопроса. Спасибо!",
+        "user": "U7SFPUVQF",
+        "ts": "1565939157.360200",
+        "thread_ts": "1565891168.352700",
+        "root": {
+            "client_msg_id": "C6C3BB0C-FE3D-45CD-A476-7355A4351B26",
+            "type": "message",
+            "text": "Господа, а не подскажете ли какой-нибудь доступный с точки зрения понимания (общие знания математики уровня 2го курса экономического универа) курс по методам оптимизации. Не требую какого-то сверхглубокого погружения в тему, но хотелось бы чтоб рассматривались различные вариации градиентного спуска (по типу проксимального метода и иже с ним, дабы потом не возникали вопросы, почему L1 зануляет веса), LBFGS, а также подробнее рассматривались генетические алгоритмы, отжиг и т.д.. Заранее большое спасибо.",
+            "user": "U9BDT48M8",
+            "ts": "1565891168.352700",
+            "team": "T040HKJE3",
+            "edited": {
+                "user": "U9BDT48M8",
+                "ts": "1565891291.000000"
+            },
+            "thread_ts": "1565891168.352700",
+            "reply_count": 19,
+            "reply_users_count": 13,
+            "latest_reply": "1566026521.375800",
+            "reply_users": [
+                "U0AD1L5NC",
+                "UCKTJQG9K",
+                "UCMC5J36D",
+                "UM38D44GY",
+                "U9BHTK5V1",
+                "U7SFPUVQF",
+                "U4BFBQHBQ",
+                "U4Z9Q18QH",
+                "UGF8L176H",
+                "U9BDT48M8",
+                "U5GCU82HX",
+                "U2NULEB4K",
+                "UBN4W9VTM"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "6b93f964-596f-4158-b38d-9dadb55d0bec"
+    },
+    {
+        "client_msg_id": "ea4f8f7e-6a63-48a9-84dd-420e724b162a",
+        "type": "message",
+        "text": "На edx есть курс Analytics Edge там одна неделя посвящена оптимизации с заданиями.",
+        "user": "U4BFBQHBQ",
+        "ts": "1565943749.362900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9088ed5caf4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/039088ed5caf4d3ab5e79db0889cefc0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Artjom",
+            "real_name": "Artjom Kor",
+            "display_name": "raisefamous",
+            "team": "T040HKJE3",
+            "name": "raisefamous",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "4d3dc9df-e084-4058-8b67-0dce16c993fe",
+        "type": "message",
+        "text": "у стенфорда есть онлайн курс\n<https:\/\/lagunita.stanford.edu\/courses\/Engineering\/CVX101\/Winter2014\/about>",
+        "user": "U4Z9Q18QH",
+        "ts": "1565945763.363200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Convex Optimization",
+                "title_link": "https:\/\/lagunita.stanford.edu\/courses\/Engineering\/CVX101\/Winter2014\/about",
+                "text": "A graduate level course on convex optimization, with applications in signal processing, machine learning, control, finance, and other areas.",
+                "fallback": "Convex Optimization",
+                "from_url": "https:\/\/lagunita.stanford.edu\/courses\/Engineering\/CVX101\/Winter2014\/about",
+                "service_icon": "https:\/\/lagunita.stanford.edu\/static\/lagunita\/images\/favicon.e5d8e474e88d.ico",
+                "service_name": "lagunita.stanford.edu",
+                "id": 1,
+                "original_url": "https:\/\/lagunita.stanford.edu\/courses\/Engineering\/CVX101\/Winter2014\/about"
+            }
+        ],
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "26a41ada-7b8d-41d4-938f-a7c8639e9678",
+        "type": "message",
+        "text": "Всем привет.\nА какие есть хорошие курсы\/книжки\/видео\/блоги\/whatever на тему использования ML в продакшене?\nПро flask, про docker, про какие-то другие подходы; м.б. про airflow\/luigi; про то, как заново обучать модель на новых данных (и как часто надо это делать); сохранять ли модель в pickle или лучше как-то иначе; как мониторить качество; unit-тесты применимо к ML; принимать ли данные на вход в json или лучше из самого сервиса обращаться к источнику даннных; как лучше подружить sklearn-модель со Спарком, если данные в hdfs и т.д. и т.п.\nВ идеале - на конкретных примерах, и именно в контексте ML (т.е. не просто курс про docker, например).\nПро \"Веб-сервисы для Дата Саентиста\" на youtube знаю. Вот, что-нибудь бы такое, но более широкое и проработанное.",
+        "user": "U977SGE59",
+        "ts": "1565947045.363700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "79a273e5841c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-27\/354442453250_79a273e5841c5961a399_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Samsonov",
+            "display_name": "mvsamsonov",
+            "team": "T040HKJE3",
+            "name": "mvsamsonov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565947045.363700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1565980391.370900",
+        "reply_users": [
+            "U0ZJSC8JC",
+            "U3PETUSSE",
+            "UBJ10K86A"
+        ],
+        "replies": [
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1565947084.363800"
+            },
+            {
+                "user": "U3PETUSSE",
+                "ts": "1565950471.368500"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1565980378.370600"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1565980391.370900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U4X5JVCQ0",
+                    "UDRVCKGU8",
+                    "U48AEED1D",
+                    "UC7DFDJUA",
+                    "U1UPCB8A2"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09e514b0-0bcb-4c8b-88e5-c48e8aa4e294",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1564724087130100>",
+        "user": "U0ZJSC8JC",
+        "ts": "1565947084.363800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1564724087130100",
+                "fallback": "[August 1st, 2019 10:34 PM] pybor: Пока сам не смотрел, но выглядит очень круто,  курс о том как деплоить deep learning.\n\n<https:\/\/fullstackdeeplearning.com\/march2019?fbclid=IwAR2i5rkX7Dn1ORu4CKsWaX9Oe5vRoEA9iuuNklOpDkoEnjdSxfJ2exS0i2A>",
+                "ts": "1564724087.130100",
+                "author_id": "U5H0L5T98",
+                "author_subname": "Vadim Borisov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Пока сам не смотрел, но выглядит очень круто,  курс о том как деплоить deep learning.\n\n<https:\/\/fullstackdeeplearning.com\/march2019?fbclid=IwAR2i5rkX7Dn1ORu4CKsWaX9Oe5vRoEA9iuuNklOpDkoEnjdSxfJ2exS0i2A>",
+                "author_name": "Vadim Borisov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U5H0L5T98",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-07-31\/220119563173_81248be0ab38f0706609_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1564724087130100",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1565947045.363700",
+        "parent_user_id": "U977SGE59",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U977SGE59",
+                    "UFSTXBQ7K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74d55a2e-39ee-4215-b0e5-8d6386796b97",
+        "type": "message",
+        "text": "Кого-нибудь ещё спрашивали на собесе комбинаторную оптимизацию? Что это за места?",
+        "user": "UGF8L176H",
+        "ts": "1565947292.364300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGF8L176H",
+            "ts": "1565947304.000000"
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "3FEB191C-64D1-4EB3-8EA8-48F471A24179",
+        "type": "message",
+        "text": "<@U4Z9Q18QH> а насколько сложная математика? А то пишут \"targeting MS and PhD level students in mathematically sophisticated fields\".",
+        "user": "U9BDT48M8",
+        "ts": "1565947730.365800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "d282e22a-3f40-4662-80f2-5c8379d0a9ae",
+        "type": "message",
+        "text": "Не проходил, не могу сказать",
+        "user": "U4Z9Q18QH",
+        "ts": "1565947775.366000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "fe0ca9e9-6d07-4a46-903d-452c02546bf3",
+        "type": "message",
+        "text": "<@UGF8L176H> У меня это были ритейлеры (оптимизация складов, поставок), маркетинг (оптимизация рекламного пакета, оптимизация предложений). Еще было про оптимизацию колл-центров и всяких подобных вещей с ресурсом и нагрузкой. И все это поверх моделей, которые предсказывают спрос\/нагрузку\/вероятности и тд.",
+        "user": "U7SFPUVQF",
+        "ts": "1565947941.366200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7SFPUVQF",
+            "ts": "1565948039.000000"
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "62AA9A8B-ACB9-417D-BF29-8A02D2AD3998",
+        "type": "message",
+        "text": "<@U9BDT48M8> ну Бойд - это что-то вроде библии выпуклой оптимизации. Ещё можешь пошатать введение в выпуклую оптимизацию от Нестерова. ",
+        "user": "U5GCU82HX",
+        "ts": "1565948309.368200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g33eb3ecf5bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5033eb3ecf5bbf4f627630da68f5b7a9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Demchenko",
+            "display_name": "bearstrikesback",
+            "team": "T040HKJE3",
+            "name": "bearstrikesback",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9BDT48M8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06dd7267-f24f-4479-80c3-053de9f98d67",
+        "type": "message",
+        "text": "Я смотрел, он не про то как \"деплоить ML\", возможно, только одна лекция <https:\/\/fullstackdeeplearning.com\/assets\/slides\/fsdl_12_testing.pdf>, но она достаточно поверхностная.",
+        "user": "U3PETUSSE",
+        "ts": "1565950471.368500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "58c967e32603",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-24\/846603308724_58c967e3260319010d23_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Yutkin",
+            "display_name": "0x1337",
+            "team": "T040HKJE3",
+            "name": "0x1337",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3PETUSSE",
+            "ts": "1565950897.000000"
+        },
+        "thread_ts": "1565947045.363700",
+        "parent_user_id": "U977SGE59",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UAG21HMV4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a6ba5f5-bdf5-4181-86c4-76c34a732d2d",
+        "type": "message",
+        "text": "Выпуклая оптимизация - это вроде весьма узкий раздел? Может, есть что-то хотя по гладкой?",
+        "user": "UGF8L176H",
+        "ts": "1565950978.368900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGF8L176H",
+            "ts": "1565950991.000000"
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "e1ee059e-7de4-4f3d-b8aa-fe8807ebad32",
+        "type": "message",
+        "text": "Я уже пару лет прохожу Discrete Optimization на Сoursera. Пока осилил рюкзак 10\/10 и сейчас пишу Simplex method solver. Но я всю логику пишу сам,  если пользоваться специальным ПО, будет полегче.\n\n<https:\/\/www.coursera.org\/learn\/discrete-optimization\/home\/info>\n\nЛично мне курс неплохо промыл голову",
+        "user": "U2NULEB4K",
+        "ts": "1565960461.369400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78b4ad5088f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-18\/1396841007600_78b4ad5088f8b60fc207_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Kopytok",
+            "display_name": "Kopytok",
+            "team": "T040HKJE3",
+            "name": "kopytok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Social Psychology - Home | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/discrete-optimization\/home\/info",
+                "text": "Ever wonder why people do what they do? This ...",
+                "fallback": "Coursera: Social Psychology - Home | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/discrete-optimization\/home\/info",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/discrete-optimization\/home\/info"
+            }
+        ],
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "63c1e495-aba1-4468-a448-210b85dfad97",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551164948095200>",
+        "user": "UBJ10K86A",
+        "ts": "1565980378.370600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551164948095200",
+                "fallback": "[February 25th, 2019 11:09 PM] iamtodor: Крайне рекомендую курс от <@U7Q61FJD6> <https:\/\/www.youtube.com\/playlist?list=PLQJ7ptkRY-xYLEAC5Y_sKqrJ9RA-U7Dja> за 1-2 вечера проходится. У автора своя приятная манера изложения :slightly_smiling_face:\nИмхо, лучший краш-курс фласк+докер",
+                "ts": "1551164948.095200",
+                "author_id": "U5S11SHM4",
+                "author_subname": "iamtodor",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Крайне рекомендую курс от <@U7Q61FJD6> <https:\/\/www.youtube.com\/playlist?list=PLQJ7ptkRY-xYLEAC5Y_sKqrJ9RA-U7Dja> за 1-2 вечера проходится. У автора своя приятная манера изложения :slightly_smiling_face:\nИмхо, лучший краш-курс фласк+докер",
+                "author_name": "iamtodor",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U5S11SHM4",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551164948095200",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1565947045.363700",
+        "parent_user_id": "U977SGE59",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDRVCKGU8",
+                    "U86SY88EP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c5f38b4-a7f5-4a04-ac59-58ac00da7ee4",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551165057096700>",
+        "user": "UBJ10K86A",
+        "ts": "1565980391.370900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551165057096700",
+                "fallback": "[February 25th, 2019 11:10 PM] iamtodor: И в догонку <https:\/\/www.youtube.com\/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m> так же отменный курс по применению докера в нашей специфике. Этот курс вообще за пару часов осиливается",
+                "ts": "1551165057.096700",
+                "author_id": "U5S11SHM4",
+                "author_subname": "iamtodor",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "И в догонку <https:\/\/www.youtube.com\/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m> так же отменный курс по применению докера в нашей специфике. Этот курс вообще за пару часов осиливается",
+                "author_name": "iamtodor",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U5S11SHM4",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1551165057096700",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1565947045.363700",
+        "parent_user_id": "U977SGE59",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDRVCKGU8",
+                    "U86SY88EP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U27SUBTB9",
+                    "UJW6N56TH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1be015b6-40cb-4afc-a8bb-47be516f6e9f",
+        "type": "message",
+        "text": "<https:\/\/online.stanford.edu\/courses\/cs236-deep-generative-models>",
+        "user": "UFUN87R0S",
+        "ts": "1565989178.371600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb28873bc6dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8b28873bc6dcc8c0f21f0d1ef859296.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Berezutskii",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "aleksandr.berezutskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Generative Models | Stanford Online",
+                "title_link": "https:\/\/online.stanford.edu\/courses\/cs236-deep-generative-models",
+                "text": "Generative models are a key paradigm for probabilistic reasoning within graphical models and probabilistic programming languages. It is one of the exciting and rapidly-evolving fields of statistical machine learning and artificial intelligence. Recent advances in parameterizing generative models using deep neural networks, combined with progress in stochastic optimization methods, have enabled scalable modeling of complex, high-dimensional data including images, text, and speech.",
+                "fallback": "Deep Generative Models | Stanford Online",
+                "from_url": "https:\/\/online.stanford.edu\/courses\/cs236-deep-generative-models",
+                "service_icon": "http:\/\/www-media.stanford.edu\/assets\/favicon\/apple-touch-icon-57x57.png",
+                "service_name": "Stanford University",
+                "id": 1,
+                "original_url": "https:\/\/online.stanford.edu\/courses\/cs236-deep-generative-models"
+            }
+        ],
+        "thread_ts": "1563668643.009000",
+        "parent_user_id": "UFUN87R0S",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U9BDT48M8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U9BDT48M8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9BB685C5-7A69-473F-9925-48343E26FEF7",
+        "type": "message",
+        "text": "Не то чтобы совсем по теме, но не знаю где ещё можно спросить. Никто не знает хороших курсов по системному анализу? Желательно на русском, но можно и на английском. Жене ищу. Если есть более подходящий канал - скажите, перенесу сообщение)",
+        "user": "UBN4W9VTM",
+        "ts": "1566021990.374600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a1a02a09326f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/467076559205_a1a02a09326fad44813f_72.png",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Khaitin",
+            "display_name": "DHajtin",
+            "team": "T040HKJE3",
+            "name": "dhajtin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566021990.374600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1566405919.010500",
+        "reply_users": [
+            "UGF8L176H",
+            "UBJ10K86A",
+            "U6TFPN2CQ"
+        ],
+        "replies": [
+            {
+                "user": "UGF8L176H",
+                "ts": "1566026686.376300"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1566029015.376500"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1566029515.376700"
+            },
+            {
+                "user": "U6TFPN2CQ",
+                "ts": "1566405919.010500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dushevnost",
+                "users": [
+                    "UBRKXHMJB",
+                    "UDD345XLG",
+                    "U9W1PD5QD",
+                    "U832HJCUV",
+                    "U94NDKFSA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "668ea61e-10e3-4fab-bf1c-7e685e661a9c",
+        "type": "message",
+        "text": "Плюсую за курс австралийца. Мужик просто рвёт тебя в клочья, но если ты выживешь - знания реально толково даёт.",
+        "user": "UBN4W9VTM",
+        "ts": "1566024706.374900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a1a02a09326f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/467076559205_a1a02a09326fad44813f_72.png",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Khaitin",
+            "display_name": "DHajtin",
+            "team": "T040HKJE3",
+            "name": "dhajtin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565891168.352700",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "man-lifting-weights",
+                "users": [
+                    "U2NULEB4K",
+                    "U0123QMHMEE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a18a3580-3949-4183-9b6f-d8c2ab55fe46",
+        "type": "message",
+        "text": "Много хорошего слышал о Вышке и ничего хорошего не могу сказать об ИТМО. Там доучиваться на бакалавра-то не хочется, не то что в магистратуру идти.",
+        "user": "UBN4W9VTM",
+        "ts": "1566025153.375100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a1a02a09326f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/467076559205_a1a02a09326fad44813f_72.png",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Khaitin",
+            "display_name": "DHajtin",
+            "team": "T040HKJE3",
+            "name": "dhajtin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565279873.275000",
+        "parent_user_id": "UHXHYUW9G"
+    }
+]

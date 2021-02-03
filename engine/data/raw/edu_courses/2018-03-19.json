@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "<@U27SUBTB9> спасибо за подсказку! Это ж просто камень в огород coursera :disappointed:",
+        "user": "U5S11SHM4",
+        "ts": "1521448883.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "ох лол\nя еще заметил\nесли удалить комментарий `# GRADED FUNCTION: L_model_forward` то тогда тоже не проходит grader :facepalm:",
+        "user": "U5S11SHM4",
+        "ts": "1521450483.000486",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "а вот еще один :facepalm: \n```\nprint(('W' + str(L)) == 'W{}'.format(L) == 'W3') =&gt; True\n```\nНо grader принимает лишь первый и второй вариант, то есть просто `W3` прописать не ок",
+        "user": "U5S11SHM4",
+        "ts": "1521451865.000206",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5S11SHM4",
+            "ts": "1521451948.000000"
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    }
+]

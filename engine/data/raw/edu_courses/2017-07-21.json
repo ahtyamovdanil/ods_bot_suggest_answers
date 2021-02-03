@@ -1,0 +1,324 @@
+[
+    {
+        "type": "message",
+        "text": "+ к edx edge",
+        "user": "U1BMURR5G",
+        "ts": "1500626672.972529",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500570773.536632",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500628347.569496",
+        "user": "U6BQTP18S",
+        "text": "<@U6BQTP18S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "есть кто-то кто проходит <http:\/\/fast.ai|fast.ai>? если да, вы пробовали использовать другой датасет кроме собак\/кошек, получилось?",
+        "user": "U4BFBQHBQ",
+        "ts": "1500628493.621111",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9088ed5caf4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/039088ed5caf4d3ab5e79db0889cefc0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Artjom",
+            "real_name": "Artjom Kor",
+            "display_name": "raisefamous",
+            "team": "T040HKJE3",
+            "name": "raisefamous",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1500639968.071466",
+        "reply_users": [
+            "U3P82LKDK",
+            "U4BU5BR6X",
+            "U1BMURR5G",
+            "U4BFBQHBQ",
+            "U19VD9AQH"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1500628526.632815"
+            },
+            {
+                "user": "U4BU5BR6X",
+                "ts": "1500628526.632871"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1500628911.768589"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1500628921.771985"
+            },
+            {
+                "user": "U4BFBQHBQ",
+                "ts": "1500629047.816747"
+            },
+            {
+                "user": "U4BFBQHBQ",
+                "ts": "1500629296.903010"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1500629508.979536"
+            },
+            {
+                "user": "U19VD9AQH",
+                "ts": "1500639968.071466"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Я прохожу, но пока не пробовал. А что там - не очень заходит на других датасетах?",
+        "user": "U3P82LKDK",
+        "ts": "1500628526.632815",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "raisefamous: да. Там все круто",
+        "user": "U4BU5BR6X",
+        "ts": "1500628526.632871",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8a8886975e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239666441730_8a8886975e0a183220a4_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Veysov",
+            "display_name": "snakers41",
+            "team": "T040HKJE3",
+            "name": "snaker41",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "ты главное пробуй) он в каждой след. лекции рассказывает дополнительные хаки которые помогают",
+        "user": "U1BMURR5G",
+        "ts": "1500628911.768589",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "пробуй statefarm делать, он дальше про него рассказывает",
+        "user": "U1BMURR5G",
+        "ts": "1500628921.771985",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "да я на Term2 счас",
+        "user": "U5EGA37D0",
+        "ts": "1500628926.773741",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cfd189534f5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/221003322836_cfd189534f5c822ddbdb_72.jpg",
+            "first_name": "Евгений",
+            "real_name": "Евгений Нехай",
+            "display_name": "eugenn",
+            "team": "T040HKJE3",
+            "name": "eugenn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500575223.081315",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "да там просто остальные датасеты как я посмотрел не настолько однозначные, что их просто разделить по папочкам с картинками.",
+        "user": "U4BFBQHBQ",
+        "ts": "1500629047.816747",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9088ed5caf4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/039088ed5caf4d3ab5e79db0889cefc0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Artjom",
+            "real_name": "Artjom Kor",
+            "display_name": "raisefamous",
+            "team": "T040HKJE3",
+            "name": "raisefamous",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "ну ладно энивей вот вопрос, в том же стейтфарме у таргета примерно 10 лейблов, если их подать в ВГГ то какой аутпут он будет выдавать? как с имаджнетом даст 10 вероятностей и та что максимальна тот класс и присваеваем или он просто выдаст класс к которому по его мнению принадлежит картинка? Я знаю что это все надо посмотреть самому, просто забегая вперед хотел понять как работает мультиклассовая классификация.",
+        "user": "U4BFBQHBQ",
+        "ts": "1500629296.903010",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9088ed5caf4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/039088ed5caf4d3ab5e79db0889cefc0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Artjom",
+            "real_name": "Artjom Kor",
+            "display_name": "raisefamous",
+            "team": "T040HKJE3",
+            "name": "raisefamous",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4BFBQHBQ",
+            "ts": "1500629322.000000"
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "text": "там софтмах на выходе, так что да: для 10 классов",
+        "user": "U1BMURR5G",
+        "ts": "1500629508.979536",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1500629522.000000"
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500634756.599981",
+        "user": "U6B6SJPG8",
+        "text": "<@U6B6SJPG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Можешь попробовать на текущем соревновании <https:\/\/www.kaggle.com\/c\/invasive-species-monitoring> \nподход аналогичный, работает",
+        "user": "U19VD9AQH",
+        "ts": "1500639968.071466",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500628493.621111",
+        "parent_user_id": "U4BFBQHBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500641087.465036",
+        "user": "U6D0PU4BZ",
+        "text": "<@U6D0PU4BZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500670846.994934",
+        "user": "U6D2AH9RU",
+        "text": "<@U6D2AH9RU> has joined the channel"
+    }
+]

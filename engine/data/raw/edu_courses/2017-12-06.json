@@ -1,0 +1,435 @@
+[
+    {
+        "type": "message",
+        "text": "Это все отлично - только курс Курсеры недоступен.",
+        "user": "U6BS23P47",
+        "ts": "1512551635.000348",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512551694.000000"
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "Логично - это бета-версия. Минимум через неделю будет доступен всем, а то и дольше ждать прийдётся.",
+        "user": "U4ZRFG1V0",
+        "ts": "1512551700.000096",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "тоже пришло на бета тестирование, пока похоже на курс заточенный под интел-фреймворк : )",
+        "user": "U1BMURR5G",
+        "ts": "1512557527.000520",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "кстати, любой может принять участие в программе бета-тестирования на курсере и получать бесплатный доступ к бета-курсам (только новые, к прошлым бетам не будет доступа), для этого нужно заполнить <https:\/\/www.surveymonkey.com\/r\/coursera-betatest>",
+        "user": "U1BMURR5G",
+        "ts": "1512557608.000388",
+        "thread_ts": "1512501680.000531",
+        "root": {
+            "type": "message",
+            "text": "Intel начал публиковать курсы по Deep Learning. Пока доступен один в бете уровня beginners.\n\nВсе задачки выполняются с помощью <https:\/\/github.com\/NervanaSystems\/neon> о котором я никогда не слышал час назад :slightly_smiling_face:\n\n```\nAbout this course: This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for the development of self-driving cars, speech interfaces, genomic sequence analysis and algorithmic trading. \n\nYou will explore important concepts in Deep Learning, train deep networks using Intel Nervana Neon, apply Deep Learning to various applications and explore new and emerging Deep Learning topics.\n```\n\n```\nWeek 1: Introduction to Deep Learning and Deep Learning Basics\nWeek 2: Convolutional Neural Networks (CNN), Fine-Tuning and Detection\nWeek 3: Recurrent Neural Networks (RNN)\nWeek 4: Training Tips and Multinode Distributed Training\nWeek 5: Hot Research and Intel's Roadmap\n```\n\n<https:\/\/www.coursera.org\/learn\/intro-practical-deep-learning>",
+            "user": "U5R7NF98S",
+            "ts": "1512501680.000531",
+            "team": "T040HKJE3",
+            "edited": {
+                "user": "U5R7NF98S",
+                "ts": "1512501799.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "Coursera",
+                    "title": "Coursera | Online Courses From Top Universities. Join for Free",
+                    "title_link": "https:\/\/www.coursera.org\/learn\/intro-practical-deep-learning",
+                    "text": "1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                    "fallback": "Coursera: Coursera | Online Courses From Top Universities. Join for Free",
+                    "image_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                    "from_url": "https:\/\/www.coursera.org\/learn\/intro-practical-deep-learning",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 166866,
+                    "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                    "id": 1
+                }
+            ],
+            "thread_ts": "1512501680.000531",
+            "reply_count": 29,
+            "reply_users_count": 8,
+            "latest_reply": "1512586948.000766",
+            "reply_users": [
+                "U776QCA5R",
+                "U4Z9Q18QH",
+                "U5R7NF98S",
+                "U6BS23P47",
+                "U4ZRFG1V0",
+                "U6HFLJK7H",
+                "U1BMURR5G",
+                "U2ADMH4H0"
+            ],
+            "subscribed": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1512557653.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U5R7NF98S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U0QMAK6T1",
+                    "U53E5MFNU",
+                    "U1HHX1QS3",
+                    "U049HDR2Z",
+                    "U70FGFLEM",
+                    "U7QC6KXJP"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Просмотрел в бете курс, в первой неделе два видео 19 и 37 минут, что не совсем формат курсеры. В 3 и 4 неделях видео на 19 минут суммарно в каждой, всего в курсе 3 часа видео на 5 недель. Контент ничем не отличается от сотен подобных введений. Не очень понятно, что это такое и зачем. Судя по всему, единственное зачем его стоит проходить — чтобы разобраться с их фреймворком.",
+        "user": "U2ADMH4H0",
+        "ts": "1512578300.000765",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa869b7fd7a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-11\/660499938852_fa869b7fd7a5699738cd_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Zhebrak",
+            "display_name": "zhebrak",
+            "team": "T040HKJE3",
+            "name": "zhebrak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Меня раздражает то, что тетрадки, выложенные на Coursera Hub жрут больше ресурсов, чем там есть :slightly_smiling_face:",
+        "user": "U4ZRFG1V0",
+        "ts": "1512581111.000119",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "На последней неделе есть видео \"Training tips and tricks\". Это о... overfitting, data augmentation, validation &amp; train data. И \"Finally, it is generally best to use a large model to overfit the data, and then fix the overfitting afterwards.\"",
+        "user": "U4ZRFG1V0",
+        "ts": "1512585884.000390",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "<@U4ZRFG1V0> а когда форму заполняешь должен прийти емэйл или как? Через сколько?",
+        "user": "U6BS23P47",
+        "ts": "1512586239.000058",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "<@U2ADMH4H0> тоже самое можно про курс вшэ в принципе сказать - в курсе deep learning там особо ничего нет нового. Плюс все в багах и ноль поддержки, народ неделями на форуме жалуется не может пройти каждый этап. Уж Интел то точно поддержку сделает норм и отсутствие багов. ",
+        "user": "U6BS23P47",
+        "ts": "1512586394.000123",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512586508.000000"
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "<@U6BS23P47> в течении пары дней. Но этот курс (как и другие прошлые) уже не дадут.",
+        "user": "U4ZRFG1V0",
+        "ts": "1512586525.000513",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "Ну, этот курс явно для начинающих. В лекциях общая информация и примеры, но на порядок меньше чем в том же cs231n. Задачи по программированию в целом тривиальны.\nКстати, есть только одна активность с баллами - финальный тест на 15 вопросов.",
+        "user": "U4ZRFG1V0",
+        "ts": "1512586613.000832",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "Для начинающих думаю самое оно в качестве простого курса дип лернинг.",
+        "user": "U6BS23P47",
+        "ts": "1512586678.000248",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512586687.000000"
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "Всё-таки neon - не самый популярный framework",
+        "user": "U4ZRFG1V0",
+        "ts": "1512586770.000122",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "Там была сильная команда, и кажется их целью было реализовать это на чипе. Потому и Intel. Во что вылилось, надо смотреть.",
+        "user": "U6HFLJK7H",
+        "ts": "1512586948.000766",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5a13b178303",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9f5a13b178303c64e199ef521cf53b56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Rakhlin",
+            "display_name": "rakhlin",
+            "team": "T040HKJE3",
+            "name": "rakhlin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512501680.000531",
+        "parent_user_id": "U5R7NF98S"
+    },
+    {
+        "type": "message",
+        "text": "MIT’шный курс про самоездящие машины перезапускают: <https:\/\/selfdrivingcars.mit.edu\/>\n`Time\/Dates: Every day (time TBD), Jan 8 - Jan 19`\n\nЯ в прошлый раз мельком глянул, там препод Lex Fridman рассказывает в стиле :epta:\nКурс короткий, базовый, чисто посмотреть что да как.",
+        "user": "U126TCE79",
+        "ts": "1512592622.000440",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U126TCE79",
+            "ts": "1512592657.000000"
+        },
+        "attachments": [
+            {
+                "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+                "title_link": "https:\/\/selfdrivingcars.mit.edu\/",
+                "text": "An introduction to deep learning through the applied task of building a self-driving car. Taught by Lex Fridman.",
+                "fallback": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+                "from_url": "https:\/\/selfdrivingcars.mit.edu\/",
+                "service_name": "selfdrivingcars.mit.edu",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U41FPE8V7",
+                    "U53E5MFNU",
+                    "U5R7NF98S",
+                    "U5H0L5T98",
+                    "U6BS23P47",
+                    "U8AHH35K7"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

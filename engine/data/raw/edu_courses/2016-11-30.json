@@ -1,0 +1,385 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480498982.002503",
+        "user": "U38LN95DG",
+        "text": "<@U38LN95DG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480512328.002504",
+        "user": "U38295708",
+        "text": "<@U38295708> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Кто-нибудь встречал курс\/книгу-огонь по OpenCV+Python? Интересна личная рекомендация.\nСпасибо.",
+        "user": "U14CTBLFJ",
+        "ts": "1480518679.002505",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я почти все смотрел. попозже скину",
+        "user": "U040M0W0S",
+        "ts": "1480523241.002506",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480530427.002507",
+        "user": "U3874EPUG",
+        "text": "<@U3874EPUG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Всем привет!\n\nМы тут с <@U040HKJE7> и <@U0Y8R8363> задумали бесплатный курс по практическому анализу данных и машинному обучению.\nПлан примерно такой:\n\n1. Введение, анализ данных с Pandas \n2. Визуальный анализ данных с Pandas, Matplotlib и Seaborn\n3. Введение в ML, классификация, деревья решений\n4. Линейные и метрические методы: kNN, logit, SVM\n5. Искусство построения признаков\n6. Оценка модели, кросс-валидация, сколько данных нужно, кривые обучения \n7. Композиции, бэггинг, RF\n8. Бустинг, Xgboost, LightGBM\n9. Регрессия, GLM: LASSO, Ridge\n10. Unsupervised: кластеризация, PCA, выбросы\n11-13. Vowpal Wabbit\n14. Трюки Kaggle, блендинг\n15. Стекинг, практика\n\nБудет куча Jupyter notebooks, практики, домашек, 2 соревнования Kaggle Inclass, а также индивидуальный проект. Формат смешанный: человек 100 вживую, остальные онлайн-трансляцию смотрят. Вживую можно прийти, если попал в топ по результатам домашки. Пока решаем насчет площадки, ожидаемое время запуска – конец января. Время - по воскресеньям, может, еще один из будней затронем.\n\nУпор на практику, но некоторые алгоритмы будут разбираться основательно, так что все равно есть пререквизиты: знание матана, линейной алгебры, теорвера и статистики на уровне 2 курса технического ВУЗа. Минимальные навыки владения Python (написание простых скриптов). Если надо сориентироваться, как подготовиться, можно глянуть конспекты курсеровские (MIPT &amp; Yandex) и <https:\/\/github.com\/Yorko\/python_intro> (хотя для анализа данных хватит и codeacademy).\n\nХочется сразу максимальной клиентоориентированности. Так что пишите мне в личку пожелания. Чтоб тут не флудить, я могу через неделю отписать дайджест пожеланий. Сразу скажу, что Байеса и нейронок не будет (по крайней мере, не в моем исполнении) – курс все же больше для начинающих, да и времени на эти темы надо больше. Обсуждать можно в <#C39147V60|mlcourse_open>",
+        "user": "U1UNFRQ1K",
+        "ts": "1480530928.002508",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UNFRQ1K",
+            "ts": "1480533076.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Yorko\/python_intro",
+                "title_link": "https:\/\/github.com\/Yorko\/python_intro",
+                "text": "python_intro - IPython notebooks in Russian. Introduction to Python, basic algorithms and data structures",
+                "fallback": "GitHub: Yorko\/python_intro",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/3973673?v=3&s=400",
+                "from_url": "https:\/\/github.com\/Yorko\/python_intro",
+                "thumb_width": 271,
+                "thumb_height": 271,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U04ELQZAU",
+                    "U0DA4J82H",
+                    "U14BPHDK6",
+                    "U040HKJE7",
+                    "U35GH0DDH",
+                    "U040M0W0S",
+                    "U1CMPEWPQ",
+                    "U24FHECDD",
+                    "U13PBBLLW",
+                    "U14CTBLFJ",
+                    "U2T5N5UAK",
+                    "U1BMURR5G",
+                    "U0M39M6LS",
+                    "U2F68DB26",
+                    "U041P485A",
+                    "U0L4KM9R9",
+                    "U1QM37W12",
+                    "U1UC11GGN",
+                    "U1Z40FGQ6",
+                    "U1ULFPM0U",
+                    "U26MCSB8A",
+                    "U1UQHNK5M",
+                    "U31S67ZC5",
+                    "U1H61HG7J",
+                    "U043J44Q5",
+                    "U1US4G35H",
+                    "U2SC5JYKG",
+                    "U1B2L9G58",
+                    "U1KV54E4C",
+                    "U1K7C32LQ",
+                    "U2ZMPGBL5",
+                    "U35FJMSHX",
+                    "U1MLEMG11"
+                ],
+                "count": 33
+            },
+            {
+                "name": "science",
+                "users": [
+                    "U04ELQZAU",
+                    "U041P485A",
+                    "U1Z40FGQ6",
+                    "U1UQHNK5M",
+                    "U1B2L9G58"
+                ],
+                "count": 5
+            },
+            {
+                "name": "take-my-money",
+                "users": [
+                    "U0DA4J82H",
+                    "U14BPHDK6",
+                    "U0ZHCGY5T",
+                    "U14CTBLFJ",
+                    "U041P485A",
+                    "U1Z40FGQ6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U04ELQZAU",
+                    "U0DA4J82H",
+                    "U14BPHDK6",
+                    "U040HKJE7",
+                    "U37UW9U57",
+                    "U14CTBLFJ",
+                    "U1Z40FGQ6",
+                    "U342T2PT2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "bayes",
+                "users": [
+                    "U0DA4J82H",
+                    "U0E2W4VKL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "U0DA4J82H",
+                    "U040HKJE7",
+                    "U2AL7HL90"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1CMPEWPQ",
+                    "U14CTBLFJ",
+                    "U2AL7HL90",
+                    "U2YULKRRP",
+                    "U1Z40FGQ6",
+                    "U2Y3V8JP2",
+                    "U1KV54E4C",
+                    "U37NYSJJW"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я так понимаю, это курс, про который <@U040HKJE7> говорил в <#C1UEK73H6|mltrainings_beginners>? и все материалы будут доступны онлайн всем желающим?",
+        "user": "U0DA4J82H",
+        "ts": "1480531202.002512",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1UNFRQ1K",
+                    "U13PBBLLW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1UNFRQ1K>: если не хочется флудить здесь, можно создать отдельный канал",
+        "user": "U04ELQZAU",
+        "ts": "1480531263.002513",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U14BPHDK6",
+                    "U1H5CMTU0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я бы несколько лекций с удовольствием посмотрел",
+        "user": "U0DA4J82H",
+        "ts": "1480531264.002514",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да, давайте в <#C39147V60|mlcourse_beginners> обсуждать. Но замечания\/пожелания можно все равно пока в личку",
+        "user": "U1UNFRQ1K",
+        "ts": "1480531841.002515",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480532161.002516",
+        "user": "U38SDSQV9",
+        "text": "<@U38SDSQV9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U14BPHDK6>:  <https:\/\/youtube.com\/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl> и <https:\/\/compscicenter.ru\/courses\/deep-learning\/2016-summer\/> - первая введение в вероятностный язык машинного обучения, второе - летняя школа DL",
+        "user": "U19HATM25",
+        "ts": "1480565677.002518",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g19276ba1931",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4619276ba193199858ea85b612eacca5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "hvost101",
+            "real_name": "hvost101",
+            "display_name": "hvost101",
+            "team": "T040HKJE3",
+            "name": "hvost101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "  Введение в вероятностный язык построения моделей машинного обучения  - YouTube",
+                "title_link": "https:\/\/youtube.com\/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl",
+                "text": "В мини-курсе дается введение в вероятностный язык построения вероятностных моделей машинного обучения. Байесовский подход к теории вероятностей позволяет стр...",
+                "fallback": "  Введение в вероятностный язык построения моделей машинного обучения  - YouTube",
+                "from_url": "https:\/\/youtube.com\/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl",
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+                "service_name": "youtube.com",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U14BPHDK6",
+                    "U04ELQZAU",
+                    "U14CTBLFJ",
+                    "U1D6DT6HE",
+                    "U2AJE72Q6",
+                    "U040M0W0S",
+                    "U1Z40FGQ6"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.r-bloggers.com\/50-off-datacamp-courses-only-3-days-left\/amp\/>",
+        "user": "U2GTUS0CB",
+        "ts": "1480569511.002520",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c1f58413ecce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-22\/246378982615_c1f58413eccee5da6375_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Оськин",
+            "display_name": "skoffer",
+            "team": "T040HKJE3",
+            "name": "skoffer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

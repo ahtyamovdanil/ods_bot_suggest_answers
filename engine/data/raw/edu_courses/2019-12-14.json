@@ -1,0 +1,775 @@
+[
+    {
+        "client_msg_id": "407ac770-a20d-4d4c-8875-d6aa0deae2df",
+        "type": "message",
+        "text": "<#CGP5AH02F|risk_modelling>",
+        "user": "U35B82XT6",
+        "ts": "1576311590.002700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aq4=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "CGP5AH02F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576259292.001600",
+        "parent_user_id": "UR3BXGA82"
+    },
+    {
+        "client_msg_id": "c304635e-3b4c-48b4-b7f6-ab47df70dd4e",
+        "type": "message",
+        "text": "Хочу поделиться впечатлениями от курса <https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/>\nМне кажется, это отличный курс для тек, кто какое-то время кодит на питоне и хочет начать меньше говнокодить и узнать какие-то специфические особенности языка.  Мне очень понравилось тем, что какие-то вещи получалось сразу же внедрить в собственный код. Часто ловил себя на мысле вроде \"о нифигасе, а че так можно было?!\".\nНа просмотр у меня ушло около 3 мес. Смотрел обычно в метро.\nИз минусов: чувак немного занудный, я смотрел со скоростью  1,25 - 1,5. Все объясняется ну просто супер подробно, по несколько раз. Иногда это плюс, но иногда реально начинает бесить. Некоторые вещи, которые покрывает курс, уже знал и было местами не интересно.\nВ общем, я купил вторую часть курса (всего там 4), надеюсь будет тоже полезна.",
+        "user": "U600Q839S",
+        "ts": "1576360310.023200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U600Q839S",
+            "ts": "1576360416.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Python 3: Deep Dive (Part 1 - Functional)",
+                "title_link": "https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/",
+                "text": "Variables, Functions and Functional Programming, Closures, Decorators, Modules and Packages",
+                "fallback": "Udemy: Python 3: Deep Dive (Part 1 - Functional)",
+                "image_url": "https:\/\/i.udemycdn.com\/course\/480x270\/1213952_e17d_2.jpg",
+                "from_url": "https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 45856,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4elv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хочу поделиться впечатлениями от курса "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nМне кажется, это отличный курс для тек, кто какое-то время кодит на питоне и хочет начать меньше говнокодить и узнать какие-то специфические особенности языка.  Мне очень понравилось тем, что какие-то вещи получалось сразу же внедрить в собственный код. Часто ловил себя на мысле вроде \"о нифигасе, а че так можно было?!\".\nНа просмотр у меня ушло около 3 мес. Смотрел обычно в метро.\nИз минусов: чувак немного занудный, я смотрел со скоростью  1,25 - 1,5. Все объясняется ну просто супер подробно, по несколько раз. Иногда это плюс, но иногда реально начинает бесить. Некоторые вещи, которые покрывает курс, уже знал и было местами не интересно.\nВ общем, я купил вторую часть курса (всего там 4), надеюсь будет тоже полезна."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "reply_count": 18,
+        "reply_users_count": 10,
+        "latest_reply": "1576497990.034700",
+        "reply_users": [
+            "UB4AGRL3C",
+            "U600Q839S",
+            "U0ZJSC8JC",
+            "U27SUBTB9",
+            "UGF8L176H",
+            "U0U2ENJ4U",
+            "U4YEK80R1",
+            "UFUKQMV5K",
+            "U9V48C738",
+            "UMKQYEXV1"
+        ],
+        "replies": [
+            {
+                "user": "UB4AGRL3C",
+                "ts": "1576360471.023700"
+            },
+            {
+                "user": "U600Q839S",
+                "ts": "1576360531.024000"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1576361023.024500"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1576361142.024800"
+            },
+            {
+                "user": "U27SUBTB9",
+                "ts": "1576361843.025100"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1576362048.025300"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1576362102.025500"
+            },
+            {
+                "user": "UB4AGRL3C",
+                "ts": "1576362338.025700"
+            },
+            {
+                "user": "U600Q839S",
+                "ts": "1576362420.025900"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1576363195.026600"
+            },
+            {
+                "user": "U600Q839S",
+                "ts": "1576364467.027000"
+            },
+            {
+                "user": "U0U2ENJ4U",
+                "ts": "1576401377.027600"
+            },
+            {
+                "user": "U4YEK80R1",
+                "ts": "1576408765.028700"
+            },
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1576415297.031000"
+            },
+            {
+                "user": "U9V48C738",
+                "ts": "1576487960.033000"
+            },
+            {
+                "user": "U600Q839S",
+                "ts": "1576488036.033300"
+            },
+            {
+                "user": "UMKQYEXV1",
+                "ts": "1576497588.034300"
+            },
+            {
+                "user": "U600Q839S",
+                "ts": "1576497990.034700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UB4AGRL3C",
+                    "U53E5MFNU",
+                    "U35B82XT6",
+                    "U27SUBTB9",
+                    "U57JJAVLN",
+                    "U9K9L5615",
+                    "U6NG0K2BW",
+                    "UPGG2MADQ",
+                    "U8DRB30SX",
+                    "UH80PQR2M",
+                    "U7DTGC4PL"
+                ],
+                "count": 11
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UCM3C939U",
+                    "U9K9L5615",
+                    "U6NG0K2BW",
+                    "U41JTV3C5",
+                    "U7DTGC4PL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U9K9L5615",
+                    "UH1GA3UQ6",
+                    "UQA99P33P"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5df2336a-a31c-45e0-9411-fab034c7706d",
+        "type": "message",
+        "text": "+1, я тоже только что закончил смотреть первую часть. Отличный курс для тех, кто хочет узнать о питоне немного больше, чем обычно дают в intro-курсах.\nИмхо, 1.25-1.5 даже мало. Я смотрел на х1.75-х2.",
+        "user": "UB4AGRL3C",
+        "ts": "1576360471.023700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4af4ece2cd3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-01\/1216761266995_4af4ece2cd3a843c9f28_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nikalayeu",
+            "display_name": "Pavel Nikalayeu",
+            "team": "T040HKJE3",
+            "name": "pavel.nikalayeu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1, я тоже только что закончил смотреть первую часть. Отличный курс для тех, кто хочет узнать о питоне немного больше, чем обычно дают в intro-курсах.\nИмхо, 1.25-1.5 даже мало. Я смотрел на х1.75-х2."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "18f8cb88-05aa-4731-8785-66297cfbdaaf",
+        "type": "message",
+        "text": "Ну на 1,75-2 иногда тоже переключал, но становилось тяжеловато понимать :catshake:",
+        "user": "U600Q839S",
+        "ts": "1576360531.024000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QKHEW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну на 1,75-2 иногда тоже переключал, но становилось тяжеловато понимать "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "catshake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "6676466a-ec4a-403a-9f1a-4e4223dae55b",
+        "type": "message",
+        "text": "он реально стоит 199?",
+        "user": "U0ZJSC8JC",
+        "ts": "1576361023.024500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OpSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "он реально стоит 199?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "257d69a8-ad9d-4b1d-a7ba-3888ef203f7f",
+        "type": "message",
+        "text": "а вижу, прайс на 12 меняется",
+        "user": "U0ZJSC8JC",
+        "ts": "1576361142.024800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYQIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а вижу, прайс на 12 меняется"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "f00c0d69-5d1f-43b3-bc00-f85f0a26d5f4",
+        "type": "message",
+        "text": "```This course includes\n44.5 hours on-demand video```\n:notbad:",
+        "user": "U27SUBTB9",
+        "ts": "1576361843.025100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f8af4d64c68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-24\/885377665328_1f8af4d64c68171d34d9_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Surovikov",
+            "display_name": "quadraaa",
+            "team": "T040HKJE3",
+            "name": "quadraaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYZC",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This course includes\n44.5 hours on-demand video"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "notbad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "d8f48464-e10a-47ec-883a-c9aad8378e99",
+        "type": "message",
+        "text": ":pirate: <https:\/\/rutracker.org\/forum\/viewtopic.php?t=5800764>",
+        "user": "U0ZJSC8JC",
+        "ts": "1576362048.025300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWHUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pirate"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rutracker.org\/forum\/viewtopic.php?t=5800764"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9K9L5615",
+                    "UH1GA3UQ6",
+                    "UCAEKNA4V",
+                    "U6SHTGD5X",
+                    "U6HBK5DMK",
+                    "UCM3C939U"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UQBQKG44T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7432cfb6-8a22-4984-bca7-3532932f4dba",
+        "type": "message",
+        "text": "12 евро бы заплатил, 199 чет не хочется, хз как поменять из под моего акка",
+        "user": "U0ZJSC8JC",
+        "ts": "1576362102.025500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12 евро бы заплатил, 199 чет не хочется, хз как поменять из под моего акка"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "aa4d9b3f-4cd0-4732-b012-224a054982be",
+        "type": "message",
+        "text": "&gt; 44.5 hours on-demand video\nЭто только первая часть. В сумме весь курс - 120 часов :fast_parrot:",
+        "user": "UB4AGRL3C",
+        "ts": "1576362338.025700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4af4ece2cd3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-01\/1216761266995_4af4ece2cd3a843c9f28_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nikalayeu",
+            "display_name": "Pavel Nikalayeu",
+            "team": "T040HKJE3",
+            "name": "pavel.nikalayeu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mN8zA",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "44.5 hours on-demand video"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Это только первая часть. В сумме весь курс - 120 часов "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fast_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S",
+        "reactions": [
+            {
+                "name": "ultra_fast_parrot",
+                "users": [
+                    "U600Q839S",
+                    "U27SUBTB9",
+                    "UBQELFC8K"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc7443bb-daf9-440d-95eb-fbd64eb5832d",
+        "type": "message",
+        "text": "Там на него вечная скидка. Всегда по акции за ~800-1000р, а дефолтная цена 15к. Видимо, это такая фишка udemy.",
+        "user": "U600Q839S",
+        "ts": "1576362420.025900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U600Q839S",
+            "ts": "1576362430.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhWty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там на него вечная скидка. Всегда по акции за ~800-1000р, а дефолтная цена 15к. Видимо, это такая фишка udemy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4AGRL3C",
+                    "U60EETE7N",
+                    "UE259V12B",
+                    "U04BWJ3QJ",
+                    "UEC5M0FQX",
+                    "UTGUQU99U"
+                ],
+                "count": 6
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U27SUBTB9",
+                    "UAT62FNQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8639a276-c612-435b-8791-111613754c56",
+        "type": "message",
+        "text": "<@U600Q839S> приведешь пример вещей, которые сразу получилось внедрять в свой код?",
+        "user": "UGF8L176H",
+        "ts": "1576363195.026600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U600Q839S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " приведешь пример вещей, которые сразу получилось внедрять в свой код?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "052d0de7-25ce-4585-96db-e8a31456e81d",
+        "type": "message",
+        "text": "Там достаточно интересная секция про closures и декораторы, с ними разобрался и начал использовать. Всякие мелочи вроде namedtuple, сортировка с помощью  ключа, тру велью объектов.",
+        "user": "U600Q839S",
+        "ts": "1576364467.027000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ltvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там достаточно интересная секция про closures и декораторы, с ними разобрался и начал использовать. Всякие мелочи вроде namedtuple, сортировка с помощью  ключа, тру велью объектов."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    }
+]

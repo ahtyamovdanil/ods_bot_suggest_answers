@@ -1,0 +1,874 @@
+[
+    {
+        "client_msg_id": "f2d78fd4-73e7-41f5-807a-917055d0c816",
+        "type": "message",
+        "text": "Тут частенько спрашивают про аналитику от яндекс пратикума, а мне вот интересно кто то юзал из языковые курсы Флоу? Как впечатления, улучшился ли язык, в первую очередь интересно с разговорной частью и пониманием того что говорят?",
+        "user": "UHY5KKK6D",
+        "ts": "1592736412.430800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHY5KKK6D",
+            "ts": "1592736453.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тут частенько спрашивают про аналитику от яндекс пратикума, а мне вот интересно кто то юзал из языковые курсы Флоу? Как впечатления, улучшился ли язык, в первую очередь интересно с разговорной частью и пониманием того что говорят?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "839f8426-7c47-4259-993d-b85f0947582d",
+        "type": "message",
+        "text": "Крутая программа, здорово было бы достать записи лекций. <@U1UNFRQ1K> удалось получить ответ по поводу записей ?",
+        "user": "UKCL2BQAZ",
+        "ts": "1592740892.434500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "574605b017f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1259921638260_574605b017f9c1afae5e_72.jpg",
+            "first_name": "Vitaliy",
+            "real_name": "Vitaliy Grechachin",
+            "display_name": "vetka925",
+            "team": "T040HKJE3",
+            "name": "vitaley.grechachin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Крутая программа, здорово было бы достать записи лекций. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1UNFRQ1K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " удалось получить ответ по поводу записей ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "1c51e6ef-cce3-487b-863f-dfbdf200c1a5",
+        "type": "message",
+        "text": "Я в чате мехмата МГУ спросила про этот курс, сказали, что видеозаписи закрыты, но сам автор пишет, что \"пока выкладывать не планирует\", так что, есть возможность, что однажды они появятся",
+        "user": "UL958AM32",
+        "ts": "1592740968.435000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48df48d0eece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-29\/777209988640_48df48d0eeceb5d16ae9_72.jpg",
+            "first_name": "Alina",
+            "real_name": "Alina Mikhaylenko",
+            "display_name": "amhtj",
+            "team": "T040HKJE3",
+            "name": "mikkhailenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cEpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я в чате мехмата МГУ спросила про этот курс, сказали, что видеозаписи закрыты, но сам автор пишет, что \"пока выкладывать не планирует\", так что, есть возможность, что однажды они появятся"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "UKCL2BQAZ",
+                    "U62N1NJUC",
+                    "ULMML7Z5K",
+                    "ULF96QF3K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad2e41a5-f6e8-4b99-8909-c541bd05aaa5",
+        "type": "message",
+        "text": "Всем привет! ODS нужна ваша подсказка :thinking_face:\nВ связи c акцией от Coursera появилось 3 месяца для прохождения курсов по ML. Подскажите какой лучше выбрать для старта ?\n1. <https:\/\/www.coursera.org\/learn\/machine-learning>\n2. <https:\/\/www.coursera.org\/specializations\/deep-learning>\n3. <https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis>\nМожет есть ещё варианты?",
+        "user": "URFMLN3M2",
+        "ts": "1592741203.436400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga159fb46db5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a159fb46db5688b37a6f94d7ddcd65da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Tropin Nikolay",
+            "display_name": "Tropin Nikolay",
+            "team": "T040HKJE3",
+            "name": "tropinnikolay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Machine Learning by Stanford University | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/machine-learning",
+                "text": "Learn Machine Learning from Stanford University. Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, ...",
+                "fallback": "Coursera: Machine Learning by Stanford University | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/machine-learning",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/machine-learning"
+            },
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into Artificial intelligence (AI), this Specialization will help you. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.",
+                "fallback": "Coursera: Deep Learning",
+                "image_url": "https:\/\/coursera_assets.s3.us-east-1.amazonaws.com\/metatag-images\/xdp-optimized\/de\/specializations-deep-learning-A.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 47741,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+            },
+            {
+                "service_name": "Coursera",
+                "title": "Машинное обучение и анализ данных",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "text": "Offered by Moscow Institute of Physics and Technology. Мы покажем, как проходит полный цикл анализа, от сбора данных до выбора оптимального решения и оценки его качества. Вы научитесь пользоваться современными аналитическими инструментами и адаптировать их под особенности конкретных задач. В рамках специализации вы освоите основные темы, необходимые в работе с большим массивом данных, в т.ч. современные методы классификации и регрессии, поиск структуры в данных, проведение экспериментов, построение выводов, базовая фундаментальная математика, основы программирования на Python. Мы разберём, как построить рекомендательную систему, оценить эмоциональную окраску текста, спрогнозировать спрос на товар, оценить вероятность клика по рекламе и т.д. В финале вам потребуется выполнить проект собственной системы, решающей любую актуальную для бизнеса задачу. Результатом будет наглядная работающая модель, которую вы сможете использовать в вашей повседневной работе или продемонстрировать на собеседовании. Все, прошедшие специализацию, могут принять участие в Программе трудоустройства. Если вы заинтересованы в новых проектах, новых перспективах и возможностях - пройдите обучение по Специализации и подайте заявку.",
+                "fallback": "Coursera: Машинное обучение и анализ данных",
+                "image_url": "https:\/\/coursera_assets.s3.us-east-1.amazonaws.com\/metatag-images\/xdp-optimized\/ma\/specializations-machine-learning-data-analysis-B.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 128186,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 3,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! ODS нужна ваша подсказка "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nВ связи c акцией от Coursera появилось 3 месяца для прохождения курсов по ML. Подскажите какой лучше выбрать для старта ?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.coursera.org\/learn\/machine-learning"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Может есть ещё варианты?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "reply_count": 11,
+        "reply_users_count": 7,
+        "latest_reply": "1593728077.196000",
+        "reply_users": [
+            "U01364G3W84",
+            "U8Z8V576H",
+            "UUCMUC3D1",
+            "URFMLN3M2",
+            "U6YLFT8QP",
+            "UUWNN05EK",
+            "U60EETE7N"
+        ],
+        "replies": [
+            {
+                "user": "U01364G3W84",
+                "ts": "1592758575.440300"
+            },
+            {
+                "user": "U8Z8V576H",
+                "ts": "1592759067.440500"
+            },
+            {
+                "user": "UUCMUC3D1",
+                "ts": "1592765856.441100"
+            },
+            {
+                "user": "URFMLN3M2",
+                "ts": "1592771664.441400"
+            },
+            {
+                "user": "URFMLN3M2",
+                "ts": "1592772106.441700"
+            },
+            {
+                "user": "U6YLFT8QP",
+                "ts": "1592775036.442900"
+            },
+            {
+                "user": "UUCMUC3D1",
+                "ts": "1592807603.443400"
+            },
+            {
+                "user": "UUWNN05EK",
+                "ts": "1593285648.490600"
+            },
+            {
+                "user": "UUWNN05EK",
+                "ts": "1593286293.490900"
+            },
+            {
+                "user": "URFMLN3M2",
+                "ts": "1593709392.193300"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1593728077.196000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4af0a177-419a-4cf7-9ee2-621f5d05d2d0",
+        "type": "message",
+        "text": "На археологических раскопках был обнаружен клондайк местной Мотоко Кусанаги <@U14BPHDK6> там очень удобный linkage на любую базовую тему DS  по моим данным материал наиболее актуально подобран и можно смело глушить этим линком любой ньюби вопрос по курсам. Странно что запилено давно, но нигде не фосилось, возможно автор ниндзя. <https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie>",
+        "user": "U012T73D0SJ",
+        "ts": "1592741947.436900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a17b799b0349",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-02\/1202948395095_a17b799b0349ec6b28ef_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Golovach",
+            "display_name": "cybersatori",
+            "team": "T040HKJE3",
+            "name": "galaxyschildentertain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "text": ":memo: Подборка ресурсов по машинному обучению",
+                "title": "demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "footer": "<https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie|demidovakatya\/vvedenie-mashinnoe-obuchenie>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1454022650,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1199",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "6 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4NHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На археологических раскопках был обнаружен клондайк местной Мотоко Кусанаги "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U14BPHDK6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " там очень удобный linkage на любую базовую тему DS  по моим данным материал наиболее актуально подобран и можно смело глушить этим линком любой ньюби вопрос по курсам. Странно что запилено давно, но нигде не фосилось, возможно автор ниндзя. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741947.436900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1592745027.437700",
+        "reply_users": [
+            "U24FHECDD"
+        ],
+        "replies": [
+            {
+                "user": "U24FHECDD",
+                "ts": "1592745027.437700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ninja",
+                "users": [
+                    "U6Z21KSBC",
+                    "UE1B5L2Q0",
+                    "U1D6DT6HE",
+                    "UKC5ML2KE",
+                    "U94LVR86R",
+                    "UB4F4DZGV",
+                    "U1G303UTW",
+                    "U2N853RGF",
+                    "U7SFPUVQF",
+                    "U9VM1DN4U",
+                    "UCAEKNA4V"
+                ],
+                "count": 11
+            },
+            {
+                "name": "pepe_old",
+                "users": [
+                    "U5GCU82HX",
+                    "U1G303UTW",
+                    "U19EZ8L5D",
+                    "U2N853RGF",
+                    "U9DHYLKM2",
+                    "U04422XJL",
+                    "UBRK4HXQV",
+                    "U9VM1DN4U",
+                    "UCAEKNA4V",
+                    "U30LWK54N"
+                ],
+                "count": 10
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U7QC6KXJP",
+                    "U9VM1DN4U",
+                    "U012K713DSB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "coffin",
+                "users": [
+                    "U2N853RGF",
+                    "U9VM1DN4U"
+                ],
+                "count": 2
+            },
+            {
+                "name": "vampire",
+                "users": [
+                    "U2N853RGF",
+                    "U9VM1DN4U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d8048c4-922a-4b4e-ae81-3afe0470371f",
+        "type": "message",
+        "text": "Не совсем понятно, как такая подборка вообще может кому-то помочь. :google: по любой теме из списка выдаст такую же кучу материалов, в которой придется ковыряться и методом проб и ошибок находить для себя годные варианты.",
+        "user": "U24FHECDD",
+        "ts": "1592745027.437700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24FHECDD",
+            "ts": "1592745207.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t54z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не совсем понятно, как такая подборка вообще может кому-то помочь. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "google"
+                            },
+                            {
+                                "type": "text",
+                                "text": " по любой теме из списка выдаст такую же кучу материалов, в которой придется ковыряться и методом проб и ошибок находить для себя годные варианты."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741947.436900",
+        "parent_user_id": "U012T73D0SJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UU6LQEZFS",
+                    "UQCMBBS9W",
+                    "U01364G3W84",
+                    "U6ME568D7",
+                    "U9VM1DN4U",
+                    "UMY3SJF5K",
+                    "U5QLG41NG",
+                    "UD6H15YE5",
+                    "UBXKRV90Q"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8925612f-6430-47d0-b635-4069498774b5",
+        "type": "message",
+        "text": "Deeplearning требует каких то базовых знаний про лоссы и метрики",
+        "user": "U01364G3W84",
+        "ts": "1592758575.440300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g07e3938db1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/07e3938db1c157299137c5a9f80f07f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "rad",
+            "display_name": "rad",
+            "team": "T040HKJE3",
+            "name": "al.d.rezanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deeplearning требует каких то базовых знаний про лоссы и метрики"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2"
+    },
+    {
+        "client_msg_id": "eae2e4bb-3a6f-457f-8e3d-725503f1760e",
+        "type": "message",
+        "text": "А почему появились? Разве их так же нельзя было просто прослушать?",
+        "user": "U8Z8V576H",
+        "ts": "1592759067.440500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g18f84923b0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2718f84923b0d7509d877e525f3c58d6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Zmey56",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "zmey56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А почему появились? Разве их так же нельзя было просто прослушать?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2"
+    },
+    {
+        "client_msg_id": "368e261f-464f-4aef-8fd9-4f357fc42ca6",
+        "type": "message",
+        "text": "Курсы от deeplearning, если не ошибаюсь, можно бесплатно на их сайте пройти.",
+        "user": "UUCMUC3D1",
+        "ts": "1592765856.441100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hh7x5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Курсы от deeplearning, если не ошибаюсь, можно бесплатно на их сайте пройти."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2"
+    },
+    {
+        "client_msg_id": "89d6f853-eb30-41b9-a953-81a5441af2f6",
+        "type": "message",
+        "text": "<@U8Z8V576H> универ стал спонсировать, теперь в определённый срок ещё и сертификаты можно будет получить",
+        "user": "URFMLN3M2",
+        "ts": "1592771664.441400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga159fb46db5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a159fb46db5688b37a6f94d7ddcd65da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Tropin Nikolay",
+            "display_name": "Tropin Nikolay",
+            "team": "T040HKJE3",
+            "name": "tropinnikolay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k63=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U8Z8V576H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " универ стал спонсировать, теперь в определённый срок ещё и сертификаты можно будет получить"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULA9M7CM9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a49ee2d0-a595-4d42-9d07-cff56dd18446",
+        "type": "message",
+        "text": "<@UUCMUC3D1> бесплатно на их сайте не нашёл - только ссылки на курсейру",
+        "user": "URFMLN3M2",
+        "ts": "1592772106.441700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga159fb46db5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a159fb46db5688b37a6f94d7ddcd65da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Tropin Nikolay",
+            "display_name": "Tropin Nikolay",
+            "team": "T040HKJE3",
+            "name": "tropinnikolay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tq4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUCMUC3D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " бесплатно на их сайте не нашёл - только ссылки на курсейру"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2"
+    },
+    {
+        "client_msg_id": "139ff41a-c854-4f42-b77b-79746a94a953",
+        "type": "message",
+        "text": "Я бы выбрала специализацию от Яндекса и МФТИ. Кроме базы по ML там прекрасный курс по статистике. и финальный проект хорошая возможность попрактиковаться.  И датасет не игрушечный и подсказывают какие шаги делать.",
+        "user": "U6YLFT8QP",
+        "ts": "1592775036.442900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "16b350663214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-10\/297195119942_16b350663214268ec567_72.jpg",
+            "first_name": "Full",
+            "real_name": "Full Name",
+            "display_name": "ohwr",
+            "team": "T040HKJE3",
+            "name": "fer24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я бы выбрала специализацию от Яндекса и МФТИ. Кроме базы по ML там прекрасный курс по статистике. и финальный проект хорошая возможность попрактиковаться.  И датасет не игрушечный и подсказывают какие шаги делать."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URFMLN3M2",
+                    "U7L5FEE4D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6541e2a6-4dfa-4b28-a0a0-eaecdcdd0746",
+        "type": "message",
+        "text": "<@URFMLN3M2>, прошу прощения! На Quora читала, что кто-то на том сайте бесплатно проходил.",
+        "user": "UUCMUC3D1",
+        "ts": "1592807603.443400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URFMLN3M2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", прошу прощения! На Quora читала, что кто-то на том сайте бесплатно проходил."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592741203.436400",
+        "parent_user_id": "URFMLN3M2"
+    }
+]

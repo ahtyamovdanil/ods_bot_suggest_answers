@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488791109.004091",
+        "user": "U4E3BG7FW",
+        "text": "<@U4E3BG7FW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488791402.004092",
+        "user": "U4E3D9SA0",
+        "text": "<@U4E3D9SA0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488793184.004093",
+        "user": "U4E2LU4F4",
+        "text": "<@U4E2LU4F4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А не подскажете по Computer Vision курсы?",
+        "user": "U29EQRRSP",
+        "ts": "1488793458.004094",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b3dc706c54f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-08\/77623627685_b3dc706c54f9b8776d68_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Betlei",
+            "display_name": "artembetlei",
+            "team": "T040HKJE3",
+            "name": "artembetley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1488873535.004125",
+        "reply_users": [
+            "U14L5TKNJ",
+            "U1CF22N7J",
+            "U29EQRRSP",
+            "U049HDR2Z",
+            "U040M0W0S"
+        ],
+        "replies": [
+            {
+                "user": "U14L5TKNJ",
+                "ts": "1488793585.004095"
+            },
+            {
+                "user": "U1CF22N7J",
+                "ts": "1488793855.004097"
+            },
+            {
+                "user": "U29EQRRSP",
+                "ts": "1488794038.004100"
+            },
+            {
+                "user": "U049HDR2Z",
+                "ts": "1488794549.004108"
+            },
+            {
+                "user": "U040M0W0S",
+                "ts": "1488873535.004125"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "artembetley: <http:\/\/cs231n.stanford.edu\/>",
+        "user": "U14L5TKNJ",
+        "ts": "1488793585.004095",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1a5a1b183a75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-29\/38730726708_1a5a1b183a7512672f2d_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Nizhibitsky",
+            "display_name": "nizhib",
+            "team": "T040HKJE3",
+            "name": "nizhib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "parent_user_id": "U29EQRRSP"
+    },
+    {
+        "type": "message",
+        "text": "Более традиционное cv \t\t<http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/> -- особенно дохрена ссылок на всякое хорошее\nИ вот ещё видео лекции <https:\/\/www.youtube.com\/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9>",
+        "user": "U1CF22N7J",
+        "ts": "1488793855.004097",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "parent_user_id": "U29EQRRSP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2N853RGF",
+                    "U29EQRRSP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488793994.004099",
+        "user": "U4DBDPY5N",
+        "text": "<@U4DBDPY5N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Спасибо!",
+        "user": "U29EQRRSP",
+        "ts": "1488794038.004100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b3dc706c54f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-08\/77623627685_b3dc706c54f9b8776d68_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Betlei",
+            "display_name": "artembetlei",
+            "team": "T040HKJE3",
+            "name": "artembetley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "parent_user_id": "U29EQRRSP"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/playlist?list=PLuRaSnb3n4kSgSV35vTPDRBH81YgnF3Dd>",
+        "user": "U049HDR2Z",
+        "ts": "1488794549.004108",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "parent_user_id": "U29EQRRSP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2N853RGF",
+                    "U29EQRRSP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488801170.004110",
+        "user": "U4EQCR4UF",
+        "text": "<@U4EQCR4UF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488808228.004117",
+        "user": "U4E5B4TAN",
+        "text": "<@U4E5B4TAN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488812342.004118",
+        "user": "U4DFWMBR7",
+        "text": "<@U4DFWMBR7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488818122.004119",
+        "user": "U4EAXM7SR",
+        "text": "<@U4EAXM7SR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488822119.004120",
+        "user": "U4EC7SQRK",
+        "text": "<@U4EC7SQRK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488827327.004121",
+        "user": "U4ECC1G04",
+        "text": "<@U4ECC1G04> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1488851499.004124",
+        "user": "U4EEVC5B5",
+        "text": "<@U4EEVC5B5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "есть канал <#C2ME5EVK7|cv> -- там в описании теперь ссылочка сюда: <https:\/\/github.com\/open-data-science\/awesome\/blob\/master\/cv.md>\n\nкстати, списки можно пополнять",
+        "user": "U040M0W0S",
+        "ts": "1488873535.004125",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1488793458.004094",
+        "parent_user_id": "U29EQRRSP"
+    }
+]

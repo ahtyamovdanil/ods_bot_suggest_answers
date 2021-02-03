@@ -1,0 +1,575 @@
+[
+    {
+        "client_msg_id": "d32a9e03-a0dc-4a40-9860-9ec05ab52734",
+        "type": "message",
+        "text": "Всем привет!\nКто знает хороший ресурс про то как размечать данные для R-CNN поделитесь плиз ?",
+        "user": "UJ5R9UMB5",
+        "ts": "1599636362.396100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "baea5c129f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/765067669170_baea5c129f702d1aeb80_72.jpg",
+            "first_name": "an.baranov",
+            "real_name": "an.baranov",
+            "display_name": "an.baranov",
+            "team": "T040HKJE3",
+            "name": "newsvenc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bw86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет!\nКто знает хороший ресурс про то как размечать данные для R-CNN поделитесь плиз ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599636362.396100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1599812054.425000",
+        "reply_users": [
+            "U57JJAVLN",
+            "UJ5R9UMB5"
+        ],
+        "replies": [
+            {
+                "user": "U57JJAVLN",
+                "ts": "1599636513.396200"
+            },
+            {
+                "user": "UJ5R9UMB5",
+                "ts": "1599812054.425000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b1d2b92e-d50b-4d76-b467-4c553e5190c5",
+        "type": "message",
+        "text": "Зачем для ЭТОГО курс? Объекты рамочкой обводишь - и ты прекрасен.",
+        "user": "U57JJAVLN",
+        "ts": "1599636513.396200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49246283a7e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/269614885383_49246283a7e80150b4c2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Kuzminov",
+            "display_name": "zalhonan",
+            "team": "T040HKJE3",
+            "name": "zalhonan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MO38S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Зачем для ЭТОГО курс? Объекты рамочкой обводишь - и ты прекрасен."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599636362.396100",
+        "parent_user_id": "UJ5R9UMB5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4F4DZGV",
+                    "UEP0QHYLR",
+                    "UMM4N60K1",
+                    "URAA7NRQV"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fb66229-5bc1-4886-943b-8a7885d5c4b9",
+        "type": "message",
+        "text": "там курс по матану такой себе - в плане просто обзорный, я когда проходил особо не разбирался - оно дальше не особо нужно было на том уровне - ты сам загнался)",
+        "user": "U15V81K6V",
+        "ts": "1599644355.398100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Af9C6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "там курс по матану такой себе - в плане просто обзорный, я когда проходил особо не разбирался - оно дальше не особо нужно было на том уровне - ты сам загнался)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "36694C24-9CAE-494E-8DD7-AB9DEB5C7786",
+        "type": "message",
+        "text": "Ну если руководствоваться логикой нужно-не нужно, то так можно и к фит-предикт прийти. Все же понимать, почему именно градиент задаёт направление наискорейшего роста функции, что такое предел функции, гладкая\/негладкая функция итд, надо",
+        "user": "U9BDT48M8",
+        "ts": "1599644740.401900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну если руководствоваться логикой нужно-не нужно, то так можно и к фит-предикт прийти. Все же понимать, почему именно градиент задаёт направление наискорейшего роста функции, что такое предел функции, гладкая\/негладкая функция итд, надо"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "2faaaa60-e3bd-4e4b-8057-7b7417204859",
+        "type": "message",
+        "text": "1. со временем да, кто спорит, но на первых этапах нужно уловить какие есть методы и что там делается, хотя бы концептуально",
+        "user": "U15V81K6V",
+        "ts": "1599648387.402600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+xGD",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "со временем да, кто спорит, но на первых этапах нужно уловить какие есть методы и что там делается, хотя бы концептуально"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U62N1NJUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fda5ce49-652e-4d76-9360-429b645a79a2",
+        "type": "message",
+        "text": "2. в первом курсе хватает воды, когда уже доходят до объяснения конкретных вещей становится более менее понятно что и почем",
+        "user": "U15V81K6V",
+        "ts": "1599648423.402900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7iH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. в первом курсе хватает воды, когда уже доходят до объяснения конкретных вещей становится более менее понятно что и почем"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "22ADE871-BAD5-49CB-B138-26D18CDF0304",
+        "type": "message",
+        "text": "Кстати, что лучше, Preply, Italki или Skyeng? И может ли это закрыть все моменты?",
+        "user": "U019CDRDUBH",
+        "ts": "1599674818.407900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3b51d339cc73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-05\/1358408500513_3b51d339cc73144f8c98_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Nikologorsky",
+            "display_name": "Dmitry Nikologorsky",
+            "team": "T040HKJE3",
+            "name": "dimanic20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+lvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кстати, что лучше, Preply, Italki или Skyeng? И может ли это закрыть все моменты?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "f1a53ab5-e8f4-4aaf-a837-a0e17c1a7b94",
+        "type": "message",
+        "text": "Я бы реально начала изучать курсы по DS на английском. Практически везде есть субтитры, если вдруг будет не понятно что-то на видео. Поначалу может быть тяжело, тк вокабуляр может быть не знаком. По прошествии некоторого времени сразу будет понятно, что именно в английском нужно подтянуть. Язык - средство коммуникации, меня так учили. Если цель коммуникации состоялась - значит, уровень нормальный. Например, из-за этого не имеет смысла (кроме эстетического или ради искусства) изучать редкие синонимы, все равно кроме native их практически никто не поймет.",
+        "user": "UUCMUC3D1",
+        "ts": "1599675306.408100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POXCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я бы реально начала изучать курсы по DS на английском. Практически везде есть субтитры, если вдруг будет не понятно что-то на видео. Поначалу может быть тяжело, тк вокабуляр может быть не знаком. По прошествии некоторого времени сразу будет понятно, что именно в английском нужно подтянуть. Язык - средство коммуникации, меня так учили. Если цель коммуникации состоялась - значит, уровень нормальный. Например, из-за этого не имеет смысла (кроме эстетического или ради искусства) изучать редкие синонимы, все равно кроме native их практически никто не поймет."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "71DD804B-9459-4F9B-9828-9C00D7418472",
+        "type": "message",
+        "text": "<@UUCMUC3D1>, уже изучаю, на Khan Academy, например, все понятно) Вопрос в том, как ускорить процесс с помощью занятий с носителем",
+        "user": "U019CDRDUBH",
+        "ts": "1599675463.410100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3b51d339cc73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-05\/1358408500513_3b51d339cc73144f8c98_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Nikologorsky",
+            "display_name": "Dmitry Nikologorsky",
+            "team": "T040HKJE3",
+            "name": "dimanic20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQWP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUCMUC3D1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", уже изучаю, на Khan Academy, например, все понятно) Вопрос в том, как ускорить процесс с помощью занятий с носителем"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "cfd9cc8e-2f85-4ecf-a491-03adcb7775f5",
+        "type": "message",
+        "text": "<@U019CDRDUBH>, а цель изучения английского какая?",
+        "user": "UUCMUC3D1",
+        "ts": "1599675535.410300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i21Do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019CDRDUBH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", а цель изучения английского какая?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "F0DC9E90-17AC-44C5-9FA0-B6ED16367C68",
+        "type": "message",
+        "text": "Лучше понимать курсы)",
+        "user": "U019CDRDUBH",
+        "ts": "1599676009.410800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3b51d339cc73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-05\/1358408500513_3b51d339cc73144f8c98_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Nikologorsky",
+            "display_name": "Dmitry Nikologorsky",
+            "team": "T040HKJE3",
+            "name": "dimanic20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Лучше понимать курсы)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "B2952F5F-6B95-41A7-AF49-0DD82093C6D8",
+        "type": "message",
+        "text": "+ в целом, намного больше инфы по DS на английском",
+        "user": "U019CDRDUBH",
+        "ts": "1599676078.412000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3b51d339cc73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-05\/1358408500513_3b51d339cc73144f8c98_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Nikologorsky",
+            "display_name": "Dmitry Nikologorsky",
+            "team": "T040HKJE3",
+            "name": "dimanic20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Io",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ в целом, намного больше инфы по DS на английском"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    },
+    {
+        "client_msg_id": "afe50cb9-ef90-4313-b092-90d283376660",
+        "type": "message",
+        "text": "Думаю, если для статей и курсов, то тут нужно просто читать статьи и проходить курсы по DS.",
+        "user": "UUCMUC3D1",
+        "ts": "1599681831.413300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMvv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Думаю, если для статей и курсов, то тут нужно просто читать статьи и проходить курсы по DS."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599404293.304500",
+        "parent_user_id": "U019CDRDUBH"
+    }
+]

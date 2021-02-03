@@ -1,0 +1,464 @@
+[
+    {
+        "client_msg_id": "d2eea549-b3db-4d71-be7e-19000332a72d",
+        "type": "message",
+        "text": "добрый день, компания просит выбрать какой-нибудь курс себе.\nчто посоветуете на темы:\nsql + etl и т. д., риски",
+        "user": "U4X83D0JD",
+        "ts": "1600169601.021900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcda2461b9ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2cda2461b9ea8d80e2f74a19e3c540b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "username",
+            "real_name": "username",
+            "display_name": "nosoftskills",
+            "team": "T040HKJE3",
+            "name": "vehemenas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDd64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "добрый день, компания просит выбрать какой-нибудь курс себе.\nчто посоветуете на темы:\nsql + etl и т. д., риски"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600169601.021900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1600197714.026600",
+        "reply_users": [
+            "UJG3W0SSZ"
+        ],
+        "replies": [
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1600197714.026600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6666e8cf-526f-4c21-9373-312693e6ae81",
+        "type": "message",
+        "text": "Наткнулся вот на такую штуку.\nОписание: The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.\n\nНапример, вот первая \"игра\":\n<https:\/\/overthewire.org\/wargames\/bandit\/>\n\nУчит обращаться с `ssh` и командной строкой. В какой-то момент должны появится элементы безопасности, но я до конца не смотрел.",
+        "user": "U3P82LKDK",
+        "ts": "1600172349.023500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdJG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Наткнулся вот на такую штуку.\nОписание: The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.\n\nНапример, вот первая \"игра\":\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/overthewire.org\/wargames\/bandit\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nУчит обращаться с "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ssh",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " и командной строкой. В какой-то момент должны появится элементы безопасности, но я до конца не смотрел."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UB4SPAYGJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68c089f8-69ed-4b7e-97e7-88c6db21e924",
+        "type": "message",
+        "text": "IBM я бы отсоветовал. На мой взгляд из этой пачки курсов(9шт) первые 3 шт - просто водная вода, далее идут основы Питона(гораздо слабее базовых курсов Stepik по Python), потом немного SQL, а потом галопом по ML ... Ну очень как-то поверхностно. Еще Assignment там все одинаковые, т.е. задания. Как-то всё очень шаблонно и линейно. Курс IBM -это введение в DS. Сейчас(если знаете Python) я бы сразу взялcя за <https:\/\/mlcourse.ai\/|MLcourse (ODS>) или <https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis|МФТИ> - это очень качественные курсы, все равно к ним придете в итоге. Не теряя времени на IBM.:slightly_smiling_face:",
+        "user": "UUWNN05EK",
+        "ts": "1600175111.023800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5e08d6c50cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-28\/1481744673568_5e08d6c50cf6d48366ee_72.jpg",
+            "first_name": "UserNam",
+            "real_name": "UserNam",
+            "display_name": "UsrNam",
+            "team": "T040HKJE3",
+            "name": "raremar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Машинное обучение и анализ данных",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "text": "Offered by Moscow Institute of Physics and Technology. Мы покажем, как проходит полный цикл анализа, от сбора данных до выбора оптимального решения и оценки его качества. Вы научитесь пользоваться современными аналитическими инструментами и адаптировать их под особенности конкретных задач. В рамках специализации вы освоите основные темы, необходимые в работе с большим массивом данных, в т.ч. современные методы классификации и регрессии, поиск структуры в данных, проведение экспериментов, построение выводов, базовая фундаментальная математика, основы программирования на Python. Мы разберём, как построить рекомендательную систему, оценить эмоциональную окраску текста, спрогнозировать спрос на товар, оценить вероятность клика по рекламе и т.д. В финале вам потребуется выполнить проект собственной системы, решающей любую актуальную для бизнеса задачу. Результатом будет наглядная работающая модель, которую вы сможете использовать в вашей повседневной работе или продемонстрировать на собеседовании. Все, прошедшие специализацию, могут принять участие в Программе трудоустройства. Если вы заинтересованы в новых проектах, новых перспективах и возможностях - пройдите обучение по Специализации и подайте заявку.",
+                "fallback": "Coursera: Машинное обучение и анализ данных",
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~machine-learning-data-analysis\/XDP~SPECIALIZATION!~machine-learning-data-analysis.jpeg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 159615,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieisF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IBM я бы отсоветовал. На мой взгляд из этой пачки курсов(9шт) первые 3 шт - просто водная вода, далее идут основы Питона(гораздо слабее базовых курсов Stepik по Python), потом немного SQL, а потом галопом по ML ... Ну очень как-то поверхностно. Еще Assignment там все одинаковые, т.е. задания. Как-то всё очень шаблонно и линейно. Курс IBM -это введение в DS. Сейчас(если знаете Python) я бы сразу взялcя за "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mlcourse.ai\/",
+                                "text": "MLcourse (ODS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") или "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                                "text": "МФТИ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - это очень качественные курсы, все равно к ним придете в итоге. Не теряя времени на IBM."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600072835.474900",
+        "parent_user_id": "U019FK53UMD"
+    },
+    {
+        "client_msg_id": "eebdff72-a8ac-4c58-9ee7-91ba0024db0b",
+        "type": "message",
+        "text": "Не то что водная вода...\nКак с использованием Python вывести результат сложения двух чисел? Очень просто:\n1. создайте учётную запись IBM HuyeMoyeEnterprize\n2. Привяжите к учётной записи абырвалг\n3. Приложите результаты колоноскопии\n4. запустите лютопроприетарный ibm-hosted notebook\n5. напишите в ячейке print(a+b)\n6. ХЕРА ТЫ МОЛОДЕЦ ЧУВАААААААК!!!!\n7. Зайди в коммьюнити\n8. Напиши про себя в коммьюнити, ты чооо!",
+        "user": "U4WM1939Q",
+        "ts": "1600175371.024100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5oPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не то что водная вода...\nКак с использованием Python вывести результат сложения двух чисел? Очень просто:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "создайте учётную запись IBM HuyeMoyeEnterprize"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Привяжите к учётной записи абырвалг"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Приложите результаты колоноскопии"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "запустите лютопроприетарный ibm-hosted notebook"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "напишите в ячейке print(a+b)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ХЕРА ТЫ МОЛОДЕЦ ЧУВАААААААК!!!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Зайди в коммьюнити"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Напиши про себя в коммьюнити, ты чооо!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600072835.474900",
+        "parent_user_id": "U019FK53UMD",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U1HHX1QS3",
+                    "U012K713DSB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c36aea27-bada-4a25-a1ab-9888c99b23b8",
+        "type": "message",
+        "text": "есть такое ) а лабы на Watson или CognitiveClass",
+        "user": "UUWNN05EK",
+        "ts": "1600175592.024300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5e08d6c50cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-28\/1481744673568_5e08d6c50cf6d48366ee_72.jpg",
+            "first_name": "UserNam",
+            "real_name": "UserNam",
+            "display_name": "UsrNam",
+            "team": "T040HKJE3",
+            "name": "raremar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "есть такое ) а лабы на Watson или CognitiveClass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600072835.474900",
+        "parent_user_id": "U019FK53UMD"
+    },
+    {
+        "client_msg_id": "664044ad-d4b6-4d5a-ba3f-b1bd0f11232b",
+        "type": "message",
+        "text": "<@U04ELQZAU> я так понимаю, видео строятся вокруг опенсорсной книги <https:\/\/d2l.ai\/> плюс экосистемы AWS: Sagemaker\/Gluon\/MXNet. Стандартный набор: CV (CNNs, YOLO, U-Nets), NLP (от word vectors до трансформеров) и tabular (GBMs\/NNs\/AutoML).",
+        "user": "UJQP3D6EM",
+        "ts": "1600192060.026100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c18ad4333596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-23\/848533510663_c18ad4333596ab34cef6_72.jpg",
+            "first_name": "gradient_sky",
+            "real_name": "gradient_sky",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "simple",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJQP3D6EM",
+            "ts": "1600192319.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04ELQZAU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " я так понимаю, видео строятся вокруг опенсорсной книги "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/d2l.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " плюс экосистемы AWS: Sagemaker\/Gluon\/MXNet. Стандартный набор: CV (CNNs, YOLO, U-Nets), NLP (от word vectors до трансформеров) и tabular (GBMs\/NNs\/AutoML)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600151191.013500",
+        "parent_user_id": "UJQP3D6EM"
+    },
+    {
+        "client_msg_id": "c3b484f5-4033-4f65-b604-a16f9347db0e",
+        "type": "message",
+        "text": "Newprolab посмотри там курсы, выбери какой нить",
+        "user": "UJG3W0SSZ",
+        "ts": "1600197714.026600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g517dcfc5c04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3a517dcfc5c0413d0971b4dd6af9f212.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "Artem",
+            "team": "T040HKJE3",
+            "name": "krutoi1998",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ar8e2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Newprolab посмотри там курсы, выбери какой нить"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600169601.021900",
+        "parent_user_id": "U4X83D0JD"
+    }
+]

@@ -1,0 +1,1217 @@
+[
+    {
+        "client_msg_id": "68f6049b-2bd3-4da0-9d98-d2cca1abb8cb",
+        "type": "message",
+        "text": "ты наступаешь на проблему новичка - откладываешь старт на каггле и пытаешь охватить больше и больше курсов. Сам так же делал. 3-4 соревнования и если будешь работать как следует за это время на практике освоишь, то что на спецухах яндекса.  Я сам спецухи не стал смотреть, после нескольких соревнований - полистал, понял, что список тем охвачен. Для соревнований будут полезнее статьи, старые решения, публикации.",
+        "user": "U15V81K6V",
+        "ts": "1562831439.200800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Y8R56NM",
+                    "ULF96QF3K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa612a1d-af53-41d6-8681-37c26abe1ecd",
+        "type": "message",
+        "text": "<@U15V81K6V> а в какие соревнования на каггле ты посоветуешь новичку вот прямо так взять и влиться? Ну, который про цену дома, понятно, а дальше куда смотреть? ))",
+        "user": "UKQTG5QSU",
+        "ts": "1562831866.201100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07c7418d833c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-20\/670962261141_07c7418d833c24470d34_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Abramovskaya",
+            "display_name": "Natalia_A",
+            "team": "T040HKJE3",
+            "name": "nvrad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "e672b743-ed1b-489b-81ee-978396d69689",
+        "type": "message",
+        "text": "Вот и что то кроме Титаника и цены дома не особо нашел чего, везде картинки картинки ( поэтому решил учиться дальше",
+        "user": "UL95F64PP",
+        "ts": "1562831933.201300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "8f4cc9b0-0de4-4587-82b9-dd35234061df",
+        "type": "message",
+        "text": "вот заезженные темы с титаником и mnist'ом не особо советую... понимаешь, чтобы тебя перло должен быть интерес, ощущение, что это что-то значимое. я бы начал с тех соревнований, где больше упор на классическое мл (чтобы была кое-какая база), а потом погрузился бы в дл. Вот сейчас есть соревнование про молекулу. Заходишь в kernels и изучаешь эти кернелс, запускаешь. Сначала будет не особо понятно, но через 3-4 кернела будешь уже более менее понимать о чем речь. Если прогать умеешь, то считай половина дела сделано - т.е. ты умеешь читать код и тебе проще разбираться в кернелах. Общий вывод - учишься по кернелам, читаешь в статьях о используемых в них методах, чтобы понимать о чем речь, почему тут применяется данный метод. На результате сильно не сосредотачивайся, важнее интуитивно понять алгоритм работы",
+        "user": "U15V81K6V",
+        "ts": "1562834819.201900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "457ca051-39dc-4c58-a6b8-19e0ea952976",
+        "type": "message",
+        "text": "потом через 3-4 соревнования результат пойдет в гору. по крайней мере по процентам я у себя его отслеживаю. у меня пока нет медалек, но я уже в плотную подбираюсь к этому. но я 4 месяца только и занимаюсь этим около 8ч (как 2я работа). Большее время из этого пока тратиться на разбор статей, чем на реальную работу на каггле (((",
+        "user": "U15V81K6V",
+        "ts": "1562835006.202100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "2a8889b5-1c5d-46fb-93da-0814a93c6f93",
+        "type": "message",
+        "text": "с картинками сложнее конечно, но есть, например, kernel-only и там часто ограничение на gpu, что прямо хорошо может подровнять шансы, во всяком случае будет хоть какой-то результат",
+        "user": "U15V81K6V",
+        "ts": "1562835164.202300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "1c5394d7-d285-47f0-b435-860041806b2c",
+        "type": "message",
+        "text": "Вы про соревнование predicting molecular properties? Надо будет посмотреть, я думал оно тоже про определение формул по снимкам с микроскопов ))  у меня ещё была идея Пет проекта небольшого, может с него начать.",
+        "user": "UL95F64PP",
+        "ts": "1562835202.202500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "336223ab-8c56-4ef3-be3d-e47f77975544",
+        "type": "message",
+        "text": "<@U15V81K6V>  спасибо за направление! Значит, попробую эти кернелы позапускать)))",
+        "user": "UKQTG5QSU",
+        "ts": "1562835590.202700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07c7418d833c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-20\/670962261141_07c7418d833c24470d34_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Abramovskaya",
+            "display_name": "Natalia_A",
+            "team": "T040HKJE3",
+            "name": "nvrad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "8d168528-d4e3-402e-a05b-1fc991e929bb",
+        "type": "message",
+        "text": "<@UKQTG5QSU> нужно не просто запускать, нужно детально разобрать, и попытаться понять, почему там сделали так, а  там иначе, как работает данный метод, сильные слабые стороны. через несколько соревнований, такие более-менее бездумные повторения чужих кернелов обретут смысл )",
+        "user": "U15V81K6V",
+        "ts": "1562836466.203100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "868380b1-611f-4762-af71-770ac0135420",
+        "type": "message",
+        "text": "<@UL95F64PP> не, там нет картинок, но сетки тоже можно потрогать )) но пока лучше всего заходит классика....",
+        "user": "U15V81K6V",
+        "ts": "1562836510.203300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "db6cada5-2d3f-4f3e-b3b9-547ddedc7da2",
+        "type": "message",
+        "text": "<@U15V81K6V> спс за совет.",
+        "user": "UKEFUDY9M",
+        "ts": "1562839806.203500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "092dc5fa1944",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-13\/663645802868_092dc5fa1944e93f73d9_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Nikulchev",
+            "display_name": "Despik",
+            "team": "T040HKJE3",
+            "name": "artomonik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "F1FEF88A-FE31-4AD1-9151-6BE5184B6FE1",
+        "type": "message",
+        "text": "Ну если ваша цель - именно соревнования, то да. Чем раньше начнёшь решать, тем лучше.\n\nЕсли же цель более глобальна (начать карьеру в дс, например), то поучить все же придётся, ибо каггл - это лишь supervised задачи с уже заранее выбранной метрикой.\n\nТе же кластеризации, поиск аномалий итд. на Каггле особо не вкачаешь",
+        "user": "U9BDT48M8",
+        "ts": "1562840242.206600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "a95f179a-3ef5-4ef6-8553-d85049a786f9",
+        "type": "message",
+        "text": "Поэтому я и думал насчёт Пет проекта вместо кагла, чтобы начать с дата вранглинг так называемого , чего в кагле по сути нет",
+        "user": "UL95F64PP",
+        "ts": "1562840478.206900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "2d2707f8-077e-40cf-9f01-b28ab24413b7",
+        "type": "message",
+        "text": "Мне кажется, можно совмещать.",
+        "user": "UKEFUDY9M",
+        "ts": "1562840508.207100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "092dc5fa1944",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-13\/663645802868_092dc5fa1944e93f73d9_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Nikulchev",
+            "display_name": "Despik",
+            "team": "T040HKJE3",
+            "name": "artomonik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "4ea330bc-348e-411b-b6b5-02f1b3e13dca",
+        "type": "message",
+        "text": "<@UL95F64PP>  а что такое Пет проект, первый раз про это слышу ))",
+        "user": "UKQTG5QSU",
+        "ts": "1562841166.207400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07c7418d833c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-20\/670962261141_07c7418d833c24470d34_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Abramovskaya",
+            "display_name": "Natalia_A",
+            "team": "T040HKJE3",
+            "name": "nvrad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP",
+        "reactions": [
+            {
+                "name": "pet_projects",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c25d24c3-50fb-4f89-bce3-3e4cbaef9471",
+        "type": "message",
+        "text": "Наталия, это типа придумываешь сам себе задачу\/проект и делаешь, получаешь опыт и проект в портфолио (иногда даже можно не говорить что это выдуманный проект).",
+        "user": "UL95F64PP",
+        "ts": "1562841980.207800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "07d85463-845b-4fe0-bd0e-153ae094ed61",
+        "type": "message",
+        "text": "Коллеги,\nА кто-то встречал курсы с использованием Google Classroom для раздачи материалов, оценок и проч? Поделитесь впечатлением.",
+        "user": "U4Z9Q18QH",
+        "ts": "1562842942.209200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562842942.209200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1562972379.264200",
+        "reply_users": [
+            "U1CGKK865",
+            "U4Z9Q18QH",
+            "UJW58J47R"
+        ],
+        "replies": [
+            {
+                "user": "U1CGKK865",
+                "ts": "1562843149.209300"
+            },
+            {
+                "user": "U1CGKK865",
+                "ts": "1562843203.209500"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1562843245.209700"
+            },
+            {
+                "user": "U1CGKK865",
+                "ts": "1562843297.210000"
+            },
+            {
+                "user": "UJW58J47R",
+                "ts": "1562972379.264200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f2c10178-40cf-486f-826f-962df1ee4310",
+        "type": "message",
+        "text": "В универе два семестра преп практиковал: мне понравилось. Выкладывал туда ПДФки с конспектами и объявления о сдачах\/зачётах, оценки не ставил. В целом, выглядит попроще Piazza, но интерфейс почище и, в принципе, поудобнее.",
+        "user": "U1CGKK865",
+        "ts": "1562843149.209300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562842942.209200",
+        "parent_user_id": "U4Z9Q18QH"
+    },
+    {
+        "client_msg_id": "a9818a6d-0b30-43fb-9d1b-22b80d80717f",
+        "type": "message",
+        "text": "Всё лучше рассылок по почте и сарафанного радио для распространения инфромации о сдачах и оценках.",
+        "user": "U1CGKK865",
+        "ts": "1562843203.209500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562842942.209200",
+        "parent_user_id": "U4Z9Q18QH"
+    },
+    {
+        "client_msg_id": "dc703fcd-56b9-4f6b-b734-bf222d520b4e",
+        "type": "message",
+        "text": "ок, спасибо, а оценки там только вручную ставятся? Или можно прикрутить авторгейдер какой-нибудь?",
+        "user": "U4Z9Q18QH",
+        "ts": "1562843245.209700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4Z9Q18QH",
+            "ts": "1562843253.000000"
+        },
+        "thread_ts": "1562842942.209200",
+        "parent_user_id": "U4Z9Q18QH"
+    },
+    {
+        "client_msg_id": "f1a51c4b-fa96-4c24-9850-8adbb580e0e6",
+        "type": "message",
+        "text": "Понятия не имею, я был как студент и, как уже писал, оценок там вообще в этом курсе не было",
+        "user": "U1CGKK865",
+        "ts": "1562843297.210000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562842942.209200",
+        "parent_user_id": "U4Z9Q18QH"
+    },
+    {
+        "client_msg_id": "aa251e53-162c-4dd2-8833-be704eadf248",
+        "type": "message",
+        "text": "<#CG1FVSRUZ|proj_punch_to_face> , например",
+        "user": "UDHJKLGLR",
+        "ts": "1562845892.210300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "80043171-07f0-4443-9215-adbbfc45f5be",
+        "type": "message",
+        "text": "<@U9BDT48M8> немножко не так. да, задачи на каггле supervised, но как часть этой задачи отлично заходит и исследование той же класстеризации  и т.д. (не давно было такое на синтетических данных) - и по истории соревнований такие подходы часто хорошо заходят. Да метрика опредлена, но поработав с ней с какого-то момента ты начинаешь понимать когда заходит лучше одна, а когда другая. И аномалии там време от времени попадаются и хорошо заходят (судя по разборам соревнований). Тут есть такой момент, что каггл не научит тебя создавать продукт - это скорее к разработке, каггл учит тебя части пайплайна. Вот пет-проект  это уже как создать простенький законченный продукт. Важны все части. Без опыта построения продукта, ты не интересен... А без опыта исследования данных и построения моделей, ты не создашь продукт на хорошем уровне :smiley: а так чего хочется вкачать ищи соревнование - платформ много, помимо каггла , с тем же RL много задач появляется)",
+        "user": "U15V81K6V",
+        "ts": "1562846236.210500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "7D24EF61-1E89-4E5E-9F90-1C5155C96C52",
+        "type": "message",
+        "text": "<@U15V81K6V> использование GMM на данных, сгенерированных в sklearn.make_datasets несильно прокачают в кластеризации :D\n\nАномалий тоже не видел. Про другие платформы знаю. Я и сам каггл решаю, и на других площадках тоже ",
+        "user": "U9BDT48M8",
+        "ts": "1562847516.213300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "28c4851b-e7d3-4125-ba9a-0e0797e16323",
+        "type": "message",
+        "text": "аномалии время от времени в тренировках встречаются, попозже даже поищу. Это был пример. Там были и другие, где кластеризация докидывала.",
+        "user": "U15V81K6V",
+        "ts": "1562847659.213500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "c9c95b30-09fa-4e87-9f5e-c3c8a62a4772",
+        "type": "message",
+        "text": "<@U9BDT48M8> а какие ещё есть платформы? Мб там побольше табличных соревок",
+        "user": "UL95F64PP",
+        "ts": "1562848443.213900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "115e2e4a-7475-4177-abd8-c95eb422d147",
+        "type": "message",
+        "text": "Всем привет.\nНикто не проходил этот курс (они и оффлайн как я понял предлагают, но тут вопрос про онлайн) от BaseCamp?\nСсылка: <https:\/\/online.basecamp.ai\/p\/data-science-self-paced>",
+        "user": "U9ZU1CYUD",
+        "ts": "1562848482.214800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data Science in Python Self-paced",
+                "title_link": "https:\/\/online.basecamp.ai\/p\/data-science-self-paced",
+                "text": "Learn Data Science with Our Custom Curated Curriculum",
+                "fallback": "Data Science in Python Self-paced",
+                "image_url": "https:\/\/www.filepicker.io\/api\/file\/7jYY7WYET5Wn1UYnKTR2",
+                "from_url": "https:\/\/online.basecamp.ai\/p\/data-science-self-paced",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 81203,
+                "service_name": "online.basecamp.ai",
+                "id": 1,
+                "original_url": "https:\/\/online.basecamp.ai\/p\/data-science-self-paced"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CE10AAA9-D6E9-4444-B86D-B325878ECD51",
+        "type": "message",
+        "text": "<@UL95F64PP> ML Bootcamp, boosters, signate (там сейчас как раз два табличных соревнования)",
+        "user": "U9BDT48M8",
+        "ts": "1562848549.216200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "cee2b459-1470-49ef-84b5-a4d155b09a7c",
+        "type": "message",
+        "text": "Аригато, но там наверно нет такой инфраструктуры как на кэгле для обучения",
+        "user": "UL95F64PP",
+        "ts": "1562848673.216500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "ae057084-341d-4071-bd09-1523ad67245c",
+        "type": "message",
+        "text": "Про Каггла дельно совет дали, на практике всегда понятнее, плюс и интенсивность другая нежели на курсах где ты растягиваешь все на недели.",
+        "user": "U9ZU1CYUD",
+        "ts": "1562848727.216700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "EEE2E023-916F-42F6-B0AC-DBC1E53BFDF1",
+        "type": "message",
+        "text": "<@UL95F64PP> паблик кернелы только на Каггле есть - это да. В остальные соревнования надо полностью самому залетать.",
+        "user": "U9BDT48M8",
+        "ts": "1562848859.218000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9BDT48M8",
+            "ts": "1562848871.000000"
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "A8A0AEBA-AA13-4165-B851-A59A7EDAD76F",
+        "type": "message",
+        "text": "Вообще надо бы совмещать. Нужны и курсы, и каггл.\n\n На одном Каггле далеко не уедешь. Знания будут весьма поверхностные и зачастую без понимания, почему именно так, а не как-то иначе. Всегда руководствоваться одними эвристиками - такое себе. ",
+        "user": "U9BDT48M8",
+        "ts": "1562848954.220500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "66d026f3-3609-42a3-98ed-8f5501eabf8a",
+        "type": "message",
+        "text": "лол, сигнейт японский сайт чтоли. Хороший повод подтянуть японский язык :smile: Забавно что я ответил Аригато когда мне про него сказали, ведь я только щас открыл)",
+        "user": "UL95F64PP",
+        "ts": "1562854334.236000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL95F64PP",
+            "ts": "1562854364.000000"
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "36812B16-9FEE-41E1-9E59-BB77773C9EA7",
+        "type": "message",
+        "text": "Я фармакологию там потиху решил начать ковырять, так как возиться с категориальными переменными, написанные иероглифами, вообще неохота",
+        "user": "U9BDT48M8",
+        "ts": "1562855036.237600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "6e4059cf-a618-49c1-a006-408d3114204d",
+        "type": "message",
+        "text": "да и до дедлайна там побольше времени еще",
+        "user": "UL95F64PP",
+        "ts": "1562855422.237800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "F94611FF-E6FD-4BC2-925C-399061FCA264",
+        "type": "message",
+        "text": "Да времени и там, и там достаточно.",
+        "user": "U9BDT48M8",
+        "ts": "1562855756.238400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562774752.192900",
+        "parent_user_id": "UL95F64PP"
+    },
+    {
+        "client_msg_id": "27158304-3424-4f85-b992-3514466b9f1a",
+        "type": "message",
+        "text": "есть годнокурс по классическому CV (без сеток) на :python::opencv: с обилием практики? Уровень начальный.  Поиском пользовался, видел кучу хорошей литературы и лекций, но ищу отзывы именно на курсы в формате курсеры и т.д",
+        "user": "UDHJKLGLR",
+        "ts": "1562870019.241100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHJKLGLR",
+            "ts": "1562870880.000000"
+        },
+        "thread_ts": "1562870019.241100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1562928693.252200",
+        "reply_users": [
+            "U4WGFD012",
+            "U53E5MFNU",
+            "U6ZVBULGG",
+            "UL8LCMJAY"
+        ],
+        "replies": [
+            {
+                "user": "U4WGFD012",
+                "ts": "1562871188.241600"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1562871191.241800"
+            },
+            {
+                "user": "U6ZVBULGG",
+                "ts": "1562918510.248500"
+            },
+            {
+                "user": "UL8LCMJAY",
+                "ts": "1562927761.252000"
+            },
+            {
+                "user": "U6ZVBULGG",
+                "ts": "1562928693.252200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a61665e9-497c-4318-a74d-52c0e4e232e7",
+        "type": "message",
+        "text": "<https:\/\/pjreddie.com\/courses\/computer-vision\/>\nПравда тут `The class has 6 homeworks where you will build out a computer vision library in C. `",
+        "user": "U4WGFD012",
+        "ts": "1562871188.241600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4WGFD012",
+            "ts": "1562871261.000000"
+        },
+        "thread_ts": "1562870019.241100",
+        "parent_user_id": "UDHJKLGLR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDHJKLGLR",
+                    "UCNCULHSP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e96fb811-d8a0-4aa1-88b9-f9316d7eb954",
+        "type": "message",
+        "text": "воспользуйтесь поиском по этому и другим каналам, тема ни раз уже подымалась",
+        "user": "U53E5MFNU",
+        "ts": "1562871191.241800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562870019.241100",
+        "parent_user_id": "UDHJKLGLR",
+        "reactions": [
+            {
+                "name": "grammar",
+                "users": [
+                    "U60EETE7N",
+                    "U9HSZRDP1",
+                    "UL2QESVPB",
+                    "UCN51ML4S",
+                    "UHU64V2JJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "151A4DAE-DF4A-4F78-ABEF-520259CA3599",
+        "type": "message",
+        "text": "Здравствуйте. Относительно недавно на Каггле закончился конкурс на предсказание времени до землятресения (LANL), что меня подтолкнуло покопать в сторону изучения signal processing. Я в этом не знаю абсолютно ничего, поэтому искал что-то для начинающих и в формате курсеры (мне тамошние курсы очень хорошо в плане понимания заходят).\n\nНашёл вот такой курс (Digital Signal Processing | École Polytechnique Fédérale de Lausanne\n<https:\/\/www.coursera.org\/learn\/dsp>\n).\n\nМожет быть кто-то проходил и может поделиться мнением подойдёт ли начинающему? Заранее большое спасибо.\n",
+        "user": "U9BDT48M8",
+        "ts": "1562911936.247300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Digital Signal Processing | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/dsp",
+                "text": "Learn Digital Signal Processing from École Polytechnique Fédérale de Lausanne. Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of ...",
+                "fallback": "Coursera: Digital Signal Processing | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/dsp",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/dsp"
+            }
+        ],
+        "thread_ts": "1562911936.247300",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1562936737.256100",
+        "reply_users": [
+            "UCBR1BP37",
+            "U15V81K6V",
+            "U9BDT48M8",
+            "U6SCXUP6U"
+        ],
+        "replies": [
+            {
+                "user": "UCBR1BP37",
+                "ts": "1562912657.247500"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1562913723.247700"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1562926534.251800"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1562929771.252800"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1562930573.254300"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1562930645.254500"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1562932252.254800"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1562932826.255800"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1562936737.256100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "926055e1-8aee-4486-99dd-55927216264d",
+        "type": "message",
+        "text": "Да, в целом годный курс, лектор очень жоский товарищ, практика в целом не шибко сложная. В начале они так и позиционируют себя: \"Я ваш теоретик, готовьте попу. А я ваш практик, будем чиллить.\"",
+        "user": "UCBR1BP37",
+        "ts": "1562912657.247500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562911936.247300",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9BDT48M8",
+                    "UDD345XLG",
+                    "U6SCXUP6U"
+                ],
+                "count": 3
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U5H0L5T98",
+                    "U1BMURR5G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df46ac29-4747-428d-a03d-734b357db646",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/CH4JPJ4AD\/p1562705562094200>",
+        "user": "U15V81K6V",
+        "ts": "1562913723.247700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/CH4JPJ4AD\/p1562705562094200",
+                "fallback": "[July 9th, 2019 1:52 PM] wiskas85: нашла книжку по dsp, вот только не знаю, можно ли на нее опираться, она нормальная по качеству? Я пока новичок в этой области, сама оценить не могу: <http:\/\/www.dspguide.com\/pdfbook.htm>",
+                "ts": "1562705562.094200",
+                "author_id": "UHE741S5N",
+                "author_subname": "Evgeniya Chernomordova",
+                "channel_id": "CH4JPJ4AD",
+                "channel_name": "audio_and_speech",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "нашла книжку по dsp, вот только не знаю, можно ли на нее опираться, она нормальная по качеству? Я пока новичок в этой области, сама оценить не могу: <http:\/\/www.dspguide.com\/pdfbook.htm>",
+                "author_name": "Evgeniya Chernomordova",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UHE741S5N",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/46a412c3b9a50ea01d9b960d6d933bc7.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0009-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/CH4JPJ4AD\/p1562705562094200",
+                "footer": "Thread in #audio_and_speech"
+            }
+        ],
+        "thread_ts": "1562911936.247300",
+        "parent_user_id": "U9BDT48M8"
+    }
+]

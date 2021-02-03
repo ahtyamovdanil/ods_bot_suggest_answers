@@ -1,0 +1,629 @@
+[
+    {
+        "client_msg_id": "c512ecc0-b3ef-4cb8-9906-c1bae14ccdbb",
+        "type": "message",
+        "text": "А причем тут Райгородский? его нет среди преподов... Он на фотке для пиару)",
+        "user": "U15V81K6V",
+        "ts": "1596007237.016200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А причем тут Райгородский? его нет среди преподов... Он на фотке для пиару)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595967781.005600",
+        "parent_user_id": "UNMTRMDE0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULA9M7CM9",
+                    "U6HFSNFQR",
+                    "URC8G8CHM",
+                    "UQ9UCJT0T",
+                    "U5H49JQ21",
+                    "UE4CX9345",
+                    "U8GGBPGR3"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30ee454c-49f3-4259-8eef-63c2d2f63fb0",
+        "type": "message",
+        "text": "FYI:\n<https:\/\/www.edx.org\/course\/convex-optimization>\nКажется, что курс бесплатен и без особый дедлайнов (self-paced). Вроде не :slow:",
+        "user": "UCMC5J36D",
+        "ts": "1596015154.018100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCMC5J36D",
+            "ts": "1596015191.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Convex Optimization",
+                "title_link": "https:\/\/www.edx.org\/course\/convex-optimization",
+                "text": "This course concentrates on recognizing and solving convex optimization problems that arise in applications. The syllabus includes: convex sets, functions, and optimization problems; basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory, theorems of alternative, and applications; interior-point methods; applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.",
+                "fallback": "edX: Convex Optimization",
+                "thumb_url": "https:\/\/prod-discovery.edx-cdn.org\/media\/course\/image\/4a081c09-82b6-4c2c-b41c-75e995cafef8-8acb7c3ebedb.small.jpeg",
+                "from_url": "https:\/\/www.edx.org\/course\/convex-optimization",
+                "thumb_width": 378,
+                "thumb_height": 225,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/course\/convex-optimization"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/course\/convex-optimization"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nКажется, что курс бесплатен и без особый дедлайнов (self-paced). Вроде не "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596015154.018100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1596039743.022700",
+        "reply_users": [
+            "U04ELQZAU",
+            "UCMC5J36D"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1596039073.022500"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1596039743.022700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U5H0L5T98",
+                    "U6SCXUP6U",
+                    "U1BMURR5G",
+                    "U8BV7PKHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6SCXUP6U",
+                    "U70TZK6Q3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U8PMZ6397",
+                    "UNQQ84PUG",
+                    "U06J2SBQA",
+                    "U9BDT48M8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U8PMZ6397",
+                    "UE1B5L2Q0",
+                    "U06J2SBQA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "no-matlab",
+                "users": [
+                    "U6B2015B4",
+                    "UCMC5J36D",
+                    "UUHBNFF8X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13644689-682e-4f59-a240-bb0797a0c231",
+        "type": "message",
+        "text": "Там разношерстный состав преподавателей. Вот еще один ученик пишет: \"понравилось, но все же я пошёл на первый батч курса, когда он был один, сейчас их 15 кто ведёт я не знаю\". Могу дать его контакты.",
+        "user": "UD5FPR92Q",
+        "ts": "1596018321.020100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9g7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там разношерстный состав преподавателей. Вот еще один ученик пишет: \"понравилось, но все же я пошёл на первый батч курса, когда он был один, сейчас их 15 кто ведёт я не знаю\". Могу дать его контакты."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595238500.362900",
+        "parent_user_id": "U010H1QFSAU"
+    },
+    {
+        "client_msg_id": "b841be6e-e3cd-4155-b583-948ce2b784d7",
+        "type": "message",
+        "text": "<@UD5FPR92Q> Спасибо! Можно контакты в лс?",
+        "user": "U012T75MUSJ",
+        "ts": "1596018874.020400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0dded146bc15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1445680645205_0dded146bc15a8c9ee4a_72.jpg",
+            "first_name": "",
+            "real_name": "Vladislav Sokolov",
+            "display_name": "Vladislav Sokolov",
+            "team": "T040HKJE3",
+            "name": "sokol3107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x4pC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UD5FPR92Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Спасибо! Можно контакты в лс?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595238500.362900",
+        "parent_user_id": "U010H1QFSAU"
+    },
+    {
+        "client_msg_id": "625b2fc2-b52b-4943-9d14-98953f713ecf",
+        "type": "message",
+        "text": "Я вроде его ещё в 15-16 году видел... Или они его только сейчас в self paced режиме вернули?",
+        "user": "U04ELQZAU",
+        "ts": "1596039073.022500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я вроде его ещё в 15-16 году видел... Или они его только сейчас в self paced режиме вернули?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596015154.018100",
+        "parent_user_id": "UCMC5J36D"
+    },
+    {
+        "client_msg_id": "24a64972-a8a2-4cd9-92ca-624a54751581",
+        "type": "message",
+        "text": "Они его перенесли с закрывшейся stanford lagunita.  На edx его до этого вроде не было.",
+        "user": "UCMC5J36D",
+        "ts": "1596039743.022700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Они его перенесли с закрывшейся stanford lagunita.  На edx его до этого вроде не было."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596015154.018100",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f8da252-2678-4adf-a506-0314fbf4ff61",
+        "type": "message",
+        "text": "Что думаете про вот этот курс?\n<https:\/\/www.coursera.org\/specializations\/natural-language-processing>\nСодержание выглядит вполне привлекательным",
+        "user": "UQQCBTFS6",
+        "ts": "1596057177.024800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0bbddcb3b7e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bbddcb3b7e13a96d94f2711fdb50bf7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Redsun1988",
+            "display_name": "Redsun1988",
+            "team": "T040HKJE3",
+            "name": "redsun1988",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Natural Language Processing",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/natural-language-processing",
+                "text": "Offered by <http:\/\/deeplearning.ai|deeplearning.ai>. Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an AI-powered future. This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.",
+                "fallback": "Coursera: Natural Language Processing",
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 278328,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Что думаете про вот этот курс?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nСодержание выглядит вполне привлекательным"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596057177.024800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1596083826.026200",
+        "reply_users": [
+            "U0123QM5TJ6",
+            "U24FHECDD"
+        ],
+        "replies": [
+            {
+                "user": "U0123QM5TJ6",
+                "ts": "1596062406.025000"
+            },
+            {
+                "user": "U24FHECDD",
+                "ts": "1596083826.026200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U0123QM5TJ6",
+                    "U0167EP1S10"
+                ],
+                "count": 2
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "UA92L7ACC",
+                    "U0123QM5TJ6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "617ec235-153f-4ea9-8331-86eebf473864",
+        "type": "message",
+        "text": "Лучший из всех остальных неЫновских новоделов от <http:\/\/dl.ai|dl.ai>, но всё-равно со всеми атрибутами их поздних курсов, клиповыми полутораминутными видосами и компиляцией контента по принципу засовывания до кучи. Ещё у Юнеса акцент смешной, но объясняет доходчиво, почти как :andrewng:. Ну, и это всё по первому курсу специализации впечатления, их пока 2 только и вышло",
+        "user": "U0123QM5TJ6",
+        "ts": "1596062406.025000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4aa613fa5e54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-16\/1244076441987_4aa613fa5e547e1e9d89_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Dyminsky",
+            "display_name": "dymson",
+            "team": "T040HKJE3",
+            "name": "dymsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0wdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Лучший из всех остальных неЫновских новоделов от "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dl.ai",
+                                "text": "dl.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", но всё-равно со всеми атрибутами их поздних курсов, клиповыми полутораминутными видосами и компиляцией контента по принципу засовывания до кучи. Ещё у Юнеса акцент смешной, но объясняет доходчиво, почти как "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "andrewng"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Ну, и это всё по первому курсу специализации впечатления, их пока 2 только и вышло"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596057177.024800",
+        "parent_user_id": "UQQCBTFS6"
+    },
+    {
+        "client_msg_id": "33497040-ea96-4204-831f-8fab2f713d0a",
+        "type": "message",
+        "text": "<@UEVDB361K> это тема для долгой дискуссии )) в чем плюс им минус каждого подхода",
+        "user": "UHY5KKK6D",
+        "ts": "1596082749.026000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/\/c0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UEVDB361K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " это тема для долгой дискуссии )) в чем плюс им минус каждого подхода"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595949255.464100",
+        "parent_user_id": "U012D72V8KZ"
+    },
+    {
+        "client_msg_id": "1e4c11c5-35bc-4c8a-90ed-10d1746be153",
+        "type": "message",
+        "text": "Если хочешь руками кодить PCA и наивный байес, тебе сюда.",
+        "user": "U24FHECDD",
+        "ts": "1596083826.026200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24FHECDD",
+            "ts": "1596083867.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если хочешь руками кодить PCA и наивный байес, тебе сюда."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596057177.024800",
+        "parent_user_id": "UQQCBTFS6",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U9BDT48M8",
+                    "U0141U2R3JL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

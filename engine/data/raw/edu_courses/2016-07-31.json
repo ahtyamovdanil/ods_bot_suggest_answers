@@ -1,0 +1,696 @@
+[
+    {
+        "type": "message",
+        "text": "Кто сейчас проходит курс Воронцова на курсэре? Есть пара вопросов по домашкам третьей недели\nнужен человек который её прошел, потому что сделать-то я сделал, задания не сложные, но не пойму что с моим ответом не так, почему не принимает (может формат не тот, курсэра упала\/линукс пишет файл коряво...)",
+        "user": "U0ZHGTXP1",
+        "ts": "1469961898.000233",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd107b13ef10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cdd107b13ef10d4ebaf355497f4132cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kuznietsov",
+            "display_name": "mishmetall",
+            "team": "T040HKJE3",
+            "name": "mishmetall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04BFDYPV> вроде причастен к созданию этого курса. ",
+        "user": "U041LH06L",
+        "ts": "1469963000.000234",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Зайди на форум, через твои ошибки 99% уже кто-то проходил",
+        "user": "U0RV376MC",
+        "ts": "1469963859.000235",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0ZHGTXP1>: там постоянно были какие-то проблемы, то с тем что не принималось если вконце '\\n' то из-за юникода. У меня иногда заходило что-то вроде echo ответ&gt;файл.txt, но не всегда",
+        "user": "U0XQJK3NJ",
+        "ts": "1469964140.000236",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "67b610f3140b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-14\/50912578966_67b610f3140bf2cfdb11_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Popov",
+            "display_name": "zelcookie",
+            "team": "T040HKJE3",
+            "name": "zelcookie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вот я через echo и пишу- первые 2 недели все отлично,а тут не работает",
+        "user": "U0ZHGTXP1",
+        "ts": "1469964196.000237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd107b13ef10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cdd107b13ef10d4ebaf355497f4132cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kuznietsov",
+            "display_name": "mishmetall",
+            "team": "T040HKJE3",
+            "name": "mishmetall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0RV376MC>: да как-то всего пару тем и они свежие, где найти глобальный форум по всем годам?",
+        "user": "U0ZHGTXP1",
+        "ts": "1469964246.000238",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd107b13ef10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cdd107b13ef10d4ebaf355497f4132cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kuznietsov",
+            "display_name": "mishmetall",
+            "team": "T040HKJE3",
+            "name": "mishmetall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "форум чистится чтоли? лол",
+        "user": "U0RV376MC",
+        "ts": "1469964264.000239",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "не может быь",
+        "user": "U0RV376MC",
+        "ts": "1469964270.000240",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie\/discussions\/weeks\/3>",
+        "user": "U0RV376MC",
+        "ts": "1469964322.000241",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Week 3 | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie\/discussions\/weeks\/3",
+                "text": "Take free online classes from 140+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Week 3 | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie\/discussions\/weeks\/3",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ну да, 8 тем, все свежие",
+        "user": "U0ZHGTXP1",
+        "ts": "1469964355.000243",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd107b13ef10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cdd107b13ef10d4ebaf355497f4132cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kuznietsov",
+            "display_name": "mishmetall",
+            "team": "T040HKJE3",
+            "name": "mishmetall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "у меня 8 страниц вопросов\nВидимо, действительно подчищаются",
+        "user": "U0RV376MC",
+        "ts": "1469964386.000244",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он не чистится, а у каждого потока свой форум по сессиям",
+        "user": "U1R8X3V54",
+        "ts": "1469966596.000245",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "все, помогли в слаке форума\nоказалось что echo по дефолту таки ставит перенос строки",
+        "user": "U0ZHGTXP1",
+        "ts": "1469967580.000246",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd107b13ef10",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cdd107b13ef10d4ebaf355497f4132cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kuznietsov",
+            "display_name": "mishmetall",
+            "team": "T040HKJE3",
+            "name": "mishmetall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Всем привет! Сейчас в раздумье, стоит ли идти в школу биг дата от билайна, если прохожу специализацию от Мфти. Преподы, конечно, крутые перцы, но 100 т.р. сумма приличная.",
+        "user": "U1VJWFH44",
+        "ts": "1469968348.000247",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4014c522b62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e84014c522b62e6dc24baff74ae7cce9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Nikolaev",
+            "display_name": "nikser",
+            "team": "T040HKJE3",
+            "name": "nikser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "vonni",
+                "users": [
+                    "U0JHK9001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Что посоветуете?",
+        "user": "U1VJWFH44",
+        "ts": "1469968389.000248",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4014c522b62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e84014c522b62e6dc24baff74ae7cce9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Nikolaev",
+            "display_name": "nikser",
+            "team": "T040HKJE3",
+            "name": "nikser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1469968422000249> Как это? Туда за деньги можно? ",
+        "user": "U0DA4J82H",
+        "ts": "1469968846.000255",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1469968422000249",
+                "fallback": "[July 31st, 2016 5:33 AM] notabene: за 100 можно на первый семестр ШАДА пойти",
+                "ts": "1469968422.000249",
+                "author_subname": "notabene",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "за 100 можно на первый семестр ШАДА пойти",
+                "author_name": "Nikolay Bragin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/notabene",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "если отбор пройдешь, насколько я понимаю\nв смысле, \"чуть-чуть не дотянул до проходного на бесплатный\", а не просто \"shut up and take my money\"",
+        "user": "U04423D74",
+        "ts": "1469968932.000257",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g872041b5d45",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e8872041b5d452b82f08a3b9d88b679d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Upravitelev",
+            "display_name": "konhis",
+            "team": "T040HKJE3",
+            "name": "konhis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А ну если человек в состоянии пройти отбор, то наверное курсы за 100 тыс не нужны ",
+        "user": "U0DA4J82H",
+        "ts": "1469969002.000258",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А что там на курсах? Учат как на кагл логиниться?",
+        "user": "U0DA4J82H",
+        "ts": "1469969064.000259",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "slava",
+                "users": [
+                    "U0AS548A1",
+                    "U09JEC7V0",
+                    "U1FLG6YR1",
+                    "U040HKJE7"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "у них нормальная программа, проблема в том, что бэкграунд нужен приличный",
+        "user": "U1UM6S9KN",
+        "ts": "1469969182.000260",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "впрочем это <@U1UNFRQ1K>  может лучше всех рассказать",
+        "user": "U1UM6S9KN",
+        "ts": "1469969203.000261",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну в шад с улицы тоже не берут",
+        "user": "U0DA4J82H",
+        "ts": "1469969215.000262",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "в шад даже не всех с МГУ берут",
+        "user": "U1UM6S9KN",
+        "ts": "1469969246.000263",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1FLG6YR1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "trollface",
+                "users": [
+                    "U1CGKK865",
+                    "U04ELQZAU",
+                    "U17S9F6KV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Спасибо за советы",
+        "user": "U1VJWFH44",
+        "ts": "1469969289.000264",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4014c522b62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e84014c522b62e6dc24baff74ae7cce9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Nikolaev",
+            "display_name": "nikser",
+            "team": "T040HKJE3",
+            "name": "nikser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Платное обучение\nПоступающие, хорошо показавшие себя на собеседовании, но не прошедшие по общему конкурсу, смогут начать учиться на платной основе. Учиться за плату можно только в московском отделении.\nПлатная учёба ничем не отличается от бесплатной — нужно выполнять все те же непростые задания, укладываясь в жёсткие сроки.\nОбучение стоит 100 000 рублей за семестр. Если студент заканчивает семестр на «хорошо» и «отлично», стоимость обучения для него снижается до 50 000 за семестр. Сдавший на «хорошо» и «отлично» две сессии подряд дальше учится бесплатно.",
+        "user": "U1UM6S9KN",
+        "ts": "1469969492.000265",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Преподаем в ШД Билайна <@U0441TBSV> , <@U054DU76Y>, <@U041LH06L>, <@U0HCR6T43> и я. В целом программа очень насыщенная, даже слишком. Конечно, 100к - это дорого, и там почти все - корп клиенты.",
+        "user": "U1UNFRQ1K",
+        "ts": "1469969710.000266",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN>: в мгу куча раздолбов) было бы странно, если бы брали всех))",
+        "user": "U1R8X3V54",
+        "ts": "1469969817.000267",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Как будто студентом не были ",
+        "user": "U0AS548A1",
+        "ts": "1469971274.000270",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U040M0W0S",
+                    "U04ELQZAU",
+                    "U1MLEMG11",
+                    "U1R8X3V54",
+                    "U065VP6F7"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt; даже\n\nбудто если человек учится в &lt;UNIVERSITY_NAME&gt;, то он однозначно шарит",
+        "user": "U1CGKK865",
+        "ts": "1469971450.000271",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CGKK865",
+            "ts": "1469971470.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0AS548A1",
+                    "U0RV376MC",
+                    "U1R8X3V54",
+                    "U1D6DT6HE",
+                    "U0QTS1LRF",
+                    "U065VP6F7",
+                    "U17S9F6KV",
+                    "U6YEN210D"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469995378.000273",
+        "user": "U1WPQU1NF",
+        "text": "<@U1WPQU1NF> has joined the channel"
+    }
+]

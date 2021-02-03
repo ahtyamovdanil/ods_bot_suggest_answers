@@ -1,0 +1,765 @@
+[
+    {
+        "client_msg_id": "4ae73e03-9ef8-429a-a14d-8ee9b10ff8af",
+        "type": "message",
+        "text": "Но если хочется развиваться, без англ хотя бы на средненьком уровне будет крайне сложно",
+        "user": "UDHJKLGLR",
+        "ts": "1599289545.259300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но если хочется развиваться, без англ хотя бы на средненьком уровне будет крайне сложно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233450.233100",
+        "parent_user_id": "U01AEBPE3UH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UU6LQEZFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3EE8F371-13C3-4DEF-8687-36FA634C137E",
+        "type": "message",
+        "text": "Если вопрос все же про курсы на русском, то, как мне видится, есть ещё незанятые ниши. Например, чего я не видел на просторах курсеры\/степика итд, но что хотелось бы увидеть:\n\n1) мл на графах (да и в англоязычном варианте вроде бы ничего кроме cs224w нет)\n\n2) хороший курс по временным рядам, где в начале помимо классических ARMA\/ARIMA разбирались бы всякие ARCH, GARCH, EGARCH итд, и потом постепенно бы приходили к CNN\/RNN на временных рядах итд. Если б кто-то сделал такой курс, с хорошими домашками ещё, то цены бы не было. \n\n3) не мл, но статистика. Хотелось бы основательного курса по чуть более продвинутой статистике и терверу, чем то, что даётся в большинстве нынешних курсов. А именно не хватает байесовской статистики, Марковских цепей и скрытых марковских моделей, MCMC итд. \n\nВ том или ином виде это есть в англоязычном варианте, либо же в лекциях Сергея Николенко на ютубе. Но во втором случае нет домашек.",
+        "user": "U9BDT48M8",
+        "ts": "1599293382.272400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если вопрос все же про курсы на русском, то, как мне видится, есть ещё незанятые ниши. Например, чего я не видел на просторах курсеры\/степика итд, но что хотелось бы увидеть:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1) мл на графах (да и в англоязычном варианте вроде бы ничего кроме cs224w нет)\n\n2) хороший курс по временным рядам, где в начале помимо классических ARMA\/ARIMA разбирались бы всякие ARCH, GARCH, EGARCH итд, и потом постепенно бы приходили к CNN\/RNN на временных рядах итд. Если б кто-то сделал такой курс, с хорошими домашками ещё, то цены бы не было. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3) не мл, но статистика. Хотелось бы основательного курса по чуть более продвинутой статистике и терверу, чем то, что даётся в большинстве нынешних курсов. А именно не хватает байесовской статистики, Марковских цепей и скрытых марковских моделей, MCMC итд. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "В том или ином виде это есть в англоязычном варианте, либо же в лекциях Сергея Николенко на ютубе. Но во втором случае нет домашек."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "07a75b95-76b0-4c16-bd41-15681341542b",
+        "type": "message",
+        "text": "<@U9BDT48M8> а чем тебе от CSC не угодил по статистике?\nтесты\n<https:\/\/compscicenter.ru\/courses\/math-stat\/2015-spring\/classes\/>\n\nграфические модели и байесовские методы это к Николенко\n\n<https:\/\/www.youtube.com\/watch?v=ipQKvLhMrDc&amp;list=PLwdBkWbW0oHEE-eO3EmAXCtrpOHIWlzbT&amp;ab_channel=SergeyNikolenko>\n\n<https:\/\/www.youtube.com\/watch?v=dVm6LKr9rLY&amp;list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z&amp;ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC>",
+        "user": "U15V81K6V",
+        "ts": "1599298885.274800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Математическая статистика, весна 2015",
+                "title_link": "https:\/\/compscicenter.ru\/courses\/math-stat\/2015-spring\/classes\/",
+                "text": "Computer Science Center — объединённая инициатива Школы анализа данных, Computer Science клуба и JetBrains.",
+                "fallback": "Математическая статистика, весна 2015",
+                "from_url": "https:\/\/compscicenter.ru\/courses\/math-stat\/2015-spring\/classes\/",
+                "service_icon": "https:\/\/compscicenter.ru\/static\/v2\/img\/favicon.4476e25ba94d.png",
+                "service_name": "compscicenter.ru",
+                "id": 1,
+                "original_url": "https:\/\/compscicenter.ru\/courses\/math-stat\/2015-spring\/classes\/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "СПбГУ -- Машинное обучение -- стрим 21 марта -- Графические вероятностные модели 1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ipQKvLhMrDc&amp;ab_channel=SergeyNikolenko",
+                "author_name": "Sergey Nikolenko",
+                "author_link": "https:\/\/www.youtube.com\/user\/sinikolenko",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ipQKvLhMrDc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: СПбГУ -- Машинное обучение -- стрим 21 марта -- Графические вероятностные модели 1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ipQKvLhMrDc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ipQKvLhMrDc&amp;ab_channel=SergeyNikolenko",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ipQKvLhMrDc&amp;list=PLwdBkWbW0oHEE-eO3EmAXCtrpOHIWlzbT&amp;ab_channel=SergeyNikolenko"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Лекция 1 | Основы байесовского вывода | Сергей Николенко | Лекториум",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dVm6LKr9rLY&amp;ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC",
+                "author_name": "Лекториум",
+                "author_link": "https:\/\/www.youtube.com\/user\/OpenLektorium",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dVm6LKr9rLY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Лекция 1 | Основы байесовского вывода | Сергей Николенко | Лекториум",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dVm6LKr9rLY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dVm6LKr9rLY&amp;ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dVm6LKr9rLY&amp;list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z&amp;ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=a0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U9BDT48M8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а чем тебе от CSC не угодил по статистике?\nтесты\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compscicenter.ru\/courses\/math-stat\/2015-spring\/classes\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nграфические модели и байесовские методы это к Николенко\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ipQKvLhMrDc&list=PLwdBkWbW0oHEE-eO3EmAXCtrpOHIWlzbT&ab_channel=SergeyNikolenko"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dVm6LKr9rLY&list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z&ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "8ee723d5-6f9d-4ea2-a70f-40fb60ae4f2c",
+        "type": "message",
+        "text": "Но присоединюсь - нет хорошого курса по рядам временным, включая нейросетевые подходы.\n\nТак же нет курса по Рекомендательным системам (единственный курс - от Мичигана на курсере по основам)",
+        "user": "U15V81K6V",
+        "ts": "1599298966.275100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1599298975.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qH8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но присоединюсь - нет хорошого курса по рядам временным, включая нейросетевые подходы.\n\nТак же нет курса по Рекомендательным системам (единственный курс - от Мичигана на курсере по основам)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "8e59a576-4093-4af4-8090-2d09b8e614f4",
+        "type": "message",
+        "text": "МЛ, который на русском посредственный, как будто 2 лагеря есть:\n1. есть мфти специализация и <http:\/\/mlcourse.ai|mlcourse.ai> - entry lvl не супер мега, но для быстрого старта самое то\n2. Есть де факто золотой стандарт курс Воронцова - курс охватывает огромный набор тем, но подача на слайдах совсем не понравилась, подача материала тоже посредственная - очень скучно, а то и нудно слушать (мое смещенное мнение). Хотелось бы что в таком духе (вот такого уже на русском и нет - уже скажем более продвинутого курса, со списком тем как у Воронцова, но где каждый шаг тебе расписали и объяснили - такой уже medium или adv lvl, у Воронцова потом еще нужно долго и нудно лекции штудировать, а хотелось бы лекция - как shortcut, вот у этих ребят они самодостаточные)\n <https:\/\/www.youtube.com\/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&amp;app=desktop&amp;ab_channel=KilianWeinberger>\n\n<https:\/\/www.youtube.com\/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk>",
+        "user": "U15V81K6V",
+        "ts": "1599299288.275600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1599299379.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "CORNELL CS4780 \"Machine Learning for Intelligent Systems\"",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&app=desktop&ab_channel=KilianWeinberger",
+                "text": "Cornell class CS4780. Written lecture notes: <http:\/\/www.cs.cornell.edu\/courses\/cs4780\/2018fa\/lectures\/index.html> Official class webpage: <http:\/\/www.cs.cornel>...",
+                "fallback": "YouTube: CORNELL CS4780 \"Machine Learning for Intelligent Systems\"",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MrLPzBxG95I\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBoeawBLHWaz6EKMktIUE9fajuFYg",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&app=desktop&ab_channel=KilianWeinberger",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/ebcf1b0f\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&amp;app=desktop&amp;ab_channel=KilianWeinberger"
+            },
+            {
+                "service_name": "YouTube",
+                "title": "[CMU] 10 - 301\/601 - Introduction to Machine Learning - Spring 2020",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk",
+                "text": "Course Overview: Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that le...",
+                "fallback": "YouTube: [CMU] 10 - 301\/601 - Introduction to Machine Learning - Spring 2020",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tbR5exuWrq8\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBYDT3zPEYERUfRhFQNlLpFbHekyg",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/ebcf1b0f\/img\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yj+NG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "МЛ, который на русском посредственный, как будто 2 лагеря есть:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "есть мфти специализация и "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/mlcourse.ai",
+                                        "text": "mlcourse.ai"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - entry lvl не супер мега, но для быстрого старта самое то"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Есть де факто золотой стандарт курс Воронцова - курс охватывает огромный набор тем, но подача на слайдах совсем не понравилась, подача материала тоже посредственная - очень скучно, а то и нудно слушать (мое смещенное мнение). Хотелось бы что в таком духе (вот такого уже на русском и нет - уже скажем более продвинутого курса, со списком тем как у Воронцова, но где каждый шаг тебе расписали и объяснили - такой уже medium или adv lvl, у Воронцова потом еще нужно долго и нудно лекции штудировать, а хотелось бы лекция - как shortcut, вот у этих ребят они самодостаточные)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&app=desktop&ab_channel=KilianWeinberger"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "3712b002-75d4-44b2-ba99-f9f9457b7e6d",
+        "type": "message",
+        "text": "&gt;  курс Воронцова\nОн очень крутой, но там столько математики... это в жизни мало кому понадобится",
+        "user": "U4ZRFG1V0",
+        "ts": "1599299441.276000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tg0F",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " курс Воронцова"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Он очень крутой, но там столько математики... это в жизни мало кому понадобится"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "5c894fd4-cd02-459f-b2dc-61dc032d7ac2",
+        "type": "message",
+        "text": "та я не спорю что он крутой, ну как бы препод на слайдах показывает какая там математика -суть чтобы ты понимал как это точно под капотом работает. И по этим слайдам тяжеловато все соединить. А когда тебе это на доске нарисовали или на планшетнике (как CMU) сразу становится понятно как это работает - Воронцов дает все тоже самое, только на слайдах выводит формулу и ее объясняет - но это не очень как-то воспринимается",
+        "user": "U15V81K6V",
+        "ts": "1599299653.276200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1599299727.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "та я не спорю что он крутой, ну как бы препод на слайдах показывает какая там математика -суть чтобы ты понимал как это точно под капотом работает. И по этим слайдам тяжеловато все соединить. А когда тебе это на доске нарисовали или на планшетнике (как CMU) сразу становится понятно как это работает - Воронцов дает все тоже самое, только на слайдах выводит формулу и ее объясняет - но это не очень как-то воспринимается"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "9D296500-9E6F-4D25-9786-ED714354593D",
+        "type": "message",
+        "text": "<@U15V81K6V> 1) курс неплохой, но он все же рассчитан на тех, кто только начинает изучать матстат, а хотелось бы чего-то продвинутее \n2) про лекции Николенко на ютубе я говорил. Хочется именно курса — во-первых, так исключается вода, во-вторых, домашки ",
+        "user": "U9BDT48M8",
+        "ts": "1599300110.279000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U15V81K6V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1) курс неплохой, но он все же рассчитан на тех, кто только начинает изучать матстат, а хотелось бы чего-то продвинутее \n2) про лекции Николенко на ютубе я говорил. Хочется именно курса — во-первых, так исключается вода, во-вторых, домашки "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "fbfb38b0-1db4-47f6-9edc-39ec257a0264",
+        "type": "message",
+        "text": "курс - имеешь в виду домашки?",
+        "user": "U15V81K6V",
+        "ts": "1599300164.279200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34q8F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "курс - имеешь в виду домашки?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "client_msg_id": "A293EB96-3298-42BA-B261-BC23032D0C6D",
+        "type": "message",
+        "text": "Ага. Так все же гораздо быстрее становится понятным, действительно ли ты усвоил изложенный в лекции материал или нет",
+        "user": "U9BDT48M8",
+        "ts": "1599300295.280400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vq5l4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ага. Так все же гораздо быстрее становится понятным, действительно ли ты усвоил изложенный в лекции материал или нет"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599233380.231900",
+        "parent_user_id": "U01AEBPE3UH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599300830.280900",
+        "user": "UG8FT46NS",
+        "text": "<@UG8FT46NS> has joined the channel",
+        "inviter": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "b311a31c-d477-44dd-969b-f12e056107ec",
+        "type": "message",
+        "text": "~Всем привет. Не знаю сюда ли писать....\nВ курсе на STEPIK под названием \"Ведение в Data science и машинное обучение\" заблокированы задания. Я обратился в группу KARPOV ANALYTICS, которая курьирует этот курс. Они не смогли решить вопрос и посоветовали обращаться в SLACK. Может кто-нибуль подскажет куда писать? Спасибо~",
+        "user": "U01894DRP45",
+        "ts": "1599305793.285800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ad7957f7854",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-05\/1306387661424_2ad7957f785424619a5a_72.jpg",
+            "first_name": "Navakhatska",
+            "real_name": "Navakhatska Taras",
+            "display_name": "Taras",
+            "team": "T040HKJE3",
+            "name": "novokhatsko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01894DRP45",
+            "ts": "1599305971.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "od2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет. Не знаю сюда ли писать....\nВ курсе на STEPIK под названием \"Ведение в Data science и машинное обучение\" заблокированы задания. Я обратился в группу KARPOV ANALYTICS, которая курьирует этот курс. Они не смогли решить вопрос и посоветовали обращаться в SLACK. Может кто-нибуль подскажет куда писать? Спасибо",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599305793.285800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1599306345.286300",
+        "reply_users": [
+            "U6ME568D7"
+        ],
+        "replies": [
+            {
+                "user": "U6ME568D7",
+                "ts": "1599306345.286300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01894DRP45"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bimorf",
+                "users": [
+                    "U5GCU82HX",
+                    "URG5X6T6H",
+                    "UJG3W0SSZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "balashikha",
+                "users": [
+                    "U019HTFAWJY",
+                    "UGRFZ1DS5",
+                    "U01241EEUV9",
+                    "U4WGFD012",
+                    "U6ME568D7"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b387533a-4d84-4912-9f4f-a8abb48047f8",
+        "type": "message",
+        "text": "По две чайных ложки, перед едой.",
+        "user": "U6ME568D7",
+        "ts": "1599306345.286300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g703e6d7a3a0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76703e6d7a3a0de7a86e623480abc90d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "Sergey",
+            "team": "T040HKJE3",
+            "name": "greysr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ro8wX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "По две чайных ложки, перед едой."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599305793.285800",
+        "parent_user_id": "U01894DRP45",
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U01241EEUV9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

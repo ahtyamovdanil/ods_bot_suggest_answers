@@ -1,0 +1,571 @@
+[
+    {
+        "client_msg_id": "739799aa-3910-4f29-b79c-61a44f1fd43b",
+        "type": "message",
+        "text": "Привет всем, \nПосоветуйте пожалуйста не очень большой и толковый курс или книжку (не огромную) по визуализациям. \nЖелательно, чтоб python и если чтоб что то относительно новое использовалось.",
+        "user": "UCLP3KS9M",
+        "ts": "1574622054.272900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0a3a318b23c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/730844103686_f0a3a318b23cde798243_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Shestopalov",
+            "display_name": "vchulski",
+            "team": "T040HKJE3",
+            "name": "vdmshestopalov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/OI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет всем, \nПосоветуйте пожалуйста не очень большой и толковый курс или книжку (не огромную) по визуализациям. \nЖелательно, чтоб python и если чтоб что то относительно новое использовалось."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1574663798.277500",
+        "reply_users": [
+            "UCLP3KS9M",
+            "U4ZRFG1V0",
+            "U2N853RGF",
+            "U6Z21KSBC",
+            "U60EETE7N"
+        ],
+        "replies": [
+            {
+                "user": "UCLP3KS9M",
+                "ts": "1574622108.273000"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1574623263.273800"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1574623637.274400"
+            },
+            {
+                "user": "UCLP3KS9M",
+                "ts": "1574623828.275100"
+            },
+            {
+                "user": "U6Z21KSBC",
+                "ts": "1574626506.275700"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1574663798.277500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e3d4ccb5-7525-45b2-a577-be7298ed49b7",
+        "type": "message",
+        "text": "<@U4ZRFG1V0> возможно у тебя есть что-то крутое в закладках, как у мастера этого дела?",
+        "user": "UCLP3KS9M",
+        "ts": "1574622108.273000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0a3a318b23c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/730844103686_f0a3a318b23cde798243_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Shestopalov",
+            "display_name": "vchulski",
+            "team": "T040HKJE3",
+            "name": "vdmshestopalov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCLP3KS9M",
+            "ts": "1574622115.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4ZRFG1V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " возможно у тебя есть что-то крутое в закладках, как у мастера этого дела?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M"
+    },
+    {
+        "client_msg_id": "46e1624f-df7b-45a2-b402-9d3672647b4b",
+        "type": "message",
+        "text": "курса\/книги у меня нет, могу отдельные вещи посоветовать:\n<https:\/\/towardsdatascience.com\/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57> - визуализация многомерных данных\n<https:\/\/altair-viz.github.io\/gallery\/index.html> - примеры визуализаций\n<https:\/\/github.com\/ft-interactive\/chart-doctor\/tree\/master\/visual-vocabulary> - полезный мини-гайд о том, когда и какие графики использовать\n<https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/>\n<https:\/\/medium.com\/nightingale\/style-guidelines-92ebe166addc>",
+        "user": "U4ZRFG1V0",
+        "ts": "1574623263.273800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4ZRFG1V0",
+            "ts": "1574623281.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hN53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "курса\/книги у меня нет, могу отдельные вещи посоветовать:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - визуализация многомерных данных\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/altair-viz.github.io\/gallery\/index.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - примеры визуализаций\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ft-interactive\/chart-doctor\/tree\/master\/visual-vocabulary"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - полезный мини-гайд о том, когда и какие графики использовать\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/nightingale\/style-guidelines-92ebe166addc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M",
+        "reactions": [
+            {
+                "name": "omgtnx",
+                "users": [
+                    "UCLP3KS9M",
+                    "UQA99P33P",
+                    "UHR5RDQBD",
+                    "UQHTAPEG1",
+                    "UDWRHJB2L",
+                    "U6UNGFSMQ",
+                    "UGVJEKKB8",
+                    "UGRFZ1DS5",
+                    "UDK41MN5U",
+                    "UEFGL4WP7",
+                    "UJXD6KQPN",
+                    "UM5CR4AR4",
+                    "UCMK5TDME",
+                    "UDRVCKGU8",
+                    "UEP8V5FM5",
+                    "U0SDR70LC",
+                    "ULA9M7CM9",
+                    "ULWUV13Q9",
+                    "U8TDZ6856",
+                    "UGD0X48UC",
+                    "U9GSXPX6G",
+                    "U016X9LFMPA"
+                ],
+                "count": 22
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U48AFP5RD",
+                    "UG8K6LD6D",
+                    "UDRVCKGU8",
+                    "ULA9M7CM9",
+                    "U8TDZ6856",
+                    "U01CJF3K3P0"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "ULA9M7CM9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "ULA9M7CM9",
+                    "UL94X7JEL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "artgor",
+                "users": [
+                    "UELA14HSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d07a166e-d123-4650-b2f4-6659efd3c20c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=l7_h5OJGEZo>",
+        "user": "U2N853RGF",
+        "ts": "1574623637.274400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Lecture 13 - Practice of Data Visualization",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=l7_h5OJGEZo",
+                "author_name": "Steven Skiena",
+                "author_link": "https:\/\/www.youtube.com\/user\/StevenSkiena",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/l7_h5OJGEZo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Lecture 13 - Practice of Data Visualization",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/l7_h5OJGEZo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=l7_h5OJGEZo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=l7_h5OJGEZo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xlt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=l7_h5OJGEZo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4ZRFG1V0",
+                    "UQHTAPEG1",
+                    "U48AFP5RD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "omgtnx",
+                "users": [
+                    "UCLP3KS9M",
+                    "UJXD6KQPN",
+                    "U0SDR70LC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4bd413f-673e-4ef7-a8e4-746a92487746",
+        "type": "message",
+        "text": "Спасибо!",
+        "user": "UCLP3KS9M",
+        "ts": "1574623828.275100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0a3a318b23c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/730844103686_f0a3a318b23cde798243_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Shestopalov",
+            "display_name": "vchulski",
+            "team": "T040HKJE3",
+            "name": "vdmshestopalov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xHmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M"
+    },
+    {
+        "client_msg_id": "c31e1a8c-ed30-4f56-85d3-f54f4cd14a6c",
+        "type": "message",
+        "text": "Francois Collet",
+        "user": "UQNSNJM3K",
+        "ts": "1574624210.275300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "811244a0a9f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-25\/836384348178_811244a0a9f42a2823b1_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Dudchenko",
+            "display_name": "Poltigo",
+            "team": "T040HKJE3",
+            "name": "igordudchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sS4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Francois Collet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1573761265.150800",
+        "parent_user_id": "UNTCGJD8Q"
+    },
+    {
+        "client_msg_id": "f33cd920-4602-4ce6-af21-c1bd04eb4352",
+        "type": "message",
+        "text": "И еще Aurellion Geron Hands on machine learning,  только 2 издание - одна из лучших книг по ml в принципе",
+        "user": "UQNSNJM3K",
+        "ts": "1574624293.275500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "811244a0a9f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-25\/836384348178_811244a0a9f42a2823b1_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Dudchenko",
+            "display_name": "Poltigo",
+            "team": "T040HKJE3",
+            "name": "igordudchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7A6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "И еще Aurellion Geron Hands on machine learning,  только 2 издание - одна из лучших книг по ml в принципе"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1573761265.150800",
+        "parent_user_id": "UNTCGJD8Q"
+    },
+    {
+        "client_msg_id": "423a6e7d-dfd9-464e-9c49-64b9f4a35c79",
+        "type": "message",
+        "text": "можно посмотреть запиненные в <#C04655480|visualization>",
+        "user": "U6Z21KSBC",
+        "ts": "1574626506.275700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83c208ecba22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-05\/429449118643_83c208ecba22effb0557_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Zavgorodnii",
+            "display_name": "nj",
+            "team": "T040HKJE3",
+            "name": "nikitaj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ao5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "можно посмотреть запиненные в "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04655480"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M",
+        "reactions": [
+            {
+                "name": "omgtnx",
+                "users": [
+                    "UCLP3KS9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "801c2686-116d-408a-9f13-3aba2555d02c",
+        "type": "message",
+        "text": "Tufte",
+        "user": "U60EETE7N",
+        "ts": "1574663798.277500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574622054.272900",
+        "parent_user_id": "UCLP3KS9M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U24FHECDD",
+                    "U6Z21KSBC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "omgtnx",
+                "users": [
+                    "UCLP3KS9M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "no",
+                "users": [
+                    "U1HHX1QS3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

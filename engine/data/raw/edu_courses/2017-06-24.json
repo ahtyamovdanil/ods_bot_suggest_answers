@@ -1,0 +1,278 @@
+[
+    {
+        "type": "message",
+        "text": "vazquez: 这是很好, 真的滑稽",
+        "user": "U45603VGE",
+        "ts": "1498290211.376574",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbe2fbc05896",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4bbe2fbc058967d77a4d955bc011daf1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Susin",
+            "display_name": "isusin",
+            "team": "T040HKJE3",
+            "name": "isusin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498233841.204067",
+        "parent_user_id": "U496NEBD2"
+    },
+    {
+        "type": "message",
+        "text": "<@U0J1U64FK> почему :-1: ?",
+        "user": "U14BPHDK6",
+        "ts": "1498291021.411449",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498232698.765446",
+        "parent_user_id": "U14BPHDK6"
+    },
+    {
+        "type": "message",
+        "text": "рискну предположить, что <@U0J1U64FK> смутил некоторый, политический окрас, страницы автора курсов, хотя я, ничего такого не имел ввиду :smile:, автор хорошо и очень подробно(иногда слишком подробно) раскрывает основные вопросы Java, а его политические и иные убеждения его лично дело, пусть хоть Ктулху жертвы приносит в процессе провидения лекций :slightly_smiling_face: Я по java посмотрел наверное все курсы которые выходили года так до 2014 (потом решил, что знаю достаточно много :D) Надо учесть, что в DS ява не удобна, после питона и какого-нить scikit-learn, WEKA кажется недоразумением, всякие apache mahout легаси от которого лучше прятаться и отказываться использовать даже под пытками, spark ml можно готовить на java (я даже знаю людей которые делают так в проде! :D) но это не очень удобно(+ если в нем, что-то ломается\/работает не так как надо, а это обычная история, надо разбирать его сорцы, а они таки на Scala),  возможно <http:\/\/H2O.ai|H2O.ai> может мотивировать использовать java, но в общем-то и его удобнее использовать из Scala :slightly_smiling_face:",
+        "user": "U4M771QHX",
+        "ts": "1498293387.531952",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac7dc634508",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/edac7dc63450837695a7f9586cfce997.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Kobets",
+            "display_name": "skobets",
+            "team": "T040HKJE3",
+            "name": "skobets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4M771QHX",
+            "ts": "1498293512.000000"
+        },
+        "thread_ts": "1498232698.765446",
+        "parent_user_id": "U14BPHDK6",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/probability-theory-basics>",
+        "user": "U1UM6S9KN",
+        "ts": "1498294013.560118",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Теория вероятностей для начинающих | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/probability-theory-basics",
+                "text": "Теория вероятностей для начинающих from Moscow Institute of Physics and Technology. Теория вероятностей - это, вне всякого сомнения, один из самых важных и богатых приложениями разделов современной математики. С помощью методов этой ...",
+                "fallback": "Coursera: Теория вероятностей для начинающих | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/9c\/6d5ab05b0311e58c5b5104eb6e83b9\/brobth.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/probability-theory-basics",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498152439.585915",
+        "parent_user_id": "U5J0XPR0W"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[June 16th, 2017 5:46 AM] evgenii.vasilev: Про мыслить векторно, вот это хорошая книжка про NumPy и SciPy <http:\/\/www.labri.fr\/perso\/nrougier\/from-python-to-numpy\/>",
+                "ts": "1497617215.599971",
+                "author_id": "U4WMPCB7W",
+                "author_subname": "Evgenii Vasilev",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Про мыслить векторно, вот это хорошая книжка про NumPy и SciPy <http:\/\/www.labri.fr\/perso\/nrougier\/from-python-to-numpy\/>",
+                "author_name": "Evgenii Vasilev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U4WMPCB7W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1498295875.645757"
+    },
+    {
+        "type": "message",
+        "text": "да почитай книжку + порешай задачки на java. Быстро освоишь)",
+        "user": "U30LWK54N",
+        "ts": "1498300459.853040",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73003e609aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-19\/170963013539_73003e609aa2613ee50c_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Chernov",
+            "display_name": "checho",
+            "team": "T040HKJE3",
+            "name": "checho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498232698.765446",
+        "parent_user_id": "U14BPHDK6",
+        "reactions": [
+            {
+                "name": "no",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Дискру наверное тоже лучше его. Даже можно сложный вариант выбрать, на курсере их два у Райгородского",
+        "user": "U3T5QEDJ8",
+        "ts": "1498301971.920201",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498152439.585915",
+        "parent_user_id": "U5J0XPR0W"
+    },
+    {
+        "type": "message",
+        "text": "Но сложный всяко лучше после простого, особенно если дискра первый раз в жизни",
+        "user": "U3T5QEDJ8",
+        "ts": "1498302000.921517",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498152439.585915",
+        "parent_user_id": "U5J0XPR0W"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498310352.336915",
+        "user": "U1V5J3RCL",
+        "text": "<@U1V5J3RCL> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498329951.588749",
+        "user": "U302AALBS",
+        "text": "<@U302AALBS> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U14BPHDK6> качество курсов сомнительное, основная проблема в том, что у автора курсов нет большого практического опыта применения того, о чем он рассказывает, поэтому я бы не советовал его курсы. И моё мнение об авторе совсем испортилось, когда узнал о том, как он разводит людей\n<https:\/\/ebanoe.it\/tag\/ivan-golovach\/>\n\nОднако, multicore курс у него хороший, я его частично смотрел, и вполне могу рекомендовать. Другое дело в том, что для новичка это не подходит, и принимая репутацию тренера, я поставил :-1:",
+        "user": "U0J1U64FK",
+        "ts": "1498355099.773222",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d094b0fd852f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-04\/1477399666882_d094b0fd852f8fd572fd_72.png",
+            "first_name": "omnislash",
+            "real_name": "omnislash",
+            "display_name": "omnislash",
+            "team": "T040HKJE3",
+            "name": "vadim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Иван Головач",
+                "title_link": "https:\/\/ebanoe.it\/tag\/ivan-golovach\/",
+                "text": "Ебаное айти",
+                "fallback": "Иван Головач",
+                "from_url": "https:\/\/ebanoe.it\/tag\/ivan-golovach\/",
+                "service_icon": "https:\/\/ebanoe.it\/wp-content\/uploads\/2015\/12\/cropped-1-011.jpg",
+                "service_name": "ebanoe.it",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498232698.765446",
+        "parent_user_id": "U14BPHDK6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

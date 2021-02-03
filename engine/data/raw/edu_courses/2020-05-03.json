@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "caa01924-78c3-4978-8607-45c5721d6e5c",
+        "type": "message",
+        "text": "Вариант с одновременным написанием нескольких заявок действительно оказался рабочим. Думал, что следующую заявку можно написать только при условии прохождения предыдущего курса, а оказалось, что можно тупо скопом накатать. Спасибо!",
+        "user": "UF54XM59N",
+        "ts": "1588499361.207200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g80529f0c4bd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f080529f0c4bd82d49fcb0c188ef3d31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Mikhail Smirnov",
+            "display_name": "bonanza",
+            "team": "T040HKJE3",
+            "name": "mdsmirnovbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CwAkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вариант с одновременным написанием нескольких заявок действительно оказался рабочим. Думал, что следующую заявку можно написать только при условии прохождения предыдущего курса, а оказалось, что можно тупо скопом накатать. Спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588395540.196100",
+        "parent_user_id": "UF54XM59N"
+    },
+    {
+        "client_msg_id": "c1ab68ef-2793-40cd-a89f-c0a043a516bc",
+        "type": "message",
+        "text": "Пишешь заявку не дожидаясь окончания предыдущего курса, пока допроходишь курс, проходит срок рассмотрения.",
+        "user": "U6YAWLK25",
+        "ts": "1588511101.207800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "175eb3152e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-11\/781241840563_175eb3152e5f26a90043_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Markelov",
+            "display_name": "Aleksandr",
+            "team": "T040HKJE3",
+            "name": "smarkelov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YS\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Пишешь заявку не дожидаясь окончания предыдущего курса, пока допроходишь курс, проходит срок рассмотрения."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588395540.196100",
+        "parent_user_id": "UF54XM59N"
+    },
+    {
+        "client_msg_id": "190eeae9-bf0d-44ae-af64-30a2b96ca4df",
+        "type": "message",
+        "text": "Всем привет. Недавно на coursera появилась нова специализация - AI for Medicine (<https:\/\/www.coursera.org\/specializations\/ai-for-medicine>). Она состоит из трёх курсов. Первый курс AI for Medical Diagnosis повествует о работе с картинками и рассчитан на 3 недели или 20 часов. Хочу поделиться с вами мнением о нём.\n\nЗакончил я его примерно за день. Чего точно не стоит ждать от курса: объяснения основ нейронок, рассказа о том как лучше учить сети, к слову тут их вообще учить не придётся. В одном задании будет код для обучения юнета, но запускать его не обязательно для выполнения задания.\n\nКод писать тоже особо не дадут, все упражнения представляют собой написание кода (Keras) в уже готовый жупитер ноутбук в отмеченное место. Многие вещи, как например GradCam вообще не объясняют, а дают просто запустить и посмотреть результат.\n\nИз плюсов - хорошая секция про оценку моделей. Хорошая, потому что там дают хороший код, который можно переиспользовать у себя в работе. Самому лень было писать такое.\n\nТак же из плюсов отмечу, что если вы уже проходили курсы или умеете в нейронные сети, то AI for Medical Diagnosis станет неплохим дополнением для вас. При условии, что тема медицины для вас интересна.\n\nСложилось мнение, что Ын просто замутил хайповую специализацию, рассчитанную на широкую аудиторию.\n\nЖду когда откроются следующие курсы: AI for Medical Prognosis и AI For Medical Treatment. Надеюсь они будут интереснее и полезнее.",
+        "user": "UCKAHCKTK",
+        "ts": "1588572692.210500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e580b26e9e32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-28\/667995110627_e580b26e9e32a66790f6_72.jpg",
+            "first_name": "Alimbekov",
+            "real_name": "Alimbekov Renat",
+            "display_name": "alimbekovkz",
+            "team": "T040HKJE3",
+            "name": "alimbekovr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCKAHCKTK",
+            "ts": "1588572699.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет. Недавно на coursera появилась нова специализация - AI for Medicine ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/ai-for-medicine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Она состоит из трёх курсов. Первый курс AI for Medical Diagnosis повествует о работе с картинками и рассчитан на 3 недели или 20 часов. Хочу поделиться с вами мнением о нём.\n\nЗакончил я его примерно за день. Чего точно не стоит ждать от курса: объяснения основ нейронок, рассказа о том как лучше учить сети, к слову тут их вообще учить не придётся. В одном задании будет код для обучения юнета, но запускать его не обязательно для выполнения задания.\n\nКод писать тоже особо не дадут, все упражнения представляют собой написание кода (Keras) в уже готовый жупитер ноутбук в отмеченное место. Многие вещи, как например GradCam вообще не объясняют, а дают просто запустить и посмотреть результат.\n\nИз плюсов - хорошая секция про оценку моделей. Хорошая, потому что там дают хороший код, который можно переиспользовать у себя в работе. Самому лень было писать такое.\n\nТак же из плюсов отмечу, что если вы уже проходили курсы или умеете в нейронные сети, то AI for Medical Diagnosis станет неплохим дополнением для вас. При условии, что тема медицины для вас интересна.\n\nСложилось мнение, что Ын просто замутил хайповую специализацию, рассчитанную на широкую аудиторию.\n\nЖду когда откроются следующие курсы: AI for Medical Prognosis и AI For Medical Treatment. Надеюсь они будут интереснее и полезнее."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588572692.210500",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1588793042.263800",
+        "reply_users": [
+            "UCBR1BP37",
+            "U262NSHCK",
+            "U9ZU1CYUD",
+            "UQQCB5198"
+        ],
+        "replies": [
+            {
+                "user": "UCBR1BP37",
+                "ts": "1588575403.212200"
+            },
+            {
+                "user": "U262NSHCK",
+                "ts": "1588583020.213300"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1588652406.243800"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1588653129.244100"
+            },
+            {
+                "user": "UQQCB5198",
+                "ts": "1588793042.263800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "UTPQ445BM",
+                    "U4ZRFG1V0",
+                    "U9BDT48M8",
+                    "U24FHECDD",
+                    "U625V2J3G",
+                    "U1BMURR5G",
+                    "URFHG8KDF",
+                    "UBNUCK0DC",
+                    "U709XK88H",
+                    "U6TFPN2CQ",
+                    "U9LPKKM7X",
+                    "U1D6DT6HE",
+                    "U010WCK9X4Y",
+                    "URCGASH52",
+                    "UNQQ84PUG",
+                    "U0952QCHE",
+                    "U8J91TESC",
+                    "UU19128PP",
+                    "UDK41MN5U",
+                    "U8X231ZA6",
+                    "UL958AM32",
+                    "UKCLFR30Q",
+                    "U5TJZ9TCM",
+                    "U815T0727"
+                ],
+                "count": 25
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U8PMZ6397",
+                    "U9W1PD5QD",
+                    "UHSR5B6LT",
+                    "U709XK88H",
+                    "U9LPKKM7X",
+                    "URCGASH52",
+                    "U0952QCHE",
+                    "U57JJAVLN",
+                    "UDK41MN5U",
+                    "UDHJKLGLR",
+                    "U6SHTGD5X",
+                    "U8X231ZA6",
+                    "U049HDR2Z",
+                    "U0EGRFZ5M",
+                    "UL8LZAU2G",
+                    "UKT220F7Y"
+                ],
+                "count": 16
+            },
+            {
+                "name": "antihype",
+                "users": [
+                    "U625V2J3G",
+                    "U1G303UTW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d4c50fa-629d-4952-b42d-2a5cfb7314f8",
+        "type": "message",
+        "text": "Проходил их новые курсы ещё на альфа тесте, на самом деле по качеству очень далеко от каноничной специализации, просто хайповый сбор денег. (Те, что ты упоминаешь в конце, тоже.)\n\nНо тут и получается, что гораздо менее опытные чуваки по сути ведут всё это и пишут код к лекциям.\n\nНе знаю, выкатили ли отдельную специализацию по NLP уже, но она примерно в таком же духе исполнена.",
+        "user": "UCBR1BP37",
+        "ts": "1588575403.212200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c4sZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проходил их новые курсы ещё на альфа тесте, на самом деле по качеству очень далеко от каноничной специализации, просто хайповый сбор денег. (Те, что ты упоминаешь в конце, тоже.)\n\nНо тут и получается, что гораздо менее опытные чуваки по сути ведут всё это и пишут код к лекциям.\n\nНе знаю, выкатили ли отдельную специализацию по NLP уже, но она примерно в таком же духе исполнена."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588572692.210500",
+        "parent_user_id": "UCKAHCKTK"
+    }
+]

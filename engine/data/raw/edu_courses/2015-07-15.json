@@ -1,0 +1,376 @@
+[
+    {
+        "type": "message",
+        "text": "2. Неясно, что там с коэффициентом регуляризации. Если его не подбирать, то его можно выставить таким, что и на test'е качество ухудшится",
+        "user": "U04ELQZAU",
+        "ts": "1436951345.000083",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "4. Я не понял, какие там две стороы? В обоих случаях переобучение же получили",
+        "user": "U04ELQZAU",
+        "ts": "1436951480.000084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Курсы по Data Mining в Weka перевели в self-paced режим с дедлайном в конце октября. Сам я их ещё не проходил, но книгу по соответствующей теме от авторов мне рекомендовали очень многие. Плюс кто-то с помощью данных курсов понял принцип работы наивного Байеса. <https:\/\/weka.waikato.ac.nz\/explorer>",
+        "user": "U041LH06L",
+        "ts": "1436952354.000085",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U06TZHSSJ>: как <@U04ELQZAU> сказал, скорее всего только 4, потому что во 2м можно вполне убить точность, заломив коэффициент",
+        "user": "U065VP6F7",
+        "ts": "1436959072.000086",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de92e84a2d42",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-29\/536702372562_de92e84a2d4269180211_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Korolev",
+            "display_name": "libfun",
+            "team": "T040HKJE3",
+            "name": "libfun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "если в трейне была x^2, а ты поставишь достаточно большой коэффициент, регрессия сойдётся к прямой или почти прямой",
+        "user": "U065VP6F7",
+        "ts": "1436959123.000087",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de92e84a2d42",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-29\/536702372562_de92e84a2d4269180211_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Korolev",
+            "display_name": "libfun",
+            "team": "T040HKJE3",
+            "name": "libfun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "хотя в тесте те же x^2",
+        "user": "U065VP6F7",
+        "ts": "1436959128.000088",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de92e84a2d42",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-29\/536702372562_de92e84a2d4269180211_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Korolev",
+            "display_name": "libfun",
+            "team": "T040HKJE3",
+            "name": "libfun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "и на тесте точность упадёт по сравнению с отсутствием регуляризации",
+        "user": "U065VP6F7",
+        "ts": "1436959144.000089",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de92e84a2d42",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-29\/536702372562_de92e84a2d4269180211_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Korolev",
+            "display_name": "libfun",
+            "team": "T040HKJE3",
+            "name": "libfun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U065VP6F7>: спасибо большое, да, забыл про то, что параметр при функционале регуляризация может быть большим. Действительно, согласен, 2 точно неправильно.\n<@U04ELQZAU>  то есть _вообще всегда_ при добавлении большого количества новых признаков мы скатываемся к переобучению ? а если все признаки независимы и действительно хорошо описывают наши данные? ",
+        "user": "U06TZHSSJ",
+        "ts": "1436975254.000090",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7d709e8eb1d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-09-15\/10789484870_7d709e8eb1d08c4b42d3_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel",
+            "display_name": "ipaulo",
+            "team": "T040HKJE3",
+            "name": "ipaulo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U06TZHSSJ>: там про вообще всегда не сказано. Там написано \"makes it more likely\" :wink:",
+        "user": "U041P485A",
+        "ts": "1436975419.000091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну то есть `more likely` да, а вообще нет, верно? А когда неверно, можете сказать? ",
+        "user": "U06TZHSSJ",
+        "ts": "1436975896.000092",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7d709e8eb1d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-09-15\/10789484870_7d709e8eb1d08c4b42d3_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel",
+            "display_name": "ipaulo",
+            "team": "T040HKJE3",
+            "name": "ipaulo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я этот вопрос понимаю как \"При добавлении большого числа новых признаков вероятность перобучения возрастает\"",
+        "user": "U041P485A",
+        "ts": "1436975951.000093",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "если все новые признаки прям классные то может и не испортится обощающая способность, но часто ли так бывает? :simple_smile:",
+        "user": "U041P485A",
+        "ts": "1436976026.000094",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Понятно, спасибо всем огромное! ",
+        "user": "U06TZHSSJ",
+        "ts": "1436978216.000095",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7d709e8eb1d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-09-15\/10789484870_7d709e8eb1d08c4b42d3_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel",
+            "display_name": "ipaulo",
+            "team": "T040HKJE3",
+            "name": "ipaulo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А кому-нибудь из тех, кто оказался в waiting list'е на майкрософтовскую школу, что-нибудь пришло после этого?",
+        "user": "U04ELQZAU",
+        "ts": "1436991276.000096",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U04CH4QBD",
+        "ts": "1436992144.000097",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Товарищи, а есть что из интерактивных курсов по SQL? Что-нибудь типа <https:\/\/www.codeschool.com\/courses\/the-sequel-to-sql>, но только не от жадных пассивных гомосексуалистов.",
+        "user": "U041LH06L",
+        "ts": "1437024362.000098",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Code School",
+                "title": "SQL Tutorial - Code School",
+                "title_link": "https:\/\/www.codeschool.com\/courses\/the-sequel-to-sql",
+                "text": "​Learn the most important parts of the SQL language so you can create tables with constraints, use relationships, and write powerful join queries.",
+                "fallback": "Code School: SQL Tutorial - Code School",
+                "thumb_url": "https:\/\/d1ffx7ull4987f.cloudfront.net\/images\/achievements\/large_badge\/518\/course-complete-61a5b8d40f49efccf26fd3e84619545b.png",
+                "from_url": "https:\/\/www.codeschool.com\/courses\/the-sequel-to-sql",
+                "thumb_width": 220,
+                "thumb_height": 220,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "есть не интерактивные, а оффлайновые -- по постгресу",
+        "user": "U040M0W0S",
+        "ts": "1437029857.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "правда, не знаю, будут ли там самого SQL касаться, но если да -- скажу",
+        "user": "U040M0W0S",
+        "ts": "1437029879.000101",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,495 @@
+[
+    {
+        "client_msg_id": "ed391ee6-bc3e-4141-8b1d-e493439a8297",
+        "type": "message",
+        "text": "Udacity разослали ответы по Facebook Scholarship",
+        "user": "U04BWJ3QJ",
+        "ts": "1540977716.024000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3cbdb3588d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3cbdb3588d6d7e1acdd2afc7e0efa7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Anton",
+            "real_name": "Anton Leonov",
+            "display_name": "Grammer",
+            "team": "T040HKJE3",
+            "name": "grammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540977716.024000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1540998209.065500",
+        "reply_users": [
+            "U8H7YKFME",
+            "U04BWJ3QJ"
+        ],
+        "replies": [
+            {
+                "user": "U8H7YKFME",
+                "ts": "1540977799.024400"
+            },
+            {
+                "user": "U04BWJ3QJ",
+                "ts": "1540998209.065500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U8H7YKFME",
+                    "U1V57JCUF",
+                    "U4ZRFG1V0",
+                    "U09JEC7V0",
+                    "U2N853RGF",
+                    "U1NLYUY5N",
+                    "U9V48C738",
+                    "U64HAB6BA",
+                    "U049HDR2Z",
+                    "UB4BD0R6W",
+                    "U7DTGC4PL",
+                    "U1BMURR5G",
+                    "U4N7G9RQA",
+                    "U80PM6B97",
+                    "U9T0G9W3G",
+                    "U3NV5ADL4",
+                    "U5DT3MCG6",
+                    "U1CMPEWPQ",
+                    "U1D6DT6HE",
+                    "U927PTB1P",
+                    "U7GFT92PN",
+                    "U6T11F9T4",
+                    "U8PMZ6397",
+                    "UB4F4DZGV",
+                    "U4BBNMQ03"
+                ],
+                "count": 25
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b974199d-3b8e-48f0-a7f1-440e7df1aa8b",
+        "type": "message",
+        "text": "<#CDS0LJ05B|class_udacity_pytorch>",
+        "user": "U8H7YKFME",
+        "ts": "1540977799.024400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e282e261ce69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-22\/512039453878_e282e261ce69cdfea273_72.jpg",
+            "first_name": "Elisey",
+            "real_name": "Elisey Gusev",
+            "display_name": "eliseygusev",
+            "team": "T040HKJE3",
+            "name": "eliseygusev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540977716.024000",
+        "parent_user_id": "U04BWJ3QJ"
+    },
+    {
+        "client_msg_id": "0ae0020f-5873-4f86-ace8-12525c83785f",
+        "type": "message",
+        "text": "Привет. Полгода назад завершила обучение по 3ем первым  курсам из данной специализации <https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis> , затем увидела, что в Нетологии набирается группа на курс Data Science.  С конца июля этот курс начался. Первые два блока (SQL и Pandas) проходили в режиме онлайн, никаких нареканий нет: классные преподаватели, интересные задачки и быстрая обратная связь, вот это именно то, чего мне хватало в специализации от Яндекса. С октября месяца наши занятия уже проходят в кампусе, за один месяц конечно рано делать какие-то выводы, но мне все нравится. Для меня самое важное, что в процессе лекции ты сразу можешь задать вопрос и получить на него ответ. Короче, я пока что не пожалела, что выбрала Нетологию.",
+        "user": "UDSNST1A9",
+        "ts": "1540993120.059700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6cc96d3aab1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-01\/470727355286_6cc96d3aab1f81f08528_72.jpg",
+            "first_name": "Valeriya",
+            "real_name": "Valeriya Baydachenko",
+            "display_name": "Valeriya",
+            "team": "T040HKJE3",
+            "name": "valero4ka92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Машинное обучение и анализ данных | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "text": "Машинное обучение и анализ данных from Moscow Institute of Physics and Technology, Yandex. Мы покажем, как проходит полный цикл анализа, от сбора данных до выбора оптимального решения и оценки его качества. Вы научитесь пользоваться современными ...",
+                "fallback": "Coursera: Машинное обучение и анализ данных | Coursera",
+                "thumb_url": "https:\/\/d15cw65ipctsrr.cloudfront.net\/db\/abe010b0bd11e5bda4c35792983a0c\/2-05.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                "thumb_width": 1500,
+                "thumb_height": 430,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis"
+            }
+        ],
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U44J8KC13"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26e2fb80-5ea2-4d2e-8f18-dbd4e705cd33",
+        "type": "message",
+        "text": "<@UDSNST1A9> на сколько теоретической части в Нетологии хватает, чтобы решать задачки?\nДело в том, что сейчас я тоже обучаюсь в Нетологии на профессии Python-разработчик. Их подход к подаче материала опишу кратко \"Галопом по верхам\".  ( особенно на курсе по Python)\nКак с этим обстоят дела на вашем курсе?",
+        "user": "UCT290D7A",
+        "ts": "1540996762.064600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9daf269aa009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462524618448_9daf269aa009b543729a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Konotop",
+            "display_name": "alekseykonotop",
+            "team": "T040HKJE3",
+            "name": "alekseykonotop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "36bdf346-f783-4c62-a28f-66d1f382dbc5",
+        "type": "message",
+        "text": "Накидали мне слоупоков и обсуждали это в career, а не курсах :disappointed:",
+        "user": "U04BWJ3QJ",
+        "ts": "1540998209.065500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3cbdb3588d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3cbdb3588d6d7e1acdd2afc7e0efa7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Anton",
+            "real_name": "Anton Leonov",
+            "display_name": "Grammer",
+            "team": "T040HKJE3",
+            "name": "grammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540977716.024000",
+        "parent_user_id": "U04BWJ3QJ",
+        "reactions": [
+            {
+                "name": "ods",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bbc32dc6-dcea-486a-aceb-3799d653db4b",
+        "type": "message",
+        "text": "Кто-нибудь проходил этот курс по статистике?\n<https:\/\/www.coursera.org\/learn\/basic-statistics>\nИли может, кто-то может порекомендовать что-нибудь еще?",
+        "user": "U85PN3HFY",
+        "ts": "1541002648.069400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6190d97083e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/493211679971_6190d97083e425f756e4_72.jpg",
+            "first_name": "Lyashko",
+            "real_name": "Lyashko Kirill",
+            "display_name": "klyashko",
+            "team": "T040HKJE3",
+            "name": "kipill_90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Basic Statistics | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/basic-statistics",
+                "text": "Basic Statistics from University of Amsterdam. Understanding statistics is essential to understand research in the social and behavioral sciences. In this course you will learn the basics of statistics; not just how to calculate them, but also ...",
+                "fallback": "Coursera: Basic Statistics | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/67\/b5d580b15311e5add701767f909c1a\/Logo.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/basic-statistics",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/basic-statistics"
+            }
+        ],
+        "thread_ts": "1541002648.069400",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1541596350.155800",
+        "reply_users": [
+            "U4N7G9RQA",
+            "U85PN3HFY",
+            "U1HHX1QS3",
+            "U459QGLVD",
+            "U5FCA4F8X",
+            "UBJ10K86A"
+        ],
+        "replies": [
+            {
+                "user": "U4N7G9RQA",
+                "ts": "1541002865.069600"
+            },
+            {
+                "user": "U85PN3HFY",
+                "ts": "1541003382.070500"
+            },
+            {
+                "user": "U4N7G9RQA",
+                "ts": "1541003490.070700"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1541003963.071300"
+            },
+            {
+                "user": "U459QGLVD",
+                "ts": "1541004196.072000"
+            },
+            {
+                "user": "U5FCA4F8X",
+                "ts": "1541005097.072400"
+            },
+            {
+                "user": "U85PN3HFY",
+                "ts": "1541007062.072800"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1541596350.155800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f3369e88-d278-4a3f-a105-b0e7c7b028c5",
+        "type": "message",
+        "text": "по статистике мне понравились курсы на Степике, там 3 части\n<https:\/\/stepik.org\/catalog?q=%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0>",
+        "user": "U4N7G9RQA",
+        "ts": "1541002865.069600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4N7G9RQA",
+            "ts": "1541002888.000000"
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1HHX1QS3",
+                    "U91DVVDT9",
+                    "U2W9GJ97Y",
+                    "U94JKTGKC",
+                    "U6QF7NATC",
+                    "UDTFPMU69",
+                    "UDSNST1A9",
+                    "U8HQLB1MH",
+                    "U4K2X5BFF",
+                    "U958UTUU8",
+                    "U8TDZ6856",
+                    "U7AG3EUKH",
+                    "U1X40T58U"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9dfcdcc-0c8a-4bbb-874b-02789cc36e73",
+        "type": "message",
+        "text": "Спасибо, гляну. Я смотрю во второй и третьей части фигурирует R, возможно ли пройти этот курс без знания этого языка?",
+        "user": "U85PN3HFY",
+        "ts": "1541003382.070500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6190d97083e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/493211679971_6190d97083e425f756e4_72.jpg",
+            "first_name": "Lyashko",
+            "real_name": "Lyashko Kirill",
+            "display_name": "klyashko",
+            "team": "T040HKJE3",
+            "name": "kipill_90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "9e419862-9055-430b-b5f2-aefca3880282",
+        "type": "message",
+        "text": "<@U85PN3HFY> да, там вроде теория отдельно от практики. Если нужны основы статистики за короткий срок - рекомендую",
+        "user": "U4N7G9RQA",
+        "ts": "1541003490.070700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "ccf8f709-af49-4868-b516-d04b3a513a8d",
+        "type": "message",
+        "text": "ну и там R на таком уровне что не сильно напрягает (и более менее переносимо на Py)",
+        "user": "U1HHX1QS3",
+        "ts": "1541003963.071300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "152c80fa-9d1e-4686-81e0-d50eb4b9cf9c",
+        "type": "message",
+        "text": "Мне очень понравился <http:\/\/stat110.net|stat110.net> лектор прям огонь и задания хорошие в учебнике",
+        "user": "U459QGLVD",
+        "ts": "1541004196.072000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "fd955b4d-5037-48eb-815c-8c0f728709fa",
+        "type": "message",
+        "text": "Да, на степике прекрасные курсы по статистике (автор Карпов) - для такой доступной подачи материала нужен талант. Курс от Грауэр потяжелее конечно, но тоже хороший",
+        "user": "U5FCA4F8X",
+        "ts": "1541005097.072400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f4bdbdacf7d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-02\/308828522100_f4bdbdacf7d083a0f75c_72.jpg",
+            "first_name": "Art",
+            "real_name": "Art Zraev",
+            "display_name": "fimochka",
+            "team": "T040HKJE3",
+            "name": "fimochka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "7687c9de-2e79-4a44-a9d3-8f221d4642a2",
+        "type": "message",
+        "text": "Спасибо за рекомендации.",
+        "user": "U85PN3HFY",
+        "ts": "1541007062.072800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6190d97083e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/493211679971_6190d97083e425f756e4_72.jpg",
+            "first_name": "Lyashko",
+            "real_name": "Lyashko Kirill",
+            "display_name": "klyashko",
+            "team": "T040HKJE3",
+            "name": "kipill_90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541002648.069400",
+        "parent_user_id": "U85PN3HFY"
+    },
+    {
+        "client_msg_id": "73f555c9-dc36-4da6-a530-c8a421fc113a",
+        "type": "message",
+        "text": "<@UCT290D7A> а кто у вас ведет курс?\nНам лекции, касающиеся основ Python читал Константин Башевой, и он очень обстоятельно все объяснял, то есть там было все очень и очень понятно.\nА вот раздел, посвященный математике, мне не понравился, так подача как раз была \"Галопом по верхам\", хотя с другой стороны это и понятно, что за две недели просто нереально прочитать и объяснить статистику, линейную алгебру и теорию вероятности. Поэтому я дополнительно проходила курсы на Курсере и Степике по этим разделам, чтобы освежить в памяти знания из универа. Поэтому если в математике есть какие-то пробелы, то в Нетологии их однозначно не восполнят, нужно самому много работать в этом направлении.\nНа данный момент у меня завершается блок \"Эксплоративный анализ и предобработка данных\". По нему могу сказать, что тоже все предельно понятно и хорошо разжевано. Как там будет дальше, пока неизвестно)))\nНо хочу добавить, что я еще параллельно смотрю курс ODS и курс лекций по машинному обучению К.В.Воронцова.",
+        "user": "UDSNST1A9",
+        "ts": "1541054417.082100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6cc96d3aab1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-01\/470727355286_6cc96d3aab1f81f08528_72.jpg",
+            "first_name": "Valeriya",
+            "real_name": "Valeriya Baydachenko",
+            "display_name": "Valeriya",
+            "team": "T040HKJE3",
+            "name": "valero4ka92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    }
+]

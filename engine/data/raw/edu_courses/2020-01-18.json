@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "387253a7-0c03-4856-9794-2fc2a6cee80e",
+        "type": "message",
+        "text": "Кто-нибудь подавался на financial aid на edX? Там lorem ipsum канает как на Курсере? Для друга спрашиваю.",
+        "user": "U60EETE7N",
+        "ts": "1579354413.009400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кто-нибудь подавался на financial aid на edX? Там lorem ipsum канает как на Курсере? Для друга спрашиваю."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579354413.009400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1579635651.060200",
+        "reply_users": [
+            "UDZC02ATZ",
+            "U6VR5P1JB",
+            "U60EETE7N"
+        ],
+        "replies": [
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1579388175.010000"
+            },
+            {
+                "user": "U6VR5P1JB",
+                "ts": "1579496558.027200"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1579635651.060200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "29c7c4cb-39fe-41c5-b4ba-0d4a7f007328",
+        "type": "message",
+        "text": "я конечно не спец, но там кажется не предоставляют полную финэйд, а максимум 90% скидку.",
+        "user": "UDZC02ATZ",
+        "ts": "1579388175.010000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "22547df9a9c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/776745782336_22547df9a9c74d840578_72.png",
+            "first_name": "",
+            "real_name": "Marvelsh",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marvelsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZARre",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "я конечно не спец, но там кажется не предоставляют полную финэйд, а максимум 90% скидку."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579354413.009400",
+        "parent_user_id": "U60EETE7N"
+    }
+]

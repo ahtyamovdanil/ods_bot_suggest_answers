@@ -1,0 +1,1431 @@
+[
+    {
+        "client_msg_id": "cd630089-64a2-4050-a65b-61d4432549ff",
+        "type": "message",
+        "text": "Наверное вначале надо определить, что такое \"минимальный уровень\". Если просто запустить сетку - берешь какой-нибудь туториал по мнисту и запускаешь его.\nЕсли надо разбираться в теории - прийдётся проходить курсы, как выше.",
+        "user": "U4ZRFG1V0",
+        "ts": "1599116666.172200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Наверное вначале надо определить, что такое \"минимальный уровень\". Если просто запустить сетку - берешь какой-нибудь туториал по мнисту и запускаешь его.\nЕсли надо разбираться в теории - прийдётся проходить курсы, как выше."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UU6LQEZFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d31d9806-2602-41c1-afd3-af1bab1415c0",
+        "type": "message",
+        "text": "Первые 3-4 дня -\nDL курс <https:\/\/dlcourse.ai\/>\n+ Николенко <https:\/\/www.labirint.ru\/books\/622166\/>\nПотом можно взять какой-нибудь туториал, как <@U4ZRFG1V0> советует :)",
+        "user": "U8DCAP6AD",
+        "ts": "1599117174.172600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aab5df39beac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-18\/641806072918_aab5df39beac1c1d32b7_72.jpg",
+            "first_name": "Ilya",
+            "real_name": "Ilya Dobrynin",
+            "display_name": "IlyaDo",
+            "team": "T040HKJE3",
+            "name": "iliadobrynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Labirint.RU",
+                "title": "Глубокое обучение. Погружение в мир нейронных сетей",
+                "title_link": "https:\/\/www.labirint.ru\/books\/622166\/",
+                "text": "Перед вами - первая книга о глубоком обучении, написанная на русском языке. Глубокие модели оказались ключом, который подходит ко всем замкам сразу: новые архитектуры и алгоритмы обучения, а также увеличившиеся вычислительные мощности и появившиеся...",
+                "fallback": "Labirint.RU: Глубокое обучение. Погружение в мир нейронных сетей",
+                "thumb_url": "https:\/\/img4.labirint.ru\/rc\/40d25fe7d4f02d0dc583ebd7133e74fe\/220x340\/books63\/622166\/cover.jpg?1598959578",
+                "from_url": "https:\/\/www.labirint.ru\/books\/622166\/",
+                "thumb_width": 220,
+                "thumb_height": 312,
+                "service_icon": "https:\/\/www.labirint.ru\/apple-touch-icon.png?v=wAOzn9qNM4",
+                "id": 1,
+                "original_url": "https:\/\/www.labirint.ru\/books\/622166\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ymw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Первые 3-4 дня -\nDL курс "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dlcourse.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n+ Николенко "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.labirint.ru\/books\/622166\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПотом можно взять какой-нибудь туториал, как "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4ZRFG1V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " советует :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "269cc4f2-5ffc-4009-965a-53ae6a37d6ed",
+        "type": "message",
+        "text": "я бы рекомендовал по торрентам пройтись - udacity nanodegree - computer vision, тебе буквально на пальцах разъясняют и сразу же практикуешься на примерах, к концу курса уже понимаешь что куда и зачем и можешь сам писать код - по-моему, самый низкий старт здесь.",
+        "user": "U15V81K6V",
+        "ts": "1599117180.172900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9cuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "я бы рекомендовал по торрентам пройтись - udacity nanodegree - computer vision, тебе буквально на пальцах разъясняют и сразу же практикуешься на примерах, к концу курса уже понимаешь что куда и зачем и можешь сам писать код - по-моему, самый низкий старт здесь."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8PMZ6397",
+                    "U019B2BB6LF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85fadd08-68da-4113-97f5-8281567ec16e",
+        "type": "message",
+        "text": "<@U8DCAP6AD> там скорее основы вообще dl- у меня аж 2 книжки )))",
+        "user": "U15V81K6V",
+        "ts": "1599117245.173200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1599117262.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U8DCAP6AD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " там скорее основы вообще dl- у меня аж 2 книжки )))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "cf4c2730-3e80-4163-b662-3a7551ebe618",
+        "type": "message",
+        "text": "там одно из другого вытекает, если надо про cv - этож еще проще, можно не все читать :slightly_smiling_face:",
+        "user": "U8DCAP6AD",
+        "ts": "1599117304.173600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aab5df39beac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-18\/641806072918_aab5df39beac1c1d32b7_72.jpg",
+            "first_name": "Ilya",
+            "real_name": "Ilya Dobrynin",
+            "display_name": "IlyaDo",
+            "team": "T040HKJE3",
+            "name": "iliadobrynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "там одно из другого вытекает, если надо про cv - этож еще проще, можно не все читать "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "A7896758-102A-4060-AD4D-05D6BD4FA350",
+        "type": "message",
+        "text": "Pytorch tutorials + <https:\/\/pytorch.org\/deep-learning-with-pytorch|https:\/\/pytorch.org\/deep-learning-with-pytorch>",
+        "user": "U9V48C738",
+        "ts": "1599117926.174400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78092502e20b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-02\/427031868208_78092502e20bb23c87f6_72.jpg",
+            "first_name": "Insaf",
+            "real_name": "Insaf",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "oopx",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9V48C738",
+            "ts": "1599119458.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pboJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pytorch tutorials + "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pytorch.org\/deep-learning-with-pytorch",
+                                "text": "https:\/\/pytorch.org\/deep-learning-with-pytorch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULA9M7CM9",
+                    "UU6LQEZFS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2b3ab4d-6314-4986-9a8d-b891fec26461",
+        "type": "message",
+        "text": "Тут хорошо бы уточнить, требуется ли CV\/DL, или же просто CV",
+        "user": "U62N1NJUC",
+        "ts": "1599118286.174900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4f3c1019a4a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/574285853442_4f3c1019a4a6d5266a02_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Klimov",
+            "display_name": "daiver",
+            "team": "T040HKJE3",
+            "name": "daiver",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YMe=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тут хорошо бы уточнить, требуется ли CV\/DL, или же просто CV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9BDT48M8",
+                    "USH5UEH35",
+                    "U36Q9NJMD",
+                    "ULMML7Z5K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA28FE2F-70DB-4F23-8E4B-685223DCC813",
+        "type": "message",
+        "text": "Если чисто CV, то 5-6-7 неделя курса от самсунга. Успеешь дня за 3 точно. Там и теория даётся по CNN, и сам реализуешь LeNet тот же на торче. Разберут архитектуры резнетов, алекснета и в конце ещё решишь задачку на классификацию тарелок. Как для старта, вполне ок",
+        "user": "U9BDT48M8",
+        "ts": "1599119641.179200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если чисто CV, то 5-6-7 неделя курса от самсунга. Успеешь дня за 3 точно. Там и теория даётся по CNN, и сам реализуешь LeNet тот же на торче. Разберут архитектуры резнетов, алекснета и в конце ещё решишь задачку на классификацию тарелок. Как для старта, вполне ок"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "0ef239ab-c109-4110-9081-431a76f8b85a",
+        "type": "message",
+        "text": "<@U9BDT48M8> Этот курс <https:\/\/stepik.org\/course\/50352\/promo>?",
+        "user": "U01184AJRH8",
+        "ts": "1599119830.179400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcfae53d65ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cfae53d65ab00f5dfd69bc67fb28747b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Yazev",
+            "real_name": "Yazev Maxim",
+            "display_name": "MaxY",
+            "team": "T040HKJE3",
+            "name": "yazevmax",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Нейронные сети и компьютерное зрение",
+                "title_link": "https:\/\/stepik.org\/course\/50352\/promo",
+                "text": "Почему стоит начать изучение машинного обучения и нейронных сетей с нашего курса? Наш девиз \"Больше практики!\": излагая математические основы очень доступным языком, авторы курса, эксперты Samsung AI Center дадут базовые знания на примере решения задач компьютерного зрения. Это зрелищно и интересно!",
+                "fallback": "Stepik: online education: Нейронные сети и компьютерное зрение",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/50352\/cover_4yWf1Cb\/1ee0bce6420c78427d8f228e257ca9dd.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/50352\/promo",
+                "image_height": 230,
+                "image_bytes": 12435,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1598985588",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/50352\/promo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U9BDT48M8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Этот курс "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/50352\/promo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9BDT48M8",
+                    "UUHBNFF8X",
+                    "UGEG3L64F",
+                    "U5H49JQ21",
+                    "UG3A8RTS8"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "650ddca3-6dac-4991-960e-a82f97244f53",
+        "type": "message",
+        "text": "Если 10 суток нонстоп (по 10-12 часов), то можно любой семестриальный курс пройти. Качество знаний естественно будет соответствующее",
+        "user": "UB4F4DZGV",
+        "ts": "1599120216.180500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "91c6007739db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-23\/1018919372709_91c6007739db26234918_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Zheltonozhskii",
+            "display_name": "evgeniyzh",
+            "team": "T040HKJE3",
+            "name": "zheltonozhskiy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVH89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если 10 суток нонстоп (по 10-12 часов), то можно любой семестриальный курс пройти. Качество знаний естественно будет соответствующее"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U62N1NJUC",
+                    "U9BDT48M8",
+                    "U016XAJU21E",
+                    "UEP0QHYLR",
+                    "U5H0L5T98",
+                    "UHSR5B6LT",
+                    "UU6LQEZFS"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4cd191f-df4e-4f54-8dcf-acea2a336d64",
+        "type": "message",
+        "text": "Классический CV или DL CV?",
+        "user": "U36Q9NJMD",
+        "ts": "1599124118.185200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/puo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Классический CV или DL CV?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "a4791afb-3c85-479b-b3c0-3cc34b525cb5",
+        "type": "message",
+        "text": "<http:\/\/fast.ai|fast.ai>, там есть наглядный разбор CNN\/оптимайзеров в :excel:",
+        "user": "UDHJKLGLR",
+        "ts": "1599132026.187000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RN\/z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fast.ai",
+                                "text": "fast.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", там есть наглядный разбор CNN\/оптимайзеров в "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "excel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "ef27b688-cfd0-42bd-b60b-2e09ca36ff58",
+        "type": "message",
+        "text": "что нибудь на юдасити можно поискать, там курсы как правило короткие, но емкие",
+        "user": "UL95F64PP",
+        "ts": "1599132330.187200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DaUe9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "что нибудь на юдасити можно поискать, там курсы как правило короткие, но емкие"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "F0135BCB-BB38-4FA3-927E-E39E1462FB54",
+        "type": "message",
+        "text": "Джереми выкатил курс по Дата-Этике, читался в University of San Francisco Data Institute in January-February 2020. Вдруг кому-то интересны рассуждения на тему privacy.\n<https:\/\/ethics.fast.ai\/|https:\/\/ethics.fast.ai\/>",
+        "user": "U4N7G9RQA",
+        "ts": "1599139066.190500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Practical Data Ethics",
+                "title_link": "https:\/\/ethics.fast.ai\/",
+                "text": "Free, online course from <http:\/\/fast.ai|fast.ai> and USF Data Institute covering disinformation, bias &amp; fairness, ethical foundations, practical tools, privacy &amp; surveillance, the silicon valley ecosystem, and algorithmic colonialism",
+                "fallback": "Practical Data Ethics",
+                "image_url": "http:\/\/ethics.fast.ai\/images\/headlines.jpg",
+                "from_url": "https:\/\/ethics.fast.ai\/",
+                "image_width": 446,
+                "image_height": 250,
+                "image_bytes": 335223,
+                "service_icon": "https:\/\/ethics.fast.ai\/images\/favicon.ico",
+                "service_name": "ethics.fast.ai",
+                "id": 1,
+                "original_url": "https:\/\/ethics.fast.ai\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Джереми выкатил курс по Дата-Этике, читался в University of San Francisco Data Institute in January-February 2020. Вдруг кому-то интересны рассуждения на тему privacy.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ethics.fast.ai\/",
+                                "text": "https:\/\/ethics.fast.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599139066.190500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1599162559.200700",
+        "reply_users": [
+            "U4ZRFG1V0",
+            "U4N7G9RQA"
+        ],
+        "replies": [
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1599140790.191900"
+            },
+            {
+                "user": "U4N7G9RQA",
+                "ts": "1599162559.200700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U6Z21KSBC",
+                    "U1UNFRQ1K",
+                    "U6ME568D7",
+                    "UB4F4DZGV",
+                    "UGRFZ1DS5",
+                    "ULA9M7CM9"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d13bfed5-9433-4097-b538-13caa1e822e8",
+        "type": "message",
+        "text": "<@UB4F4DZGV> как будто в cv нужно что-то знать",
+        "user": "URV3BA571",
+        "ts": "1599139556.191000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6418c7a95e0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6418c7a95e0c4c4c0bf36c5a6fe49067.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Perturbator",
+            "real_name": "Perturbator Perturbatorovich",
+            "display_name": "perturbator",
+            "team": "T040HKJE3",
+            "name": "walkrunman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UB4F4DZGV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " как будто в cv нужно что-то знать"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "spravedlivo",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U62N1NJUC",
+                    "UCMC5J36D",
+                    "UG3A8RTS8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "povar",
+                "users": [
+                    "UNQQ84PUG",
+                    "U5FCA4F8X",
+                    "UFVDU2FJP",
+                    "U9V48C738",
+                    "U1BMURR5G",
+                    "U8X231ZA6",
+                    "U6L08K8KS",
+                    "U049NHC4X",
+                    "UKSNZD2BH"
+                ],
+                "count": 9
+            },
+            {
+                "name": "small",
+                "users": [
+                    "UPU9K5PNY",
+                    "U8X231ZA6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10648dd5-36ee-457d-91a7-963f9304fae7",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1597857557181000>",
+        "user": "U4ZRFG1V0",
+        "ts": "1599140790.191900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1597857557181000",
+                "fallback": "[August 19th, 2020 10:19 AM] artgor: <http:\/\/ethics.fast.ai\/>\nМини-курс от fastai по этике в работе с данными. Вдруг кому интересно",
+                "ts": "1597857557.181000",
+                "author_id": "U4ZRFG1V0",
+                "author_subname": "Andrey Lukyanenko",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<http:\/\/ethics.fast.ai\/>\nМини-курс от fastai по этике в работе с данными. Вдруг кому интересно",
+                "author_name": "Andrey Lukyanenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U4ZRFG1V0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1597857557181000",
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k37GC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1597857557181000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599139066.190500",
+        "parent_user_id": "U4N7G9RQA",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U6Z21KSBC",
+                    "U1BMURR5G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3d3eea3-9569-4158-92b8-ad82d0f683a0",
+        "type": "message",
+        "text": "<http:\/\/fast.ai|fast.ai> <http:\/\/deeplearning.ai|deeplearning.ai> 5 дней и 5 дней практики позапускать и попробовать самому",
+        "user": "U1BMURR5G",
+        "ts": "1599141399.192500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3Efa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fast.ai",
+                                "text": "fast.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/deeplearning.ai",
+                                "text": "deeplearning.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 5 дней и 5 дней практики позапускать и попробовать самому"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599116140.171000",
+        "parent_user_id": "U01184AJRH8"
+    },
+    {
+        "client_msg_id": "4b22c0b6-db56-4eb1-bf1a-6bf8d1132698",
+        "type": "message",
+        "text": "Может поможет <https:\/\/www.youtube.com\/watch?v=ys8lW8eQaJQ>",
+        "user": "UHSBA8F35",
+        "ts": "1599143650.193400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4e6b00712c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a4e6b00712c72d0bebc5560397227fc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Anatolijrubanov",
+            "display_name": "Anatolijrubanov",
+            "team": "T040HKJE3",
+            "name": "anatolijrubanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Конкурентность в Питоне с нуля. Вживую.",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ys8lW8eQaJQ",
+                "author_name": "Igor Starikov",
+                "author_link": "https:\/\/www.youtube.com\/user\/idlesign",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ys8lW8eQaJQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Конкурентность в Питоне с нуля. Вживую.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ys8lW8eQaJQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ys8lW8eQaJQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ys8lW8eQaJQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efUG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Может поможет "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ys8lW8eQaJQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599046647.159500",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "client_msg_id": "CEFAD320-DE09-4FA9-9520-88C30C01D5E1",
+        "type": "message",
+        "text": "Пардон, слоупокнул малёха",
+        "user": "U4N7G9RQA",
+        "ts": "1599162559.200700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Пардон, слоупокнул малёха"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599139066.190500",
+        "parent_user_id": "U4N7G9RQA",
+        "reactions": [
+            {
+                "name": "norma",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4D6F85B0-D0E7-451C-818E-75370487A707",
+        "type": "message",
+        "text": "&gt; This is an introductory course on Computational Thinking. We use the Julia programming language to approach real-world problems in varied areas applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole.\n&gt; \nTopics include:\n\n• Image analysis\n\n• Particle dynamics and ray tracing\n\n• Epidemic propagation\n\n• Climate modeling\n\n<https:\/\/mitmath.github.io\/18S191\/Fall20\/|https:\/\/mitmath.github.io\/18S191\/Fall20\/>\n",
+        "user": "UMMJ3ECTG",
+        "ts": "1599197055.203600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7f4ae7654fdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-22\/1124836622391_7f4ae7654fdd27efb0b5_72.jpg",
+            "first_name": "Abdullah",
+            "real_name": "Abdullah",
+            "display_name": "Cashkoosh",
+            "team": "T040HKJE3",
+            "name": "cashkoosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ScAz",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is an introductory course on Computational Thinking. We use the Julia programming language to approach real-world problems in varied areas applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nTopics include:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Image analysis"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Particle dynamics and ray tracing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Epidemic propagation"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Climate modeling"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mitmath.github.io\/18S191\/Fall20\/",
+                                "text": "https:\/\/mitmath.github.io\/18S191\/Fall20\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599197055.203600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1599238472.247400",
+        "reply_users": [
+            "UMZE38ZFY",
+            "UMMJ3ECTG",
+            "UCMC5J36D",
+            "U53E5MFNU"
+        ],
+        "replies": [
+            {
+                "user": "UMZE38ZFY",
+                "ts": "1599198534.205400"
+            },
+            {
+                "user": "UMMJ3ECTG",
+                "ts": "1599200740.206300"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1599221882.227200"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1599238472.247400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U53E5MFNU",
+                    "UMMJ3ECTG",
+                    "UQRH33GM8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "UA92L7ACC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "908AA40C-84F8-4147-AA1E-AD82D67D4AF6",
+        "type": "message",
+        "text": "А почему огонь? Выглядит не очень, какое-то введение во всё и сразу.",
+        "user": "UMZE38ZFY",
+        "ts": "1599198534.205400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2eed14e13e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/887d2eed14e13e1ceb96c7e43eb20fde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Jenya",
+            "real_name": "Jenya Denisov",
+            "display_name": "support in svm",
+            "team": "T040HKJE3",
+            "name": "richman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lw=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А почему огонь? Выглядит не очень, какое-то введение во всё и сразу."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599197055.203600",
+        "parent_user_id": "UMMJ3ECTG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BE61F29E-EFFA-43E5-AB49-2F8351329C37",
+        "type": "message",
+        "text": "how you can evaluate a good or bad course, and it did not end even in the second week. others may find it interesting.",
+        "user": "UMMJ3ECTG",
+        "ts": "1599200740.206300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7f4ae7654fdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-22\/1124836622391_7f4ae7654fdd27efb0b5_72.jpg",
+            "first_name": "Abdullah",
+            "real_name": "Abdullah",
+            "display_name": "Cashkoosh",
+            "team": "T040HKJE3",
+            "name": "cashkoosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PBH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how you can evaluate a good or bad course, and it did not end even in the second week. others may find it interesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599197055.203600",
+        "parent_user_id": "UMMJ3ECTG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

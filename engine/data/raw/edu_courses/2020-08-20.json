@@ -1,0 +1,200 @@
+[
+    {
+        "client_msg_id": "FE236E8D-0C7D-4DB7-ABFF-E6DBEF0C019A",
+        "type": "message",
+        "text": "Вроде бы в финансовом анализе прям активно используется. Но я искал именно с точки зрения теории, мне она интересна ",
+        "user": "U9BDT48M8",
+        "ts": "1597912251.003300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g=Gv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вроде бы в финансовом анализе прям активно используется. Но я искал именно с точки зрения теории, мне она интересна "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597860359.187500",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "01282c5a-9017-4122-8b99-24fbc5b29355",
+        "type": "message",
+        "text": "Проходил курс по случайным процессам в Вышке от того же Панова (видимо, такой же курс, только очный), показался довольно интересным, препод хорошо объясняет",
+        "user": "UBA7N1YSG",
+        "ts": "1597916478.004400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x418g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проходил курс по случайным процессам в Вышке от того же Панова (видимо, такой же курс, только очный), показался довольно интересным, препод хорошо объясняет"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597860359.187500",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9BDT48M8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af50332a-cf6e-4b30-8451-f4cd206e8809",
+        "type": "message",
+        "text": "Inverse Problem Theory: Methods for Data Fitting and Model Parameter Estimation, Tarantola 1987\n<http:\/\/www.ipgp.fr\/~tarantola\/Files\/Professional\/Books\/InverseProblemTheory.pdf>",
+        "user": "U665SD52L",
+        "ts": "1597942278.007100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8620af6b80d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-27\/354541122197_8620af6b80d69ac9e06d_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Yashchuk",
+            "display_name": "ivan.yashchuk",
+            "team": "T040HKJE3",
+            "name": "ivan.yashchuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JV168",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inverse Problem Theory: Methods for Data Fitting and Model Parameter Estimation, Tarantola 1987\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.ipgp.fr\/~tarantola\/Files\/Professional\/Books\/InverseProblemTheory.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597833889.146000",
+        "parent_user_id": "UPD47KCSZ"
+    },
+    {
+        "client_msg_id": "f8bcd908-69a4-4445-8984-b9f4568d5cc0",
+        "type": "message",
+        "text": "Классика на английском это Оксендал:\n<https:\/\/www.amazon.com\/Stochastic-Differential-Equations-Introduction-Applications\/dp\/3540047581|https:\/\/www.amazon.com\/Stochastic-Differential-Equations-Introduction-Applications\/dp\/3540047581>\n\nЕсли на русском применительно к финансам то двутомник Ширяева вполне: Ширяев А.Н. Основы стохастической финансовой математики",
+        "user": "U35B82XT6",
+        "ts": "1597947927.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Lz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Классика на английском это Оксендал:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Stochastic-Differential-Equations-Introduction-Applications\/dp\/3540047581",
+                                "text": "https:\/\/www.amazon.com\/Stochastic-Differential-Equations-Introduction-Applications\/dp\/3540047581"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nЕсли на русском применительно к финансам то двутомник Ширяева вполне: Ширяев А.Н. Основы стохастической финансовой математики"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597860359.187500",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9BDT48M8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UBRK4HXQV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

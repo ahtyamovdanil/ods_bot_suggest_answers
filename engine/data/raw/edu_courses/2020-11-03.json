@@ -1,0 +1,578 @@
+[
+    {
+        "client_msg_id": "0e73ed71-62a2-4e7b-8c57-e1dac0ba9456",
+        "type": "message",
+        "text": "Какие курсы по hands-on deep learning можете порекомендовать? Может что-нибудь на Keras? Спасибо!",
+        "user": "U0R55NS1M",
+        "ts": "1604392280.135300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0b029e62ab4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-04\/392278498945_0b029e62ab4ee0246507_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Kachala",
+            "display_name": "mkachala",
+            "team": "T040HKJE3",
+            "name": "mkachala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0R55NS1M",
+            "ts": "1604392954.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rDpn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Какие курсы по hands-on deep learning можете порекомендовать? Может что-нибудь на Keras? Спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604392280.135300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1605002901.303700",
+        "reply_users": [
+            "U5H0L5T98",
+            "U937H6TBK"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1604410918.142900"
+            },
+            {
+                "user": "U937H6TBK",
+                "ts": "1605002901.303700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "98f52dea-3e09-4e85-8c66-2b5aa308e611",
+        "type": "message",
+        "text": "Джентельмены! А посоветуйте курсов для прокачки в сторону *дата-инженера?*\n\nВ активе хороший Python (включая разработку математически сложных вещей) и умеренный опыт Linux-администрирования (тут по-настоящему сложные вещи делал штатный админ, так что нужды особо не было).",
+        "user": "U50FY1AG6",
+        "ts": "1604395371.139700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ff9e4d2371a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-19\/214760058354_ff9e4d2371a5d20508fe_72.gif",
+            "first_name": "Alexey",
+            "real_name": "Alexey",
+            "display_name": "kitekat",
+            "team": "T040HKJE3",
+            "name": "kitekat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkKXW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Джентельмены! А посоветуйте курсов для прокачки в сторону "
+                            },
+                            {
+                                "type": "text",
+                                "text": "дата-инженера?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nВ активе хороший Python (включая разработку математически сложных вещей) и умеренный опыт Linux-администрирования (тут по-настоящему сложные вещи делал штатный админ, так что нужды особо не было)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604395371.139700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1605252840.425500",
+        "reply_users": [
+            "U7SFPUVQF",
+            "U50FY1AG6",
+            "UDA1RU43Y"
+        ],
+        "replies": [
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1604395983.139800"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1604396094.140100"
+            },
+            {
+                "user": "U50FY1AG6",
+                "ts": "1604402700.142300"
+            },
+            {
+                "user": "UDA1RU43Y",
+                "ts": "1605252840.425500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "897e3232-ba32-4e62-adda-1d96d0e57465",
+        "type": "message",
+        "text": "Трек на DataCamp для начала неплох, там самые основы и азы: :airflow: , :cloud: , :spark: , :postgresql: , :mongo: , :sql: и т.д. Все по верхам, но для начала ок:\n<https:\/\/learn.datacamp.com\/career-tracks\/data-engineer-with-python?version=1>",
+        "user": "U7SFPUVQF",
+        "ts": "1604395983.139800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DataCamp",
+                "title": "Sign in",
+                "title_link": "https:\/\/learn.datacamp.com\/career-tracks\/data-engineer-with-python?version=1",
+                "text": "Sign in to DataCamp account",
+                "fallback": "DataCamp: Sign in",
+                "thumb_url": "https:\/\/www.datacamp.com\/datacamp-sq.png",
+                "from_url": "https:\/\/learn.datacamp.com\/career-tracks\/data-engineer-with-python?version=1",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-31ef59bd73c75c8ce2a75369aa41cb2435d48706d1385e5282e26947bf84af50.ico",
+                "id": 1,
+                "original_url": "https:\/\/learn.datacamp.com\/career-tracks\/data-engineer-with-python?version=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Трек на DataCamp для начала неплох, там самые основы и азы: "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "airflow"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cloud"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "postgresql"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mongo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sql"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и т.д. Все по верхам, но для начала ок:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.datacamp.com\/career-tracks\/data-engineer-with-python?version=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604395371.139700",
+        "parent_user_id": "U50FY1AG6",
+        "reactions": [
+            {
+                "name": "plus1",
+                "users": [
+                    "U50FY1AG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd65ef5c-f6f8-47f5-9e0b-a9036df1651a",
+        "type": "message",
+        "text": "Ну и отдельно почитать про :ansible: , :docker: , :kubernetes: и прочий зоопарк, но там лучше всего открыть документацию и попробовать - нормальных курсов я не встречал.",
+        "user": "U7SFPUVQF",
+        "ts": "1604396094.140100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gT9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну и отдельно почитать про "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ansible"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "docker"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kubernetes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и прочий зоопарк, но там лучше всего открыть документацию и попробовать - нормальных курсов я не встречал."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604395371.139700",
+        "parent_user_id": "U50FY1AG6",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U50FY1AG6",
+                    "UBP7JT6MS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4592e396-c75d-4c11-80d5-0654e84f6cd4",
+        "type": "message",
+        "text": "Добра тебе, няша.\n^_^",
+        "user": "U50FY1AG6",
+        "ts": "1604402700.142300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ff9e4d2371a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-19\/214760058354_ff9e4d2371a5d20508fe_72.gif",
+            "first_name": "Alexey",
+            "real_name": "Alexey",
+            "display_name": "kitekat",
+            "team": "T040HKJE3",
+            "name": "kitekat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2J3e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добра тебе, няша.\n^_^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604395371.139700",
+        "parent_user_id": "U50FY1AG6"
+    },
+    {
+        "client_msg_id": "78eb1c6a-b2c3-48f5-ada0-de153cdb00ee",
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/specializations\/deep-learning>",
+        "user": "U5H0L5T98",
+        "ts": "1604410918.142900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into Artificial intelligence (AI), this Specialization will help you. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.",
+                "fallback": "Coursera: Deep Learning",
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera_assets\/meta_images\/generated\/XDP\/XDP~SPECIALIZATION!~deep-learning\/XDP~SPECIALIZATION!~deep-learning.jpeg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 88162,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604392280.135300",
+        "parent_user_id": "U0R55NS1M",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U0R55NS1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e9e2806-a879-4efd-9042-c480ff26ab3f",
+        "type": "message",
+        "text": "Всем привет\nПодскажите, есть какой то список требований\/стек знаний или технологий  к системному аналитику ?\nТакже книжки и курсы из числа полезных\n\nСам бывший программист-алгоритмист , аналитик данных, щас работаю аналитиком ПО на проекте",
+        "user": "URACWKTJR",
+        "ts": "1604424340.149300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9d880c4f0b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887129174992_9d880c4f0b8e472ae4e8_72.jpg",
+            "first_name": "Andrei",
+            "real_name": "Andrei",
+            "display_name": "andrei",
+            "team": "T040HKJE3",
+            "name": "andreienders",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет\nПодскажите, есть какой то список требований\/стек знаний или технологий  к системному аналитику ?\nТакже книжки и курсы из числа полезных\n\nСам бывший программист-алгоритмист , аналитик данных, щас работаю аналитиком ПО на проекте"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604424340.149300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1604425048.150400",
+        "reply_users": [
+            "U016L4FGNTB"
+        ],
+        "replies": [
+            {
+                "user": "U016L4FGNTB",
+                "ts": "1604425048.150400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8AB6CCE2-FFC3-4D6E-A87A-E52CBF64715D",
+        "type": "message",
+        "text": "K. Wiegers Software requirements. Лучшая книга о системном анализе",
+        "user": "U016L4FGNTB",
+        "ts": "1604425048.150400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bb9858d9cdd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1208582152470_bb9858d9cdd96ed9d44f_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Vaulin",
+            "display_name": "Artem Vaulin",
+            "team": "T040HKJE3",
+            "name": "avaulinds",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwM\/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "K. Wiegers Software requirements. Лучшая книга о системном анализе"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604424340.149300",
+        "parent_user_id": "URACWKTJR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URACWKTJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E40920AB-45E9-4D43-B1DF-291E433186FE",
+        "type": "message",
+        "text": "Спасибо. Ещё какие-нибудь предложения по темам выше?",
+        "user": "UEB44SC66",
+        "ts": "1604425445.151400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f544fed2da7a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-25\/586308161970_f544fed2da7a8803add9_72.jpg",
+            "first_name": "Andrei",
+            "real_name": "Andrei Khobnia",
+            "display_name": "AiKho",
+            "team": "T040HKJE3",
+            "name": "andrey905",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1DJF\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо. Ещё какие-нибудь предложения по темам выше?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604350207.131000",
+        "parent_user_id": "UEB44SC66"
+    }
+]

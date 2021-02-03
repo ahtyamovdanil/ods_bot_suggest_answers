@@ -1,0 +1,462 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494753793.933963",
+        "user": "U5E2HGZCP",
+        "text": "<@U5E2HGZCP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Привет! Подскажите не будет ли пустой тратой денег взять специализацию от Яндекса на курсере по Машинному обучению? В багажнике хорошее знание питона и кусочное знание по алгоритмам ML?",
+        "user": "U411PKASW",
+        "ts": "1494754286.951402",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6082ed92ddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/492673353457_f6082ed92ddd83477cdc_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Klimenkov",
+            "display_name": "dimaxano",
+            "team": "T040HKJE3",
+            "name": "dimaxano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Будет. Проходи бесплатно поодиночке",
+        "user": "U2N853RGF",
+        "ts": "1494754366.954246",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1G303UTW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А как же задания?\nЯ не смогу какой-то фидбэк получить, правильно сделал задания или нет",
+        "user": "U411PKASW",
+        "ts": "1494754797.969589",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6082ed92ddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/492673353457_f6082ed92ddd83477cdc_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Klimenkov",
+            "display_name": "dimaxano",
+            "team": "T040HKJE3",
+            "name": "dimaxano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "бери матпомощь и проходи (пропустив 1 курс наверное)",
+        "user": "U1R8X3V54",
+        "ts": "1494754971.975820",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1R8X3V54",
+            "ts": "1494754997.000000"
+        },
+        "thread_ts": "1494754971.975820",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1494758913.122153",
+        "reply_users": [
+            "U1UM6S9KN"
+        ],
+        "replies": [
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1494758913.122153"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Раз тут такой вопрос - какие курсы на курсере из разделов DS\/математика\/программирование стоят того, чтобы за них заплатить?",
+        "user": "U04725QK7",
+        "ts": "1494755028.977708",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494755028.977708",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1494941898.395216",
+        "reply_users": [
+            "U0DA4J82H",
+            "U54DJ48VC",
+            "U04725QK7",
+            "U4ZNGNPQU",
+            "U0SBLSTJ4"
+        ],
+        "replies": [
+            {
+                "user": "U0DA4J82H",
+                "ts": "1494757147.055998"
+            },
+            {
+                "user": "U54DJ48VC",
+                "ts": "1494758842.119160"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1494763297.302004"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1494763402.306936"
+            },
+            {
+                "user": "U4ZNGNPQU",
+                "ts": "1494794055.893988"
+            },
+            {
+                "user": "U0SBLSTJ4",
+                "ts": "1494941898.395216"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4RFX4PJT",
+                    "U07JH63AA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Мне кажется, что никакие :slightly_smiling_face: Потому что можно найти неплохой контент бесплатно",
+        "user": "U0DA4J82H",
+        "ts": "1494757147.055998",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1494757200.000000"
+        },
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Вообще, можно вначале на сторонних ресурсах почитать все материалы для всех курсов (на github есть выложенные), а потом быстро делать все задания. За 1 бесплатную неделю + 1 месяц оплаты вполне можно сделать.",
+        "user": "U4ZRFG1V0",
+        "ts": "1494757348.063468",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А получается так, что на степике ничего по, собственно, дата саенсу и машинному обучение и нет? Только статистика и нейронные сетки, так?",
+        "user": "U2N853RGF",
+        "ts": "1494757879.082759",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494757879.082759",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1494882040.573799",
+        "reply_users": [
+            "U1UM6S9KN",
+            "U4G0TN0GP"
+        ],
+        "replies": [
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1494759030.126952"
+            },
+            {
+                "user": "U4G0TN0GP",
+                "ts": "1494870766.756555"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1494882040.573799"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H> а что ты скажешь про эти <https:\/\/www.datacamp.com\/courses> ?",
+        "user": "U54DJ48VC",
+        "ts": "1494758842.119160",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8e79d085477",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/558e79d085477b2f67bb0b75fdacb68c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Paul",
+            "real_name": "Paul Stadnikov",
+            "display_name": "pawlyk",
+            "team": "T040HKJE3",
+            "name": "pawlyk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data Science Courses: R &amp; Python Analysis Tutorials | DataCamp",
+                "title_link": "https:\/\/www.datacamp.com\/courses",
+                "text": "DataCamp offers a variety of online courses &amp; video tutorials to help you learn data science at your own pace. See why over 1,000,000 people use DataCamp now!",
+                "fallback": "Data Science Courses: R &amp; Python Analysis Tutorials | DataCamp",
+                "thumb_url": "https:\/\/www.datacamp.com\/datacamp.png",
+                "from_url": "https:\/\/www.datacamp.com\/courses",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "service_name": "datacamp.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "amsirion: если не взять первый курс, тогда к дипломной работе не допустят - она только для тех, кто сдал предыдущие 5.",
+        "user": "U1UM6S9KN",
+        "ts": "1494758913.122153",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494754971.975820",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "evgeniimakarov: (голосом Брюса Уиллиса из \"Счастливое число Слевина\") - Stepic это не про машинное обучение, а лишь про приближение к нему.",
+        "user": "U1UM6S9KN",
+        "ts": "1494759030.126952",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494757879.082759",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "type": "message",
+        "text": "там пара бесплатных курсов когда-то была, они норм были",
+        "user": "U0DA4J82H",
+        "ts": "1494763297.302004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "От себя скажу, что мне понравились первые два курса специлизации Яндекса и ВШЭ по алгоритмам (мне их дали бесплатно, но я прошляпил все сроки, поэтому через пару месяцев, наверное, возьму)",
+        "user": "U04725QK7",
+        "ts": "1494763402.306936",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494768723.552549",
+        "user": "U5DB9KQG5",
+        "text": "<@U5DB9KQG5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494773738.805727",
+        "user": "U5E3F2D55",
+        "text": "<@U5E3F2D55> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А че, на курсере теперь есть курсы, которые нельзя посмотреть бесплатно? :slow:",
+        "user": "U4ZNGNPQU",
+        "ts": "1494794055.893988",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdf406df36a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2df406df36a856e16aa7f75b7185550.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Константин",
+            "real_name": "Константин Третьяков",
+            "display_name": "kt",
+            "team": "T040HKJE3",
+            "name": "kt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494755028.977708",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494799505.164248",
+        "user": "U5DBRM82Y",
+        "text": "<@U5DBRM82Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494812663.982956",
+        "user": "U5DCNE2G4",
+        "text": "<@U5DCNE2G4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494824406.016401",
+        "user": "U5DA4HMDH",
+        "text": "<@U5DA4HMDH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494828337.410026",
+        "user": "U5DAH1YLT",
+        "text": "<@U5DAH1YLT> has joined the channel"
+    }
+]

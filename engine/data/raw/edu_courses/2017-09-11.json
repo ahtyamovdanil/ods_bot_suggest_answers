@@ -1,0 +1,246 @@
+[
+    {
+        "type": "message",
+        "text": "Сейчас в шаде начинается такой же курс от того же автора: <https:\/\/yandexdataschool.ru\/edu-process\/program\/big-data\/big-data1>. Интересно, как курс шада будет соотноситься с курсеровским",
+        "user": "U0QPVMAFR",
+        "ts": "1505115472.000330",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "658e80c91a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-24\/703711935396_658e80c91a1a139e1cf4_72.png",
+            "first_name": "Karim",
+            "real_name": "Karim Iskakov",
+            "display_name": "karfly",
+            "team": "T040HKJE3",
+            "name": "iskakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Сайт школы анализа данных",
+                "title": "Методы и системы обработки больших данных",
+                "title_link": "https:\/\/yandexdataschool.ru\/edu-process\/program\/big-data\/big-data1",
+                "text": "ШАД даёт систематическое образование, совмещая теоретические занятия с практикой. Студенты слушают лекции и посещают семинары, вместе работают над учебными проектами, результаты которых нередко приводят к научным публикациям. Некоторые студенты ШАДа попадают на стажировку в Яндекс, где могут применить только что полученные знания.",
+                "fallback": "Сайт школы анализа данных: Методы и системы обработки больших данных",
+                "from_url": "https:\/\/yandexdataschool.ru\/edu-process\/program\/big-data\/big-data1",
+                "service_icon": "https:\/\/yandexdataschool.ru\/static\/_\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1504613950.000139",
+        "parent_user_id": "U1BMURR5G"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/fast.ai|fast.ai>",
+        "user": "U302AALBS",
+        "ts": "1505115676.000276",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505107677.000180",
+        "parent_user_id": "U5QQ8PPL2"
+    },
+    {
+        "type": "message",
+        "text": "Советую прочитать главу про RNN в книге \"Deep Learning with Python\" от создателя keras. Там он пошагово пишет код для предсказания временного ряда (температура воздуха). Для меня это было первое знакомство с RNN, и считаю, что довольно хороший первый виток в изучении.\n\n<https:\/\/www.manning.com\/books\/deep-learning-with-python>",
+        "user": "U0QPVMAFR",
+        "ts": "1505115996.000156",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "658e80c91a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-24\/703711935396_658e80c91a1a139e1cf4_72.png",
+            "first_name": "Karim",
+            "real_name": "Karim Iskakov",
+            "display_name": "karfly",
+            "team": "T040HKJE3",
+            "name": "iskakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0QPVMAFR",
+            "ts": "1505116067.000000"
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning with Python",
+                "title_link": "https:\/\/www.manning.com\/books\/deep-learning-with-python",
+                "fallback": "Deep Learning with Python",
+                "image_url": "https:\/\/images.manning.com\/100\/125\/resize\/book\/d\/c49da40-6f76-4f23-8df5-ceabe32fd66b\/Chollet-DLP-MEAP-HI.png",
+                "from_url": "https:\/\/www.manning.com\/books\/deep-learning-with-python",
+                "image_width": 100,
+                "image_height": 125,
+                "image_bytes": 6431,
+                "service_icon": "https:\/\/images.manning.com\/152\/152\/crop\/book\/d\/c49da40-6f76-4f23-8df5-ceabe32fd66b\/Chollet-DLP-MEAP-HI.png",
+                "service_name": "Deep Learning with Python",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1504842110.000014",
+        "parent_user_id": "U68CRQEJK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U68CRQEJK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Скоро выйдет (или уже) курс Ынга на курсере",
+        "user": "U1QJQF3S6",
+        "ts": "1505132795.000224",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b5720664a73d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-24\/72487217424_b5720664a73d9eab54a2_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Itkin",
+            "display_name": "bukabyaka",
+            "team": "T040HKJE3",
+            "name": "bukabyaka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505107677.000180",
+        "parent_user_id": "U5QQ8PPL2",
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U6BS23P47",
+                    "U5GT468HH",
+                    "U27SUBTB9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Есть кто-нибудь, кто прошёл второй курс специализации Эндрю Ына? У меня проблемы с третьей неделей, буду рад чьей-то помощи.",
+        "user": "U4LUPEAR0",
+        "ts": "1505162632.000348",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3a32b3693e2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-15\/579363527319_3a32b3693e2a60e8631a_72.jpg",
+            "first_name": "Олежа",
+            "real_name": "Олежа Саитов",
+            "display_name": "bloodrammer",
+            "team": "T040HKJE3",
+            "name": "bloodrammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505162632.000348",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1507963220.000052",
+        "reply_users": [
+            "U1CF95PP1",
+            "U4LUPEAR0",
+            "U5R7NF98S"
+        ],
+        "replies": [
+            {
+                "user": "U1CF95PP1",
+                "ts": "1505197866.000167"
+            },
+            {
+                "user": "U4LUPEAR0",
+                "ts": "1505237771.000361"
+            },
+            {
+                "user": "U5R7NF98S",
+                "ts": "1507112860.000262"
+            },
+            {
+                "user": "U4LUPEAR0",
+                "ts": "1507947881.000002"
+            },
+            {
+                "user": "U5R7NF98S",
+                "ts": "1507963220.000052"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "а еще какой-нибудь pyflakes и pylinter помогают,\nя их даже в юнит-тесты встроил",
+        "user": "U1HHX1QS3",
+        "ts": "1505163440.000548",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1504955583.000003",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Что там?",
+        "user": "U1CF95PP1",
+        "ts": "1505197866.000167",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505162632.000348",
+        "parent_user_id": "U4LUPEAR0"
+    }
+]

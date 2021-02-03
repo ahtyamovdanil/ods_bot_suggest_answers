@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "24bdb7b8-a561-473a-b366-a98f6826be6c",
+        "type": "message",
+        "text": "<https:\/\/edu.devtodev.com\/?lang=ru>",
+        "user": "UHY5KKK6D",
+        "ts": "1586592415.337500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Образовательный центр devtodev",
+                "title_link": "https:\/\/edu.devtodev.com\/?lang=ru",
+                "text": "Обучающий центр игровой аналитики devtodev - все об основных принципах анализа игровых проектов: от сбора данных до принятия правильного решения.",
+                "fallback": "Образовательный центр devtodev",
+                "image_url": "https:\/\/edu.devtodev.com\/og-image-eng.jpg",
+                "from_url": "https:\/\/edu.devtodev.com\/?lang=ru",
+                "image_width": 480,
+                "image_height": 250,
+                "image_bytes": 93551,
+                "service_icon": "https:\/\/edu.devtodev.com\/apple-touch-icon.png",
+                "service_name": "edu.devtodev.com",
+                "id": 1,
+                "original_url": "https:\/\/edu.devtodev.com\/?lang=ru"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ydf5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/edu.devtodev.com\/?lang=ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586581515.337100",
+        "parent_user_id": "ULA9NCQM8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHY5KKK6D",
+                    "U94E07CSE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "ULA9NCQM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d62fd68-ba01-406e-9222-fcfb34d639bb",
+        "type": "message",
+        "text": "<@UGF8L176H> разве что ещё теорема Байеса, правдоподобие, метод наименьших квадратов, среднеквадратичное отклонение и в этом роде",
+        "user": "UL958AM32",
+        "ts": "1586673850.339400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48df48d0eece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-29\/777209988640_48df48d0eeceb5d16ae9_72.jpg",
+            "first_name": "Alina",
+            "real_name": "Alina Mikhaylenko",
+            "display_name": "amhtj",
+            "team": "T040HKJE3",
+            "name": "mikkhailenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAmmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UGF8L176H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " разве что ещё теорема Байеса, правдоподобие, метод наименьших квадратов, среднеквадратичное отклонение и в этом роде"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586089858.221800",
+        "parent_user_id": "UN2SNKETS"
+    },
+    {
+        "client_msg_id": "22cb3d3c-17a7-4a89-bd2f-18bcdf24c11e",
+        "type": "message",
+        "text": "Опыта ещё пока не так много, но вот такой список примерно был",
+        "user": "UL958AM32",
+        "ts": "1586673876.339600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48df48d0eece",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-29\/777209988640_48df48d0eeceb5d16ae9_72.jpg",
+            "first_name": "Alina",
+            "real_name": "Alina Mikhaylenko",
+            "display_name": "amhtj",
+            "team": "T040HKJE3",
+            "name": "mikkhailenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Опыта ещё пока не так много, но вот такой список примерно был"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586089858.221800",
+        "parent_user_id": "UN2SNKETS"
+    }
+]

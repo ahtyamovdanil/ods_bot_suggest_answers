@@ -1,0 +1,930 @@
+[
+    {
+        "client_msg_id": "15958a40-fb06-4c86-9152-ba72cf44886f",
+        "type": "message",
+        "text": "Здравствуйте! Расскажите, пожалуйста, поподробнее про расписание (дни и часы занятий). По какому адресу будут занятия?",
+        "user": "UHWS7RP7B",
+        "ts": "1560762674.186900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb3413239db5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e6b3413239db51d1113ec7e2e713b5c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "Lmaxl",
+            "display_name": "Lmaxl",
+            "team": "T040HKJE3",
+            "name": "lmaxl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560621255.180900",
+        "parent_user_id": "UC6MKGVRN"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1560767697.188300",
+        "thread_ts": "1560767697.188300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1564270491.110400",
+        "reply_users": [
+            "UBM4B8CBU",
+            "UJW9M71RV"
+        ],
+        "replies": [
+            {
+                "user": "UBM4B8CBU",
+                "ts": "1560768323.188400"
+            },
+            {
+                "user": "UJW9M71RV",
+                "ts": "1564270491.110400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "be7f229a-8053-43d3-b241-567e3763557a",
+        "type": "message",
+        "text": "<#C047H3N8L|deep_learning>",
+        "user": "UBM4B8CBU",
+        "ts": "1560768323.188400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "46d64cb9ca36",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-09\/395069174163_46d64cb9ca36e21ed43d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Lunkin",
+            "display_name": "dniwelive",
+            "team": "T040HKJE3",
+            "name": "sanya16300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560767697.188300",
+        "parent_user_id": "UJW9M71RV"
+    },
+    {
+        "client_msg_id": "462b0e4d-4282-4f94-bb36-a4dc6f84aa36",
+        "type": "message",
+        "text": "Кому-нибудь пришли acceptance letter от MLSS?",
+        "user": "U1YK4SV6W",
+        "ts": "1560777499.189200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6989691a5239",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-23\/885509412519_6989691a5239c34c649f_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Gulyaev",
+            "display_name": "PaGul",
+            "team": "T040HKJE3",
+            "name": "pagul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560777499.189200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1560973344.226900",
+        "reply_users": [
+            "U4BFBQHBQ",
+            "U80PM6B97"
+        ],
+        "replies": [
+            {
+                "user": "U4BFBQHBQ",
+                "ts": "1560843129.208000"
+            },
+            {
+                "user": "U80PM6B97",
+                "ts": "1560973344.226900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U80PM6B97",
+                    "UFMKTJWNS",
+                    "U0H7VBQQ1",
+                    "U4BFBQHBQ",
+                    "UDJS7Q1DL",
+                    "U41LBNH6J",
+                    "UHLKEBC1J"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48e882d2-349d-4120-9882-4195219ea900",
+        "type": "message",
+        "text": "Добрый день. Посоветуйте, пожалуйста, ресурс (курс\/книжку) для изучения алгоритмов (желательно на python), чтобы задачки были?\nНачала этот <https:\/\/stepik.org\/course\/1547\/syllabus> , но что-то слишком много боли он приносит)",
+        "user": "UFF1SJ30F",
+        "ts": "1560778656.190800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e71ad8e084be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-27\/1021327915121_e71ad8e084beb511116a_72.jpg",
+            "first_name": "Ekaterina",
+            "real_name": "Ekaterina Krutman",
+            "display_name": "katush888",
+            "team": "T040HKJE3",
+            "name": "kate.v18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Алгоритмы: теория и практика. Структуры данных",
+                "title_link": "https:\/\/stepik.org\/course\/1547\/syllabus",
+                "text": "В курсе будут рассмотрены структуры данных, наиболее часто использующиеся на практике: массивы, списки, очереди, стеки, динамические массивы, очереди с приоритетами, системы непересекающихся множеств, хеш-таблицы, сбалансированные деревья. Вы узнаете, как такие структуры данных реализованы в разных языках программирования, и, конечно же, потренируетесь самостоятельно их реализовывать, применять и расширять.",
+                "fallback": "Stepik: online education: Алгоритмы: теория и практика. Структуры данных",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/1547\/cover\/afb6df5e0ebfaa5f7eeab7699a246e76.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/1547\/syllabus",
+                "image_height": 230,
+                "image_bytes": 13875,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1560260472",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/1547\/syllabus"
+            }
+        ],
+        "thread_ts": "1560778656.190800",
+        "reply_count": 14,
+        "reply_users_count": 10,
+        "latest_reply": "1560856998.213900",
+        "reply_users": [
+            "U3P82LKDK",
+            "U6B4LEZ0D",
+            "UHE741S5N",
+            "U3AG4B1N1",
+            "U9HSZRDP1",
+            "UFUDG4UCS",
+            "UFWKK8HD1",
+            "U7SFPUVQF",
+            "U4UQPNV9S",
+            "U30LWK54N"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1560779240.191000"
+            },
+            {
+                "user": "U6B4LEZ0D",
+                "ts": "1560779311.191400"
+            },
+            {
+                "user": "UHE741S5N",
+                "ts": "1560781713.192200"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1560782491.192600"
+            },
+            {
+                "user": "U9HSZRDP1",
+                "ts": "1560782632.193100"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1560782737.193400"
+            },
+            {
+                "user": "UHE741S5N",
+                "ts": "1560782749.193600"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1560783000.194100"
+            },
+            {
+                "user": "UFUDG4UCS",
+                "ts": "1560783550.198900"
+            },
+            {
+                "user": "UHE741S5N",
+                "ts": "1560783687.199300"
+            },
+            {
+                "user": "UFWKK8HD1",
+                "ts": "1560785408.200200"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1560789628.201400"
+            },
+            {
+                "user": "U4UQPNV9S",
+                "ts": "1560830179.206200"
+            },
+            {
+                "user": "U30LWK54N",
+                "ts": "1560856998.213900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8eadf35e-87bc-494b-875d-64c8e22fd0bd",
+        "type": "message",
+        "text": "Традиционно советуют курсы на Курсере от Принстона и Стенфорда:\n\n1. <https:\/\/www.coursera.org\/learn\/algorithms-part1>\n\n2. <https:\/\/www.coursera.org\/specializations\/algorithms?=>",
+        "user": "U3P82LKDK",
+        "ts": "1560779240.191000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3P82LKDK",
+            "ts": "1560779264.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Algorithms, Part I | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/algorithms-part1",
+                "text": "Learn Algorithms, Part I from Princeton University. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis ...",
+                "fallback": "Coursera: Algorithms, Part I | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/algorithms-part1",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/algorithms-part1"
+            },
+            {
+                "service_name": "Coursera",
+                "title": "Algorithms | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/algorithms?=",
+                "text": "Learn Algorithms from Stanford University. Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. This specialization is an introduction to algorithms for learners with at ...",
+                "fallback": "Coursera: Algorithms | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/algorithms?=",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/algorithms?="
+            }
+        ],
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFF1SJ30F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51add959-cc36-4fdc-a422-74b706b405f9",
+        "type": "message",
+        "text": "Книжка \"Грокаем алгоритмы\"",
+        "user": "U6B4LEZ0D",
+        "ts": "1560779311.191400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2c12c26851c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c92c12c26851cc72fcfbeb16630227ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Milovan",
+            "real_name": "Milovan Denis",
+            "display_name": "milovan",
+            "team": "T040HKJE3",
+            "name": "milovan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U1HHX1QS3",
+                    "U8ZDR4HMK",
+                    "ULMML7Z5K",
+                    "UJJAD9PL6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UFF1SJ30F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c62723f-50ad-4282-8a78-732c8a06e485",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs&amp;list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0>",
+        "user": "UHE741S5N",
+        "ts": "1560781713.192200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "94936e499195",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-17\/699196712278_94936e49919526d8461a_72.jpg",
+            "first_name": "Evgeniya",
+            "real_name": "Evgeniya Chernomordova",
+            "display_name": "Evgeniya Chernomordova",
+            "team": "T040HKJE3",
+            "name": "wiskas85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Алгоритмы на Python 3. Лекция №1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs",
+                "author_name": "Тимофей Хирьянов",
+                "author_link": "https:\/\/www.youtube.com\/user\/tkhirianov",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KdZ4HF1SrFs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Алгоритмы на Python 3. Лекция №1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KdZ4HF1SrFs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs&amp;list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0"
+            }
+        ],
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFF1SJ30F",
+                    "UH1GA3UQ6",
+                    "UGZSD5ZM4",
+                    "U4EKCN7HR"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de81ee72-f19d-4669-8ab4-1545b38ac195",
+        "type": "message",
+        "text": "<@UKES2BDAA> чтобы не делать глупых и неэффективных вещей хотя бы",
+        "user": "U3AG4B1N1",
+        "ts": "1560782491.192600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "263444a6-5aec-4919-bad6-81e1c762baa3",
+        "type": "message",
+        "text": "&gt;А для чего нужны алгоритмы?\nРано универ решил бросать :kekeke:",
+        "user": "U9HSZRDP1",
+        "ts": "1560782632.193100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2b42abe67c9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a02b42abe67c918804f935dcb366e1fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei",
+            "display_name": "edelbert",
+            "team": "T040HKJE3",
+            "name": "axgreg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "0434c04b-739f-43a3-abeb-4f75fbd6191b",
+        "type": "message",
+        "text": "<@UKES2BDAA> не совсем понимаю, что ты тогда делаешь, если берешь все готовое. Глупые вещи - это всякие сортировки за квадрат. Когда знаешь алгоритмы (или хотя бы их когда-то проходил), начинаешь чувствовать, что где-то что-то можно улучшить, хотя бы интуитивно",
+        "user": "U3AG4B1N1",
+        "ts": "1560782737.193400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "735660bf-7dd4-41fe-ac72-9ed4705b27e0",
+        "type": "message",
+        "text": "<https:\/\/proglib.io\/p\/what-is-an-algorithm\/>",
+        "user": "UHE741S5N",
+        "ts": "1560782749.193600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "94936e499195",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-17\/699196712278_94936e49919526d8461a_72.jpg",
+            "first_name": "Evgeniya",
+            "real_name": "Evgeniya Chernomordova",
+            "display_name": "Evgeniya Chernomordova",
+            "team": "T040HKJE3",
+            "name": "wiskas85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Библиотека программиста",
+                "title": "Про алгоритмы для новичков - Библиотека программиста",
+                "title_link": "https:\/\/proglib.io\/p\/what-is-an-algorithm\/",
+                "text": "Если вы когда-либо слышали, что алгоритмы должен знать каждый разработчик, но что это такое представляете с трудом – вам сюда.",
+                "fallback": "Библиотека программиста: Про алгоритмы для новичков - Библиотека программиста",
+                "thumb_url": "https:\/\/proglib.io\/wp-content\/uploads\/2017\/03\/alg.png",
+                "ts": 1490620246,
+                "from_url": "https:\/\/proglib.io\/p\/what-is-an-algorithm\/",
+                "thumb_width": 800,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/proglib.io\/wp-content\/uploads\/2016\/10\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/proglib.io\/p\/what-is-an-algorithm\/"
+            }
+        ],
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "1fc017cd-8e3a-4b43-8994-4716c09ebcea",
+        "type": "message",
+        "text": "<@UKES2BDAA> чтобы развить алгоритмическое мышление, нужно изучить алгоритмы :thinking:",
+        "user": "U3AG4B1N1",
+        "ts": "1560783000.194100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "90817B46-4859-4810-A395-97F7F264E28A",
+        "type": "message",
+        "text": "<@UKES2BDAA> не все алгоритмы реализованы в популярных языках. Например, необходимо найти k-ое по величине число в неотсортированном списке. Можно конечно что-то на numpy сделать, можно и вообще сортировкой за nlogn сделать, но бывают условия, когда такие штуки использовать нельзя.",
+        "user": "UFUDG4UCS",
+        "ts": "1560783550.198900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a8642097f84c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-14\/596367405779_a8642097f84ca7c02646_72.jpg",
+            "first_name": "",
+            "real_name": "Mark Seliaev",
+            "display_name": "Mark Seliaev",
+            "team": "T040HKJE3",
+            "name": "mark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "29f00335-7274-409b-b6e2-320f5f346443",
+        "type": "message",
+        "text": "Это мне напоминает - писать музыку ничего не слушая, писать картины, не увидев ни одной и т.д.",
+        "user": "UHE741S5N",
+        "ts": "1560783687.199300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "94936e499195",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-17\/699196712278_94936e49919526d8461a_72.jpg",
+            "first_name": "Evgeniya",
+            "real_name": "Evgeniya Chernomordova",
+            "display_name": "Evgeniya Chernomordova",
+            "team": "T040HKJE3",
+            "name": "wiskas85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F"
+    },
+    {
+        "client_msg_id": "17d61fe5-94b7-490e-a508-6e900087ef7e",
+        "type": "message",
+        "text": "Адрес Электрозаводская 27с8, будет оченое раз в неделю вечером, ориентировочно в 7",
+        "user": "U4CUQ0BK8",
+        "ts": "1560784611.199800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ad76b4d79efc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-22\/186357764052_ad76b4d79efccb0241a3_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Tarasov",
+            "display_name": "paddler",
+            "team": "T040HKJE3",
+            "name": "paddler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560621255.180900",
+        "parent_user_id": "UC6MKGVRN"
+    },
+    {
+        "client_msg_id": "ba53ed77-7895-4fc2-8de1-ebe423fe03a6",
+        "type": "message",
+        "text": "С первого курса по алгоритмам на степике советую начать (курс по структурам данных - его продолжение)\n<https:\/\/stepik.org\/course\/217>",
+        "user": "UFWKK8HD1",
+        "ts": "1560785408.200200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdee55124d9c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/70dee55124d9cbe4799c68db4ee95890.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Sukharev",
+            "display_name": "Sukharev",
+            "team": "T040HKJE3",
+            "name": "k.sukharev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Алгоритмы: теория и практика. Методы",
+                "title_link": "https:\/\/stepik.org\/course\/217",
+                "text": "В курсе будут разобраны основные алгоритмические методы: жадные алгоритмы, «разделяй и властвуй», динамическое программирование. Помимо теоретических основ, будут рассмотрены тонкости реализации рассмотренных алгоритмов на языках C++, Java и Python. Слушателям будет предложено реализовать большинство разобранных в курсе алгоритмов. Решения будут проверяться тестирующей системой на тщательно подобранных тестах.",
+                "fallback": "Stepik: online education: Алгоритмы: теория и практика. Методы",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/217\/cover\/65d14d98912750628b99b519fa31a8c1.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/217",
+                "image_height": 230,
+                "image_bytes": 5439,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1560260472",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/217"
+            }
+        ],
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFF1SJ30F",
+                    "UHE741S5N",
+                    "UHJET3UPQ",
+                    "ULMMRUJRE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJM2GF66L",
+                    "U50EVF538",
+                    "ULMMRUJRE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ca572e2-0be8-4cd0-88c1-fe29e68ae468",
+        "type": "message",
+        "text": "<@UHE741S5N> так можно аргументировать что угодно, например, \"необходимо изучать assembler\", чтобы понимать,  \"необходимо изучать полупроводниковую микроэлектронику\", чтобы понимать и тд. Мне кажется, что алгоритмы учат либо если нравится, либо чтобы проходить собесы, потому что поиск k-го числа в несортированном списке гуглится за пару минут.",
+        "user": "U7SFPUVQF",
+        "ts": "1560789628.201400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7SFPUVQF",
+            "ts": "1560789669.000000"
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAL8CA2TF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7AA1DBD3-6104-4DB8-A326-1F0291B0EBB5",
+        "type": "message",
+        "text": "<@U9QCYD1LJ> а регистрация во сколько закрывается?",
+        "user": "UEP8V5FM5",
+        "ts": "1560799731.202800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a38671b72f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-02\/745961508848_a38671b72f3796ea3ecf_72.png",
+            "first_name": "Dimagap",
+            "real_name": "Dimagap",
+            "display_name": "Dimagap",
+            "team": "T040HKJE3",
+            "name": "agapovdmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559646008.004800",
+        "parent_user_id": "U9QCYD1LJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UFVMPLMLN",
+                    "U6X5YAFU3",
+                    "U6CTG6YPN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Было у кого-нибудь такое? Прошла первую неделю курса, потом сбросила дедлайны и теперь все задания следующих недель недоступны до 8 августа (начала \"следующей сессии\"). Не знает кто-нибудь можно ли менять свою сессию и как это можно сделать? В центре поддержки нашла только такое - <https:\/\/learner.coursera.help\/hc\/en-us\/articles\/208279866-Assignment-deadlines>",
+        "files": [
+            {
+                "id": "FKPR8Q41M",
+                "created": 1560817663,
+                "timestamp": 1560817663,
+                "name": "5938ef8079.png",
+                "title": "5938ef8079.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UDD345XLG",
+                "editable": false,
+                "size": 20782,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKPR8Q41M\/5938ef8079.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKPR8Q41M\/download\/5938ef8079.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 129,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 171,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 257,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKPR8Q41M-b0b36c5fe4\/5938ef8079_800.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 286,
+                "image_exif_rotation": 1,
+                "original_w": 902,
+                "original_h": 322,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UDD345XLG\/FKPR8Q41M\/5938ef8079.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FKPR8Q41M-5344fb3ed5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UDD345XLG",
+        "display_as_bot": false,
+        "ts": "1560817665.205600",
+        "client_msg_id": "fc063042-b73c-444e-ac11-8a647443fb22",
+        "thread_ts": "1560817665.205600",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1560871486.219200",
+        "reply_users": [
+            "U1HHX1QS3",
+            "UCK3XJ1DM",
+            "U3P82LKDK",
+            "UDD345XLG",
+            "U21MU5ATE",
+            "U1BMURR5G"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1560817862.205900"
+            },
+            {
+                "user": "UCK3XJ1DM",
+                "ts": "1560838244.206800"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1560842892.207800"
+            },
+            {
+                "user": "UDD345XLG",
+                "ts": "1560846979.210900"
+            },
+            {
+                "user": "UCK3XJ1DM",
+                "ts": "1560847131.211100"
+            },
+            {
+                "user": "UDD345XLG",
+                "ts": "1560847247.212100"
+            },
+            {
+                "user": "U21MU5ATE",
+                "ts": "1560851858.212700"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1560871486.219200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b2add550-cc13-4d28-9286-936f2d6730e1",
+        "type": "message",
+        "text": "написать в суппорт?",
+        "user": "U1HHX1QS3",
+        "ts": "1560817862.205900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560817665.205600",
+        "parent_user_id": "UDD345XLG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCK3XJ1DM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "735233b5-3e4a-4dcf-abe5-d05d3f397ced",
+        "type": "message",
+        "text": "<@U7SFPUVQF> если хочешь быть python-программистом, то может и не надо аргументировать, а если инженером, то это уже обязательно.",
+        "user": "U4UQPNV9S",
+        "ts": "1560830179.206200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "714fc238591d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-05\/165496107767_714fc238591d28bb0c8d_72.jpg",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Sviridov",
+            "display_name": "che",
+            "team": "T040HKJE3",
+            "name": "che",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560778656.190800",
+        "parent_user_id": "UFF1SJ30F",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UK0NMUNPQ",
+                    "U19EZ8L5D",
+                    "U6CKPN7C5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84c7acea-8d56-435f-82ed-a06ef796be21",
+        "type": "message",
+        "text": "в саппорт чате быстро отвечают",
+        "user": "UCK3XJ1DM",
+        "ts": "1560838244.206800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2d68748d886",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/382d68748d88673bb7761a1d6dd7ce8d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Abzaliev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "artem.abzaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560817665.205600",
+        "parent_user_id": "UDD345XLG"
+    }
+]

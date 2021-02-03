@@ -1,0 +1,669 @@
+[
+    {
+        "client_msg_id": "da560047-8942-4c60-8975-5bebe47de658",
+        "type": "message",
+        "text": "Коллеги, подскажите, пожалуйста, годный курс по Python, но не для начинающих. Хочется копнуть глубже, а курсы типа \"давайте рассмотрим типы данных в python\" уже неинтересны. Ну или хотя бы годную книгу. Буду очень признателен.",
+        "user": "U91KH9XJL",
+        "ts": "1577960411.177700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g65dd38db471",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eb65dd38db471fb81d51ba24ff72d6f3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Wagenod93",
+            "display_name": "Pawlik93",
+            "team": "T040HKJE3",
+            "name": "wagenod93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Коллеги, подскажите, пожалуйста, годный курс по Python, но не для начинающих. Хочется копнуть глубже, а курсы типа \"давайте рассмотрим типы данных в python\" уже неинтересны. Ну или хотя бы годную книгу. Буду очень признателен."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "reply_count": 12,
+        "reply_users_count": 9,
+        "latest_reply": "1578045003.194700",
+        "reply_users": [
+            "UBPSWEPG8",
+            "UB4AGRL3C",
+            "U91KH9XJL",
+            "UHY5KKK6D",
+            "UL95F64PP",
+            "U786EB23G",
+            "UCMC5J36D",
+            "U4C11PX1A",
+            "U2N853RGF"
+        ],
+        "replies": [
+            {
+                "user": "UBPSWEPG8",
+                "ts": "1577960722.177800"
+            },
+            {
+                "user": "UB4AGRL3C",
+                "ts": "1577960927.178200"
+            },
+            {
+                "user": "U91KH9XJL",
+                "ts": "1577961466.178600"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1577961978.178900"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1577963922.179200"
+            },
+            {
+                "user": "U786EB23G",
+                "ts": "1577965901.179900"
+            },
+            {
+                "user": "U786EB23G",
+                "ts": "1577966003.180100"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1577972308.185500"
+            },
+            {
+                "user": "U4C11PX1A",
+                "ts": "1577991190.187200"
+            },
+            {
+                "user": "U91KH9XJL",
+                "ts": "1578041320.188800"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1578044995.194300"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1578045003.194700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pushpin",
+                "users": [
+                    "U6Z21KSBC",
+                    "U53N06MPE",
+                    "UR7RVHNTY",
+                    "UL95AM9FS",
+                    "U6SHTGD5X",
+                    "UCAEKNA4V",
+                    "UF5DY9XQU",
+                    "UGNM6UH16",
+                    "U24FDDCG7"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "237704e4-da1b-4010-811c-df27d84644ee",
+        "type": "message",
+        "text": "А что именно хочется изучить? Как под капотом работает?\n\nИз книг можно почитать Лутца \"Программирование на Python\". Там две части, есть про декораторы, дескрипторы, базовую конкурентность.\n\nИз курсов даже не знаю, есть специализация от <http:\/\/mail.ru|mail.ru>, вроде неплохая и не ограничивается тупо структурами данных:\n<https:\/\/ru.coursera.org\/specializations\/programming-in-python>",
+        "user": "UBPSWEPG8",
+        "ts": "1577960722.177800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ged7735ddc34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7735ddc34d1d8caaf5a2b929f3988c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Pinchuk",
+            "display_name": "pik94",
+            "team": "T040HKJE3",
+            "name": "pinchuk.ilya.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Программирование на Python | Coursera",
+                "title_link": "https:\/\/ru.coursera.org\/specializations\/programming-in-python",
+                "text": "Learn Программирование на Python from Московский физико-технический институт, <http:\/\/Mail.Ru|Mail.Ru> Group, ФРОО. Программа состоит из четырех курсов, каждый из которых раскрывает определенную тему в Python. Сначала вы научитесь основным конструкциям языка и ...",
+                "fallback": "Coursera: Программирование на Python | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/ru.coursera.org\/specializations\/programming-in-python",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/ru.coursera.org\/specializations\/programming-in-python"
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "client_msg_id": "bebb8776-faa2-436d-8454-bde2293bb66d",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1576360310023200>",
+        "user": "UB4AGRL3C",
+        "ts": "1577960927.178200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4af4ece2cd3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-01\/1216761266995_4af4ece2cd3a843c9f28_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nikalayeu",
+            "display_name": "Pavel Nikalayeu",
+            "team": "T040HKJE3",
+            "name": "pavel.nikalayeu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1576360310023200",
+                "fallback": "[December 14th, 2019 1:51 PM] melizarov: Хочу поделиться впечатлениями от курса <https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/>\nМне кажется, это отличный курс для тек, кто какое-то время кодит на питоне и хочет начать меньше говнокодить и узнать какие-то специфические особенности языка.  Мне очень понравилось тем, что какие-то вещи получалось сразу же внедрить в собственный код. Часто ловил себя на мысле вроде \"о нифигасе, а че так можно было?!\".\nНа просмотр у меня ушло около 3 мес. Смотрел обычно в метро.\nИз минусов: чувак немного занудный, я смотрел со скоростью  1,25 - 1,5. Все объясняется ну просто супер подробно, по несколько раз. Иногда это плюс, но иногда реально начинает бесить. Некоторые вещи, которые покрывает курс, уже знал и было местами не интересно.\nВ общем, я купил вторую часть курса (всего там 4), надеюсь будет тоже полезна.",
+                "ts": "1576360310.023200",
+                "author_id": "U600Q839S",
+                "author_subname": "Mikhail Elizarov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Хочу поделиться впечатлениями от курса <https:\/\/www.udemy.com\/course\/python-3-deep-dive-part-1\/>\nМне кажется, это отличный курс для тек, кто какое-то время кодит на питоне и хочет начать меньше говнокодить и узнать какие-то специфические особенности языка.  Мне очень понравилось тем, что какие-то вещи получалось сразу же внедрить в собственный код. Часто ловил себя на мысле вроде \"о нифигасе, а че так можно было?!\".\nНа просмотр у меня ушло около 3 мес. Смотрел обычно в метро.\nИз минусов: чувак немного занудный, я смотрел со скоростью  1,25 - 1,5. Все объясняется ну просто супер подробно, по несколько раз. Иногда это плюс, но иногда реально начинает бесить. Некоторые вещи, которые покрывает курс, уже знал и было местами не интересно.\nВ общем, я купил вторую часть курса (всего там 4), надеюсь будет тоже полезна.",
+                "author_name": "Mikhail Elizarov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U600Q839S",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1576360310023200",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zWJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1576360310023200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "client_msg_id": "f62f5362-5400-43d6-81d2-63e0fc7e68df",
+        "type": "message",
+        "text": "Спасибо большое за рекомендации ) да, хочется получше узнать, что под капотом у python",
+        "user": "U91KH9XJL",
+        "ts": "1577961466.178600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g65dd38db471",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eb65dd38db471fb81d51ba24ff72d6f3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Wagenod93",
+            "display_name": "Pawlik93",
+            "team": "T040HKJE3",
+            "name": "wagenod93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо большое за рекомендации ) да, хочется получше узнать, что под капотом у python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "client_msg_id": "de2d4bf0-cf4e-4eae-91ae-cbaf365e1690",
+        "type": "message",
+        "text": "1 - <https:\/\/www.youtube.com\/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW>\n\n2 - <https:\/\/pythoncourse.ru\/?utm_medium=refferal&amp;utm_source=site&amp;utm_campaign=eldf&amp;utm_term=>\n\n3 - <https:\/\/otus.ru\/lessons\/razrabotchik-python\/>\n\n4 - <https:\/\/www.ozon.ru\/context\/detail\/id\/146393762\/>\n\n5 - <https:\/\/www.ozon.ru\/context\/detail\/id\/158868396\/>",
+        "user": "UHY5KKK6D",
+        "ts": "1577961978.178900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Основы Python",
+                "title": "Программирование на Python",
+                "title_link": "https:\/\/pythoncourse.ru\/?utm_medium=refferal&utm_source=site&utm_campaign=eldf&utm_term=",
+                "text": "Python – простой, гибкий и невероятно популярный язык, который используется практически во всех областях современной разработки. С его помощью можно создавать веб-приложения, писать игры, заниматься анализом данных, автоматизировать задачи системного администрирования и многое другое. Курс охватывает все необходимые для ежедневной работы программиста темы, а также затрагивает многие особенности языка, которые часто опускают при его изучении.",
+                "fallback": "Основы Python: Программирование на Python",
+                "thumb_url": "https:\/\/uploads-ssl.webflow.com\/5b962da77572f50c1839bfde\/5b9a78aa505eca57b16a4c8b_Og-python.jpg",
+                "from_url": "https:\/\/pythoncourse.ru\/?utm_medium=refferal&utm_source=site&utm_campaign=eldf&utm_term=",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/pythoncourse.ru\/?utm_medium=refferal&amp;utm_source=site&amp;utm_campaign=eldf&amp;utm_term="
+            },
+            {
+                "service_name": "Otus",
+                "title": "Курс Python, обучение Python course онлайн, курсы Python, программист Python — курсы | OTUS",
+                "title_link": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/",
+                "text": "Как стать программистом на python? Пройдя курсы в Otus ты научишься делать классные вещи на Пайтоне",
+                "fallback": "Otus: Курс Python, обучение Python course онлайн, курсы Python, программист Python — курсы | OTUS",
+                "image_url": "https:\/\/otus.ru\/media\/7a\/65\/7a65376024244b6d96a2657a4b218d5c.png?nocache",
+                "from_url": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/",
+                "image_width": 537,
+                "image_height": 240,
+                "image_bytes": 22641,
+                "service_icon": "https:\/\/otus.ru\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/"
+            },
+            {
+                "service_name": "OZON.ru",
+                "title": "Книга \"Чистый Python. Тонкости программирования для профи\" — купить в интернет-магазине OZON с быстрой доставкой",
+                "title_link": "https:\/\/www.ozon.ru\/context\/detail\/id\/146393762\/",
+                "text": "OZON предлагает выгодные цены и отличный сервис. Книга \"Чистый Python. Тонкости программирования для профи\" - характеристики, фото и отзывы покупателей. Доставка по всей России.",
+                "fallback": "OZON.ru: Книга \"Чистый Python. Тонкости программирования для профи\" — купить в интернет-магазине OZON с быстрой доставкой",
+                "image_url": "https:\/\/cdn1.ozone.ru\/multimedia\/1037901047.jpg",
+                "from_url": "https:\/\/www.ozon.ru\/context\/detail\/id\/146393762\/",
+                "image_width": 175,
+                "image_height": 250,
+                "image_bytes": 330799,
+                "service_icon": "https:\/\/www.ozon.ru\/public\/touch-icon-ipad-retina.png",
+                "id": 3,
+                "original_url": "https:\/\/www.ozon.ru\/context\/detail\/id\/146393762\/"
+            },
+            {
+                "service_name": "OZON.ru",
+                "title": "Книга \"Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию\" — купить в интернет-магазине OZON с быстрой доставкой",
+                "title_link": "https:\/\/www.ozon.ru\/context\/detail\/id\/158868396\/",
+                "text": "OZON предлагает выгодные цены и отличный сервис. Книга \"Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию\" - характеристики, фото и отзывы покупателей. Доставка по всей России.",
+                "fallback": "OZON.ru: Книга \"Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию\" — купить в интернет-магазине OZON с быстрой доставкой",
+                "image_url": "https:\/\/cdn1.ozone.ru\/s3\/multimedia-q\/6001176578.jpg",
+                "from_url": "https:\/\/www.ozon.ru\/context\/detail\/id\/158868396\/",
+                "image_width": 178,
+                "image_height": 250,
+                "image_bytes": 669390,
+                "service_icon": "https:\/\/www.ozon.ru\/public\/touch-icon-ipad-retina.png",
+                "id": 4,
+                "original_url": "https:\/\/www.ozon.ru\/context\/detail\/id\/158868396\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pythoncourse.ru\/?utm_medium=refferal&utm_source=site&utm_campaign=eldf&utm_term="
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n3 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n4 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ozon.ru\/context\/detail\/id\/146393762\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n5 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ozon.ru\/context\/detail\/id\/158868396\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UGRFZ1DS5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRWSB4GNM",
+                "created": 1577963921,
+                "timestamp": 1577963921,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UL95F64PP",
+                "editable": false,
+                "size": 205866,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FRWSB4GNM\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FRWSB4GNM\/download\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRWSB4GNM-e5ae13d693\/image_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRWSB4GNM-e5ae13d693\/image_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRWSB4GNM-e5ae13d693\/image_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 274,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRWSB4GNM-e5ae13d693\/image_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 366,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRWSB4GNM-e5ae13d693\/image_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 656,
+                "thumb_tiny": "AwAwACS+8KO2TnNRCCB2IGcjqM1YyB1IqCdORJG2GHOPWgd2L9ki9D+dH2SL0P501LrnDj8RU4dWGQwp3C7BVCKFHQUtFFIRTuf9ceOwqHCcmpbokTHHXA5qLJ5qjVbBuCj5T36U1sF\/b2p+72\/Wo8UWCxowf6hPYVJVJJWiQLnqM0v2pvf8qkzZdooooERyqDtJGVByRR5cbDK8e6nFSGoyoJz5a5oABDH3Gfc0eVH\/AHBTtq4+6Pyo2r\/dH5UAf\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UL95F64PP\/FRWSB4GNM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FRWSB4GNM-e5f5158268",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UL95F64PP",
+        "display_as_bot": false,
+        "ts": "1577963922.179200",
+        "client_msg_id": "eaa7440a-8afd-481d-aeb2-aa22eb8ac3cc",
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDSGG9SGH",
+                    "UE1B5L2Q0",
+                    "U50EVF538",
+                    "U4D7EK3N3",
+                    "UEP8V5FM5",
+                    "UF9K51HU6",
+                    "U9LKKNJHE",
+                    "UJ2LDB4BS"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a579936a-741a-4427-b493-834e2c8e5e87",
+        "type": "message",
+        "text": "<http:\/\/pgbovine.net\/cpython-internals.htm>\nсам немного смотрел, ничего толком не могу сказать",
+        "user": "U786EB23G",
+        "ts": "1577965901.179900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dee5186d927b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/989960295280_dee5186d927bf97b59bd_72.png",
+            "first_name": "Nodari",
+            "real_name": "Nodari Lipartiya",
+            "display_name": "Nodar",
+            "team": "T040HKJE3",
+            "name": "nodari.lipartiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/pgbovine.net\/cpython-internals.htm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nсам немного смотрел, ничего толком не могу сказать"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UE1B5L2Q0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b4965f9-a990-412a-b914-c2d6409729c0",
+        "type": "message",
+        "text": "Но лучше гуглить, придется долго искать, тк такие материалы не всегда на первой странице поисковика вылазят.\nЕще можно realpython полистать, там тоже  годные бывают",
+        "user": "U786EB23G",
+        "ts": "1577966003.180100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dee5186d927b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/989960295280_dee5186d927bf97b59bd_72.png",
+            "first_name": "Nodari",
+            "real_name": "Nodari Lipartiya",
+            "display_name": "Nodar",
+            "team": "T040HKJE3",
+            "name": "nodari.lipartiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но лучше гуглить, придется долго искать, тк такие материалы не всегда на первой странице поисковика вылазят.\nЕще можно realpython полистать, там тоже  годные бывают"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577969295.180600",
+        "user": "UMY3SJF5K",
+        "text": "<@UMY3SJF5K> has joined the channel",
+        "inviter": "U3KBYJQSF"
+    },
+    {
+        "client_msg_id": "1382dda3-d950-44e2-9d7a-2f3327ca3a34",
+        "type": "message",
+        "text": "<https:\/\/eli.thegreenplace.net\/tag\/python>",
+        "user": "UCMC5J36D",
+        "ts": "1577972308.185500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eli.thegreenplace.net\/tag\/python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL"
+    },
+    {
+        "client_msg_id": "7a4cd293-5cc3-452b-bfb5-5e97f0dd21b1",
+        "type": "message",
+        "text": "Python Cookbook",
+        "user": "U4C11PX1A",
+        "ts": "1577991190.187200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "506267433ce3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-01\/148650020550_506267433ce3b0dddd6f_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ermolov",
+            "display_name": "ermolov",
+            "team": "T040HKJE3",
+            "name": "crush",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rmy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Python Cookbook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577960411.177700",
+        "parent_user_id": "U91KH9XJL",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3PETUSSE",
+                    "U3W6X77FG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

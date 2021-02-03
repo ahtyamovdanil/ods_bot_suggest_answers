@@ -1,0 +1,563 @@
+[
+    {
+        "type": "message",
+        "text": "Я не владею поиском по слаку в совершенстве (он вообще работает нормально?), но кто-то может что-то сказать про Udacity Deep Learning Nanodegree (довольно дорогой) vs. Coursera Deep Learning от Andrew Ng? Есть ли смысл брать оба? Или только второй, может?\n\nДано: сейчас заканчиваю проходить вместе со всеми cs231n.\n\nЦель: еще потренироваться в “ручном” создании сетей и реализации методов самостоятельно (backprop, BN,…), но и что-то новое узнать.",
+        "user": "U3P82LKDK",
+        "ts": "1516359076.000419",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "reply_count": 23,
+        "reply_users_count": 11,
+        "latest_reply": "1519674171.000492",
+        "reply_users": [
+            "U3HM4KY14",
+            "U36Q9NJMD",
+            "U3P82LKDK",
+            "U0DA4J82H",
+            "U1G303UTW",
+            "U74DLUWUC",
+            "U60PWPPGQ",
+            "U60EETE7N",
+            "U1UNFRQ1K",
+            "U7KHK3TTP",
+            "U5H0L5T98"
+        ],
+        "replies": [
+            {
+                "user": "U3HM4KY14",
+                "ts": "1516359151.000394"
+            },
+            {
+                "user": "U3HM4KY14",
+                "ts": "1516359175.000422"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1516359274.000637"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1516359532.000164"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1516359899.000463"
+            },
+            {
+                "user": "U1G303UTW",
+                "ts": "1516360470.000455"
+            },
+            {
+                "user": "U74DLUWUC",
+                "ts": "1516362804.000207"
+            },
+            {
+                "user": "U60PWPPGQ",
+                "ts": "1516363907.000005"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1516364438.000411"
+            },
+            {
+                "user": "U1G303UTW",
+                "ts": "1516365142.000192"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1516369113.000110"
+            },
+            {
+                "user": "U74DLUWUC",
+                "ts": "1516371122.000219"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1516376638.000084"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1516376778.000891"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1516390421.000158"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1516391025.000054"
+            },
+            {
+                "user": "U7KHK3TTP",
+                "ts": "1516577729.000148"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1516597584.000140"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1516728387.001021"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1516728761.000120"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1516729163.000344"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1516731953.000101"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1519674171.000492"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "в строку поиска забей `andrew ng in:#edu_courses`",
+        "user": "U3HM4KY14",
+        "ts": "1516359151.000394",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d117ff57280",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/515611888707_3d117ff572805bf08f2a_72.jpg",
+            "first_name": "Arseni",
+            "real_name": "Arseni Anisimovich",
+            "display_name": "arseni",
+            "team": "T040HKJE3",
+            "name": "arseni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "вроде обсуждалось не раз, но сам не прохожу, потому не скажу какие там были выводы :slightly_smiling_face:",
+        "user": "U3HM4KY14",
+        "ts": "1516359175.000422",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d117ff57280",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/515611888707_3d117ff572805bf08f2a_72.jpg",
+            "first_name": "Arseni",
+            "real_name": "Arseni Anisimovich",
+            "display_name": "arseni",
+            "team": "T040HKJE3",
+            "name": "arseni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "9b22f6ad-1bb9-49a4-acae-fe8b1c6f7de3",
+        "type": "message",
+        "text": "А скучно не будет после cs231n?",
+        "user": "U36Q9NJMD",
+        "ts": "1516359274.000637",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1516359289.000000"
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "<@U36Q9NJMD> да вот и думаю. Но как-то хочется уж раз и навсегда запомнить и еще лучше разобраться в деталях. cs231n проходишь с целью пройти, иногда не до конца понимаешь детали. Просуммировал, избавился от размерности, о, все заработало. Может тут добавят интуиции эти курсы? ну и сертификаты, кто знает, может сыграют свою роль.",
+        "user": "U3P82LKDK",
+        "ts": "1516359532.000164",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "что-то мне тоже кажется, что после cs231n не пойдёт",
+        "user": "U0DA4J82H",
+        "ts": "1516359899.000463",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U3P82LKDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "мне кажется, что они взаимодополняющие. по крайней мере, мне после cs231 DL by Ng отлично зашел",
+        "user": "U1G303UTW",
+        "ts": "1516360470.000455",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0c7464c2202",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-18\/348968633282_f0c7464c2202b586297b_72.jpg",
+            "first_name": "Arseny",
+            "real_name": "Arseny Kravchenko",
+            "display_name": "arsenyinfo",
+            "team": "T040HKJE3",
+            "name": "arsenyinfo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U3P82LKDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Первые два курса специализации Ынга как раз учат реализации простых сеток. Третий курс, имхо, можно и пропустить, мне показалось, что он ни о чем.",
+        "user": "U74DLUWUC",
+        "ts": "1516362804.000207",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b48b18f02362",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1497326396326_b48b18f023623e34464d_72.jpg",
+            "first_name": "it_aint_half_hot_mum",
+            "real_name": "it_aint_half_hot_mum",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U3P82LKDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Udacity Deep Learning Nanodegree точно не надо. Там половина курса – это ссылки на cs231n. И в итоге все ключевые моменты я понял именно оттуда.",
+        "user": "U60PWPPGQ",
+        "ts": "1516363907.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "549603c8b731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-03\/599740525703_549603c8b7314b5b6ff1_72.jpg",
+            "first_name": "Artyom",
+            "real_name": "Artyom Moskvin",
+            "display_name": "artyom.moskvin",
+            "team": "T040HKJE3",
+            "name": "artyom.moskvin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "<@U60PWPPGQ> вот это да. спасибо!",
+        "user": "U3P82LKDK",
+        "ts": "1516364438.000411",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "Третий - маленький, но очень полезный, если планируете применять DL вне каггла",
+        "user": "U1G303UTW",
+        "ts": "1516365142.000192",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0c7464c2202",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-18\/348968633282_f0c7464c2202b586297b_72.jpg",
+            "first_name": "Arseny",
+            "real_name": "Arseny Kravchenko",
+            "display_name": "arsenyinfo",
+            "team": "T040HKJE3",
+            "name": "arsenyinfo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "У Udacity главная фишка в том, что твои проекты ревьювят реальные люди, которые обычно прилично рубят в теме. Нанодегри эту я не проходил, если что",
+        "user": "U60EETE7N",
+        "ts": "1516369113.000110",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U60EETE7N",
+            "ts": "1516369144.000000"
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "В третьем курсе, на самом деле, quiz хорошо сделан, обе недели, на них голова включается. Ну и про dev\/test довольно подробно рассказано, а вот \"по верхам\" о transfer learning огорчило. Но не особо, ибо курс делался в спешке, да и Ынгу можно. ",
+        "user": "U74DLUWUC",
+        "ts": "1516371122.000219",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b48b18f02362",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1497326396326_b48b18f023623e34464d_72.jpg",
+            "first_name": "it_aint_half_hot_mum",
+            "real_name": "it_aint_half_hot_mum",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "По-моему, достаточно cs231n. Если все задания вдумчиво сделать, где-то с бумажкой и карандашом посидеть, вывести, проект сделать (ну или кэггл затащить) — что еще нужно? Одного только 3 задания хватит месяца на полтора, если попутно еще статьи читать — там по сути имплементация ключевых SOTA алгоритмов",
+        "user": "U1UNFRQ1K",
+        "ts": "1516376638.000084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0DA4J82H",
+                    "U4SKDV2HF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Не, ну да, cs224n еще вдобавок)",
+        "user": "U1UNFRQ1K",
+        "ts": "1516376778.000891",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я согласен, что cs231n очень глубокий курс. Но я не могу найти равновесие и особенно с онлайн курсами: у меня есть такое, что я решаю, “все, сейчас разбираюсь до конца, каждую деталь нужно понять” - и не заканчиваю начатое, потому что скачиваю несколько книг, распечатываю статьи, учебники и т.п. А с другой стороны есть желание просто пройти, пробиться через курс - поэтому не до конца разбираюсь (в cs231n иногда просто добиваюсь нужной размерности матрицы, проверку проходит, и ок). \n\nПоэтому приходится одни и те же темы по нескольку раз проходить. Не очень эффективно, конечно.",
+        "user": "U3P82LKDK",
+        "ts": "1516390421.000158",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "de0e9440-fc82-4fec-9f5d-1cd937e69f45",
+        "type": "message",
+        "text": "Это норма, просто нужно больше разнообразных примеров решать и сосредоточиться на одной книге. А потом :kaggle:  , либо работа + статьи",
+        "user": "U36Q9NJMD",
+        "ts": "1516391025.000054",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1516391132.000000"
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U3P82LKDK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U3P82LKDK",
+                    "U1G303UTW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

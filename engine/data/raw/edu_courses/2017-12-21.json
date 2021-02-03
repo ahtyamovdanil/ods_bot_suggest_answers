@@ -1,0 +1,634 @@
+[
+    {
+        "type": "message",
+        "text": "Мне тоже не люб Octave ",
+        "user": "U8HQSRWAF",
+        "ts": "1513852971.000328",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "247d61151574",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/290013767251_247d61151574e2578df5_72.png",
+            "first_name": "Mikhail_ch",
+            "real_name": "Mikhail_ch",
+            "display_name": "Donovan",
+            "team": "T040HKJE3",
+            "name": "chupov.misha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Как поставить TF на Python ? Простым языком ",
+        "user": "U8HQSRWAF",
+        "ts": "1513853018.000084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "247d61151574",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/290013767251_247d61151574e2578df5_72.png",
+            "first_name": "Mikhail_ch",
+            "real_name": "Mikhail_ch",
+            "display_name": "Donovan",
+            "team": "T040HKJE3",
+            "name": "chupov.misha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1514382414.000101",
+        "reply_users": [
+            "U48B3EN87",
+            "U8FPC3X9N",
+            "U3HM4KY14",
+            "U4ZRFG1V0",
+            "U5H0L5T98",
+            "U8HQSRWAF",
+            "U6YEN210D"
+        ],
+        "replies": [
+            {
+                "user": "U48B3EN87",
+                "ts": "1513853123.000281"
+            },
+            {
+                "user": "U8FPC3X9N",
+                "ts": "1513853148.000358"
+            },
+            {
+                "user": "U3HM4KY14",
+                "ts": "1513853154.000309"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1513853155.000263"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1513855145.000121"
+            },
+            {
+                "user": "U8HQSRWAF",
+                "ts": "1513856850.000049"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1513858319.000052"
+            },
+            {
+                "user": "U8HQSRWAF",
+                "ts": "1513858944.000175"
+            },
+            {
+                "user": "U6YEN210D",
+                "ts": "1514382414.000101"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ban",
+                "users": [
+                    "U126TCE79",
+                    "U3HM4KY14",
+                    "U5CD22Z5E",
+                    "U0H7VBQQ1",
+                    "U1CGKK865",
+                    "U24DR1FUK",
+                    "U14C0LPSL",
+                    "U1G303UTW",
+                    "U5N3YLGSU",
+                    "U1CMPEWPQ",
+                    "U10K3LXHV",
+                    "U0M39M6LS",
+                    "U049HDR2Z",
+                    "U27SUBTB9",
+                    "U5H0L5T98",
+                    "U1LHE347N",
+                    "U3K7PNTML",
+                    "U3SJBMJ9M",
+                    "U6PNWSJL8",
+                    "U53E5MFNU",
+                    "U8G4MGM7D",
+                    "U5D5GLFAQ",
+                    "U0471Q5AU",
+                    "U2T2R824D",
+                    "U0AS1QEJF",
+                    "U0NAHR9C5",
+                    "U09JEC7V0",
+                    "U66A98XEC",
+                    "U6XAU8ZNW",
+                    "U436BP343",
+                    "U7RCMHAH1",
+                    "U3D5HVB51",
+                    "U4B4HJX9A",
+                    "U1D6DT6HE"
+                ],
+                "count": 34
+            },
+            {
+                "name": "google",
+                "users": [
+                    "U04725QK7",
+                    "U126TCE79",
+                    "U5DT3MCG6",
+                    "U1CGKK865",
+                    "U24DR1FUK",
+                    "U14C0LPSL",
+                    "U1G303UTW",
+                    "U5N3YLGSU",
+                    "U0M39M6LS",
+                    "U27SUBTB9",
+                    "U1LHE347N",
+                    "U3K7PNTML",
+                    "U6WTSFMSP",
+                    "U6GAG2UG3",
+                    "U51N5AYF8",
+                    "U0DA4J82H",
+                    "U7GFT92PN",
+                    "U5D5GLFAQ",
+                    "U0471Q5AU",
+                    "U0AS1QEJF",
+                    "U0NAHR9C5",
+                    "U49MGP9MX",
+                    "U6QD48HHS",
+                    "U0J1U64FK",
+                    "U09JEC7V0",
+                    "U6XAU8ZNW",
+                    "U7RCMHAH1",
+                    "U4B4HJX9A",
+                    "U5QEMRZDH"
+                ],
+                "count": 29
+            },
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U0H7VBQQ1",
+                    "U1CGKK865",
+                    "U24DR1FUK",
+                    "U1G2RBBDY",
+                    "U14BPHDK6",
+                    "U3S96B5QF",
+                    "U1G303UTW",
+                    "U126TCE79",
+                    "U5N3YLGSU",
+                    "U0M39M6LS",
+                    "U1LHE347N",
+                    "U3K7PNTML",
+                    "U6PNWSJL8",
+                    "U5D5GLFAQ",
+                    "U6QD48HHS",
+                    "U09JEC7V0",
+                    "U6XAU8ZNW",
+                    "U7RCMHAH1",
+                    "U5F198S75",
+                    "U8X7HBRKQ"
+                ],
+                "count": 20
+            },
+            {
+                "name": "bombanoolo",
+                "users": [
+                    "U14C0LPSL",
+                    "U24DR1FUK",
+                    "U5D5GLFAQ",
+                    "U49MGP9MX",
+                    "U7RCMHAH1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tongue",
+                "users": [
+                    "U14BPHDK6",
+                    "U5DT3MCG6",
+                    "U0NAHR9C5",
+                    "U1G303UTW",
+                    "U5N3YLGSU",
+                    "U24DR1FUK",
+                    "U27SUBTB9",
+                    "U5H0L5T98",
+                    "U3K7PNTML",
+                    "U6WTSFMSP",
+                    "U18PYFC9L",
+                    "U6GAG2UG3",
+                    "U5D5GLFAQ",
+                    "U60EETE7N",
+                    "U1Z40FGQ6",
+                    "U0AS1QEJF",
+                    "U0J1U64FK",
+                    "U09JEC7V0",
+                    "U3PLVL3RD",
+                    "U6XAU8ZNW",
+                    "U7RCMHAH1"
+                ],
+                "count": 21
+            },
+            {
+                "name": "slava",
+                "users": [
+                    "U7RCMHAH1",
+                    "U8M48LWTW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U07JH63AA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "`pip install tensorflow`",
+        "user": "U48B3EN87",
+        "ts": "1513853123.000281",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c7a34914705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-27\/305499298995_3c7a34914705a4753a5a_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor",
+            "display_name": "abracadabra",
+            "team": "T040HKJE3",
+            "name": "abracadabra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1G303UTW",
+                    "U49MGP9MX",
+                    "U52G9S28K",
+                    "U5QEMRZDH",
+                    "U6XP4JL49"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4WM1939Q",
+                    "U49MGP9MX",
+                    "U52G9S28K",
+                    "U5F198S75"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Либо поставь Anaconda",
+        "user": "U8FPC3X9N",
+        "ts": "1513853148.000358",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "36ab092d2eef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-29\/1447998400055_36ab092d2eefdb4891b9_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Mamaev",
+            "display_name": "alxmamaev",
+            "team": "T040HKJE3",
+            "name": "alxmamaev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/bfy.tw\/FgRU>",
+        "user": "U3HM4KY14",
+        "ts": "1513853154.000309",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d117ff57280",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/515611888707_3d117ff572805bf08f2a_72.jpg",
+            "first_name": "Arseni",
+            "real_name": "Arseni Anisimovich",
+            "display_name": "arseni",
+            "team": "T040HKJE3",
+            "name": "arseni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LMGTFY",
+                "title_link": "http:\/\/bfy.tw\/FgRU",
+                "text": "LMGTFY",
+                "fallback": "LMGTFY",
+                "from_url": "http:\/\/bfy.tw\/FgRU",
+                "service_icon": "http:\/\/lmgtfy.com\/favicon.ico",
+                "service_name": "lmgtfy.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U48B3EN87",
+                    "U6Z21KSBC",
+                    "U6YEN210D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "`conda install -c conda-forge tensorflow `",
+        "user": "U4ZRFG1V0",
+        "ts": "1513853155.000263",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4ZRFG1V0",
+            "ts": "1513853202.000000"
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF"
+    },
+    {
+        "type": "message",
+        "text": "Такие вопросы надо в <#C044B7CSQ|lang_python> задавать ",
+        "user": "U5H0L5T98",
+        "ts": "1513855145.000121",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U10K3LXHV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U0H7VBQQ1",
+                    "U1CGKK865"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U0H7VBQQ1",
+                    "U3SJBMJ9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кстати почему в последней анаконде нет OpenCV? ",
+        "user": "U8HQSRWAF",
+        "ts": "1513856850.000049",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "247d61151574",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/290013767251_247d61151574e2578df5_72.png",
+            "first_name": "Mikhail_ch",
+            "real_name": "Mikhail_ch",
+            "display_name": "Donovan",
+            "team": "T040HKJE3",
+            "name": "chupov.misha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF",
+        "reactions": [
+            {
+                "name": "ban",
+                "users": [
+                    "U5H0L5T98",
+                    "U1LHE347N",
+                    "U0H7VBQQ1",
+                    "U8HQSRWAF",
+                    "U24DR1FUK",
+                    "U3K7PNTML",
+                    "U6PNWSJL8",
+                    "U0AS1QEJF",
+                    "U09JEC7V0",
+                    "U66A98XEC"
+                ],
+                "count": 10
+            },
+            {
+                "name": "wtf",
+                "users": [
+                    "U0H7VBQQ1",
+                    "U24DR1FUK",
+                    "U3K7PNTML",
+                    "U6PNWSJL8",
+                    "U7GFT92PN",
+                    "U0AS1QEJF",
+                    "U53E5MFNU",
+                    "U5CD22Z5E",
+                    "U09JEC7V0",
+                    "U66A98XEC",
+                    "U6XL8PYR3",
+                    "U6Z21KSBC",
+                    "U5F198S75"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/anaconda.org\/conda-forge\/opencv> ?",
+        "user": "U4ZRFG1V0",
+        "ts": "1513858319.000052",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF"
+    },
+    {
+        "type": "message",
+        "text": "Спасибо, теперь разберусь! ",
+        "user": "U8HQSRWAF",
+        "ts": "1513858944.000175",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "247d61151574",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/290013767251_247d61151574e2578df5_72.png",
+            "first_name": "Mikhail_ch",
+            "real_name": "Mikhail_ch",
+            "display_name": "Donovan",
+            "team": "T040HKJE3",
+            "name": "chupov.misha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513853018.000084",
+        "parent_user_id": "U8HQSRWAF"
+    },
+    {
+        "type": "message",
+        "text": "<@U4ZRFG1V0>, подскажите, а какова в целом политика помощи, кому предоставляют?",
+        "user": "U8HBHPEP3",
+        "ts": "1513863557.000442",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c420e2efe43",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289961538916_7c420e2efe431b7f3c54_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Sahabutdinov",
+            "display_name": "danil.sahabutdinov",
+            "team": "T040HKJE3",
+            "name": "danil.sahabutdinov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513832083.000032",
+        "parent_user_id": "U8BHF35KN"
+    },
+    {
+        "type": "message",
+        "text": "<@U8HBHPEP3> Насколько я понимаю, предоставляют почти всем. Надо просто достаточно текста написать",
+        "user": "U4ZRFG1V0",
+        "ts": "1513863769.000519",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513832083.000032",
+        "parent_user_id": "U8BHF35KN"
+    },
+    {
+        "type": "message",
+        "text": "pip install tensorflow",
+        "user": "U8HRTUAMB",
+        "ts": "1513879944.000394",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c9bbe49950",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1364638741425_00c9bbe49950ebe8e7ae_72.jpg",
+            "first_name": "ddaletski",
+            "real_name": "ddaletski",
+            "display_name": "Denis Daletski",
+            "team": "T040HKJE3",
+            "name": "daletskidenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U5H0L5T98",
+                    "U5DT3MCG6",
+                    "U7ME8TN49"
+                ],
+                "count": 3
+            },
+            {
+                "name": "nice",
+                "users": [
+                    "U2T31R2QJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "U0M39M6LS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U7RQ764SW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

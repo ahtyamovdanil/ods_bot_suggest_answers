@@ -1,0 +1,663 @@
+[
+    {
+        "client_msg_id": "27c31302-93f9-493f-b218-94cdd16a192c",
+        "type": "message",
+        "text": "Небольшой отзыв об AI for Medical Diagnosis <https:\/\/www.coursera.org\/learn\/ai-for-medical-diagnosis\/>, первом курсе из специализации <https:\/\/www.coursera.org\/specializations\/ai-for-medicine|AI for Medicine. >\nВначале рассказывают азы ML - дисбаланс классов, метрики всякие, заставляют эти метрики вручную реализовывать. Затем ВНЕЗАПНО показывают :unet: , причем в 3D-варианте и очень бегло. Про сами медицинские изображения два слова, буквально: вот есть воксели, вот ДИКОМ, вот так их можно прочитать. Затем имплементируем очередную метрику - soft dice loss - и курс в общем-то заканчивается.\nИтого - неплохое раскрытие темы метрик для классификации и сегментации для новичков, не более того. Ни AI, ни медицины :okay:",
+        "user": "U24FHECDD",
+        "ts": "1595608394.412000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "AI for Medical Diagnosis | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/ai-for-medical-diagnosis\/",
+                "text": "Learn AI for Medical Diagnosis from <http:\/\/deeplearning.ai|deeplearning.ai>. AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI ...",
+                "fallback": "Coursera: AI for Medical Diagnosis | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/ai-for-medical-diagnosis\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/ai-for-medical-diagnosis\/"
+            },
+            {
+                "service_name": "Coursera",
+                "title": "AI for Medicine | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/ai-for-medicine",
+                "text": "Learn AI for Medicine from <http:\/\/deeplearning.ai|deeplearning.ai>. AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course ...",
+                "fallback": "Coursera: AI for Medicine | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/ai-for-medicine",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/ai-for-medicine"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oektl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Небольшой отзыв об AI for Medical Diagnosis "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/ai-for-medical-diagnosis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", первом курсе из специализации "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/ai-for-medicine",
+                                "text": "AI for Medicine. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nВначале рассказывают азы ML - дисбаланс классов, метрики всякие, заставляют эти метрики вручную реализовывать. Затем ВНЕЗАПНО показывают "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "unet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , причем в 3D-варианте и очень бегло. Про сами медицинские изображения два слова, буквально: вот есть воксели, вот ДИКОМ, вот так их можно прочитать. Затем имплементируем очередную метрику - soft dice loss - и курс в общем-то заканчивается.\nИтого - неплохое раскрытие темы метрик для классификации и сегментации для новичков, не более того. Ни AI, ни медицины "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595608394.412000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1595688449.427800",
+        "reply_users": [
+            "U24N3AB96",
+            "U24FHECDD"
+        ],
+        "replies": [
+            {
+                "user": "U24N3AB96",
+                "ts": "1595688292.427600"
+            },
+            {
+                "user": "U24FHECDD",
+                "ts": "1595688449.427800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "nikogda-takogo-ne-bilo",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U5H0L5T98",
+                    "U3AG4B1N1",
+                    "UMQSP3DJM"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U4ZRFG1V0",
+                    "USSV2P8UF",
+                    "U8PMZ6397",
+                    "U625V2J3G",
+                    "U9BDT48M8",
+                    "U53E5MFNU",
+                    "U6SCXUP6U",
+                    "U1UNFRQ1K",
+                    "UDHJKLGLR",
+                    "U5QLG41NG",
+                    "UDK41MN5U",
+                    "U6L08K8KS",
+                    "UBNUCK0DC",
+                    "UCMAWD588",
+                    "UCAEKNA4V"
+                ],
+                "count": 15
+            },
+            {
+                "name": "classic",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U625V2J3G",
+                    "UGRFZ1DS5",
+                    "U1BMURR5G",
+                    "U3AG4B1N1",
+                    "UTGUQU99U",
+                    "UEP0QHYLR"
+                ],
+                "count": 7
+            },
+            {
+                "name": "harold",
+                "users": [
+                    "UA92L7ACC",
+                    "UFVDU2FJP",
+                    "U3AG4B1N1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "UQ9UCJT0T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "101c16aa-4a60-466b-8940-ff8e229d2e9b",
+        "type": "message",
+        "text": "Спасибо за информацию )\n\nСпециализацию от МФТИ на этом сайте кто-нибудь смог найти? Мне не удалось",
+        "user": "U0167LP3N6P",
+        "ts": "1595609877.413500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "418d3c529d8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1235354304976_418d3c529d8f385278a2_72.jpg",
+            "first_name": "",
+            "real_name": "Ilya Pershin",
+            "display_name": "Ilya Pershin",
+            "team": "T040HKJE3",
+            "name": "muzclubs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1lzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо за информацию )\n\nСпециализацию от МФТИ на этом сайте кто-нибудь смог найти? Мне не удалось"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595406396.386200",
+        "parent_user_id": "U6TFPN2CQ"
+    },
+    {
+        "client_msg_id": "82da9a42-3b47-4420-83a8-8ac2cf3459fe",
+        "type": "message",
+        "text": "Никто не успел купить Learn Python Programming with Pycharm Bundle? <https:\/\/www.humblebundle.com\/software\/python-programming-software>\nМеня интересует курс Building Data-Driven Web Apps with Flask and SQLAlchemy, скиньте хотя бы код :please:",
+        "user": "U36Q9NJMD",
+        "ts": "1595613220.415600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Humble Bundle",
+                "title": "Humble Software Bundle: Learn Python Programming with PyCharm",
+                "title_link": "https:\/\/www.humblebundle.com\/software\/python-programming-software",
+                "text": "Learn Python programming with this learning bundle. Includes PyCharm - 6 months subscription &amp; more. Plus, pay what you want &amp; support charity.",
+                "fallback": "Humble Bundle: Humble Software Bundle: Learn Python Programming with PyCharm",
+                "image_url": "https:\/\/hb.imgix.net\/8ef851adb1e9f975439d6a0bf31c037e0cbf00bd.png?auto=compress,format&h=630&w=1200&s=df5eb738282fc55f6e0f3ad6ad3ef9de",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.humblebundle.com\/software\/python-programming-software",
+                "image_bytes": 94269,
+                "service_icon": "https:\/\/humblebundle-a.akamaihd.net\/static\/hashed\/03df0490a53d595fd930f9fff52038366d60a05d.png",
+                "id": 1,
+                "original_url": "https:\/\/www.humblebundle.com\/software\/python-programming-software"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHmdu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Никто не успел купить Learn Python Programming with Pycharm Bundle? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.humblebundle.com\/software\/python-programming-software"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nМеня интересует курс Building Data-Driven Web Apps with Flask and SQLAlchemy, скиньте хотя бы код "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1595614728.417100",
+        "reply_users": [
+            "U53E5MFNU",
+            "U36Q9NJMD"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1595614088.415800"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1595614176.416200"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1595614216.416500"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1595614320.416700"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1595614728.417100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "008a51ad-dc54-41ee-85fe-356fdfd937f7",
+        "type": "message",
+        "text": "они вроде почти всегда код выкладывают на гитхабе, пишешь в гугле github + название курса <https:\/\/github.com\/talkpython\/data-driven-web-apps-with-flask>",
+        "user": "U53E5MFNU",
+        "ts": "1595614088.415800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1595614095.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "они вроде почти всегда код выкладывают на гитхабе, пишешь в гугле github + название курса "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/talkpython\/data-driven-web-apps-with-flask"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "parent_user_id": "U36Q9NJMD"
+    },
+    {
+        "client_msg_id": "809c1699-e046-4189-a204-2a661b8ea6ec",
+        "type": "message",
+        "text": "Не, там демка. Вроде только первый урок. Остальные папки полу пусты",
+        "user": "U36Q9NJMD",
+        "ts": "1595614176.416200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1595614497.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не, там демка. Вроде только первый урок. Остальные папки полу пусты"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "parent_user_id": "U36Q9NJMD"
+    },
+    {
+        "client_msg_id": "7a8da585-8d1c-499e-b130-cee468e7ff75",
+        "type": "message",
+        "text": "если в app папку зайти там будет разбивка по chapters",
+        "user": "U53E5MFNU",
+        "ts": "1595614216.416500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Pfj+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "если в app папку зайти там будет разбивка по chapters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "parent_user_id": "U36Q9NJMD"
+    },
+    {
+        "client_msg_id": "0588e3ce-c894-4413-af18-1696aba7ba8d",
+        "type": "message",
+        "text": "Хм, ну там очень мало, если весь курс такой, то обидно.\nЯ смотрел, там же написано \"Course demo code\"",
+        "user": "U36Q9NJMD",
+        "ts": "1595614320.416700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDR=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хм, ну там очень мало, если весь курс такой, то обидно.\nЯ смотрел, там же написано \"Course demo code\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "parent_user_id": "U36Q9NJMD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b702cc27-2077-45cf-b8f5-ccf87830df13",
+        "type": "message",
+        "text": "Да, видимо, это весь курс, спасибо",
+        "user": "U36Q9NJMD",
+        "ts": "1595614728.417100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, видимо, это весь курс, спасибо"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595613220.415600",
+        "parent_user_id": "U36Q9NJMD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de1c8cf7-9ca0-4843-b26c-ffff4bb3d328",
+        "type": "message",
+        "text": "<@U0167LP3N6P>\nПо третьей ссылке есть все курсы специализации:\n1. Математика и Python для анализа данных\n2. Обучение на размеченных данных\n3. Поиск структуры в данных\n4. Построение выводов по данным\n5. Прикладные задачи анализа данных\n6. Анализ данных: финальный проект",
+        "user": "U93PTKPU2",
+        "ts": "1595621029.417700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "55b42c19ce94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-17\/554326070247_55b42c19ce94c92aeff2_72.jpg",
+            "first_name": "Borisov",
+            "real_name": "Borisov Dmitriy",
+            "display_name": "BorisovDm",
+            "team": "T040HKJE3",
+            "name": "abdima2010",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rk=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0167LP3N6P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПо третьей ссылке есть все курсы специализации:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Математика и Python для анализа данных"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Обучение на размеченных данных"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Поиск структуры в данных"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Построение выводов по данным"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Прикладные задачи анализа данных"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Анализ данных: финальный проект"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595406396.386200",
+        "parent_user_id": "U6TFPN2CQ",
+        "reactions": [
+            {
+                "name": "thx",
+                "users": [
+                    "U0167LP3N6P",
+                    "UDSJKKTJ8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

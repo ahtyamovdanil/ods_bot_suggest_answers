@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "text": "а когда, кстати, стартует CS224n?",
+        "user": "U5H055U0J",
+        "ts": "1521716383.000264",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "92594c36f444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1377360707762_92594c36f444f81c2153_72.png",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521662825.000377",
+        "parent_user_id": "U6LH6PNDQ"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/fast.ai|fast.ai> &gt; cs231n\nпервый гораздо больше про практику применения, второй про написание сеточек с нуля.\nЯ проходил оба, особой пользы от cs231n после <http:\/\/fast.ai|fast.ai>   не ощутил, только научился писать и дебажить сетки, писанные на numpy (сомнительный навык в наши дни торча и тензорфлоу)\nв <http:\/\/fast.ai|fast.ai> очень много tips and tricks, чего в cs231n вообще нет.\n\nЕдинственный для меня плюс в cs231n - лучше стал осознавать граф вычислений, как градиенты ходят по сеточке. Но это можно и в другом месте почерпнуть.",
+        "user": "U4U4GFDNK",
+        "ts": "1521718341.000270",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521662825.000377",
+        "parent_user_id": "U6LH6PNDQ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U41SKKFF1",
+                    "U8FDKQT47",
+                    "U2AML8LEB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U30A6KZLH",
+                    "U2AML8LEB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U5H055U0J> \nну там лекции и задания выложены, по идее можно в любой момент начинать. мож где-то в интернетах study groups есть какие.\nна физтехе ещё такое идёт сейчас:\n<http:\/\/edu.ipavlov.ai\/NLP2\/>\nкажется, каждый семестр запускается",
+        "user": "U60EETE7N",
+        "ts": "1521718428.000090",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Объявление о курсе Deep Learning in Natural Language Processing",
+                "title_link": "http:\/\/edu.ipavlov.ai\/NLP2\/",
+                "text": "Предварительная дата начала занятий 21.02.2018. Запись на курс здесь. Канал в телеграме для оперативных объявлений: <https:\/\/t.me\/DeepNLPspring2018>.",
+                "fallback": "Объявление о курсе Deep Learning in Natural Language Processing",
+                "from_url": "http:\/\/edu.ipavlov.ai\/NLP2\/",
+                "service_name": "edu.ipavlov.ai",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1521662825.000377",
+        "parent_user_id": "U6LH6PNDQ",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U5H055U0J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я прошел",
+        "user": "U41539JBX",
+        "ts": "1521736564.000079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g38bdabff740",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab38bdabff74008333ff600ad84417a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Kim",
+            "display_name": "igoo",
+            "team": "T040HKJE3",
+            "name": "igoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521650034.000854",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<@U41539JBX> напиши плз пару слов о впечатлениях",
+        "user": "U5S11SHM4",
+        "ts": "1521739835.000142",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521650034.000854",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<@U5S11SHM4> Ну норм, я на самом деле не сильно вникал - прошел как crash course) Просто попробуй - никаких сроков и обязательств нет. Зайдет - пройдешь, не зайдет - бросишь. Проходится быстро.",
+        "user": "U41539JBX",
+        "ts": "1521740005.000806",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g38bdabff740",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab38bdabff74008333ff600ad84417a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Kim",
+            "display_name": "igoo",
+            "team": "T040HKJE3",
+            "name": "igoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521650034.000854",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<@U41539JBX> так ты что-то узнал нового? чем-то научился пользоваться? как подача материала и т.д.\nНу хоть что-то опиши плз",
+        "user": "U5S11SHM4",
+        "ts": "1521740091.000837",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521650034.000854",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "type": "message",
+        "text": "<@U5S11SHM4> Поюзал tensorflow. У них бесплатные онлайн jupiter книжки - не нужно собственное железо. Подача хорошая, есть субтитры, кроме того, после лекций коспект материала. Есть квизы легкие. Нового хмм, не особо, ну потому что я до этого так влегкую изучал ml. Там только начала, общие понятия, logistic regression, linear regression, всякая регуляризация. Ничего про деревья, ансамбли, и т.д. Немного про нейронные сети, но опять же только тривиальные. Говорю же, легкий вводный курс.",
+        "user": "U41539JBX",
+        "ts": "1521740488.000353",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g38bdabff740",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab38bdabff74008333ff600ad84417a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Kim",
+            "display_name": "igoo",
+            "team": "T040HKJE3",
+            "name": "igoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521650034.000854",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U5S11SHM4",
+                    "U2AML8LEB",
+                    "U8HQLB1MH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,400 @@
+[
+    {
+        "client_msg_id": "1f6e4351-87ad-413c-912a-a1386937b103",
+        "type": "message",
+        "text": "add notes as docker flask to be in a search result",
+        "user": "UBJ10K86A",
+        "ts": "1558684688.001200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551164948.095200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "8c26fc39-59f6-47a8-a497-58871747540e",
+        "type": "message",
+        "text": "add notes as docker to be in a search result",
+        "user": "UBJ10K86A",
+        "ts": "1558684705.001500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551165057.096700",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "52ddfa18-6e67-460e-8dfc-e1ecfbad7eed",
+        "type": "message",
+        "text": "Всем привет! Подскажите пожалуйста онлайн курс (желательно бесплатный) по numpy\/pandas\/scipy с практическими занятиями. Заранее спасибо!",
+        "user": "UJJ04S1HV",
+        "ts": "1558703988.005800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9a33cb305671",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-10\/631785579989_9a33cb30567116a62688_72.jpg",
+            "first_name": "Yakov",
+            "real_name": "Yakov",
+            "display_name": "Yakov",
+            "team": "T040HKJE3",
+            "name": "yakovburtsev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558703988.005800",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1558863365.027200",
+        "reply_users": [
+            "U3P82LKDK",
+            "U302AALBS",
+            "U92Q22QDQ"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1558704090.006000"
+            },
+            {
+                "user": "U302AALBS",
+                "ts": "1558704736.006700"
+            },
+            {
+                "user": "U302AALBS",
+                "ts": "1558705965.009000"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1558706245.009300"
+            },
+            {
+                "user": "U92Q22QDQ",
+                "ts": "1558863365.027200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c6a452c9-dfa1-45f5-bc3f-afd312a44c7d",
+        "type": "message",
+        "text": "по numpy традиционно советуют вот это:\n<https:\/\/github.com\/rougier\/numpy-100>",
+        "user": "U3P82LKDK",
+        "ts": "1558704090.006000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "rougier\/numpy-100",
+                "text": "100 numpy exercises (100% complete)",
+                "title": "rougier\/numpy-100",
+                "footer": "<https:\/\/github.com\/rougier\/numpy-100|rougier\/numpy-100>",
+                "id": 1,
+                "ts": 1401163787,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3330",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/rougier\/numpy-100",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1558703988.005800",
+        "parent_user_id": "UJJ04S1HV"
+    },
+    {
+        "client_msg_id": "3C41B10D-CA4E-490D-A056-2FE555F57333",
+        "type": "message",
+        "text": "По numpy самый крутой - cs231n",
+        "user": "U302AALBS",
+        "ts": "1558704736.006700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558703988.005800",
+        "parent_user_id": "UJJ04S1HV",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U27SUBTB9",
+                    "U0H7VBQQ1",
+                    "U6XMXEHHT",
+                    "UENSFU56C",
+                    "U6UNGFSMQ",
+                    "U1D6DT6HE",
+                    "U9V48C738",
+                    "UBM4B8CBU",
+                    "U4ZRFG1V0",
+                    "U3KBYJQSF",
+                    "UJGV2HDFD",
+                    "U1UNFRQ1K",
+                    "U8Q72GC15",
+                    "UE259V12B",
+                    "UEPQD4WGJ",
+                    "UEP8V5FM5"
+                ],
+                "count": 16
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U3P82LKDK",
+                    "U4WGFD012",
+                    "U6Z21KSBC",
+                    "U48A49NRJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D",
+                    "U4M57KTPS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C4737DAB-291C-4F2E-A433-892640F731D3",
+        "type": "message",
+        "text": "Я не шучу. Просто как сайд эффект еще и введение в комп зрение пройдешь",
+        "user": "U302AALBS",
+        "ts": "1558705965.009000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558703988.005800",
+        "parent_user_id": "UJJ04S1HV"
+    },
+    {
+        "client_msg_id": "0c091bb0-bef1-4b3f-a31b-478f91c9522a",
+        "type": "message",
+        "text": "ну как.. в итоге когда нужно будет broadcasting делать, все равно вернешься к первой ссылке",
+        "user": "U3P82LKDK",
+        "ts": "1558706245.009300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558703988.005800",
+        "parent_user_id": "UJJ04S1HV",
+        "reactions": [
+            {
+                "name": "idk",
+                "users": [
+                    "U302AALBS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U27GFN6P7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c112608c-fe52-4949-836e-e6ba134d828d",
+        "type": "message",
+        "text": "По поводу скидки 80%: нужно указывать свой логин в ODS в пункте Social media profiles в заявке или есть какое-то отдельное поле?",
+        "user": "U1YK4SV6W",
+        "ts": "1558707098.010100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6989691a5239",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-23\/885509412519_6989691a5239c34c649f_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Gulyaev",
+            "display_name": "PaGul",
+            "team": "T040HKJE3",
+            "name": "pagul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "52d22478-2604-45f5-861c-f5ba68ff0e20",
+        "type": "message",
+        "text": "А на студентов Сколтеха (для которых вход 6000р, насколько я понимаю) скидка, связанная с ODS, распространяется?) Билет будет стоить 1200р?)",
+        "user": "UBA7N1YSG",
+        "ts": "1558711038.011000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "84aed0d4-e883-4862-997d-0d4f9e9ef7f3",
+        "type": "message",
+        "text": "<@U0ZJSC8JC> А вы как хотите податься? как студент? или от индустрии? В вашем случае, раз вы в ODS, имеет смысл подаваться от индустрии как представитель ODS, чтобы была возможность скидки. Да, светит.",
+        "user": "U0Y7U6YER",
+        "ts": "1558765104.013100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "2d007b45-dda5-46f9-908f-6076c159bdc6",
+        "type": "message",
+        "text": "<@U1YK4SV6W> Отдельного поля нет. Предлагаю а) указать в пункте social media profiles б) в CV",
+        "user": "U0Y7U6YER",
+        "ts": "1558765144.013300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "04862445-7cfb-4ae8-a847-40e35cf933d8",
+        "type": "message",
+        "text": "<@UBA7N1YSG> Нет, это уже слишком. 6 тыр за две недели с кофе-брейками и обедом - это небольшие деньги притом, что нам надо лекторам оплачивать перелеты и отели, и еще куча других трат. Так что в вашем случае - если вы студент - вы можете рассчитывать на стоимость в 6 тыр.",
+        "user": "U0Y7U6YER",
+        "ts": "1558765215.013500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0Y7U6YER",
+            "ts": "1558765244.000000"
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    }
+]

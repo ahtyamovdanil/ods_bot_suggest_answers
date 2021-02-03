@@ -1,0 +1,1051 @@
+[
+    {
+        "client_msg_id": "fe565813-681b-49cc-bf98-4ddeffdd478c",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Andrej_Karpathy>",
+        "user": "U0U2ENJ4U",
+        "ts": "1581667864.407200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14882ebdc4fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-18\/60657636951_14882ebdc4fa3a51a76d_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lyashenko",
+            "display_name": "andrey",
+            "team": "T040HKJE3",
+            "name": "andrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Andrej Karpathy",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Andrej_Karpathy",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Andrej_Karpathy",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Andrej Karpathy (born October 23, 1986) is the director of artificial intelligence and Autopilot Vision at Tesla. He specializes in deep learning and image recognition and understanding.Andrej Karpathy was born in Slovakia and moved with his family to Toronto when he was 15. He completed his Computer Science and Physics undergraduate degree at University of Toronto in 2009 and completed his master's degree at University of British Columbia in 2011,  where he worked on physically-simulated figures. He graduated with PhD from Stanford University in 2015 under the supervision of Dr. Fei-Fei Li, focusing on intersection of natural language processing and computer vision, and deep learning models suited for this task. He joined the artificial intelligence group OpenAI as a research scientist in September 2016 and became Tesla's director of artificial intelligence in June 2017.He has a YouTube channel dedicated to speedcubing.",
+                "fallback": "wikipedia: Andrej Karpathy",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Andrej_Karpathy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Andrej_Karpathy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH"
+    },
+    {
+        "client_msg_id": "24953da7-0b3a-4aa9-82bc-8f1dfdcda915",
+        "type": "message",
+        "text": "на правах собственного мнения:\n1. год это не особо много в рамках жизни\n2. наверстать можно все что угодно, но это тяжело, нужно потратить на это много времени и сил поэтому удается не всем\n3. если уж переходить, то почему бы не переехать из :omsk: в :default-city: например? там и митапы, и тусовки, и контор куча (я правда в Омске никогда не был, но у меня сложилось впечатление что там ничего особо не происходит), переходить из одного вуза в Омске в другой кмк не имеет особо смысла",
+        "user": "U1BMURR5G",
+        "ts": "1581678707.409800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1581678758.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fsh3I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "на правах собственного мнения:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "год это не особо много в рамках жизни"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "наверстать можно все что угодно, но это тяжело, нужно потратить на это много времени и сил поэтому удается не всем"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "если уж переходить, то почему бы не переехать из "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "omsk"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " в "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "default-city"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " например? там и митапы, и тусовки, и контор куча (я правда в Омске никогда не был, но у меня сложилось впечатление что там ничего особо не происходит), переходить из одного вуза в Омске в другой кмк не имеет особо смысла"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULF96QF3K",
+                    "U6HFSNFQR",
+                    "UE4CX9345",
+                    "UT9V5EY4Q"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f9149df-5d08-4e8d-bcd2-d89ed96f9311",
+        "type": "message",
+        "text": "ну и большой плюс к тому что <@U0U2ENJ4U> пишет выше",
+        "user": "U1BMURR5G",
+        "ts": "1581678825.411400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну и большой плюс к тому что "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0U2ENJ4U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " пишет выше"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH"
+    },
+    {
+        "client_msg_id": "F79991BA-B7B7-4DB4-B6DF-053B8999D021",
+        "type": "message",
+        "text": "Нет, в Омске с IT неплохо: тусовки, стажировки и т.д. Я тоже думал, что, если уж переводиться, то в топ, но не слишком высокий балл за ЕГЭ(251), так что, скорее нет ",
+        "user": "UTA0FA7NH",
+        "ts": "1581678941.413500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4d443bb4862b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-31\/930385673188_4d443bb4862b3d390113_72.png",
+            "first_name": "Nariman",
+            "real_name": "Nariman",
+            "display_name": "nnazarov",
+            "team": "T040HKJE3",
+            "name": "nariman_nazarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0dg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Нет, в Омске с IT неплохо: тусовки, стажировки и т.д. Я тоже думал, что, если уж переводиться, то в топ, но не слишком высокий балл за ЕГЭ(251), так что, скорее нет "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH"
+    },
+    {
+        "client_msg_id": "b3f1e631-2c00-4d4a-8606-77cf836ac838",
+        "type": "message",
+        "text": "ну ЕГЭ можно и пересдать при желании, это такое дело",
+        "user": "U1BMURR5G",
+        "ts": "1581679173.414500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1581679191.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну ЕГЭ можно и пересдать при желании, это такое дело"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH"
+    },
+    {
+        "client_msg_id": "6D1D6BA7-02D0-4227-9A38-1A618923E9C3",
+        "type": "message",
+        "text": "Клчевой посыл в комментарии Андрея был, имхо, «на текущем этапе развития». Выбирая нефундаментальное образование ты автоматом ограничиваешь свои перспективы в будущем. Добрать с нуля прикладную тему проще чем фундаментальную. Конечно есть вероятность что в следующие 20-30 лет ничего фундаментально нового не появится что требовало бы для его понимания тервер, но кто знает?",
+        "user": "U35B82XT6",
+        "ts": "1581679381.419400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U35B82XT6",
+            "ts": "1581679397.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3SaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Клчевой посыл в комментарии Андрея был, имхо, «на текущем этапе развития». Выбирая нефундаментальное образование ты автоматом ограничиваешь свои перспективы в будущем. Добрать с нуля прикладную тему проще чем фундаментальную. Конечно есть вероятность что в следующие 20-30 лет ничего фундаментально нового не появится что требовало бы для его понимания тервер, но кто знает?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH"
+    },
+    {
+        "client_msg_id": "F2DEE9C0-5D91-4478-BC92-11A38A1B4CF3",
+        "type": "message",
+        "text": "Мне показалось, что он все-таки подчёркивает инженерное образование, а не чисто математическое, но могу быть не прав, ну то есть вы считаете, лучше перевестись на прикладную математику и информатику?",
+        "user": "UTA0FA7NH",
+        "ts": "1581679804.422200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4d443bb4862b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-31\/930385673188_4d443bb4862b3d390113_72.png",
+            "first_name": "Nariman",
+            "real_name": "Nariman",
+            "display_name": "nnazarov",
+            "team": "T040HKJE3",
+            "name": "nariman_nazarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TrNC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мне показалось, что он все-таки подчёркивает инженерное образование, а не чисто математическое, но могу быть не прав, ну то есть вы считаете, лучше перевестись на прикладную математику и информатику?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH",
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "U5GCU82HX",
+                    "UHR5Q170B",
+                    "U6LSE0FT9",
+                    "ULPRYQNS2",
+                    "U9HSZRDP1",
+                    "U6GB0TS03",
+                    "U1BMURR5G",
+                    "UKQTPE877"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "232D5E84-0869-4C20-83F7-2E825ABACED4",
+        "type": "message",
+        "text": "Чисто математическое как правило в классических универах и оно в дипломе идет как математик с правом работы преподавателем (типа педстаж еще нужно делать на практике). Прикладная математика это по факту инженерная специальность (но лучше смотреть программу)",
+        "user": "U35B82XT6",
+        "ts": "1581680871.429800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PA8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Чисто математическое как правило в классических универах и оно в дипломе идет как математик с правом работы преподавателем (типа педстаж еще нужно делать на практике). Прикладная математика это по факту инженерная специальность (но лучше смотреть программу)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "ULRRFCUR0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "815d3c74-6d27-4889-9833-a040ef4ebe16",
+        "type": "message",
+        "text": "Всем привет, кто-нибудь может посоветовать курсы для TF 2.0? Есть опыт с Pytorch и Keras, но хочется поразбираться еще с TF. Спасибо",
+        "user": "UGDDPF2KT",
+        "ts": "1581681773.431700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcc66257f1ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8cc66257f1ea95585bec388bf79e528.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "IvanDolgov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "johndolgov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет, кто-нибудь может посоветовать курсы для TF 2.0? Есть опыт с Pytorch и Keras, но хочется поразбираться еще с TF. Спасибо"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581681773.431700",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1581932989.476700",
+        "reply_users": [
+            "U3P82LKDK",
+            "UGDDPF2KT",
+            "U7SFPUVQF",
+            "U8PT29MJS",
+            "U1U86QZFF"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1581682062.432200"
+            },
+            {
+                "user": "UGDDPF2KT",
+                "ts": "1581683208.432700"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1581685421.433100"
+            },
+            {
+                "user": "U8PT29MJS",
+                "ts": "1581686969.437700"
+            },
+            {
+                "user": "U1U86QZFF",
+                "ts": "1581932989.476700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "google",
+                "users": [
+                    "UAG21HMV4",
+                    "UFUN87R0S",
+                    "UMKFYUG7L"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ada6f5d-3474-4870-a448-d15f54ab2bcb",
+        "type": "message",
+        "text": "для меня \"чистые математики\" - это люди вроде Савватеева (кстати, у него есть мнение про \"немножно выпивают\") или Романа Михайлова, очевидно, что а) ими стать смогут далеко не только лишь все и б) им конкретно наш ML не очень интересен",
+        "user": "U0U2ENJ4U",
+        "ts": "1581682002.431900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14882ebdc4fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-18\/60657636951_14882ebdc4fa3a51a76d_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lyashenko",
+            "display_name": "andrey",
+            "team": "T040HKJE3",
+            "name": "andrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Qei8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "для меня \"чистые математики\" - это люди вроде Савватеева (кстати, у него есть мнение про \"немножно выпивают\") или Романа Михайлова, очевидно, что а) ими стать смогут далеко не только лишь все и б) им конкретно наш ML не очень интересен"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U35B82XT6",
+                    "U6HFSNFQR",
+                    "UMM4N60K1",
+                    "U62N1NJUC",
+                    "UP1KE8BKM",
+                    "UE4CX9345"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfc90e94-1776-4b03-ad88-588890aed4fb",
+        "type": "message",
+        "text": "привет!\nсам толком не смотрел, но вот это может быть неплохим туториалом:\n<https:\/\/github.com\/dragen1860\/TensorFlow-2.x-Tutorials>",
+        "user": "U3P82LKDK",
+        "ts": "1581682062.432200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "dragen1860\/TensorFlow-2.x-Tutorials",
+                "text": "TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。",
+                "title": "dragen1860\/TensorFlow-2.x-Tutorials",
+                "footer": "<https:\/\/github.com\/dragen1860\/TensorFlow-2.x-Tutorials|dragen1860\/TensorFlow-2.x-Tutorials>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1548817209,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "4413",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/dragen1860\/TensorFlow-2.x-Tutorials",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+SFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "привет!\nсам толком не смотрел, но вот это может быть неплохим туториалом:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dragen1860\/TensorFlow-2.x-Tutorials"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581681773.431700",
+        "parent_user_id": "UGDDPF2KT"
+    },
+    {
+        "client_msg_id": "e6c2e100-077d-4a47-aeee-60a51fb77393",
+        "type": "message",
+        "text": "Спасибо большое!",
+        "user": "UGDDPF2KT",
+        "ts": "1581683208.432700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcc66257f1ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8cc66257f1ea95585bec388bf79e528.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "IvanDolgov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "johndolgov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LFmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо большое!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581681773.431700",
+        "parent_user_id": "UGDDPF2KT"
+    },
+    {
+        "client_msg_id": "b483a952-15a4-4793-b8ef-1561effdb4f2",
+        "type": "message",
+        "text": "Специализация на coursera от <http:\/\/deeplearning.ai|deeplearning.ai> вроде на стыке версий с уклоном в 2.0",
+        "user": "U7SFPUVQF",
+        "ts": "1581685421.433100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3==j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Специализация на coursera от "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/deeplearning.ai",
+                                "text": "deeplearning.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " вроде на стыке версий с уклоном в 2.0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581681773.431700",
+        "parent_user_id": "UGDDPF2KT"
+    },
+    {
+        "client_msg_id": "5E820002-9F63-4C68-8550-1DFB061183BF",
+        "type": "message",
+        "text": "Специализацию от deeplearning не рекомендую. Сам хотел взглянуть ради tf 2.0, но по факту там пару простых моделей в collab на керас, а все упражения это multi-choice quiz в стиле выбора фразы, которая упоминалась в роликах ранее.",
+        "user": "U8PT29MJS",
+        "ts": "1581686969.437700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac6c9e6e42a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2ac6c9e6e42abcb4573f32bd7d68870.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Romanov",
+            "display_name": "kvr777",
+            "team": "T040HKJE3",
+            "name": "kirill.v.romanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Специализацию от deeplearning не рекомендую. Сам хотел взглянуть ради tf 2.0, но по факту там пару простых моделей в collab на керас, а все упражения это multi-choice quiz в стиле выбора фразы, которая упоминалась в роликах ранее."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581681773.431700",
+        "parent_user_id": "UGDDPF2KT",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "UMQSP3DJM",
+                    "U21MU5ATE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bert",
+                "users": [
+                    "UMQSP3DJM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "472484b6-65d9-4437-9161-53d1acf015eb",
+        "type": "message",
+        "text": "Добрый вечер ,кто может подсказать какие-нибудь курсы по автопилоту,компьютерному зрению (в идеале на русском языке )",
+        "user": "UR9M1T5KP",
+        "ts": "1581698628.440800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "967fc36b1a5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1415086526086_967fc36b1a5dedf90762_72.jpg",
+            "first_name": "Никита",
+            "real_name": "Никита Лисовик",
+            "display_name": "Niklisovik",
+            "team": "T040HKJE3",
+            "name": "nik.lis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9UlX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый вечер ,кто может подсказать какие-нибудь курсы по автопилоту,компьютерному зрению (в идеале на русском языке )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581698628.440800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1581771284.457100",
+        "reply_users": [
+            "UNEK3A52N",
+            "UDZC02ATZ",
+            "U6SCXUP6U"
+        ],
+        "replies": [
+            {
+                "user": "UNEK3A52N",
+                "ts": "1581699515.441000"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1581702447.441600"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1581771284.457100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U8PMZ6397",
+                    "U7F560VE1",
+                    "U8QE9EVAQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "male-pilot",
+                "users": [
+                    "UDUBG85P1",
+                    "U7F560VE1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "131fae75-3c81-4426-8f96-95b7addad904",
+        "type": "message",
+        "text": "udacity self-driving nanodegree",
+        "user": "UNEK3A52N",
+        "ts": "1581699515.441000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b6b8b0f4b841",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-11\/829838828288_b6b8b0f4b841afe31e73_72.jpg",
+            "first_name": "Semyon",
+            "real_name": "Semyon Sergiev",
+            "display_name": "sergiev",
+            "team": "T040HKJE3",
+            "name": "sergiev.sa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "udacity self-driving nanodegree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581698628.440800",
+        "parent_user_id": "UR9M1T5KP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8DRB30SX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84ba69ba-1316-44e5-9821-352df66ef71c",
+        "type": "message",
+        "text": "Ну русский язык это такой фильтр, что вряд-ли что-то современное изучишь",
+        "user": "UDZC02ATZ",
+        "ts": "1581702447.441600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "22547df9a9c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/776745782336_22547df9a9c74d840578_72.png",
+            "first_name": "",
+            "real_name": "Marvelsh",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marvelsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aM0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну русский язык это такой фильтр, что вряд-ли что-то современное изучишь"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581698628.440800",
+        "parent_user_id": "UR9M1T5KP",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8PMZ6397",
+                    "UD2EX7JP9",
+                    "U74DLUWUC",
+                    "UAHMQJA92",
+                    "UB4F4DZGV",
+                    "UFUDG4UCS",
+                    "UM5DXE4LE",
+                    "UMQSP3DJM",
+                    "U8H8CSL1Y",
+                    "UDHJKLGLR",
+                    "UC7CJPLG2"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40667f01-58c9-46b0-8290-2ac92523d768",
+        "type": "message",
+        "text": "Вкину на :fan: : например, Вапник Владимир Наумович — чистый или инженер? И что там по ML? Не такой популярный, как Савватеев, конечно.",
+        "user": "ULRRFCUR0",
+        "ts": "1581712296.454400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a981afc6f626",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/725316316599_a981afc6f62656ab256a_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Dorofeev",
+            "display_name": "dorikdor",
+            "team": "T040HKJE3",
+            "name": "dorikdor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "ULRRFCUR0",
+            "ts": "1581712594.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вкину на "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fan"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : например, Вапник Владимир Наумович — чистый или инженер? И что там по ML? Не такой популярный, как Савватеев, конечно."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581660384.390700",
+        "parent_user_id": "UTA0FA7NH",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "ULF96QF3K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

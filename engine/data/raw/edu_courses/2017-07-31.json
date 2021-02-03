@@ -1,0 +1,514 @@
+[
+    {
+        "type": "message",
+        "text": "а ты решаешь по предсказанию веб траффика?",
+        "user": "U1BMURR5G",
+        "ts": "1501493452.523933",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501479940.560140",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "нет, совсем желания нет пока. Руками кластеризовать статьи там и потом воевать с циклами и сезонностью + параметры подбирать слишком долго на таком кол-ве. А lstm и вообще сетки я готовить не умею.",
+        "user": "U5R6WCSBU",
+        "ts": "1501494217.798709",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501479940.560140",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "только финальный",
+        "user": "U14L7977T",
+        "ts": "1501518905.283718",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf91eb0d8ade",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e0f91eb0d8ade1c43c5b271f76fa3253.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shovkun",
+            "display_name": "ash",
+            "team": "T040HKJE3",
+            "name": "ash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501330171.410212",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501524086.253572",
+        "user": "U6G6ALY93",
+        "text": "<@U6G6ALY93> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501527834.415380",
+        "user": "U6FH7G249",
+        "text": "<@U6FH7G249> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Доброго времени суток. Подскажите пожалуйста, какая есть более бюджетная альтернатива Amazon AWS или может существует что-то вообще бесплатное (на что не надеюсь). Хотелось бы пройти курс <http:\/\/fast.ai|fast.ai>, или для него хватит бюджетной рабочей станции?",
+        "user": "U6B4LEZ0D",
+        "ts": "1501531139.154510",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2c12c26851c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c92c12c26851cc72fcfbeb16630227ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Milovan",
+            "real_name": "Milovan Denis",
+            "display_name": "milovan",
+            "team": "T040HKJE3",
+            "name": "milovan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "reply_count": 14,
+        "reply_users_count": 6,
+        "latest_reply": "1501576424.491217",
+        "reply_users": [
+            "U3CJPQ4HX",
+            "U6B4LEZ0D",
+            "U1HHX1QS3",
+            "U6BS23P47",
+            "U302AALBS",
+            "U1BMURR5G"
+        ],
+        "replies": [
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1501531254.218103"
+            },
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1501531370.281003"
+            },
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1501531432.312818"
+            },
+            {
+                "user": "U6B4LEZ0D",
+                "ts": "1501531736.471822"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1501531993.602581"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501533728.513827"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501533765.533101"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501533872.589166"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501533930.619340"
+            },
+            {
+                "user": "U302AALBS",
+                "ts": "1501533993.653242"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501534139.731846"
+            },
+            {
+                "user": "U6B4LEZ0D",
+                "ts": "1501534169.746927"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1501534289.810673"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1501576424.491217"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.crestle.com\/>\nЭто стартап от одного из ребят, кто проходил курс + сам Jeremy Howard рекомендует у себя в твитере",
+        "user": "U3CJPQ4HX",
+        "ts": "1501531254.218103",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/jeremyphoward\/status\/890684235278827521>",
+        "user": "U3CJPQ4HX",
+        "ts": "1501531370.281003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jeremyphoward|@jeremyphoward>: Doing the <https:\/\/twitter.com\/fastdotai|@fastdotai> course? Try <http:\/\/crestle.com> - all the course materials are pre-installed! Thanks <https:\/\/twitter.com\/anuraggoel|@anuraggoel> - great stuff :) <https:\/\/pbs.twimg.com\/media\/DFxYaaqVYAQJL4n.jpg>",
+                "ts": 1501190644,
+                "author_name": "Jeremy Howard",
+                "author_link": "https:\/\/twitter.com\/jeremyphoward\/status\/890684235278827521",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1100427147\/eye_jeremy75_normal.jpg",
+                "author_subname": "@jeremyphoward",
+                "text": "Doing the <https:\/\/twitter.com\/fastdotai|@fastdotai> course? Try <http:\/\/crestle.com> - all the course materials are pre-installed! Thanks <https:\/\/twitter.com\/anuraggoel|@anuraggoel> - great stuff :) <https:\/\/pbs.twimg.com\/media\/DFxYaaqVYAQJL4n.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/jeremyphoward\/status\/890684235278827521",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DFxYaaqVYAQJL4n.jpg",
+                "image_width": 1200,
+                "image_height": 681,
+                "image_bytes": 63021,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "Disclaimer: сам еще не использовал, но собираюсь попробовать. Дают 25 часов бесплатно GPU (хотя на старте было 100)",
+        "user": "U3CJPQ4HX",
+        "ts": "1501531432.312818",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "<@U3CJPQ4HX> спасибо за ссылку, очень помогли",
+        "user": "U6B4LEZ0D",
+        "ts": "1501531736.471822",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2c12c26851c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c92c12c26851cc72fcfbeb16630227ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Milovan",
+            "real_name": "Milovan Denis",
+            "display_name": "milovan",
+            "team": "T040HKJE3",
+            "name": "milovan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U3CJPQ4HX",
+                    "U3D5HVB51"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а что там free tier не хватает?",
+        "user": "U1HHX1QS3",
+        "ts": "1501531993.602581",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "Google дает 300 usd credit ",
+        "user": "U6BS23P47",
+        "ts": "1501533728.513827",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "FreeTier не дает доступа к GPUs...",
+        "user": "U6BS23P47",
+        "ts": "1501533765.533101",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "Был еще французский стартап который тоже credit давал но помоему уже и так за глаза. Если не хватит Гугла и тд пиши в личку дам еще один ",
+        "user": "U6BS23P47",
+        "ts": "1501533872.589166",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "25 часов от Джереми это несерьезно - обычно все конкуренты дают как минимум от 100",
+        "user": "U6BS23P47",
+        "ts": "1501533930.619340",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "<@U6B4LEZ0D> если у тебя есть почта с @edu..., то возьми github student pack там есть промокод на 100--150 долларов для AWS",
+        "user": "U302AALBS",
+        "ts": "1501533993.653242",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "Судя по этому посту crestle построил только недавно какой то одинокий индус. Тогда сразу лучше идти на floydhub раз уж они тут себя сами разрекламировали. Floyd уже работает стабильно несколько месяцев  <http:\/\/forums.fast.ai\/t\/crestle-easier-alternative-to-aws\/2180\/10>",
+        "user": "U6BS23P47",
+        "ts": "1501534139.731846",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Deep Learning Course Forums",
+                "title": "Crestle [easier alternative to AWS]",
+                "title_link": "http:\/\/forums.fast.ai\/t\/crestle-easier-alternative-to-aws\/2180\/10",
+                "text": "Are most of you developing with CPU-only notebooks and copying work over to run on GPUs?",
+                "fallback": "Deep Learning Course Forums: Crestle [easier alternative to AWS]",
+                "thumb_url": "http:\/\/forums.fast.ai\/user_avatar\/forums.fast.ai\/anurag\/200\/403_1.png",
+                "from_url": "http:\/\/forums.fast.ai\/t\/crestle-easier-alternative-to-aws\/2180\/10",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/forums.fast.ai\/images\/default-apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": "Ух, сколько всего насоветовали, спасибо всем огромное",
+        "user": "U6B4LEZ0D",
+        "ts": "1501534169.746927",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2c12c26851c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c92c12c26851cc72fcfbeb16630227ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Milovan",
+            "real_name": "Milovan Denis",
+            "display_name": "milovan",
+            "team": "T040HKJE3",
+            "name": "milovan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D"
+    },
+    {
+        "type": "message",
+        "text": " <https:\/\/www.floydhub.com> ",
+        "user": "U6BS23P47",
+        "ts": "1501534289.810673",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501531139.154510",
+        "parent_user_id": "U6B4LEZ0D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6BNXMZT9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

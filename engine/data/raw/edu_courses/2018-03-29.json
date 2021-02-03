@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "text": "ну, все так делают) особенно, если есть что вставлять)",
+        "user": "U48B3EN87",
+        "ts": "1522315524.000208",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c7a34914705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-27\/305499298995_3c7a34914705a4753a5a_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor",
+            "display_name": "abracadabra",
+            "team": "T040HKJE3",
+            "name": "abracadabra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1522270132.000074",
+        "parent_user_id": "U599Q2S6A"
+    },
+    {
+        "type": "message",
+        "text": "Last day to apply:\n<https:\/\/www.microsoft.com\/en-us\/research\/academic-program\/microsoft-ai-residency-program\/>",
+        "user": "U8CD7JS22",
+        "ts": "1522368584.000170",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c3400eb7eff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-19\/288700394965_8c3400eb7eff39b1bcb4_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Vess",
+            "display_name": "Vess",
+            "team": "T040HKJE3",
+            "name": "vessemer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Microsoft Research",
+                "title": "Microsoft AI Residency Program - Microsoft Research",
+                "title_link": "https:\/\/www.microsoft.com\/en-us\/research\/academic-program\/microsoft-ai-residency-program\/",
+                "text": "The Microsoft AI Residency is a 12-month program in which AI residents work closely with AI researchers to solve practical AI problems transforming society.",
+                "fallback": "Microsoft Research: Microsoft AI Residency Program - Microsoft Research",
+                "thumb_url": "https:\/\/www.microsoft.com\/en-us\/research\/uploads\/prod\/2018\/01\/AIResearchArea_Tile_Header_1920x720.jpg",
+                "from_url": "https:\/\/www.microsoft.com\/en-us\/research\/academic-program\/microsoft-ai-residency-program\/",
+                "thumb_width": 1920,
+                "thumb_height": 720,
+                "service_icon": "https:\/\/www.microsoft.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

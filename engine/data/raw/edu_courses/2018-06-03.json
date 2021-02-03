@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "text": "Яркое подтверждение тому, что сделать хороший курс, особенно онлайн, это сложно",
+        "user": "U0SBLSTJ4",
+        "ts": "1528012452.000091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1527759162.000505",
+        "parent_user_id": "U48SBCYKX",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U48SBCYKX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Если интересуют поясняющие видео, то здесь:\n<https:\/\/www.edx.org\/course\/querying-data-with-transact-sql>\nесли только практика, то сразу сюда можно:\n<https:\/\/www.datacamp.com\/courses\/querying-with-transact-sql>",
+        "user": "U70TZK6Q3",
+        "ts": "1528018308.000006",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2428994d97a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fe2428994d97aa38df4b6efee3aa88a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Matyukov",
+            "display_name": "nmatyukov",
+            "team": "T040HKJE3",
+            "name": "nmatyukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Querying Data with Transact-SQL",
+                "title_link": "https:\/\/www.edx.org\/course\/querying-data-with-transact-sql",
+                "text": "From querying and modifying data in SQL Server or Azure SQL to programming with Transact-SQL, learn essential skills that employers need.",
+                "fallback": "edX: Querying Data with Transact-SQL",
+                "image_url": "https:\/\/prod-discovery.edx-cdn.org\/media\/course\/image\/66619e93-c801-43cb-9a91-28edb84c3eae-b77bcbb29d34.small.jpg",
+                "ts": 1516624955,
+                "from_url": "https:\/\/www.edx.org\/course\/querying-data-with-transact-sql",
+                "image_width": 378,
+                "image_height": 225,
+                "image_bytes": 17247,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/course\/querying-data-with-transact-sql"
+            }
+        ],
+        "thread_ts": "1527584035.000553",
+        "parent_user_id": "U93S7NL76"
+    }
+]

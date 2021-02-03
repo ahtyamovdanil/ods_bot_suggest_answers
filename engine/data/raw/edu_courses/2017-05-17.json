@@ -1,0 +1,907 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1495009140.469218",
+        "user": "U1BLD7VU1",
+        "text": "<@U1BLD7VU1> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U2ACFHQF2> спасибо! Судя по программе, огонь!",
+        "user": "U14CTBLFJ",
+        "ts": "1495010729.841384",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017038.306038",
+        "user": "U5EGA37D0",
+        "text": "<@U5EGA37D0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017063.311249",
+        "user": "U5EGA6QHG",
+        "text": "<@U5EGA6QHG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017078.314478",
+        "user": "U5EK35YJH",
+        "text": "<@U5EK35YJH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017194.338798",
+        "user": "U5DS2P18Q",
+        "text": "<@U5DS2P18Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017269.353986",
+        "user": "U5FAKQV1C",
+        "text": "<@U5FAKQV1C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017294.358835",
+        "user": "U5EE668F5",
+        "text": "<@U5EE668F5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017345.369097",
+        "user": "U5EHSF57W",
+        "text": "<@U5EHSF57W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017442.388085",
+        "user": "U5EHT0M28",
+        "text": "<@U5EHT0M28> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017515.402482",
+        "user": "U5DS4BN1E",
+        "text": "<@U5DS4BN1E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017523.404059",
+        "user": "U5EE7C38B",
+        "text": "<@U5EE7C38B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017585.416303",
+        "user": "U5DV3BRH7",
+        "text": "<@U5DV3BRH7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017702.439426",
+        "user": "U5EHUFNA0",
+        "text": "<@U5EHUFNA0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017718.442487",
+        "user": "U5DS5JMG8",
+        "text": "<@U5DS5JMG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Проходил сам, советую пройти бесплатную часть всю, также можно того же Головача по кору лекции посмотреть, довольно простым языком для начинающих",
+        "user": "U5EE7C38B",
+        "ts": "1495017830.463921",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a1fbadfb21a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-22\/461560825701_2a1fbadfb21a7dcba176_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Humeniuk",
+            "display_name": "human",
+            "team": "T040HKJE3",
+            "name": "human",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[May 16th, 2017 8:58 PM] artem: Вы или ваши друзья брали курс по Java от Javarush? <https:\/\/javarush.ru>\n\nКакие впечатления? Я братану смотрю, у него пока с английским не очень.\nСпасибо. ",
+                "ts": "1494957492.424564",
+                "author_subname": "artem",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Вы или ваши друзья брали курс по Java от Javarush? <https:\/\/javarush.ru>\n\nКакие впечатления? Я братану смотрю, у него пока с английским не очень.\nСпасибо. ",
+                "author_name": "Artem Zarubin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/artem",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-03-02\/147867120704_76bfe087c2daaf1ed3fa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1494957492424564?thread_ts=1494957492424564&cid=C04DP7BUY",
+                "is_share": true,
+                "footer": "Thread in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017920.481362",
+        "user": "U5EE9RZS7",
+        "text": "<@U5EE9RZS7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017926.482546",
+        "user": "U5EGF2TR8",
+        "text": "<@U5EGF2TR8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495017973.492309",
+        "user": "U5FB91P55",
+        "text": "<@U5FB91P55> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495018048.507473",
+        "user": "U5EGFV4P4",
+        "text": "<@U5EGFV4P4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495018110.520060",
+        "user": "U5DV6SWQH",
+        "text": "<@U5DV6SWQH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495018156.528872",
+        "user": "U5EGGQG1G",
+        "text": "<@U5EGGQG1G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Добрый день. Взял курс <https:\/\/www.udacity.com\/course\/deep-learning-nanodegree-foundation--nd101> январский набор. Курс оказался на 90 процентов ссылками на внешние ресурсы, оставшиеся 10 немного материала. Могу посоветовать только как вводный для tensorflow. Цена тогда была 400$.",
+        "user": "U5DS2P18Q",
+        "ts": "1495018487.594520",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g06c9e29b84c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d806c9e29b84cfc9e162ebdbded13c99.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Needful",
+            "display_name": "Daniel Needful",
+            "team": "T040HKJE3",
+            "name": "nnddiiff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning Nanodegree Foundation | Udacity",
+                "title_link": "https:\/\/www.udacity.com\/course\/deep-learning-nanodegree-foundation--nd101",
+                "text": "With Siraj Raval, Udacity provides a dynamic introduction to Deep Learning, using weekly videos, exclusive projects, and expert feedback to teach you the foundations of this future-shaping technology.",
+                "fallback": "Deep Learning Nanodegree Foundation | Udacity",
+                "image_url": "https:\/\/s3-us-west-1.amazonaws.com\/udacity-content\/degrees\/catalog-images\/nd101.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.udacity.com\/course\/deep-learning-nanodegree-foundation--nd101",
+                "image_bytes": 49512,
+                "service_icon": "https:\/\/d125fmws0bore1.cloudfront.net\/assets\/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png",
+                "service_name": "Udacity",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1495018487.594520",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1495024523.853557",
+        "reply_users": [
+            "U1BMURR5G",
+            "U5DS2P18Q",
+            "U4YMDHURY",
+            "U4YQKKZFA"
+        ],
+        "replies": [
+            {
+                "user": "U1BMURR5G",
+                "ts": "1495018914.679352"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1495018945.685792"
+            },
+            {
+                "user": "U5DS2P18Q",
+                "ts": "1495019687.828674"
+            },
+            {
+                "user": "U5DS2P18Q",
+                "ts": "1495020146.916373"
+            },
+            {
+                "user": "U4YMDHURY",
+                "ts": "1495023027.501703"
+            },
+            {
+                "user": "U4YQKKZFA",
+                "ts": "1495024523.853557"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wtf",
+                "users": [
+                    "U0DJEEXE1",
+                    "U19EZ8L5D",
+                    "U4GL8MTTK",
+                    "U1BMURR5G",
+                    "U14CTBLFJ",
+                    "U0ZJV6E5Q",
+                    "U17UDV31D",
+                    "U4YMDHURY",
+                    "U065VP6F7",
+                    "U0DA4J82H",
+                    "U1CMPEWPQ",
+                    "U24FHECDD",
+                    "U35QCDXHC",
+                    "U2ZAVPXND"
+                ],
+                "count": 14
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U1UNFRQ1K",
+                    "U0DA4J82H",
+                    "U59CPL6ES"
+                ],
+                "count": 3
+            },
+            {
+                "name": "theano",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U59CPL6ES",
+                    "U53RQ3TJN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495018498.596598",
+        "user": "U5EEEGH8B",
+        "text": "<@U5EEEGH8B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495018730.641009",
+        "user": "U5EKEJMRT",
+        "text": "<@U5EKEJMRT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "nnddiiff: \n&gt; Курс оказался на 90 процентов ссылками на внешние ресурсы, оставшиеся 10 немного материала. Могу посоветовать только как вводный для tensorflow. \nя бы тогда сказал вообще не советую",
+        "user": "U1BMURR5G",
+        "ts": "1495018914.679352",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1495018919.000000"
+        },
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "text": "а по тензорфлоу на удасити курс бесплатный, он входит в специализацию но отдельно его можно бесплатно пройти afaik",
+        "user": "U1BMURR5G",
+        "ts": "1495018945.685792",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495019374.768825",
+        "user": "U5E04082V",
+        "text": "<@U5E04082V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "1. Он меняется. В процессе обучения добавляют материал по фидбэком.",
+        "user": "U5DS2P18Q",
+        "ts": "1495019687.828674",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g06c9e29b84c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d806c9e29b84cfc9e162ebdbded13c99.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Needful",
+            "display_name": "Daniel Needful",
+            "team": "T040HKJE3",
+            "name": "nnddiiff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020098.907257",
+        "user": "U5EGZMVSN",
+        "text": "<@U5EGZMVSN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "2. Посоветовать это типа сарказм.",
+        "user": "U5DS2P18Q",
+        "ts": "1495020146.916373",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g06c9e29b84c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d806c9e29b84cfc9e162ebdbded13c99.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Needful",
+            "display_name": "Daniel Needful",
+            "team": "T040HKJE3",
+            "name": "nnddiiff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020335.952624",
+        "user": "U5FBA5E06",
+        "text": "<@U5FBA5E06> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020483.980674",
+        "user": "U5E0D0MCZ",
+        "text": "<@U5E0D0MCZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020564.996292",
+        "user": "U5EEXS2R1",
+        "text": "<@U5EEXS2R1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020701.023985",
+        "user": "U5EEYPBS7",
+        "text": "<@U5EEYPBS7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495020888.059724",
+        "user": "U5EKXTL2H",
+        "text": "<@U5EKXTL2H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495021098.100458",
+        "user": "U5FBEN11U",
+        "text": "<@U5FBEN11U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495021391.157114",
+        "user": "U5EL0B35K",
+        "text": "<@U5EL0B35K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495021443.167271",
+        "user": "U5EH7NP7C",
+        "text": "<@U5EH7NP7C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495021465.171782",
+        "user": "U5E0J9S0H",
+        "text": "<@U5E0J9S0H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495021839.247029",
+        "user": "U5EF4EQR1",
+        "text": "<@U5EF4EQR1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "я этот ботал, правда, там опечатки бывают\n<https:\/\/www.youtube.com\/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh>",
+        "user": "U4YMDHURY",
+        "ts": "1495023027.501703",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5aed23ab8ac3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-10\/660780916485_5aed23ab8ac3a41a7cbc_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan",
+            "display_name": "ivan.kush",
+            "team": "T040HKJE3",
+            "name": "ivan.kush",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Deep Learning with Tensorflow - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh",
+                "text": "Enroll in the course for free at: <https:\/\/bigdatauniversity.com\/courses\/deep-learning-tensorflow\/> Deep Learning with TensorFlow Introduction The majority of ...",
+                "fallback": "YouTube: Deep Learning with Tensorflow - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MrijcdNl_U4\/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OzWlmbVS9B_wma98zyoJsVKcBGA",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495023125.523294",
+        "user": "U5FCA4F8X",
+        "text": "<@U5FCA4F8X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495023148.528098",
+        "user": "U5E0T3J7K",
+        "text": "<@U5E0T3J7K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495023189.536951",
+        "user": "U5EHGSG8J",
+        "text": "<@U5EHGSG8J> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495023590.626413",
+        "user": "U5FCCJGNT",
+        "text": "<@U5FCCJGNT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "о, спасибо, а то я думал начать проходить",
+        "user": "U4YQKKZFA",
+        "ts": "1495024523.853557",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3559575ac103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-20\/243703554387_3559575ac103eef72c34_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Rukhlov",
+            "display_name": "mrukhlov",
+            "team": "T040HKJE3",
+            "name": "mrukhlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495018487.594520",
+        "parent_user_id": "U5DS2P18Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495025197.026129",
+        "user": "U5FCN01DM",
+        "text": "<@U5FCN01DM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Посоветуйте что-то про хадуп и ко (=все что биг) для обзора и общего понимания, но желательно без длинных соплей, плиз. В пиннах есть что-то двух летней давности. Насколько устаревшее по подаче и содержанию?",
+        "user": "U4B4HJX9A",
+        "ts": "1495025583.129616",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4B4HJX9A",
+            "ts": "1495025623.000000"
+        },
+        "thread_ts": "1495025583.129616",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1495609161.277669",
+        "reply_users": [
+            "U4RGH80F8",
+            "U4B4HJX9A"
+        ],
+        "replies": [
+            {
+                "user": "U4RGH80F8",
+                "ts": "1495606498.893905"
+            },
+            {
+                "user": "U4B4HJX9A",
+                "ts": "1495609161.277669"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495026876.518523",
+        "user": "U5ELZ4A77",
+        "text": "<@U5ELZ4A77> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U4B4HJX9A> мне в свое время понравилась книга - <https:\/\/www.amazon.com\/Data-Science-Big-Analytics-Discovering-ebook\/dp\/B00RXHVQF6> - для начинающего, чтобы понять, что к чему, самое то, без длинных соплей в виде перепечатывания мануалов, и понятно практически любой аудитории с любым уровнем подготовки.",
+        "user": "U0JKYTE4B",
+        "ts": "1495028708.154780",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d6641a379dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1403130875956_3d6641a379dd5c317d0b_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Khvostishkov",
+            "display_name": "ivan.khvostishkov",
+            "team": "T040HKJE3",
+            "name": "ivan.khvostishkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U4B4HJX9A> во, нашел еще вводную статью - <https:\/\/www.forbes.com\/sites\/edddumbill\/2014\/01\/14\/the-data-lake-dream\/>",
+        "user": "U0JKYTE4B",
+        "ts": "1495029106.306194",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d6641a379dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1403130875956_3d6641a379dd5c317d0b_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Khvostishkov",
+            "display_name": "ivan.khvostishkov",
+            "team": "T040HKJE3",
+            "name": "ivan.khvostishkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes",
+                "title": "The Data Lake Dream",
+                "title_link": "https:\/\/www.forbes.com\/sites\/edddumbill\/2014\/01\/14\/the-data-lake-dream\/",
+                "text": "Where is big data heading? In 2013, I spent a lot of time talking about Hadoop's development towards being a central destination for data. Hadoop may enter an organization for a specific use case, but data attracts data. Once in the door, Hadoop tends to become a center of gravity. This [...]",
+                "fallback": "Forbes: The Data Lake Dream",
+                "image_url": "https:\/\/b-i.forbesimg.com\/edddumbill\/files\/2014\/01\/stage1.png",
+                "from_url": "https:\/\/www.forbes.com\/sites\/edddumbill\/2014\/01\/14\/the-data-lake-dream\/",
+                "image_width": 328,
+                "image_height": 135,
+                "image_bytes": 13841,
+                "service_icon": "http:\/\/i.forbesimg.com\/media\/assets\/appicons\/forbes-app-icon_57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495029371.407375",
+        "user": "U5FDKVC4F",
+        "text": "<@U5FDKVC4F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495030535.873413",
+        "user": "U5E2D5GKB",
+        "text": "<@U5E2D5GKB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0JKYTE4B> спасибо. я больше думал в сторону как-нибудь хороших, но кратких online курсов, не совсем для чайников. ну как для big-boss: есть то-то и то-то, работает так-то и этак-то. к нему бубен надо такой-то. а есть вот это, отличается тем-то. заточено для этого-то или такой-то индустрии. всяких курсов по теме есть много, но хотелось бы съэкономить неделю времени и не просматривать их без понимания, куда собственно копать.",
+        "user": "U4B4HJX9A",
+        "ts": "1495030881.011889",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4B4HJX9A",
+            "ts": "1495030927.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495032650.733928",
+        "user": "U5EKMUM26",
+        "text": "<@U5EKMUM26> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495033004.884735",
+        "user": "U5EKRBZ26",
+        "text": "<@U5EKRBZ26> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495033581.138595",
+        "user": "U5EKX36QJ",
+        "text": "<@U5EKX36QJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495034020.321777",
+        "user": "U5FEUP8QP",
+        "text": "<@U5FEUP8QP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495034136.371262",
+        "user": "U5EL28RUJ",
+        "text": "<@U5EL28RUJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495037542.762296",
+        "user": "U5EJVGX2P",
+        "text": "<@U5EJVGX2P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495038504.118824",
+        "user": "U5EM955RQ",
+        "text": "<@U5EM955RQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495039902.618369",
+        "user": "U5EKG1CLT",
+        "text": "<@U5EKG1CLT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495041060.037129",
+        "user": "U5EMX8F2N",
+        "text": "<@U5EMX8F2N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495041414.159527",
+        "user": "U5E2C6FCY",
+        "text": "<@U5E2C6FCY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495041682.253688",
+        "user": "U5FGB6S4W",
+        "text": "<@U5FGB6S4W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495043840.032685",
+        "user": "U5FHEAMLP",
+        "text": "<@U5FHEAMLP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495044536.298650",
+        "user": "U5ELMNZDZ",
+        "text": "<@U5ELMNZDZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495045395.612850",
+        "user": "U5FH8JFTQ",
+        "text": "<@U5FH8JFTQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495046026.847703",
+        "user": "U5EM0944T",
+        "text": "<@U5EM0944T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495046388.982760",
+        "user": "U5E3LATHN",
+        "text": "<@U5E3LATHN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495049659.118994",
+        "user": "U5EMVPSN7",
+        "text": "<@U5EMVPSN7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495052944.225901",
+        "user": "U5E53JQAC",
+        "text": "<@U5E53JQAC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495082190.129984",
+        "user": "U5F0FAPPW",
+        "text": "<@U5F0FAPPW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495087435.695826",
+        "user": "U5ESPCQD9",
+        "text": "<@U5ESPCQD9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495088264.799550",
+        "user": "U5EUX4X8S",
+        "text": "<@U5EUX4X8S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495090040.048171",
+        "user": "U5E9F39EC",
+        "text": "<@U5E9F39EC> has joined the channel"
+    }
+]

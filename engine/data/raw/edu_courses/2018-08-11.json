@@ -1,0 +1,320 @@
+[
+    {
+        "client_msg_id": "9d126b0c-bf4d-4517-8dca-d8d3ca6b02e9",
+        "type": "message",
+        "text": "<@U7N4E8GBF> ну насколько я понял, прочитав ту книжку и потрогав, там два основных плюса - первый это возможность запуска на кластере (работает намного быстрее spark ml и при этом сильно проще и понятней) и второй это h2o.automl где машин лёрнинг по одной кнопке, эдакая силвер буллет для любых табличных данных - сама обучает на рэндом серче градиентный бустинг, рэндом форест, логрег и перцептрон, а потом стакает все это (и все одной командой без параметров) ",
+        "user": "U7SFPUVQF",
+        "ts": "1533976010.000014",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "161AC77D-7C03-4684-B765-EEA169FE71B5",
+        "type": "message",
+        "text": "<@U7SFPUVQF> Спасибо, попробую ;)",
+        "user": "U7N4E8GBF",
+        "ts": "1533976244.000044",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "58C7D29E-B85D-44DC-B69E-A55486148CD1",
+        "type": "message",
+        "text": "<@U33G91CMV> Спасибо, почитаю :)\nНа первый взгляд Мега полезная",
+        "user": "U7N4E8GBF",
+        "ts": "1533976353.000003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7N4E8GBF",
+            "ts": "1533976834.000000"
+        },
+        "thread_ts": "1533939286.000218",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "f5825d37-7663-4572-b103-204c8615811a",
+        "type": "message",
+        "text": "Я плюс к этому еще имел ввиду кроссплатформенность: таких библиотек сразу для нескольких языков не очень много, это бустинги, prophet, с некоторой натяжкой :tf:, :keras: и :mxnet:. А тут практически все классические модели доступны хоть из R, хоть из питона, хоть из web-GUI. И сразу есть свой препроцессинг и гридсерч.",
+        "user": "U24FHECDD",
+        "ts": "1533976732.000030",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24FHECDD",
+            "ts": "1533976974.000000"
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "331bb467-8920-4ae7-ae70-70925978d429",
+        "type": "message",
+        "text": "<@U24FHECDD> <@UB3TYHSP3>  а может есть какой-нибудь источник(статья\/книга) где в общем описывается задача поиск аномалий ( поиск мошенничества в транзакциях) и может примеры решения этой задачи (подготовка данных, анализ , обучение моделей)?",
+        "user": "U9FNQ7D37",
+        "ts": "1533978720.000003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd0d123a814b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76d0d123a814bf811de6f7b272ee9fee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "alexpetr",
+            "display_name": "alexpetr",
+            "team": "T040HKJE3",
+            "name": "oxil91l3v",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "type": "message",
+        "text": "У меня вот такое есть",
+        "files": [
+            {
+                "id": "FC66LDGFJ",
+                "created": 1533984414,
+                "timestamp": 1533984414,
+                "name": "Anomaly Detection. A Survey.pdf",
+                "title": "Anomaly Detection. A Survey.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U24FHECDD",
+                "editable": false,
+                "size": 613144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FC66LDGFJ\/anomaly_detection._a_survey.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FC66LDGFJ\/download\/anomaly_detection._a_survey.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FC66LDGFJ-3d4b47a0ca\/anomaly_detection._a_survey_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U24FHECDD\/FC66LDGFJ\/anomaly_detection._a_survey.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FC66LDGFJ-ebc98650b1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U24FHECDD",
+        "display_as_bot": false,
+        "ts": "1533984415.000046",
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "b1d870b7-873e-4489-918b-215cd3787026",
+        "type": "message",
+        "text": "<@U24FHECDD> Спасибо!\nНашел это <https:\/\/www.amazon.com\/Analytics-Descriptive-Predictive-Network-Techniques-ebook\/dp\/B012WA66SK>",
+        "user": "U9FNQ7D37",
+        "ts": "1533988161.000003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd0d123a814b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76d0d123a814bf811de6f7b272ee9fee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "alexpetr",
+            "display_name": "alexpetr",
+            "team": "T040HKJE3",
+            "name": "oxil91l3v",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection (Wiley and SAS Business Series)",
+                "title_link": "https:\/\/www.amazon.com\/Analytics-Descriptive-Predictive-Network-Techniques-ebook\/dp\/B012WA66SK",
+                "text": "Detect fraud earlier to mitigate loss and prevent cascading damage Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques is an authoritative guidebook for setting up a comprehensive fraud detection analytics solution. Early detection is a key factor in mitigating fraud...",
+                "fallback": "Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection (Wiley and SAS Business Series)",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51WEHVOqLuL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(9%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.com\/Analytics-Descriptive-Predictive-Network-Techniques-ebook\/dp\/B012WA66SK",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 21500,
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.com\/Analytics-Descriptive-Predictive-Network-Techniques-ebook\/dp\/B012WA66SK"
+            }
+        ],
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "9bd43321-7ebf-43e8-9e8c-141bc0735b63",
+        "type": "message",
+        "text": "Открылась регистрация на программу ЦМФ (Центр математических финансов) 2018\/2019. Презентации проектов и программы ЦМФ пройдут в НИУ ВШЭ и МГУ на первой и второй неделе сентября. \n \nВ этом году Вы поступаете не на конкретную специализацию (программу), а на проект. Проектами руководят ведущие преподаватели ЦМФ. При этом выбор специализации после поступления (и возможность получения диплома по ней) - не зависит от проекта и определяется по факту в зависимости от суммы набранных баллов по факультативам (кроме проектов, все остальные занятия с этого года - факультативны для посещения). \n \nДля поступления на ЦМФ - необходимо пройти отбор на один из проектов и сдать устный экзамен по теории вероятностей.\n\nПривожу описание проекта, напрямую связанного с Data Science :\nПроект \"Индустриальный Data Science\" \nМногие преподаватели и выпускники ЦМФ задействованы в работе над решением различных практических задач анализа данных и готовы поделиться данными и опытом извлечения информации из них. \nЦель проекта - научиться решать реальные задачи на продвинутом уровне и внедрять их в production. Среди задач: оптимизация работы дистрибьютора фармацевтики с аптеками, оптимизация параметров товаропотока и ценообразования на лекарства; оптимизация управления добычей, транспортировкой и переработкой золотой руды; оптимизация работы интернет-магазина (сортировка продуктов на странице, агрегация отзывов на сайте, построение классической рекоммендательной системы и тп с учетом внешних данных) и другие. \nТребования к участникам проекта - знания Python и машинного обучения - степень вовлечения в проекты зависит от уровня знаний и опыта и будет обсуждаться индивидуально.\n\nСсылку на регистрацию на проекты, их всего 7, и более подробную информацию вы найдёте в группе вконтакте: <https:\/\/vk.com\/cmf_russia>\n\nТакже по поиску в Slack можно найти выпускников прошлых годов. ",
+        "user": "U64HAB6BA",
+        "ts": "1533991557.000035",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cee28d5fa527",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/822116713428_cee28d5fa5277eac6459_72.jpg",
+            "first_name": "Maria",
+            "real_name": "Maria Potapova",
+            "display_name": "mpotapova",
+            "team": "T040HKJE3",
+            "name": "mpotapova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UB4D5K81M",
+                    "U9ZU1CYUD",
+                    "U341XLDH9",
+                    "U3T5QEDJ8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U341XLDH9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3ec5d94-4c31-403d-99dd-f1ff08367ba2",
+        "type": "message",
+        "text": "<@U9FNQ7D37> <@UB3TYHSP3> тут хороший пример про фрауд детекшн ,и кстати с реализацией на Н2О <https:\/\/shiring.github.io\/machine_learning\/2017\/05\/01\/fraud>",
+        "user": "U4N7G9RQA",
+        "ts": "1533997206.000015",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "124281a2-653a-45d6-b863-3226437adbc0",
+        "type": "message",
+        "text": "<@U9FNQ7D37> тоже хотел эту книгу порекомендовать (Fraud Analytics), сейчас изучаю. Могу скинуть, если надо",
+        "user": "UB3TYHSP3",
+        "ts": "1534011868.000086",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54b48dfae9a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-09\/378614577619_54b48dfae9a739ae1978_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "avpn01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UB3TYHSP3",
+            "ts": "1534012200.000000"
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    },
+    {
+        "client_msg_id": "7b471e61-71a6-4351-a3e9-a305dc957250",
+        "type": "message",
+        "text": "<@U4N7G9RQA> спасибо! Только дело в том, что сейчас для меня все, что там написано - это далекий космос. Я прошу совета, как можно научиться разбираться в этом, чтобы в последующем также делать или корретировать их решения хотя бы? Курсы онлайн\/ книги...",
+        "user": "UB3TYHSP3",
+        "ts": "1534012149.000068",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54b48dfae9a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-09\/378614577619_54b48dfae9a739ae1978_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "avpn01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1533912062.000263",
+        "parent_user_id": "UB3TYHSP3"
+    }
+]

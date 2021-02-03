@@ -1,0 +1,550 @@
+[
+    {
+        "client_msg_id": "2B049651-C384-4857-9353-76C7C9BB9750",
+        "type": "message",
+        "text": "Всем Привет! Пожалуйста, подскажите максимально доступный гайд для работы с Xcode, без разницы на каком языке (рус\/англ). Спасибо!",
+        "user": "UJFMBGT36",
+        "ts": "1570000755.377500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b3365dfb2ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628220918517_4b3365dfb2ab3ffc67d3_72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Knyazeva",
+            "display_name": "Screw Gravity",
+            "team": "T040HKJE3",
+            "name": "mknyazewwa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570000755.377500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1570003915.378600",
+        "reply_users": [
+            "UL2QEF9UZ"
+        ],
+        "replies": [
+            {
+                "user": "UL2QEF9UZ",
+                "ts": "1570003915.378600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "30f15a7e-fba3-4a8a-bf18-0f2b65f5dacc",
+        "type": "message",
+        "text": "&gt; Просто тупо конкурс 20-30 человек на место\nИнтересно, зачем было тогда делать такую агрессивную рекламу?",
+        "user": "UMQSP3DJM",
+        "ts": "1570001412.377700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "db6d79d40e8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_72.jpg",
+            "first_name": "",
+            "real_name": "Alexander Prokofyev",
+            "display_name": "Alexander Prokofyev",
+            "team": "T040HKJE3",
+            "name": "alexander-prokofyev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UMQSP3DJM",
+            "ts": "1570001434.000000"
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8ZDR4HMK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d18503e8-5855-4809-ad21-a4d8312713c4",
+        "type": "message",
+        "text": "<@UKDFPD199> мне кажется, что Вы проигнорили мой комментарий про то, что на очное не было особого конкурса.",
+        "user": "U709XK88H",
+        "ts": "1570001996.378200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "toxic",
+                "users": [
+                    "U6LSE0FT9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ceb89b3e-53ed-453e-9fed-ac2c2ddcadc3",
+        "type": "message",
+        "text": "Обычно у Эппл неплохая документация по их средствам разработки. <https:\/\/developer.apple.com\/documentation\/xcode>",
+        "user": "UL2QEF9UZ",
+        "ts": "1570003915.378600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "05714b1348c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-12\/681362393714_05714b1348c47d6e37a4_72.jpg",
+            "first_name": "Hadji",
+            "real_name": "Hadji",
+            "display_name": "Hadji",
+            "team": "T040HKJE3",
+            "name": "musaevgadzhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570000755.377500",
+        "parent_user_id": "UJFMBGT36",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJFMBGT36"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d24f5577-b0f3-41ed-b8a4-08d93ac9b029",
+        "type": "message",
+        "text": "Меня больше позабавил тот факт, что они позиционировали себя как  академия для \"опытных специалистов ML с &gt;1 года опыта\", а отборочный при этом был полностью ориентирован на студентов 2 курса. Опытные специалисты на работе не решают задачи на алгоритмы и дифференциальные уравнения.\nИ ещё - по ощущениям, на дистанционку взяли &lt;100 человек. Какой смысл, если до финала дойдёт процентов 20..",
+        "user": "UBRKXHMJB",
+        "ts": "1570006487.378900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de59d1f494ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/597490261649_de59d1f494ad69f0a2c2_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Barysevich",
+            "display_name": "devvindan",
+            "team": "T040HKJE3",
+            "name": "devvindan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U79U060TZ",
+                    "U8T04GC3C",
+                    "UE259V12B",
+                    "U8M5Y2Z6H",
+                    "UKQTHKEPJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FCC314F6-BB35-43F5-A962-4A14FB0E0F98",
+        "type": "message",
+        "text": "<@U709XK88H> не того тегнули",
+        "user": "UKDFPD199",
+        "ts": "1570006735.379700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "27da70fbd029",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/688905620292_27da70fbd029253cc4fe_72.jpg",
+            "first_name": "Alexander_Prokhorov",
+            "real_name": "Alexander_Prokhorov",
+            "display_name": "Alexander Prokhorov",
+            "team": "T040HKJE3",
+            "name": "aaleexxanderr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U709XK88H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0D0C74D4-29F6-4E4C-9101-2D6CEC585800",
+        "type": "message",
+        "text": "<@UBRKXHMJB> ну диффуры, как и вся математика на раз-два решалась с помощью ЯПа, а алгоритмы - это же везде (ну по крайней мере у меня так). А по поводу 20%, а зачем им больше?))",
+        "user": "UFTJXL2FJ",
+        "ts": "1570009292.382800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29ca16b4-5e5a-46ec-8760-c2e44717f4a0",
+        "type": "message",
+        "text": "Есть курс от Яндекса на coursera, правда на англ, и мягко сказать режет слух.",
+        "user": "U7F82BSSJ",
+        "ts": "1570014639.383800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b420f7f9cb77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-24\/920682975397_b420f7f9cb77b5de18bc_72.jpg",
+            "first_name": "Akbar",
+            "real_name": "Akbar Akhverdov",
+            "display_name": "MacJei",
+            "team": "T040HKJE3",
+            "name": "a.ahverdov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569954167.371600",
+        "parent_user_id": "UEQKZB1ST",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U1HHX1QS3",
+                    "UE259V12B",
+                    "U6LSE0FT9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a388cbf-2225-419f-b40c-c3591d918915",
+        "type": "message",
+        "text": "&gt;хотелось бы знать чего не хватило\nМест? :kolobok:",
+        "user": "U5GCU82HX",
+        "ts": "1570018651.384200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g33eb3ecf5bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5033eb3ecf5bbf4f627630da68f5b7a9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Demchenko",
+            "display_name": "bearstrikesback",
+            "team": "T040HKJE3",
+            "name": "bearstrikesback",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "ULPRYQNS2",
+                    "U8T04GC3C",
+                    "UFLR9L6DT",
+                    "UM38YUS0Y",
+                    "U0160PJMG5U"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60a6068c-ce25-49cf-9f4a-cebe3e3ec74d",
+        "type": "message",
+        "text": "Поступил на заочное. Вступительные испытания мне не понравились.\nМатематика была счётной, что сильно упрощает проверку при онлайн отборе, но по факту проверяет 3 навыка: 1) вычисления, которые за тебя быстрее и без ошибки посчитает WolframAlpha 2) вычисления, которые быстрее сделать самому, чем связываться с WolframAlpha 3) знакомство с темой на уровне \"понял, что мне рассказывали в универе\" (линал, анализ одной переменной, диффуры, дискретный тервер). Задача на тервер была неприлично простой - на  собеседовании на джуна обычно требуют больше, если спрашивают. При таком подходе времени на решение хватает с запасом - если всё решать руками, то может быть не так, но кто в наше время занимается вычислениями руками в проф среде (напомню, заявленная ца - не студенты, а люди с 1-3 годами опыта)?\nПо поводу программирования я немного волновался, как самоучка с бэкграундом в математике, но, как оказалось, зря. Не было ни задач, где требуется хорошо понимать алгоритмы, ни задач, где ограничения по ресурсам имеют смысл, ни каких-то проверок полезных навыков для работы с данными вроде регулярных выражений. Требовались умение программировать и общая сообразительность, может быть, знание, что такое дерево. Времени, опять же, хватало с запасом.\nНаконец, \"дополнительное\" соревнование по анализу данных. Во-первых, орги намеренно постарались выкинуть весь контекст, что, возможно, должно всех уравнять, но не имеет никакого отношения к реальному DS, где без domain knowledge никуда. Во-вторых, судя по треду с объявлением, был leak по тайм-дельтам. Я вообще с работой с временем не стал заморачиваться, а грубо говоря сделал mean encoding + градиентный бустинг, и этого хватило, но я знал, что делаю, а не впервые попробовал себя в этом.\nПо факту, в том же треде говорили, что людей, которые полностью правильно решили и математику, и прогу, больше, чем мест, так что соревнование по ML было ни разу не дополнительным. На мой взгляд, с точки зрения того, как позиционировали отбор на программу (что не обязательно совпадает с тем, чего хотели добиться), результат мало соответствует заявленным целям. Предполагалось, что люди с опытом работы и различным бэкграундом пройдут тесты на несколько тем, которые позволят выбрать среди них сильнейших с разными преимуществами, что позволит потом их распределить на 3 потока специализации. Получилось, что набрали людей, способных пройти некий минимум по математике и проге, которые хорошо умеют подогнать результат под отложенную выборку, т.е. идеальным кандидатом является студент-старшекурсник, который увлекается соревнованиями по ML. За скобками остаётся сбор резюме и аккаунтов на GitHub\/Kaggle\/..., про которые неизвестно, влияли ли они на что-нибудь.\nP.S. На очку не стал подавать, хотя живу в Москве, по 2 причинам: 1) подписаться на 1,5 года никуда не уезжать и не пропускать занятия по вечерам и выходным - это серьёзное обязательство 2) программа, несмотря на мощную рекламу, является полным котом в мешкем в плане контента при высоком заявленном уровне нагрузок. Отбор скорее добавил сомнений по поводу (2), чем снял их.",
+        "user": "UFLR9L6DT",
+        "ts": "1570019478.384600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd9bd004c2c9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/52d9bd004c2c945016fb7aa366ff9ef4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Yastrebov",
+            "display_name": "ingvar",
+            "team": "T040HKJE3",
+            "name": "ig.yastrebov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK",
+        "reactions": [
+            {
+                "name": "holypeka",
+                "users": [
+                    "ULPRYQNS2",
+                    "U929LR336"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U4378H2KV",
+                    "U6GCM1F0T",
+                    "U4PFPK5EG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03590BD2-B7A3-41C9-B630-B13B5ABFDE4A",
+        "type": "message",
+        "text": "<@UFLR9L6DT> то есть ты решил все? И математику и программирование, но занял 100-ое место в компетишене и тебя не взяли?) :kekeke: ",
+        "user": "UFTJXL2FJ",
+        "ts": "1570020367.386600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK"
+    },
+    {
+        "client_msg_id": "d7ae220a-9b35-43ba-8b20-c1130988db42",
+        "type": "message",
+        "text": "<@UFTJXL2FJ> взяли, читай 1 предложение)",
+        "user": "UFLR9L6DT",
+        "ts": "1570020460.387200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd9bd004c2c9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/52d9bd004c2c945016fb7aa366ff9ef4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Yastrebov",
+            "display_name": "ingvar",
+            "team": "T040HKJE3",
+            "name": "ig.yastrebov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK"
+    },
+    {
+        "client_msg_id": "0010F5F7-0E2E-400B-8B9B-F9FA0A39D98A",
+        "type": "message",
+        "text": "<@UFLR9L6DT> ой",
+        "user": "UFTJXL2FJ",
+        "ts": "1570020522.387600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK"
+    },
+    {
+        "client_msg_id": "512F3ED0-CF0E-40B5-BF7E-168E31BBFC7D",
+        "type": "message",
+        "text": "<@UFLR9L6DT> просто пытаюсь высчитать как сильно влиял компетишен",
+        "user": "UFTJXL2FJ",
+        "ts": "1570020750.388600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK"
+    },
+    {
+        "client_msg_id": "1abc0710-ec84-4d0e-aaec-a23326f9188c",
+        "type": "message",
+        "text": "<@UFTJXL2FJ> <https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1569872542354900?thread_ts=1567517961.162800&amp;cid=C04DP7BUY>",
+        "user": "UFLR9L6DT",
+        "ts": "1570020905.388800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd9bd004c2c9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/52d9bd004c2c945016fb7aa366ff9ef4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Yastrebov",
+            "display_name": "ingvar",
+            "team": "T040HKJE3",
+            "name": "ig.yastrebov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1569872542354900?thread_ts=1567517961.162800&amp;cid=C04DP7BUY",
+                "fallback": "[September 30th, 2019 12:42 PM] art.tatsiana: <@UFVDU2FJP> Неожиданно, но решили полностью верно математику и программирование больше людей, чем мест. Мы это предусмотрели следующим, не обязательным этапом - соревнованием по анализу данных. С ним справилось столько людей, сколько мест у нас есть.",
+                "ts": "1569872542.354900",
+                "author_id": "UJJ159GDV",
+                "author_subname": "Tatsiana Tsygan",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "<@UFVDU2FJP> Неожиданно, но решили полностью верно математику и программирование больше людей, чем мест. Мы это предусмотрели следующим, не обязательным этапом - соревнованием по анализу данных. С ним справилось столько людей, сколько мест у нас есть.",
+                "author_name": "Tatsiana Tsygan",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UJJ159GDV",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-07-02\/684659115639_7d9d6e1a9b1e14ef8832_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1569872542354900?thread_ts=1567517961.162800&amp;cid=C04DP7BUY",
+                "footer": "From a thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1569977942.374600",
+        "parent_user_id": "U8ZDR4HMK"
+    },
+    {
+        "client_msg_id": "67e9398f-411c-4f1b-925b-361484c74765",
+        "type": "message",
+        "text": "Всем привет, есть что новенькое по A\/B testing? Нужна база для джуна\/интерна",
+        "user": "UGRBWUHME",
+        "ts": "1570035858.390000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4907c581961",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4907c581961fecf4ec4aeaeb49007c38.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "vehehehe",
+            "real_name": "vehehehe",
+            "display_name": "Io",
+            "team": "T040HKJE3",
+            "name": "dolgushinvalerii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570035858.390000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1570185335.430100",
+        "reply_users": [
+            "UGF8L176H",
+            "UGRBWUHME"
+        ],
+        "replies": [
+            {
+                "user": "UGF8L176H",
+                "ts": "1570126754.392500"
+            },
+            {
+                "user": "UGRBWUHME",
+                "ts": "1570185335.430100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "51dbd97d-a2df-4ba5-a7bd-790d801209d9",
+        "type": "message",
+        "text": "Лучшая лидогенерация в edtech :trollface:",
+        "user": "UDDCJ9L84",
+        "ts": "1570039963.390600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a7366ad383",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1166621133012_41a7366ad383385ccddd_72.jpg",
+            "first_name": "Aleksandr_Kosolapov",
+            "real_name": "Aleksandr_Kosolapov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jingobox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567517961.162800",
+        "parent_user_id": "UAW65PW5V"
+    }
+]

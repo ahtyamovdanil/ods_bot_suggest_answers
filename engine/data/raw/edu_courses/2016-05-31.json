@@ -1,0 +1,450 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464678328.000365",
+        "user": "U1CSA6ADS",
+        "text": "<@U1CSA6ADS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "У меня не получилось svm засабмиттить, т.к. из-за пропущенных значений там не сходилось число наблюдений и файл с сабмишном не собрался в датафрейм. Вам удалось это забороть?",
+        "user": "U041LH06L",
+        "ts": "1464678335.000366",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "мне кажется для svm  one-hot кодирование должно сработать",
+        "user": "U0DA4J82H",
+        "ts": "1464678565.000367",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "в котором NA будет отдельной колонкой",
+        "user": "U0DA4J82H",
+        "ts": "1464678599.000368",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1464678670.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Про рекодинг миссингов я уже догадался, а вот зачем в R ванхот не понимаю.",
+        "user": "U041LH06L",
+        "ts": "1464678727.000370",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я с xgb сразу начну :)",
+        "user": "U0DA4J82H",
+        "ts": "1464678947.000371",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Предлагаю в <#C043ZEF6K> обсуждение перенести ",
+        "user": "U0DA4J82H",
+        "ts": "1464679010.000372",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464682226.000373",
+        "user": "U1CSST4KE",
+        "text": "<@U1CSST4KE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H>: xgb — не спортивно =(",
+        "user": "U041LH06L",
+        "ts": "1464682969.000374",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "почему? я хочу научиться наконец это дело тюнить",
+        "user": "U0DA4J82H",
+        "ts": "1464682995.000375",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Лол, я тоже :smiley:",
+        "user": "U041LH06L",
+        "ts": "1464683009.000376",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Но начать хотелось бы с простых моделей.",
+        "user": "U041LH06L",
+        "ts": "1464683033.000377",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну так я параметры по умолчанию для начала попробую",
+        "user": "U0DA4J82H",
+        "ts": "1464683054.000378",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "просто, лол",
+        "user": "U0DA4J82H",
+        "ts": "1464683066.000379",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Там чувак на первом месте как-то 0.9 намутил на фоне 0.63 у всех остальных. Тут явно не в параметрах дело.",
+        "user": "U041LH06L",
+        "ts": "1464683098.000380",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну наверное он уже и ансамбли попробовал",
+        "user": "U0DA4J82H",
+        "ts": "1464683308.000381",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "0.9 на фоне 0.63 - это явно дело в случайном стечении обстоятельств :slightly_smiling_face:",
+        "user": "U0JKYTE4B",
+        "ts": "1464683316.000382",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d6641a379dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1403130875956_3d6641a379dd5c317d0b_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Khvostishkov",
+            "display_name": "ivan.khvostishkov",
+            "team": "T040HKJE3",
+            "name": "ivan.khvostishkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я хочу библиотеку от <@U0JHK9001> на этом соревновании затестировать",
+        "user": "U0DA4J82H",
+        "ts": "1464683328.000383",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0JHK9001",
+                    "U04ELJ0FC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а вы на R будете делать? Раз весь курс на R, наверное на питоне писать непедагогично",
+        "user": "U07JH63AA",
+        "ts": "1464683451.000384",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "nor",
+                "users": [
+                    "U0JHK9001",
+                    "U0DA4J82H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "r",
+                "users": [
+                    "U14FXL2DB",
+                    "U1DCNEM6J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U07JH63AA>: я — да.",
+        "user": "U041LH06L",
+        "ts": "1464683627.000385",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464693456.000386",
+        "user": "U1CTZNUMS",
+        "text": "<@U1CTZNUMS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464726906.000387",
+        "user": "U1D3KTM7G",
+        "text": "<@U1D3KTM7G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464727613.000388",
+        "user": "U1D2GN319",
+        "text": "<@U1D2GN319> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464733373.000389",
+        "user": "U1D4RRA7K",
+        "text": "<@U1D4RRA7K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464761319.000390",
+        "user": "U1D6DT6HE",
+        "text": "<@U1D6DT6HE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464762613.000391",
+        "user": "U1D6RKN9F",
+        "text": "<@U1D6RKN9F> has joined the channel"
+    }
+]

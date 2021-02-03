@@ -1,0 +1,140 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478951860.001960",
+        "user": "U31S67ZC5",
+        "text": "<@U31S67ZC5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А кто-нибудь находил курсы по методам ранжирования? Я пока нашел совсем небольшой кусочек (~20 min) в Text retrieval and Search Engines на курсере, и лекцию Воронцова в ШАДе. Но не могу найти каких-то практических задачек, где можно поработать с данными. Кто-нибудь может помочь?",
+        "user": "U2T5N5UAK",
+        "ts": "1478966055.001961",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73f8cadcb64a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-08\/394758795859_73f8cadcb64a830da359_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "serg",
+            "team": "T040HKJE3",
+            "name": "serg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Практических задачек по ранжированию много на кагле",
+        "user": "U0DA4J82H",
+        "ts": "1478968735.001962",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2T5N5UAK",
+                    "U2N853RGF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "в курсе по NLP на курсере от Манинга и Журавски была часть про IR",
+        "user": "U0DA4J82H",
+        "ts": "1478968764.001963",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1478968788.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Если нужны методы ранжирования для IR, то вот неплохая книга, охватывающая основы <http:\/\/link.springer.com\/book\/10.1007%2F978-3-642-14267-3>",
+        "user": "U27HD50AX",
+        "ts": "1478975156.001965",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9c1600f513a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-05\/137121499138_9c1600f513a7d69b0acc_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Shevelev",
+            "display_name": "alshev",
+            "team": "T040HKJE3",
+            "name": "alshev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2T5N5UAK",
+                    "U2F68DB26"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478980272.001966",
+        "user": "U31TJ1FEY",
+        "text": "<@U31TJ1FEY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "спасибо <@U0DA4J82H> за кэгл, нашел 8 соревнований",
+        "user": "U2T5N5UAK",
+        "ts": "1479019370.001967",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73f8cadcb64a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-08\/394758795859_73f8cadcb64a830da359_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "serg",
+            "team": "T040HKJE3",
+            "name": "serg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

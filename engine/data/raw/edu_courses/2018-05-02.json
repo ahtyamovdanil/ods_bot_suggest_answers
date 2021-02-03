@@ -1,0 +1,650 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1525273931.000430",
+        "thread_ts": "1525273931.000430",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1525276207.000156",
+        "reply_users": [
+            "U4N7G9RQA",
+            "U4Z9Q18QH"
+        ],
+        "replies": [
+            {
+                "user": "U4N7G9RQA",
+                "ts": "1525275865.000331"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1525276207.000156"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ban",
+                "users": [
+                    "U625V2J3G",
+                    "U4WM1939Q",
+                    "U2N853RGF",
+                    "U09JEC7V0",
+                    "U0AS1QEJF",
+                    "U6RF1RXPG",
+                    "U049HDR2Z",
+                    "U09NC5XLN",
+                    "U1D6DT6HE",
+                    "U0AS548A1",
+                    "U9V48C738",
+                    "U97RMH3HQ",
+                    "U60EETE7N",
+                    "U48B3EN87",
+                    "U0SBLSTJ4",
+                    "U5FCA4F8X",
+                    "U1LKU0WN8"
+                ],
+                "count": 17
+            },
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U53E5MFNU",
+                    "U6RF1RXPG",
+                    "U1D6DT6HE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "так вот прям выше твоего поста ссылка! Университет Ляйпцига, Берлин БигДата Центр... там и надо копать)",
+        "user": "U4N7G9RQA",
+        "ts": "1525275865.000331",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525273931.000430",
+        "parent_user_id": "U8GGBPGR3"
+    },
+    {
+        "type": "message",
+        "text": "1. канал <#C04DP7BUY|edu_courses> вообще-то не для вопросов про аспирантуру\n2. Побрызгать слюной можно в каналах #random_*\n3. Твой вопрос, в очищеном от токсичной воды виде можно задать в <#C0KGMMCAX|edu_academy> или, на худой конец, <#C0SGCGB52|career> \n4. Если первая часть п.3 непонятна, то вопрос может звучать так \"есть ли в Германии магистратуры уровня программ на ФКН?\"",
+        "user": "U4Z9Q18QH",
+        "ts": "1525276207.000156",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525273931.000430",
+        "parent_user_id": "U8GGBPGR3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7NT8L1M5",
+                    "U53E5MFNU",
+                    "U0AS1QEJF",
+                    "U049HDR2Z",
+                    "UAAM30MLL",
+                    "U9V48C738",
+                    "U95EDL3H8",
+                    "U48B3EN87",
+                    "U27SUBTB9",
+                    "U6YDWF4UB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U8GGBPGR3",
+                    "U1LKU0WN8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Интересный обзор про Open University\n<https:\/\/www.class-central.com\/report\/open-university-insiders-perspective\/>",
+        "user": "U60EETE7N",
+        "ts": "1525308368.000184",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Class Central's MOOC Report",
+                "title": "How Open University Works: An Insider’s Perspective — Class Central",
+                "title_link": "https:\/\/www.class-central.com\/report\/open-university-insiders-perspective\/",
+                "text": "An in-depth overview of how The Open University works from a students perspective.",
+                "fallback": "Class Central's MOOC Report: How Open University Works: An Insider’s Perspective — Class Central",
+                "image_url": "https:\/\/www.class-central.com\/report\/app\/uploads\/2018\/04\/image1.jpg",
+                "ts": 1524448106,
+                "from_url": "https:\/\/www.class-central.com\/report\/open-university-insiders-perspective\/",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 388876,
+                "service_icon": "https:\/\/www.class-central.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.class-central.com\/report\/open-university-insiders-perspective\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7HDR789E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27747db3-ef64-47e8-996a-afc919e52a5c",
+        "type": "message",
+        "text": "Хочу присоединиться к команде на курсере с безлимитным доступом к курсам за $320\/год. Или создать свою. Надо 5 человек. Вернее, уже 4.",
+        "user": "U6QCWQVGU",
+        "ts": "1525319229.000106",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf67b513f3b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03f67b513f3b8b6cd10a475a2be1bdea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Tereshin",
+            "display_name": "tereshin",
+            "team": "T040HKJE3",
+            "name": "tereshin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "reply_count": 48,
+        "reply_users_count": 10,
+        "latest_reply": "1525525486.000012",
+        "reply_users": [
+            "U3P82LKDK",
+            "U6QCWQVGU",
+            "U4WM1939Q",
+            "U0L4KM9R9",
+            "U09JEC7V0",
+            "U6YEN210D",
+            "UAHQ53VPV",
+            "U2N853RGF",
+            "U6PN0UWBS",
+            "U6QCT6YN6"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525319553.000162"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525319729.000019"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525319805.000148"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525322398.000069"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525322738.000235"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1525328690.000176"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525328997.000275"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1525329430.000307"
+            },
+            {
+                "user": "U0L4KM9R9",
+                "ts": "1525335249.000300"
+            },
+            {
+                "user": "U09JEC7V0",
+                "ts": "1525336549.000159"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525337876.000113"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525338722.000246"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525338884.000379"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525338920.000125"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525338988.000026"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525339158.000320"
+            },
+            {
+                "user": "U6YEN210D",
+                "ts": "1525354335.000233"
+            },
+            {
+                "user": "UAHQ53VPV",
+                "ts": "1525366657.000377"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525367901.000437"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1525379743.000285"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525382665.000474"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1525384067.000456"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525403220.000037"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525403238.000139"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525403432.000174"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525403732.000166"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525411689.000033"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525412191.000036"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525412220.000158"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525412550.000161"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525412646.000147"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525415826.000061"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525415960.000307"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525416017.000226"
+            },
+            {
+                "user": "U6QCT6YN6",
+                "ts": "1525511009.000062"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1525513588.000006"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525515921.000055"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525517544.000040"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525517579.000043"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525518641.000079"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525522298.000091"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1525522499.000038"
+            },
+            {
+                "user": "U6QCWQVGU",
+                "ts": "1525522549.000058"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525525368.000062"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525525381.000045"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525525388.000062"
+            },
+            {
+                "user": "U6PN0UWBS",
+                "ts": "1525525395.000075"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1525525486.000012"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "357295B1-1095-4868-85E1-891887881FA8",
+        "type": "message",
+        "text": "А ссылку на такую опцию на курсере можно посмотреть?",
+        "user": "U3P82LKDK",
+        "ts": "1525319553.000162",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3P82LKDK",
+            "ts": "1525319569.000000"
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "client_msg_id": "2691ad2a-0c9c-4df0-82ea-01e8fd661f1d",
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/purchase\/courses>",
+        "user": "U6QCWQVGU",
+        "ts": "1525319729.000019",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf67b513f3b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03f67b513f3b8b6cd10a475a2be1bdea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Tereshin",
+            "display_name": "tereshin",
+            "team": "T040HKJE3",
+            "name": "tereshin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Coursera | Online Courses From Top Universities. Join for Free | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/purchase\/courses",
+                "text": "2000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                "fallback": "Coursera: Coursera | Online Courses From Top Universities. Join for Free | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/www.coursera.org\/purchase\/courses",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/purchase\/courses"
+            }
+        ],
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "client_msg_id": "752c4405-b4cd-4408-819b-f62d2edf5e60",
+        "type": "message",
+        "text": "<@U3P82LKDK> но там минимум 5 душ надо. Вот и ищу",
+        "user": "U6QCWQVGU",
+        "ts": "1525319805.000148",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf67b513f3b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03f67b513f3b8b6cd10a475a2be1bdea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Tereshin",
+            "display_name": "tereshin",
+            "team": "T040HKJE3",
+            "name": "tereshin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "type": "message",
+        "text": "мне показывается цена в 400$\/год. Нужно ли быть зарегистрированной организацией, чтобы получить доступ к этому или достаточно сказать, что мы организация из 5 человек?\n\nМне интересно поучаствовать, но мне лучше начинать в июле-августе.",
+        "user": "U3P82LKDK",
+        "ts": "1525322398.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "client_msg_id": "9365ce30-f933-412d-98f8-14c71041aa1e",
+        "type": "message",
+        "text": "Вы из России? Смените страну. Может от страны зависит. Я думаю придумаем фмлькину компанию. Никто не будет заморачиваться.",
+        "user": "U6QCWQVGU",
+        "ts": "1525322738.000235",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf67b513f3b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03f67b513f3b8b6cd10a475a2be1bdea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Tereshin",
+            "display_name": "tereshin",
+            "team": "T040HKJE3",
+            "name": "tereshin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU",
+        "reactions": [
+            {
+                "name": "petr-west",
+                "users": [
+                    "U0DA4J82H",
+                    "U3P82LKDK",
+                    "U6Z21KSBC",
+                    "U1UMQM200",
+                    "U1BMURR5G",
+                    "U6YEN210D",
+                    "U2N853RGF",
+                    "U94QA9LFL"
+                ],
+                "count": 8
+            },
+            {
+                "name": "kekeke",
+                "users": [
+                    "U9JG577D1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5ae1dd5-0e02-432d-a58f-66c3a7e73eda",
+        "type": "message",
+        "text": "320 с носа в год, а не с команды:unamused:",
+        "user": "U4WM1939Q",
+        "ts": "1525328690.000176",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "client_msg_id": "34cdebc9-7072-4305-86a3-80e1e9e2328b",
+        "type": "message",
+        "text": "Конечно. Сорян, если некорректно выразился. С носа. Но это явно дешевле чем у udacity nanodegree по 600-1000 баксов.",
+        "user": "U6QCWQVGU",
+        "ts": "1525328997.000275",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf67b513f3b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03f67b513f3b8b6cd10a475a2be1bdea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Tereshin",
+            "display_name": "tereshin",
+            "team": "T040HKJE3",
+            "name": "tereshin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU"
+    },
+    {
+        "client_msg_id": "ce87b811-8942-451b-a7ba-fb0b4acfdeb1",
+        "type": "message",
+        "text": "Да корректно, просто я с разбега губу раскатал сразу",
+        "user": "U4WM1939Q",
+        "ts": "1525329430.000307",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525319229.000106",
+        "parent_user_id": "U6QCWQVGU",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4LCAKK8C",
+                    "U9ZU1CYUD",
+                    "U1BMURR5G",
+                    "UAB8FREHK"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

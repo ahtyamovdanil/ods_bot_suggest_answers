@@ -1,0 +1,680 @@
+[
+    {
+        "type": "message",
+        "text": "А кто как учил язык Go? Какие есть хорошие книги\/курсы?\nЯ, кроме курса от <http:\/\/Mail.ru|Mail.ru>+доки для введения в курс дела, пока что придумал взять программу четкого курса по Java и заботать это на Go.\nИсходить из реальных задач не могу, я не разработчик.",
+        "user": "U14CTBLFJ",
+        "ts": "1495177275.552749",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "reply_count": 10,
+        "reply_users_count": 6,
+        "latest_reply": "1495187152.634289",
+        "reply_users": [
+            "U1FLG6YR1",
+            "U1J5E9HJL",
+            "U3172NP4Y",
+            "U14CTBLFJ",
+            "U342T2PT2",
+            "U3RA8ABEC"
+        ],
+        "replies": [
+            {
+                "user": "U1FLG6YR1",
+                "ts": "1495177697.622244"
+            },
+            {
+                "user": "U1J5E9HJL",
+                "ts": "1495179047.857939"
+            },
+            {
+                "user": "U3172NP4Y",
+                "ts": "1495180477.128711"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1495182728.617947"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1495182763.625672"
+            },
+            {
+                "user": "U342T2PT2",
+                "ts": "1495183834.868972"
+            },
+            {
+                "user": "U3172NP4Y",
+                "ts": "1495184071.923569"
+            },
+            {
+                "user": "U3RA8ABEC",
+                "ts": "1495187071.615974"
+            },
+            {
+                "user": "U3RA8ABEC",
+                "ts": "1495187120.626925"
+            },
+            {
+                "user": "U3RA8ABEC",
+                "ts": "1495187152.634289"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "artem: придумай какой-нибудь абстрактный продукт (сайтик, приложение) с набором функционала и пили его API GateWay и микросервисы за ним. Заодно прокачаешь знания Go за пределами сферического ЯП",
+        "user": "U1FLG6YR1",
+        "ts": "1495177697.622244",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1FLG6YR1",
+            "ts": "1495177821.000000"
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1G303UTW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "На русском самая годная <http:\/\/www.ozon.ru\/context\/detail\/id\/34671680\/>\nА так язык простой, самое-то писать утилитки",
+        "user": "U1J5E9HJL",
+        "ts": "1495179047.857939",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c6131d63bded",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-19\/52188564912_c6131d63bdeddc457530_72.jpg",
+            "first_name": "freddybear",
+            "real_name": "freddybear",
+            "display_name": "freddybear",
+            "team": "T040HKJE3",
+            "name": "freddybear",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Ozon.ru",
+                "title": "Книга \"Язык программирования Go\" Алан А. А. Донован, Брайан У. Керниган - купить на OZON.ru книгу The Go Programming Language с быстрой доставкой по почте | 978-5-8459-2051-5",
+                "title_link": "http:\/\/www.ozon.ru\/context\/detail\/id\/34671680\/",
+                "text": "Купить книгу «Язык программирования Go» автора Алан А. А. Донован, Брайан У. Керниган и другие произведения в разделе Книги в интернет-магазине <http:\/\/OZON.ru|OZON.ru>. Доступны цифровые, печатные и аудиокниги. На сайте вы можете почитать отзывы, рецензии, отрывки. Мы бесплатно доставим книгу «Язык программирования Go» по Москве при общей сумме заказа от 3500 рублей. Возможна доставка по всей России. Скидки и бонусы для постоянных покупателей.",
+                "fallback": "Ozon.ru: Книга \"Язык программирования Go\" Алан А. А. Донован, Брайан У. Керниган - купить на OZON.ru книгу The Go Programming Language с быстрой доставкой по почте | 978-5-8459-2051-5",
+                "from_url": "http:\/\/www.ozon.ru\/context\/detail\/id\/34671680\/",
+                "service_icon": "http:\/\/ozon-st.cdn.ngenix.net\/graphics\/action\/icons_for_browsers\/ios\/touch-icon-ipad-retina.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495180065.047516",
+        "user": "U5FCN1F8T",
+        "text": "<@U5FCN1F8T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А цель то у тебя какая ?",
+        "user": "U3172NP4Y",
+        "ts": "1495180477.128711",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf38f7545335",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f38f754533516c189844cd17a215768e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey",
+            "display_name": "Andrey",
+            "team": "T040HKJE3",
+            "name": "andrey.t",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Поржал с написанных зарплат на <http:\/\/otus.ru|otus.ru> :slightly_smiling_face:",
+        "user": "U448J59RB",
+        "ts": "1495180510.135511",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1afc56dd5c33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-14\/140411978048_1afc56dd5c33e72ccfc2_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "sasha",
+            "team": "T040HKJE3",
+            "name": "sasha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "<@U448J59RB> а что там не так? ",
+        "user": "U14CTBLFJ",
+        "ts": "1495182498.565079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Пойти делать ML- бекенд из тим-лида BI на стеке MS\/Oracle. Как самоучка, но с живым проектом в Интернетах.",
+        "user": "U14CTBLFJ",
+        "ts": "1495182728.617947",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Сейчас ботаю Java ||-но с ML\/DL",
+        "user": "U14CTBLFJ",
+        "ts": "1495182763.625672",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495182932.663526",
+        "user": "U5EQZCEHE",
+        "text": "<@U5EQZCEHE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "` ||-но ` :notbad:",
+        "user": "U342T2PT2",
+        "ts": "1495183834.868972",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6ba67505ab21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-11\/434316318327_6ba67505ab218959a347_72.jpg",
+            "first_name": "Александр",
+            "real_name": "Александр Ольферук",
+            "display_name": "olferuk",
+            "team": "T040HKJE3",
+            "name": "olferuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Непонятно, каким образом Go в достижении цели поможет.",
+        "user": "U3172NP4Y",
+        "ts": "1495184071.923569",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf38f7545335",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f38f754533516c189844cd17a215768e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey",
+            "display_name": "Andrey",
+            "team": "T040HKJE3",
+            "name": "andrey.t",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Я могу чего досказать, последние 2.5 года на нем.\nДля ML честно сказать видел только 2 проекта с Golang (надежда есть, конечно, что станет лучше, но вряд ли) и перспективы go+ml оценил бы как маловероятные.",
+        "user": "U3RA8ABEC",
+        "ts": "1495187071.615974",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g90059210aaa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9a90059210aaacfa5550a12d39020469.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Danilenko",
+            "display_name": "jeka",
+            "team": "T040HKJE3",
+            "name": "jeka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "В частности из-за старой проблемы с дженериками. ДЛя продуктового кода оно не сильно важно, но когда дело доходит до данных, то мало кому захочется писать методы AddInt64. AddInt, AddFloat32...",
+        "user": "U3RA8ABEC",
+        "ts": "1495187120.626925",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g90059210aaa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9a90059210aaacfa5550a12d39020469.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Danilenko",
+            "display_name": "jeka",
+            "team": "T040HKJE3",
+            "name": "jeka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Курс от <http:\/\/mail.ru|mail.ru> не рекомендовал бы. Лучше книга. В курсе много ошибок.",
+        "user": "U3RA8ABEC",
+        "ts": "1495187152.634289",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g90059210aaa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9a90059210aaacfa5550a12d39020469.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Danilenko",
+            "display_name": "jeka",
+            "team": "T040HKJE3",
+            "name": "jeka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1495177275.552749",
+        "parent_user_id": "U14CTBLFJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Завышена в 2-5 раз, написано скорее для тимлидов с 20 летним опытом работы. У новичков после курсов естественно не будет такой зарплаты.",
+        "user": "U448J59RB",
+        "ts": "1495188288.894300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1afc56dd5c33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-14\/140411978048_1afc56dd5c33e72ccfc2_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "sasha",
+            "team": "T040HKJE3",
+            "name": "sasha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "text": "Эээээ. Зарплата джуниора, который знает синтаксис Java и Maven, например, в мск до 70 вполне.\nЭтот курс совсем не для такого. Еще и тест надо сдать, чтобы учиться.\nДумаю, после курса с проектом готовым и живущим в Интернетах человек совсем не джуниор. Ну, минус командная работа, конечно.\nНу и мнения могут быть разные, конечно.",
+        "user": "U14CTBLFJ",
+        "ts": "1495188730.988365",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1495188780.000000"
+        },
+        "thread_ts": "1494957492.424564",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495189552.153689",
+        "user": "U5EUXRCAV",
+        "text": "<@U5EUXRCAV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495190698.371259",
+        "user": "U5GB71SCX",
+        "text": "<@U5GB71SCX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495193305.846445",
+        "user": "U5F0AQAGH",
+        "text": "<@U5F0AQAGH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495194325.030868",
+        "user": "U5FKYH4NR",
+        "text": "<@U5FKYH4NR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495195529.262720",
+        "user": "U5FL45X61",
+        "text": "<@U5FL45X61> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495195549.266439",
+        "user": "U5FHB86JE",
+        "text": "<@U5FHB86JE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495195905.338643",
+        "user": "U5F0PA0E5",
+        "text": "<@U5F0PA0E5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495196493.459135",
+        "user": "U5ET7SBR6",
+        "text": "<@U5ET7SBR6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495196713.506563",
+        "user": "U5GCAP0NT",
+        "text": "<@U5GCAP0NT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495197054.584155",
+        "user": "U5FLC0FDK",
+        "text": "<@U5FLC0FDK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495198291.878747",
+        "user": "U5GC0M39C",
+        "text": "<@U5GC0M39C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495203293.481651",
+        "user": "U5FL9SKMJ",
+        "text": "<@U5FL9SKMJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1495210042.006968",
+        "user": "U2ACEKHRU",
+        "text": "<@U2ACEKHRU> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "какие будут мнения о <http:\/\/netology.ru\/programs\/data-scientist?utm_source=infopartners&amp;utm_medium=1316&amp;utm_campaign=rationalnumbers&amp;stop=1>",
+        "user": "U486G53GT",
+        "ts": "1495213736.234004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d63ed2280d16",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-22\/144212907105_d63ed2280d16004a28a0_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Skripko",
+            "display_name": "gray",
+            "team": "T040HKJE3",
+            "name": "gray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U486G53GT",
+            "ts": "1495213784.000000"
+        },
+        "attachments": [
+            {
+                "title": "«Data Scientist» - программа обучения от Нетологии",
+                "title_link": "http:\/\/netology.ru\/programs\/data-scientist?utm_source=infopartners&utm_medium=1316&utm_campaign=rationalnumbers&stop=1",
+                "fallback": "«Data Scientist» - программа обучения от Нетологии",
+                "image_url": "http:\/\/netology.ru\/images\/netology.png",
+                "from_url": "http:\/\/netology.ru\/programs\/data-scientist?utm_source=infopartners&utm_medium=1316&utm_campaign=rationalnumbers&stop=1",
+                "image_width": 511,
+                "image_height": 250,
+                "image_bytes": 19095,
+                "service_icon": "http:\/\/netology.ru\/favicon.ico",
+                "service_name": "netology.ru",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U09JEC7V0",
+                    "U45603VGE",
+                    "U3K7PNTML"
+                ],
+                "count": 3
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U07159GKF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eight",
+                "users": [
+                    "U07159GKF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zero",
+                "users": [
+                    "U07159GKF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;Вы получите диплом о профессиональной переподготовке по специальности «Аналитик данных\/Специалист по машинному обучению». С ним Вы сможете претендовать на позицию «Аналитик данных», «Разработчик big data» с зарплатой от 120 тысяч рублей.\n:yeah-sure:",
+        "user": "U04725QK7",
+        "ts": "1495214035.328523",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495220292.373281",
+        "user": "U5FNWQCKU",
+        "text": "<@U5FNWQCKU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ну хотя бы полгода обучают, уже есть шансы, что хоть что-то у выпусников в голове отложится.\n<@U04725QK7> никакого обмана нет, они же только обещают, что вы сможете претендовать на позицию \"Аналитик данных\", а не получить её. Кстати, некоторые преподаватели присутствуют в чатике.",
+        "user": "U1UM6S9KN",
+        "ts": "1495220536.453335",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Технически да, а по факту хз.",
+        "user": "U04725QK7",
+        "ts": "1495220710.508004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495221982.881738",
+        "user": "U5F6KA4F3",
+        "text": "<@U5F6KA4F3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1495224546.617929",
+        "user": "U5FMLS6NP",
+        "text": "<@U5FMLS6NP> has joined the channel"
+    }
+]

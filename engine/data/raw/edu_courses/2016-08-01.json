@@ -1,0 +1,521 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470035172.000274",
+        "user": "U1WTLA7BP",
+        "text": "<@U1WTLA7BP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470035188.000275",
+        "user": "U0PCJS4VC",
+        "text": "<@U0PCJS4VC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Год назад платного не было, вроде",
+        "user": "U17S9F6KV",
+        "ts": "1470066238.000276",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bc14c9e79819",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1408645159239_bc14c9e798197f999800_72.jpg",
+            "first_name": "Vitaly",
+            "real_name": "Vitaly Davydov",
+            "display_name": "iwitaly",
+            "team": "T040HKJE3",
+            "name": "iwitaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U17S9F6KV>: ты про шад, а год назад – это в наборе 2014? В наборе 2015 уже были \"платники\", знаю таких",
+        "user": "U04ELQZAU",
+        "ts": "1470068222.000277",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU>: про набор 2015. не заметил я значит такую опцию",
+        "user": "U17S9F6KV",
+        "ts": "1470068290.000278",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bc14c9e79819",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1408645159239_bc14c9e798197f999800_72.jpg",
+            "first_name": "Vitaly",
+            "real_name": "Vitaly Davydov",
+            "display_name": "iwitaly",
+            "team": "T040HKJE3",
+            "name": "iwitaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну, возможно, она официально и не афишировалась, а только избранным предлагали",
+        "user": "U04ELQZAU",
+        "ts": "1470068323.000279",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "возможно",
+        "user": "U17S9F6KV",
+        "ts": "1470068405.000280",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bc14c9e79819",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1408645159239_bc14c9e798197f999800_72.jpg",
+            "first_name": "Vitaly",
+            "real_name": "Vitaly Davydov",
+            "display_name": "iwitaly",
+            "team": "T040HKJE3",
+            "name": "iwitaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "скорее всего платников не совсем же нулевых набирают и можно предположить, что мотивация у них больше, чем у обычных. А по статистике после 1 семестра много людей отваливаются",
+        "user": "U1MLEMG11",
+        "ts": "1470068834.000283",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "36726f3c2654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-24\/910710177521_36726f3c26541d1448e1_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Lastovichek",
+            "display_name": "dlastovichek",
+            "team": "T040HKJE3",
+            "name": "dlastovichek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "потому что к третьему уже большинство балов наделали на сдачу курса",
+        "user": "U0AS548A1",
+        "ts": "1470069308.000286",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AS548A1",
+            "ts": "1470069341.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470069418.000289",
+        "user": "U1X3CQFK7",
+        "text": "<@U1X3CQFK7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470069428.000291",
+        "user": "U1X35U1G8",
+        "text": "<@U1X35U1G8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "их всего 9",
+        "user": "U0AS548A1",
+        "ts": "1470069451.000294",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470069453.000295",
+        "user": "U1X3D2RK7",
+        "text": "<@U1X3D2RK7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0AS548A1>: на сдачу или на отл?",
+        "user": "U04ELQZAU",
+        "ts": "1470069459.000296",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "3 конкурса, 3 теории, 3-4 лабы и 1 кр",
+        "user": "U0AS548A1",
+        "ts": "1470069476.000299",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AS548A1",
+            "ts": "1470069557.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470069493.000300",
+        "user": "U1X36AYSC",
+        "text": "<@U1X36AYSC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU>: на все варианты оценок)",
+        "user": "U0AS548A1",
+        "ts": "1470069495.000301",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вообще, мне казалось, формулы конвертации баллов в оценки появляются в последний момент, подстраиваясь под аудиторию",
+        "user": "U04ELQZAU",
+        "ts": "1470069499.000302",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Или преподавательский процесс устаканился и стал более дисциплинированным, что ли",
+        "user": "U04ELQZAU",
+        "ts": "1470069568.000305",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну там было что возможен пересмотр критериев",
+        "user": "U0AS548A1",
+        "ts": "1470069598.000306",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "но он обычно скорее вниз",
+        "user": "U0AS548A1",
+        "ts": "1470069606.000307",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "и его не было)",
+        "user": "U0AS548A1",
+        "ts": "1470069609.000308",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там баллов до кучи если все делать",
+        "user": "U0AS548A1",
+        "ts": "1470069637.000309",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "да",
+        "user": "U0AS548A1",
+        "ts": "1470069714.000311",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470069939.000312",
+        "user": "U1X397HJ4",
+        "text": "<@U1X397HJ4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470070548.000313",
+        "user": "U1X3ABNSY",
+        "text": "<@U1X3ABNSY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470070843.000314",
+        "user": "U1X3N6CMT",
+        "text": "<@U1X3N6CMT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470071472.000315",
+        "user": "U1X3X7SQZ",
+        "text": "<@U1X3X7SQZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470072512.000316",
+        "user": "U1X3QM3DL",
+        "text": "<@U1X3QM3DL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470073373.000317",
+        "user": "U1X3ULLR2",
+        "text": "<@U1X3ULLR2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470074314.000318",
+        "user": "U1X40T58U",
+        "text": "<@U1X40T58U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470075221.000319",
+        "user": "U1X2VDBBM",
+        "text": "<@U1X2VDBBM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470075970.000320",
+        "user": "U1X4ECREC",
+        "text": "<@U1X4ECREC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470080247.000321",
+        "user": "U1X564Y3G",
+        "text": "<@U1X564Y3G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470083212.000322",
+        "user": "U1X5Q0S1L",
+        "text": "<@U1X5Q0S1L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470095291.000323",
+        "user": "U1X5Z1Y4B",
+        "text": "<@U1X5Z1Y4B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470119579.000324",
+        "user": "U1X9AEGV6",
+        "text": "<@U1X9AEGV6> has joined the channel"
+    }
+]

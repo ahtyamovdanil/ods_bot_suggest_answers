@@ -1,0 +1,826 @@
+[
+    {
+        "client_msg_id": "53338e9e-9355-4d0f-8cb4-f543cd707249",
+        "type": "message",
+        "text": "а есть ли вообще список всех этих cs***.<http:\/\/stanford.edu|stanford.edu> связанных с машинным обучением*? Начиная с баянского cs231n и заканчивая вот такими свежими курсами",
+        "user": "U9M4BGEL8",
+        "ts": "1582877572.069900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a43a0299ac4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/592265235442_a43a0299ac4bf2c2d08d_72.png",
+            "first_name": "Sumekenov",
+            "real_name": "Sumekenov",
+            "display_name": "Ahmad",
+            "team": "T040HKJE3",
+            "name": "sumekenov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а есть ли вообще список всех этих cs**"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/stanford.edu",
+                                "text": "stanford.edu",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " связанных с машинным обучением",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Начиная с баянского cs231n и заканчивая вот такими свежими курсами"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582869978.068300",
+        "parent_user_id": "U21MU5ATE"
+    },
+    {
+        "client_msg_id": "46ed11b5-d1ba-4572-bf9c-05ad664069c4",
+        "type": "message",
+        "text": "Всем привет!\nМожете посоветовать хороший курс\/книгу\/серию блог постов\/etc на тему применения статистики в реальной жизни (гипотезы, тесты и все вот это на реальных кейсах)?",
+        "user": "U9LPKKM7X",
+        "ts": "1582878888.072000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "403f55dd545c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-10\/327557969795_403f55dd545c79007213_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Klimuk",
+            "display_name": "ivan.k",
+            "team": "T040HKJE3",
+            "name": "ivanklimuk96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет!\nМожете посоветовать хороший курс\/книгу\/серию блог постов\/etc на тему применения статистики в реальной жизни (гипотезы, тесты и все вот это на реальных кейсах)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582878888.072000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1582894396.076400",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "U60EETE7N"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1582889233.075200"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1582894172.076200"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1582894396.076400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "USLJ49ZUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e573f41-1f60-4375-a1f2-c09d5e10a41d",
+        "type": "message",
+        "text": "<@U9M4BGEL8> <https:\/\/ai.stanford.edu\/courses\/>",
+        "user": "UCQ1YNU9M",
+        "ts": "1582883459.072300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71ac8480cb89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905258456917_71ac8480cb894e9e89b8_72.jpg",
+            "first_name": "Fedor",
+            "real_name": "Fedor Ignatov",
+            "display_name": "ignatov",
+            "team": "T040HKJE3",
+            "name": "ignatov.fedor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Courses  |  Stanford Artificial Intelligence Laboratory",
+                "title_link": "https:\/\/ai.stanford.edu\/courses\/",
+                "text": "» Courses |",
+                "fallback": "Courses  |  Stanford Artificial Intelligence Laboratory",
+                "from_url": "https:\/\/ai.stanford.edu\/courses\/",
+                "service_icon": "http:\/\/ai.stanford.edu\/wp-content\/uploads\/2014\/03\/favicon.ico",
+                "service_name": "ai.stanford.edu",
+                "id": 1,
+                "original_url": "https:\/\/ai.stanford.edu\/courses\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U9M4BGEL8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ai.stanford.edu\/courses\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582869978.068300",
+        "parent_user_id": "U21MU5ATE",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9M4BGEL8",
+                    "U29TG6K9U",
+                    "UMM890NT1",
+                    "U8GGBPGR3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "846B8DB4-B319-482B-B82C-2FBF1777923F",
+        "type": "message",
+        "text": "У <http:\/\/booking.com|booking.com> и eBay хорошие блоги, там некоторые кейсы описываются ",
+        "user": "U1UNFRQ1K",
+        "ts": "1582889233.075200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ld+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "У "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/booking.com",
+                                "text": "booking.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и eBay хорошие блоги, там некоторые кейсы описываются "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582878888.072000",
+        "parent_user_id": "U9LPKKM7X",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9LPKKM7X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9095376f-1fdd-478c-840f-b0f5ba80030f",
+        "type": "message",
+        "text": "Stanford в последнее время что-то слишком много интересного выпускает. Если бы они ещё обновили курс по нейронкам для компьютерного зрения, было бы просто супер.\n\nВот те курсы с видеолекциями в паблике, про которые я знаю:\n\nDL\n<https:\/\/cs230.stanford.edu\/> (Andrew Ng, превосходно сочетается со специализацией Deep Learning на Coursera)\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb> (Autumn 2018)\n\nCV\n<http:\/\/cs231n.stanford.edu\/>\n<https:\/\/www.youtube.com\/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv> (Spring 2017)\n\nNLP \/ NLU\n<http:\/\/web.stanford.edu\/class\/cs224n\/>\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z> (Winter 2019)\n\n<http:\/\/web.stanford.edu\/class\/cs224u\/>\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20> (Spring 2019)\n\nAI \/ RL\n<https:\/\/stanford-cs221.github.io\/autumn2019\/>\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX> (Autumn 2019)\n\n<http:\/\/web.stanford.edu\/class\/cs234\/index.html>\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u> (Winter 2019)\n\nMeta Learning\n<http:\/\/cs330.stanford.edu\/>\n<https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5> (только что)\n\nОсталось найти свободное время.",
+        "user": "U29TG6K9U",
+        "ts": "1582889846.075500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "68385214f600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-18\/80908841361_68385214f600a51b153c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Finaev",
+            "display_name": "ivn_finaev",
+            "team": "T040HKJE3",
+            "name": "finaevim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U29TG6K9U",
+            "ts": "1582889885.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G36Y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stanford в последнее время что-то слишком много интересного выпускает. Если бы они ещё обновили курс по нейронкам для компьютерного зрения, было бы просто супер.\n\nВот те курсы с видеолекциями в паблике, про которые я знаю:\n\nDL\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cs230.stanford.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Andrew Ng, превосходно сочетается со специализацией Deep Learning на Coursera)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Autumn 2018)\n\nCV\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cs231n.stanford.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Spring 2017)\n\nNLP \/ NLU\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web.stanford.edu\/class\/cs224n\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Winter 2019)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web.stanford.edu\/class\/cs224u\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Spring 2019)\n\nAI \/ RL\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stanford-cs221.github.io\/autumn2019\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Autumn 2019)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web.stanford.edu\/class\/cs234\/index.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Winter 2019)\n\nMeta Learning\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cs330.stanford.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (только что)\n\nОсталось найти свободное время."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582869978.068300",
+        "parent_user_id": "U21MU5ATE",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D",
+                    "USBBT58DD",
+                    "ULF96QF3K",
+                    "U8U4PFM88",
+                    "U21MU5ATE",
+                    "U523T4M9P",
+                    "U10JSP4NT",
+                    "UE9K266QH",
+                    "U452JCQ7Q",
+                    "U5KD4L5JP",
+                    "UEFGL4WP7",
+                    "UCJBZV7LZ",
+                    "U8X231ZA6",
+                    "URCGASH52",
+                    "UTGUQU99U",
+                    "U9M4BGEL8",
+                    "ULMML7Z5K"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53e3d413-0dc4-49f7-9878-c37f6cf5fd5d",
+        "type": "message",
+        "text": "@abtesting в тг",
+        "user": "U60EETE7N",
+        "ts": "1582894172.076200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@abtesting в тг"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582878888.072000",
+        "parent_user_id": "U9LPKKM7X"
+    },
+    {
+        "client_msg_id": "d90bf5fd-bbdf-4563-8406-cb1b49f0652c",
+        "type": "message",
+        "text": "тут завели только что <#CUPGJB2GN|analytiсs> но пока там пусто :slightly_smiling_face:",
+        "user": "U1UNFRQ1K",
+        "ts": "1582894396.076400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNTLR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "тут завели только что "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CUPGJB2GN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " но пока там пусто "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582878888.072000",
+        "parent_user_id": "U9LPKKM7X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9LPKKM7X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37334b46-ea5b-4777-9a73-79144a9bdeee",
+        "type": "message",
+        "text": "а когда старт лекций?",
+        "user": "URYSATNNT",
+        "ts": "1582895284.076800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5c1178e1dc14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-15\/1424748598934_5c1178e1dc14c67b7aa8_72.png",
+            "first_name": "Leonid",
+            "real_name": "Leonid Krylov",
+            "display_name": "krlv",
+            "team": "T040HKJE3",
+            "name": "leonidvkrylov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NO6O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а когда старт лекций?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582146352.026100",
+        "parent_user_id": "U8GGBPGR3"
+    },
+    {
+        "client_msg_id": "1541716C-C046-45FB-BD3E-59894E126506",
+        "type": "message",
+        "text": "Есть такой сайтик «складчик». Дальше гугл подскажет ",
+        "user": "UGGBL9Y1L",
+        "ts": "1582915452.079800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "345b85adae34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-25\/848132337968_345b85adae348c3b3184_72.png",
+            "first_name": "Ahmed",
+            "real_name": "Ahmed Ismailov",
+            "display_name": "Ahma",
+            "team": "T040HKJE3",
+            "name": "ismailoff.ahmed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bl29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Есть такой сайтик «складчик». Дальше гугл подскажет "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582553374.026200",
+        "parent_user_id": "UM383LZE1"
+    },
+    {
+        "client_msg_id": "e41d793b-23ef-4c4a-99e2-680ef84fc50e",
+        "type": "message",
+        "text": "Коллеги, кто нибудь встречал (язык не важен) пример понижения размерности с помощью PCA с использованием SVD. Куча формул и объяснений имеется, а вот именно пример натурный, пусть даже матрица 3х3.",
+        "user": "UM383LZE1",
+        "ts": "1582932624.082800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g11ba7eb38b0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ac11ba7eb38b0d14cf2277338d5f7e32.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Nemfor23568",
+            "display_name": "Nemfor23568",
+            "team": "T040HKJE3",
+            "name": "nemfor23568",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Коллеги, кто нибудь встречал (язык не важен) пример понижения размерности с помощью PCA с использованием SVD. Куча формул и объяснений имеется, а вот именно пример натурный, пусть даже матрица 3х3."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582932624.082800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1583020896.086800",
+        "reply_users": [
+            "UN7TQ77T9",
+            "U06J2SBQA",
+            "UEK109PNC"
+        ],
+        "replies": [
+            {
+                "user": "UN7TQ77T9",
+                "ts": "1582937888.083200"
+            },
+            {
+                "user": "U06J2SBQA",
+                "ts": "1582956651.083800"
+            },
+            {
+                "user": "UEK109PNC",
+                "ts": "1583020896.086800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "299402ec-403f-465c-a39b-8587f317c32e",
+        "type": "message",
+        "text": "Вот тут на  :python: есть пример: <https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8|https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8>",
+        "user": "UN7TQ77T9",
+        "ts": "1582937888.083200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfdaf93f900b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fdaf93f900b8073f38a2163ec4718525.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Marat",
+            "real_name": "Marat S",
+            "display_name": "Marat",
+            "team": "T040HKJE3",
+            "name": "marat.seroglazov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "PCA and SVD explained with numpy",
+                "title_link": "https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8",
+                "text": "How exactly are principal component analysis and singular value decomposition related and how to implement using numpy.",
+                "fallback": "Medium: PCA and SVD explained with numpy",
+                "image_url": "https:\/\/miro.medium.com\/max\/461\/1*hvzGsXgQBQ4cnnxJPPuVdg.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1567651564,
+                "from_url": "https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8",
+                "image_width": 327,
+                "image_height": 250,
+                "image_bytes": 27931,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5yF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот тут на  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "python"
+                            },
+                            {
+                                "type": "text",
+                                "text": " есть пример: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8",
+                                "text": "https:\/\/towardsdatascience.com\/pca-and-svd-explained-with-numpy-5d13b0d2a4d8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582932624.082800",
+        "parent_user_id": "UM383LZE1"
+    },
+    {
+        "client_msg_id": "56BE8021-E990-437F-B726-FE6D90673D2F",
+        "type": "message",
+        "text": "<https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html|https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html>",
+        "user": "U06J2SBQA",
+        "ts": "1582956651.083800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd643283be49",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1d643283be4994d5dab6b27e3924fac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "labdmitriy",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "labdmitriy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dr. Sebastian Raschka",
+                "title": "Principal Component Analysis",
+                "title_link": "https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html",
+                "text": "Principal Component Analysis (PCA) is a simple yet popular and useful linear transformation technique that is used in numerous applications, such as stock ma...",
+                "fallback": "Dr. Sebastian Raschka: Principal Component Analysis",
+                "ts": 1422374400,
+                "from_url": "https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html",
+                "service_icon": "https:\/\/sebastianraschka.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlB\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html",
+                                "text": "https:\/\/sebastianraschka.com\/Articles\/2015_pca_in_3_steps.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582932624.082800",
+        "parent_user_id": "UM383LZE1"
+    }
+]

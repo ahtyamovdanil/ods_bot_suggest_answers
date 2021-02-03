@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "a29a9863-ed23-4c32-99ca-c94adf0602bf",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Yorko\/mlcourse_open>",
+        "user": "U1UNFRQ1K",
+        "ts": "1528617374.000030",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Yorko\/mlcourse_open",
+                "text": "OpenDataScience Machine Learning course. Both in English and Russian",
+                "title": "Yorko\/mlcourse_open",
+                "footer": "<https:\/\/github.com\/Yorko\/mlcourse_open|Yorko\/mlcourse_open>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1488184340,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<https:\/\/medium.com\/open-machine-learning-course>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "1617",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/Yorko\/mlcourse_open",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4YSG4N2J",
+                    "U8ZRDBSN5",
+                    "U7N4E8GBF",
+                    "U9K9L5615"
+                ],
+                "count": 4
+            },
+            {
+                "name": "vault_boy",
+                "users": [
+                    "UB4C9MNKW",
+                    "U8GGBPGR3",
+                    "U7N4E8GBF",
+                    "U9K9L5615"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "864c4b10-0ead-40ec-88c7-97577aa31a49",
+        "type": "message",
+        "text": "Cs229. Там куча нотсов лекционных.",
+        "user": "U8TDZ6856",
+        "ts": "1528620193.000031",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c3e805b7b96f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-01\/446724126499_c3e805b7b96fd969bef7_72.jpg",
+            "first_name": "Sergei",
+            "real_name": "Sergei Kolomiets",
+            "display_name": "serk0",
+            "team": "T040HKJE3",
+            "name": "s_kolomiyets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U8GGBPGR3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U8TDZ6856> <@U0AD1L5NC>\n&gt;Предобработка данных, алгоритмы. С практикой на python.\nCS229 и LfD крутые, но чисто теоретические, либо на блядском Matlab.",
+        "user": "U8GGBPGR3",
+        "ts": "1528632865.000006",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0321503a296c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/952385340032_0321503a296c35fc6433_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Filkin",
+            "display_name": "Sergey Filkin",
+            "team": "T040HKJE3",
+            "name": "sergey.filkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U8GGBPGR3",
+            "ts": "1528633068.000000"
+        },
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J"
+    },
+    {
+        "type": "message",
+        "text": "Мой путь вкатывания такой: Learning From Data для глубокого понимания основ + ODS для практики и повторения с другого ракурса. Получается достойно и почти бесплатно (только донат <@U1UNFRQ1K>).",
+        "user": "U8GGBPGR3",
+        "ts": "1528633350.000046",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0321503a296c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/952385340032_0321503a296c35fc6433_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Filkin",
+            "display_name": "Sergey Filkin",
+            "team": "T040HKJE3",
+            "name": "sergey.filkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J"
+    },
+    {
+        "type": "message",
+        "text": "Курс <@U0Y8R8363> на ФКН тоже волшебный совершенно, как и у <@U43NLVCRE> на ВМК. Но на все это великолепие не хватает времени, и приходится выбирать. :okay:",
+        "user": "U8GGBPGR3",
+        "ts": "1528634858.000007",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0321503a296c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/952385340032_0321503a296c35fc6433_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Filkin",
+            "display_name": "Sergey Filkin",
+            "team": "T040HKJE3",
+            "name": "sergey.filkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "На русском:\n1. Специализация Яндекса на Курсере.\n2. Курс mlcourse_open от yorko (можно делать упор на статьи на Хабре и дз, видео - опционально, если что-то неясно в статье).\n3. Видеолекции DMIA.\n4. Книжка \"Введение в машинное обучение с помощью Python\" (ей не хватает глубины, но чтоб быстро пробежаться по основным методам - идеально).\n\nНа английском:\n1. Курс Machine learning от Andrew Ng на Курсере (возможно немного устаревший и на matlab, но идеи и подходы объясняются шикарно).\n2. Data Scientist track на DataCamp - очень хорошо чтобы набить руку в pandas, предобработке и прочем (только надо ловить, когда у них акция $99 за год, а то так дорого).\n3. Learning from data на edx - тут больше \"теоретические основания\" ML, сложновато, но хорошо.",
+        "user": "U977SGE59",
+        "ts": "1528641291.000003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "79a273e5841c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-27\/354442453250_79a273e5841c5961a399_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Samsonov",
+            "display_name": "mvsamsonov",
+            "team": "T040HKJE3",
+            "name": "mvsamsonov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2LF67NRH",
+                    "U1UNFRQ1K",
+                    "U5QEMRZDH",
+                    "UAVE71UDN",
+                    "U4YSG4N2J",
+                    "U9W1PD5QD",
+                    "U78KB2ZK2",
+                    "U9K9L5615"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8765f49-f33a-4b68-a4ba-4b846d01d056",
+        "type": "message",
+        "text": "Как-то делал обзор <https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1503757851000051?thread_ts=1503757851.000051&amp;cid=C04DP7BUY>",
+        "user": "U1UNFRQ1K",
+        "ts": "1528698902.000343",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1503757851000051?thread_ts=1503757851.000051&amp;cid=C04DP7BUY",
+                "fallback": "[August 26th, 2017 7:30 AM] yorko: *Первые шаги в ML*\n\nРешил поделиться своим опытом, дать советы начинающим, куда пойти изучать анализ данных и машинное обучение. Отдельно рассматриваются офлайн и онлайн-варианты обучения, первые – подробней, для тех, кто не любит MOOC-и, ценит общение вживую и т.д. Далее в треде – почему это пишет именно <@U1UNFRQ1K>, какие есть варианты изучения ML\/DS (оффлайн, в Москве), а также какие онлайн-курсы стоит проходить (вкратце, так как тема изъезжена вдоль и поперёк). \nЕстественно, обзор не исчерпывающий, не фундаментальная истина, где-то можно поспорить, что-то добавить :thread-please:",
+                "ts": "1503757851.000051",
+                "author_id": "U1UNFRQ1K",
+                "author_subname": "Yury Kashnitsky",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "*Первые шаги в ML*\n\nРешил поделиться своим опытом, дать советы начинающим, куда пойти изучать анализ данных и машинное обучение. Отдельно рассматриваются офлайн и онлайн-варианты обучения, первые – подробней, для тех, кто не любит MOOC-и, ценит общение вживую и т.д. Далее в треде – почему это пишет именно <@U1UNFRQ1K>, какие есть варианты изучения ML\/DS (оффлайн, в Москве), а также какие онлайн-курсы стоит проходить (вкратце, так как тема изъезжена вдоль и поперёк). \nЕстественно, обзор не исчерпывающий, не фундаментальная истина, где-то можно поспорить, что-то добавить :thread-please:",
+                "author_name": "Yury Kashnitsky",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U1UNFRQ1K",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1503757851000051?thread_ts=1503757851.000051&amp;cid=C04DP7BUY",
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1528595271.000048",
+        "parent_user_id": "U4YSG4N2J",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8GGBPGR3",
+                    "U0QMAK6T1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

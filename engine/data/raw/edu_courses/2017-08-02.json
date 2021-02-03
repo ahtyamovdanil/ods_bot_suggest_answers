@@ -1,0 +1,860 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501658768.395713",
+        "user": "U6GTZAASE",
+        "text": "<@U6GTZAASE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Привет всем.не могу сгенерировать словарь..i=0\nd = {} # словарь\nfor item in f:\n    if item  in f:\n        d[item] =i\n        i+=1\nprint(d) выдает ошибку.Генерирую из двухмерного массива [[]].Кто что знает?",
+        "user": "U6GTG35V0",
+        "ts": "1501658894.433512",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aa692c96d387",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220516781473_aa692c96d38725095371_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Константинов",
+            "display_name": "andrew32bit",
+            "team": "T040HKJE3",
+            "name": "andrew32bit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1501664589.443991",
+        "reply_users": [
+            "U5S11SHM4",
+            "U6GTG35V0",
+            "U049HDR2Z",
+            "U5R6WCSBU",
+            "U4YQKKZFA",
+            "U31S67ZC5"
+        ],
+        "replies": [
+            {
+                "user": "U5S11SHM4",
+                "ts": "1501659085.493108"
+            },
+            {
+                "user": "U6GTG35V0",
+                "ts": "1501659124.505142"
+            },
+            {
+                "user": "U6GTG35V0",
+                "ts": "1501659143.510869"
+            },
+            {
+                "user": "U049HDR2Z",
+                "ts": "1501659291.556128"
+            },
+            {
+                "user": "U049HDR2Z",
+                "ts": "1501659328.567272"
+            },
+            {
+                "user": "U6GTG35V0",
+                "ts": "1501659397.588766"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1501659579.644092"
+            },
+            {
+                "user": "U4YQKKZFA",
+                "ts": "1501660578.960091"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1501661080.137084"
+            },
+            {
+                "user": "U4YQKKZFA",
+                "ts": "1501661096.142997"
+            },
+            {
+                "user": "U049HDR2Z",
+                "ts": "1501662865.782187"
+            },
+            {
+                "user": "U31S67ZC5",
+                "ts": "1501664589.443991"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U049HDR2Z",
+                    "U11C2B2V8",
+                    "U411PKASW",
+                    "U1ULFPM0U"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "снова ошибся комнатой\nв <#C044B7CSQ|lang_python>",
+        "user": "U5S11SHM4",
+        "ts": "1501659085.493108",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "извиняюсь",
+        "user": "U6GTG35V0",
+        "ts": "1501659124.505142",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aa692c96d387",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220516781473_aa692c96d38725095371_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Константинов",
+            "display_name": "andrew32bit",
+            "team": "T040HKJE3",
+            "name": "andrew32bit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "я новичок здесь",
+        "user": "U6GTG35V0",
+        "ts": "1501659143.510869",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aa692c96d387",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220516781473_aa692c96d38725095371_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Константинов",
+            "display_name": "andrew32bit",
+            "team": "T040HKJE3",
+            "name": "andrew32bit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "<@U6GTG35V0> т.е. item - список? Так делать нельзя: ключи у словаря должны быть хэшируемого типа, списки не хэшируемые",
+        "user": "U049HDR2Z",
+        "ts": "1501659291.556128",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "Зачем ты делаешь строку с \"if\" тоже непонятно",
+        "user": "U049HDR2Z",
+        "ts": "1501659328.567272",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "нет,список это f=[[]] .Задача состоит в том,чтобы из него сделать словарь вида d={i=0,a=1 ...}но не индексировать слова.",
+        "user": "U6GTG35V0",
+        "ts": "1501659397.588766",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "aa692c96d387",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/220516781473_aa692c96d38725095371_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Константинов",
+            "display_name": "andrew32bit",
+            "team": "T040HKJE3",
+            "name": "andrew32bit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501659425.597330",
+        "user": "U6GU2PNAE",
+        "text": "<@U6GU2PNAE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "вообще в специализации от МФТИ есть свой слак, где менторы и другие \"страдальцы\" отвечают на вопросы.",
+        "user": "U5R6WCSBU",
+        "ts": "1501659579.644092",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UM6S9KN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "опачки, а есть линк на этот слак?",
+        "user": "U4YQKKZFA",
+        "ts": "1501660578.960091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3559575ac103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-20\/243703554387_3559575ac103eef72c34_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Rukhlov",
+            "display_name": "mrukhlov",
+            "team": "T040HKJE3",
+            "name": "mrukhlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "<@U4YQKKZFA> machinelearning2016",
+        "user": "U5R6WCSBU",
+        "ts": "1501661080.137084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "благодарю",
+        "user": "U4YQKKZFA",
+        "ts": "1501661096.142997",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3559575ac103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-20\/243703554387_3559575ac103eef72c34_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Rukhlov",
+            "display_name": "mrukhlov",
+            "team": "T040HKJE3",
+            "name": "mrukhlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501661163.166661",
+        "user": "U6G95BGJU",
+        "text": "<@U6G95BGJU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "",
+        "user": "U36Q9NJMD",
+        "item_type": "F",
+        "ts": "1501661303.214811"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501661447.264223",
+        "user": "U6GS9M5BM",
+        "text": "<@U6GS9M5BM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501662514.649303",
+        "user": "U6GULTRC2",
+        "text": "<@U6GULTRC2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "`f=[[]]` - список списков, `for item in f:` - item == список, `d[item]` - передача списка как ключа словаря",
+        "user": "U049HDR2Z",
+        "ts": "1501662865.782187",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "text": "ну он в if имел в виду наличие ключа item в словарь d, просто опечатка, скорее всего",
+        "user": "U31S67ZC5",
+        "ts": "1501664589.443991",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04418d62471d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-18\/332847477495_04418d62471d9c5ba59e_72.jpg",
+            "first_name": "Bulat",
+            "real_name": "Bulat Suleymanov",
+            "display_name": "My Batiyah Was Atiyah",
+            "team": "T040HKJE3",
+            "name": "khansuleyman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U31S67ZC5",
+            "ts": "1501664600.000000"
+        },
+        "thread_ts": "1501658894.433512",
+        "parent_user_id": "U6GTG35V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501665556.812047",
+        "user": "U6GDGJ0C9",
+        "text": "<@U6GDGJ0C9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Новый курс \"Теория вероятностей\" на степике\n\n<https:\/\/stepik.org\/course\/Теория-вероятностей-3089\/>",
+        "user": "U49MGP9MX",
+        "ts": "1501665834.917567",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4519f7ebc1b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-23\/158111645393_4519f7ebc1b7a06588fb_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Efimov",
+            "display_name": "pefimov",
+            "team": "T040HKJE3",
+            "name": "pavel70",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U49MGP9MX",
+            "ts": "1501665850.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Теория вероятностей",
+                "title_link": "https:\/\/stepik.org\/course\/Теория-вероятностей-3089\/",
+                "text": "Курс знакомит слушателей с базовыми понятиями теории вероятностей: вероятностным пространством, условной вероятностью, случайными величинами, независимостью, математическим ожиданием и дисперсией. Доказываются закон больших чисел и некоторые версии предельных теорем. Разобрано много примеров и задач.",
+                "fallback": "Stepik: online education: Теория вероятностей",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/3089\/cover\/d4044e914c07a3d665c0f91cbfc7f885.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/Теория-вероятностей-3089\/",
+                "image_height": 230,
+                "image_bytes": 20030,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1500592911",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501665834.917567",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1501767359.735954",
+        "reply_users": [
+            "U6BRZBJ72",
+            "U1UM6S9KN",
+            "U14CTBLFJ",
+            "U1D6DT6HE"
+        ],
+        "replies": [
+            {
+                "user": "U6BRZBJ72",
+                "ts": "1501665875.933121"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1501666344.112412"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1501676272.340133"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1501677463.787051"
+            },
+            {
+                "user": "U1D6DT6HE",
+                "ts": "1501714434.272339"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1501767359.735954"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mole",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sweet_potato",
+                "users": [
+                    "U6BRZBJ72"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U14CTBLFJ",
+                    "U486G53GT",
+                    "U6FNTCDUG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "О, отлично!",
+        "user": "U6BRZBJ72",
+        "ts": "1501665875.933121",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0fae5f8b94ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/657665515477_0fae5f8b94aef3e4e3ab_72.jpg",
+            "first_name": "Myrov",
+            "real_name": "Myrov Vladislav",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501666040.996579",
+        "user": "U6HS29J9L",
+        "text": "<@U6HS29J9L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Курс не очень, да и объем маленький. Гмурмана прорешать и то больше пользы будет.",
+        "user": "U1UM6S9KN",
+        "ts": "1501666344.112412",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501666820.288352",
+        "user": "U6H008WKC",
+        "text": "<@U6H008WKC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501667143.404725",
+        "user": "U6H3YMCAZ",
+        "text": "<@U6H3YMCAZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501668261.812434",
+        "user": "U6GAFV8JU",
+        "text": "<@U6GAFV8JU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501669585.251666",
+        "user": "U6H0GUUMQ",
+        "text": "<@U6H0GUUMQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501670015.390332",
+        "user": "U6GTUPPRR",
+        "text": "<@U6GTUPPRR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501670209.450007",
+        "user": "U6H0LKQ1G",
+        "text": "<@U6H0LKQ1G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501670947.676270",
+        "user": "U6HSZ6M1C",
+        "text": "<@U6HSZ6M1C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501671310.785793",
+        "user": "U6GEL4Q3T",
+        "text": "<@U6GEL4Q3T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501675040.915411",
+        "user": "U6GBXHA5N",
+        "text": "<@U6GBXHA5N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Да, Храбров говно сделал. Да и жести там нет нахуй никому не нужной. Фуууу\nЧуть хуже, чем Асимптотический анализ и теория вероятностей.",
+        "user": "U14CTBLFJ",
+        "ts": "1501676272.340133",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1501676449.000000"
+        },
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U5GT468HH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501677385.756601",
+        "user": "U6H018TCK",
+        "text": "<@U6H018TCK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Пардон, я говорил не о том, курсе по теории вероятностей, а о том, который идет сейчас. <https:\/\/stepik.org\/course\/Теория-вероятностей-наука-о-случайности-2911>",
+        "user": "U1UM6S9KN",
+        "ts": "1501677463.787051",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Теория вероятностей – наука о случайности",
+                "title_link": "https:\/\/stepik.org\/course\/Теория-вероятностей-наука-о-случайности-2911",
+                "text": "Курс познакомит с основными правилами исчисления вероятностей, обращая внимание на базовые идеи и концепции, научит решать вероятностные задачи, пользуясь формальным аппаратом. Курс позволит освоить элементарные вероятностные методы и применять их в быту и профессиональной деятельности, будет способствовать развитию рационального мышления и способности выражать мысли в математической форме.",
+                "fallback": "Stepik: online education: Теория вероятностей – наука о случайности",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/2911\/cover\/4a9d103b6e0bec98dff1dbb6923fa74f.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/Теория-вероятностей-наука-о-случайности-2911",
+                "image_height": 230,
+                "image_bytes": 40729,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1500592911",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501677628.852741",
+        "user": "U6H02TKLK",
+        "text": "<@U6H02TKLK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501681579.828027",
+        "user": "U6H378UE6",
+        "text": "<@U6H378UE6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501681735.919024",
+        "user": "U6GDF7JF2",
+        "text": "<@U6GDF7JF2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501688477.355143",
+        "user": "U6GK522E5",
+        "text": "<@U6GK522E5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501691055.002687",
+        "user": "U6GGFGTTJ",
+        "text": "<@U6GGFGTTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501695747.774366",
+        "user": "U6HBK5DMK",
+        "text": "<@U6HBK5DMK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501698902.691754",
+        "user": "U6HACEB6G",
+        "text": "<@U6HACEB6G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501702287.628466",
+        "user": "U6HBB7WSY",
+        "text": "<@U6HBB7WSY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Господа и Дамы, что случилось со специализацией \"Анализ данных\" на <http:\/\/stepik.org|stepik.org>? Закрыт прием, прислали письмо, что экзамены  можно сдать до конца года. ",
+        "user": "U1X3X7SQZ",
+        "ts": "1501703160.096237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9d3173a10cb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-02\/65531184372_9d3173a10cb8fbf5e666_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Gavris",
+            "display_name": "gavrisas",
+            "team": "T040HKJE3",
+            "name": "gavrisas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501703160.096237",
+        "reply_count": 0,
+        "reply_users_count": 0,
+        "latest_reply": "0000000000.000000",
+        "reply_users": [],
+        "replies": [],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501705625.448172",
+        "user": "U6HAGJFSN",
+        "text": "<@U6HAGJFSN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501705936.620915",
+        "user": "U6GQA1KRP",
+        "text": "<@U6GQA1KRP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501709043.237801",
+        "user": "U6GR3J9TK",
+        "text": "<@U6GR3J9TK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501711194.177433",
+        "user": "U6HDM6XD2",
+        "text": "<@U6HDM6XD2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Я, может быть, неправильно понял комментарий Артёма, но, в общем, Храбров А. И. говна не делает, он отличный преподаватель.",
+        "user": "U1D6DT6HE",
+        "ts": "1501714434.272339",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0de241d94ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/440de241d94ed23deb7d077c30cb0818.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Sushinskii",
+            "display_name": "esushinskii",
+            "team": "T040HKJE3",
+            "name": "esushinskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501726912.181255",
+        "user": "U6JAZ88HL",
+        "text": "<@U6JAZ88HL> has joined the channel"
+    }
+]

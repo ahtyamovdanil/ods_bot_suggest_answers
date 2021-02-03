@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473664449.000263",
+        "user": "U2AH0D213",
+        "text": "<@U2AH0D213> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473666829.000264",
+        "user": "U2AH2GJCE",
+        "text": "<@U2AH2GJCE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473666971.000265",
+        "user": "U2AHDLCSV",
+        "text": "<@U2AHDLCSV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Товарищи, а кто-нибудь встречал годные курсы\/книги по всякому ETL, пайплайнам и прочую рутинную часть работы data scientist'а?",
+        "user": "U1CSA6ADS",
+        "ts": "1473670653.000266",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "geab88f6be2b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4deab88f6be2bf2be5a317d0f1bf44e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Krasnoschekov",
+            "display_name": "krvkir",
+            "team": "T040HKJE3",
+            "name": "krvkir",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Годных не встречал нигде, кроме практики, есть ерунда уровня “как почистить колонку в нашем крутом продукте”. Всё годное на youtube от Uber, AirBnB, GoPro, например.",
+        "user": "U14CTBLFJ",
+        "ts": "1473672020.000267",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "есть такой вот: <https:\/\/www.coursera.org\/learn\/data-cleaning>. там совсем основы, если что.",
+        "user": "U0QMAK6T1",
+        "ts": "1473672512.000268",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d7eb4d76dfce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-19\/1368101696822_d7eb4d76dfcecdf34128_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Zimin",
+            "display_name": "szimin",
+            "team": "T040HKJE3",
+            "name": "szimin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Getting and Cleaning Data - Johns Hopkins University | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/data-cleaning",
+                "text": "Getting and Cleaning Data from Johns Hopkins University. Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data. Take free online classes from 140+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Getting and Cleaning Data - Johns Hopkins University | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/6d\/aac7c069b611e39de639278c4f9dba\/ObtainingData.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/data-cleaning",
+                "thumb_width": 1176,
+                "thumb_height": 664,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "r",
+                "users": [
+                    "U14FXL2DB",
+                    "U17UDV31D",
+                    "U27HU84H4",
+                    "U0Q3USC0Z"
+                ],
+                "count": 4
+            },
+            {
+                "name": "nor",
+                "users": [
+                    "U1LNBRZ29",
+                    "U04ELQZAU",
+                    "U1GMCNV3M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473675553.000270",
+        "user": "U2AJJG36D",
+        "text": "<@U2AJJG36D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473676979.000271",
+        "user": "U2AJE72Q6",
+        "text": "<@U2AJE72Q6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473685320.000272",
+        "user": "U2AL7HL90",
+        "text": "<@U2AL7HL90> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473685324.000273",
+        "user": "U2AL0C21M",
+        "text": "<@U2AL0C21M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473685374.000274",
+        "user": "U2AJA99SP",
+        "text": "<@U2AJA99SP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473685393.000275",
+        "user": "U2AKN40BW",
+        "text": "<@U2AKN40BW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473685724.000276",
+        "user": "U2AKQ52BE",
+        "text": "<@U2AKQ52BE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473686138.000277",
+        "user": "U2AKSLFM2",
+        "text": "<@U2AKSLFM2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473686350.000278",
+        "user": "U2AL7C63B",
+        "text": "<@U2AL7C63B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473686411.000279",
+        "user": "U2AL40SAH",
+        "text": "<@U2AL40SAH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473686914.000280",
+        "user": "U2AL79HRB",
+        "text": "<@U2AL79HRB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473687187.000281",
+        "user": "U2AJMKSJX",
+        "text": "<@U2AJMKSJX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473687859.000282",
+        "user": "U2ALDL1LM",
+        "text": "<@U2ALDL1LM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473691286.000283",
+        "user": "U2AM8PRMM",
+        "text": "<@U2AM8PRMM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473691396.000284",
+        "user": "U2AMGRLSW",
+        "text": "<@U2AMGRLSW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473692689.000285",
+        "user": "U2AML8LEB",
+        "text": "<@U2AML8LEB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473693619.000286",
+        "user": "U2AMTN84F",
+        "text": "<@U2AMTN84F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473694724.000287",
+        "user": "U2AMT1KV4",
+        "text": "<@U2AMT1KV4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473710330.000288",
+        "user": "U2ARJRMPT",
+        "text": "<@U2ARJRMPT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473711083.000289",
+        "user": "U2ARPHC5V",
+        "text": "<@U2ARPHC5V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473742772.000290",
+        "user": "U2B06NUKT",
+        "text": "<@U2B06NUKT> has joined the channel"
+    }
+]

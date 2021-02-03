@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498882290.275049",
+        "user": "U4GU6KJDR",
+        "text": "<@U4GU6KJDR> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Всем привет! Посоветуйте статьи по рекомендательным системам. Интересует как теория (сбор методов в одном месте), так и примеры реализации.",
+        "user": "U3L7M0QVC",
+        "ts": "1498883028.315338",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7c92ba5f6dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-28\/175322361089_a7c92ba5f6dcdcf80c62_72.jpg",
+            "first_name": "Natalya",
+            "real_name": "Natalya Bronina",
+            "display_name": "bnd_ds",
+            "team": "T040HKJE3",
+            "name": "bnd_ds",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498883028.315338",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1501154278.688335",
+        "reply_users": [
+            "U3P82LKDK",
+            "U3L7M0QVC"
+        ],
+        "replies": [
+            {
+                "user": "U3P82LKDK",
+                "ts": "1498902820.148661"
+            },
+            {
+                "user": "U3L7M0QVC",
+                "ts": "1501154278.688335"
+            }
+        ],
+        "subscribed": false
+    }
+]

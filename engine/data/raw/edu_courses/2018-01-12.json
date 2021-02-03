@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "text": "Недавно в каком-то из каналов один добрый человек выкладывал свое пособие по визуализации, кажется в matplotlib, ссылкой на гитхаб. Никак не могу теперь найти тот пост. Не сохранил ли кто ссылку? ",
+        "user": "U7UP85B3J",
+        "ts": "1515747387.000271",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbd1abf6eba5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26bd1abf6eba510a18fb44f095f0c1ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Daler",
+            "real_name": "Daler Bakhriev",
+            "display_name": "Daler",
+            "team": "T040HKJE3",
+            "name": "dalerbakhriev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1515747387.000271",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1515769776.000085",
+        "reply_users": [
+            "U6YFBCYNP",
+            "U7UP85B3J"
+        ],
+        "replies": [
+            {
+                "user": "U6YFBCYNP",
+                "ts": "1515768375.000384"
+            },
+            {
+                "user": "U7UP85B3J",
+                "ts": "1515769776.000085"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "это? <https:\/\/github.com\/Yorko\/mlcourse_open\/blob\/master\/jupyter_notebooks\/tutorials\/make_it_beautiful_myltykritik.ipynb>",
+        "user": "U6YFBCYNP",
+        "ts": "1515768375.000384",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "42964fd73efb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-12\/379560747952_42964fd73efb601023d3_72.jpg",
+            "first_name": "Montblanc077",
+            "real_name": "Montblanc077",
+            "display_name": "montblanc077",
+            "team": "T040HKJE3",
+            "name": "montblanc077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Yorko\/mlcourse_open",
+                "title_link": "https:\/\/github.com\/Yorko\/mlcourse_open\/blob\/master\/jupyter_notebooks\/tutorials\/make_it_beautiful_myltykritik.ipynb",
+                "text": "mlcourse_open - OpenDataScience Machine Learning course (yet Russian-only)",
+                "fallback": "GitHub: Yorko\/mlcourse_open",
+                "from_url": "https:\/\/github.com\/Yorko\/mlcourse_open\/blob\/master\/jupyter_notebooks\/tutorials\/make_it_beautiful_myltykritik.ipynb",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/3973673?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1515747387.000271",
+        "parent_user_id": "U7UP85B3J"
+    },
+    {
+        "type": "message",
+        "text": "Нет, там было целое пособие на английском и автором кажется был человек из сколтеха, но в этом я не уверен.",
+        "user": "U7UP85B3J",
+        "ts": "1515769776.000085",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbd1abf6eba5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26bd1abf6eba510a18fb44f095f0c1ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Daler",
+            "real_name": "Daler Bakhriev",
+            "display_name": "Daler",
+            "team": "T040HKJE3",
+            "name": "dalerbakhriev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1515747387.000271",
+        "parent_user_id": "U7UP85B3J"
+    }
+]

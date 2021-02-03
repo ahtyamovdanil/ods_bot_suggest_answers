@@ -1,0 +1,334 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465546563.000100",
+        "user": "U1FNQ9UMN",
+        "text": "<@U1FNQ9UMN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465548538.000101",
+        "user": "U1FNS5GBE",
+        "text": "<@U1FNS5GBE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465550333.000102",
+        "user": "U1FMV7S6P",
+        "text": "<@U1FMV7S6P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465552330.000103",
+        "user": "U1FPDA5NC",
+        "text": "<@U1FPDA5NC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465564815.000104",
+        "user": "U1FQS0MNU",
+        "text": "<@U1FQS0MNU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ребята, кто знает хорошие курсы по статистике без R?",
+        "user": "U1FLG6YR1",
+        "ts": "1465568787.000105",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "nor",
+                "users": [
+                    "U041P485A",
+                    "U04BFDYPV",
+                    "U1BKBLY4X",
+                    "U04ELQZAU",
+                    "U0G29N5U4",
+                    "U06TZHSSJ",
+                    "U04CH4QBD",
+                    "U049NHC4X"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1465571406.000106",
+        "user": "U1FS1U3B7",
+        "text": "<@U1FS1U3B7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U1FLG6YR1>: Один из лучших курсов сейчас <https:\/\/www.coursera.org\/learn\/stats-for-data-analysis>",
+        "user": "U0M39M6LS",
+        "ts": "1465577440.000107",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Построение выводов по данным - Moscow Institute of Physics and Technology | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/stats-for-data-analysis",
+                "text": "Построение выводов по данным from Moscow Institute of Physics and Technology. Влияет ли знание методов анализа данных на уровень заработной платы? Работает ли система оценки кредитоспособности клиентов банка? Действительно ли новый баннер лучше старого? Чтобы ответить на такие вопросы, нужно собрать данные. Данные почти всегда содержат шум, поэтому утверждения, которые можно сделать на их основе, верны не всегда, а только с определённой вероятностью. Строить наиболее корректные выводы и численно оценивать степень уверенности в них помогают методы статистики. Как можно оценивать неизвестные параметры системы по небольшому количеству наблюдений? Как измерить точность таких оценок? Какие данные нужны, чтобы ответить на ваш вопрос, и на какие вопросы можно ответить с помощью уже имеющихся данных? Вы узнаете все, что нужно для успешного превращения данных в выводы — организация экспериментов, A\/B-тестирование, универсальные методы оценки параметров и проверки гипотез, корреляции и причинно-следственные связи. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Построение выводов по данным - Moscow Institute of Physics and Technology | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/41\/880650b0de11e5a0fb177d76ab076a\/800x800-04.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/stats-for-data-analysis",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mipt",
+                "users": [
+                    "U041P485A",
+                    "U04ELQZAU",
+                    "U0G29N5U4",
+                    "U0MEP6PT2",
+                    "U040M0W0S",
+                    "U0E2W4VKL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1FLG6YR1",
+                    "U0MEP6PT2",
+                    "U049HDR2Z",
+                    "U040M0W0S",
+                    "U1D6DT6HE"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Спасибо! Гляну, но хотелось бы чего то более глубокого, фундаментального и с задачками, а то в университете я больше спал на статистике. Судя по результату моих поисков (даже без ограничения по R), буду работать \nс печатной литературой",
+        "user": "U1FLG6YR1",
+        "ts": "1465582675.000109",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 10th, 2016 7:50 PM] vitaliyradchenko: <@U1FLG6YR1>: Один из лучших курсов сейчас <https:\/\/www.coursera.org\/learn\/stats-for-data-analysis>",
+                "author_subname": "vitaliyradchenko",
+                "ts": "1465577440.000107",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<@U1FLG6YR1>: Один из лучших курсов сейчас <https:\/\/www.coursera.org\/learn\/stats-for-data-analysis>",
+                "author_name": "Vitaliy Radchenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/vitaliyradchenko",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-03-09\/25503122502_623042fd1c405565c621_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1465577440000107",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "В этом курсе все построенно на реальных задачах на реальных датасетах. в 4 неделе - только практика, решение реальных больших задач с помощью статистики",
+        "user": "U0M39M6LS",
+        "ts": "1465582761.000110",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ок, убедил. Возьму с полным доступом. А что по поводу всей специализации скажешь?",
+        "user": "U1FLG6YR1",
+        "ts": "1465583310.000111",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1FLG6YR1",
+            "ts": "1465583328.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "[June 10th, 2016 9:19 PM] vitaliyradchenko: В этом курсе все построенно на реальных задачах на реальных датасетах. в 4 неделе - только практика, решение реальных больших задач с помощью статистики",
+                "author_subname": "vitaliyradchenko",
+                "ts": "1465582761.000110",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "В этом курсе все построенно на реальных задачах на реальных датасетах. в 4 неделе - только практика, решение реальных больших задач с помощью статистики",
+                "author_name": "Vitaliy Radchenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/vitaliyradchenko",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-03-09\/25503122502_623042fd1c405565c621_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1465582761000110",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Смотря какой у тебя уровень подготовки. Если достаточно опыта, то первые два будут не оч полезными, хотя все-таки найдешь что-то интересное для себя. Для меня самые крутые были 3 и 4.  через месяц будет 5.",
+        "user": "U0M39M6LS",
+        "ts": "1465584197.000113",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1FLG6YR1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я бы вот это еще посоветовал\n<https:\/\/www.coursera.org\/learn\/biostatistics>\n<https:\/\/www.coursera.org\/learn\/biostatistics-2>",
+        "user": "U09JEC7V0",
+        "ts": "1465587662.000114",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Mathematical Biostatistics Boot Camp 1 - Johns Hopkins University | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/biostatistics",
+                "text": "Mathematical Biostatistics Boot Camp 1 from Johns Hopkins University. This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Mathematical Biostatistics Boot Camp 1 - Johns Hopkins University | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/eb\/cf8c0e7e0bb418255e48fe210446c1\/bootcamp_B-02.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/biostatistics",
+                "thumb_width": 588,
+                "thumb_height": 332,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            },
+            {
+                "service_name": "Coursera",
+                "title": "Mathematical Biostatistics Boot Camp 2 - Johns Hopkins University | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/biostatistics-2",
+                "text": "Mathematical Biostatistics Boot Camp 2 from Johns Hopkins University. Learn fundamental concepts in data analysis and statistical inference, focusing on one and two independent samples. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Mathematical Biostatistics Boot Camp 2 - Johns Hopkins University | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/41\/636d558d786277be88235e2a28adb6\/bootcamp2_B-02.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/biostatistics-2",
+                "thumb_width": 588,
+                "thumb_height": 332,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 2
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1FLG6YR1",
+                    "U040M0W0S",
+                    "U0E21LW49"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

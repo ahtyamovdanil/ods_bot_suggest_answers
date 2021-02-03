@@ -1,0 +1,732 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498546998.652186",
+        "user": "U5ZCXMC0Z",
+        "text": "<@U5ZCXMC0Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498548337.909007",
+        "user": "U60QLTL5D",
+        "text": "<@U60QLTL5D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498548800.003163",
+        "user": "U5ZA0N7H6",
+        "text": "<@U5ZA0N7H6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498549408.128240",
+        "user": "U60QTJN31",
+        "text": "<@U60QTJN31> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498549511.150639",
+        "user": "U6038S7GD",
+        "text": "<@U6038S7GD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498550639.406399",
+        "user": "U6020H37E",
+        "text": "<@U6020H37E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.edx.org\/course\/deep-learning-explained-microsoft-dat236x>",
+        "user": "U2N853RGF",
+        "ts": "1498551227.545579",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Deep Learning Explained",
+                "title_link": "https:\/\/www.edx.org\/course\/deep-learning-explained-microsoft-dat236x",
+                "text": "Learn an intuitive approach to building the complex models that help machines solve real-world problems with human-like intelligence.",
+                "fallback": "edX: Deep Learning Explained",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/featured-card\/dat236x-courseimage_318x210.jpg",
+                "ts": 1497459631,
+                "from_url": "https:\/\/www.edx.org\/course\/deep-learning-explained-microsoft-dat236x",
+                "image_width": 318,
+                "image_height": 210,
+                "image_bytes": 19031,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U24N3AB96"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498551593.634078",
+        "user": "U5ZDT5CC9",
+        "text": "<@U5ZDT5CC9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498551701.659977",
+        "user": "U60QRJFCN",
+        "text": "<@U60QRJFCN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ребята, никто не хочет попробовать себя в роли преподавателя?",
+        "user": "U47U26BC5",
+        "ts": "1498551769.676277",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9e7288a79e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9c9e7288a79e949a3d392d370628fadb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Нодир",
+            "real_name": "Нодир Азам",
+            "display_name": "nodir_azam",
+            "team": "T040HKJE3",
+            "name": "nodir_azam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498551769.676277",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1498551936.716060",
+        "reply_users": [
+            "U4Z9Q18QH",
+            "U47U26BC5"
+        ],
+        "replies": [
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1498551891.705119"
+            },
+            {
+                "user": "U47U26BC5",
+                "ts": "1498551930.714742"
+            },
+            {
+                "user": "U47U26BC5",
+                "ts": "1498551936.716060"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fork",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Может есть желающие?",
+        "user": "U47U26BC5",
+        "ts": "1498551789.680658",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9e7288a79e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9c9e7288a79e949a3d392d370628fadb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Нодир",
+            "real_name": "Нодир Азам",
+            "display_name": "nodir_azam",
+            "team": "T040HKJE3",
+            "name": "nodir_azam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fork",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "nodir_azam: а что предлагаете преподавать и кому?",
+        "user": "U4Z9Q18QH",
+        "ts": "1498551891.705119",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498551769.676277",
+        "parent_user_id": "U47U26BC5"
+    },
+    {
+        "type": "message",
+        "text": "в РАНХ открывается магистратура \"Большие данные в экономике\"",
+        "user": "U47U26BC5",
+        "ts": "1498551930.714742",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9e7288a79e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9c9e7288a79e949a3d392d370628fadb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Нодир",
+            "real_name": "Нодир Азам",
+            "display_name": "nodir_azam",
+            "team": "T040HKJE3",
+            "name": "nodir_azam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498551769.676277",
+        "parent_user_id": "U47U26BC5"
+    },
+    {
+        "type": "message",
+        "text": "Сейчас скину инфу",
+        "user": "U47U26BC5",
+        "ts": "1498551936.716060",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9e7288a79e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9c9e7288a79e949a3d392d370628fadb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Нодир",
+            "real_name": "Нодир Азам",
+            "display_name": "nodir_azam",
+            "team": "T040HKJE3",
+            "name": "nodir_azam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498551769.676277",
+        "parent_user_id": "U47U26BC5"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F603T1WH3",
+                "created": 1498552106,
+                "timestamp": 1498552106,
+                "name": "photo5372968203300480978.jpg",
+                "title": "photo5372968203300480978.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U47U26BC5",
+                "editable": false,
+                "size": 200012,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F603T1WH3\/photo5372968203300480978.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F603T1WH3\/download\/photo5372968203300480978.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_64.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_80.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_360.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_480.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_160.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_720.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_800.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_960.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F603T1WH3-90be305c40\/photo5372968203300480978_1024.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 1280,
+                "original_h": 960,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U47U26BC5\/F603T1WH3\/photo5372968203300480978.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F603T1WH3-7dcaa051f3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U47U26BC5",
+        "display_as_bot": false,
+        "ts": "1498552109.757963"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F60RCCD2B",
+                "created": 1498552110,
+                "timestamp": 1498552110,
+                "name": "photo5372968203300480977.jpg",
+                "title": "photo5372968203300480977.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U47U26BC5",
+                "editable": false,
+                "size": 216039,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F60RCCD2B\/photo5372968203300480977.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F60RCCD2B\/download\/photo5372968203300480977.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_64.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_80.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_360.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_480.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_160.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_720.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_800.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_960.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F60RCCD2B-1931a87c09\/photo5372968203300480977_1024.jpg?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 1280,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U47U26BC5\/F60RCCD2B\/photo5372968203300480977.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F60RCCD2B-859f03a6e2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U47U26BC5",
+        "display_as_bot": false,
+        "ts": "1498552113.758902"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498555816.699460",
+        "user": "U5ZEQKH41",
+        "text": "<@U5ZEQKH41> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Учебники без воды надо использовать как справочник, а не чтиво перед сном",
+        "user": "U5R6G5JQK",
+        "ts": "1498557163.032253",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1fd955e62a15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/704980203508_1fd955e62a155e7b5a0a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Kazantsev",
+            "display_name": "kaapex",
+            "team": "T040HKJE3",
+            "name": "kaapex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498152439.585915",
+        "parent_user_id": "U5J0XPR0W"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498565894.922177",
+        "user": "U605H9X3N",
+        "text": "<@U605H9X3N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498579165.094383",
+        "user": "U6138N5AS",
+        "text": "<@U6138N5AS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498588920.994172",
+        "user": "U60DQ7P52",
+        "text": "<@U60DQ7P52> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498588969.012819",
+        "user": "U5ZN38BNC",
+        "text": "<@U5ZN38BNC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498589001.024797",
+        "user": "U5ZRB5Z33",
+        "text": "<@U5ZRB5Z33> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498590968.763188",
+        "user": "U617HS9E2",
+        "text": "<@U617HS9E2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498591008.777891",
+        "user": "U60EETE7N",
+        "text": "<@U60EETE7N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498591339.895048",
+        "user": "U60EJJHM2",
+        "text": "<@U60EJJHM2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.edx.org\/course\/learn-program-java-microsoft-dev276x> вот это поворот",
+        "user": "U0DA4J82H",
+        "ts": "1498597655.170102",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Learn to Program in Java",
+                "title_link": "https:\/\/www.edx.org\/course\/learn-program-java-microsoft-dev276x",
+                "text": "Get started on the path to becoming a software engineer by learning core coding skills in Java—one of the most popular programming languages.",
+                "fallback": "edX: Learn to Program in Java",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/featured-card\/dev276x-318210.jpg",
+                "ts": 1496255703,
+                "from_url": "https:\/\/www.edx.org\/course\/learn-program-java-microsoft-dev276x",
+                "image_width": 318,
+                "image_height": 210,
+                "image_bytes": 20143,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498597655.170102",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1498599778.826606",
+        "reply_users": [
+            "U09JEC7V0",
+            "U1HHX1QS3",
+            "U0DA4J82H",
+            "U1UM6S9KN"
+        ],
+        "replies": [
+            {
+                "user": "U09JEC7V0",
+                "ts": "1498597706.186811"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1498597772.208552"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1498597952.267650"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1498599778.826606"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "windows",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "java",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ololo: ну у них и по питону есть, они уже смирились))",
+        "user": "U09JEC7V0",
+        "ts": "1498597706.186811",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498597655.170102",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U1HHX1QS3",
+        "ts": "1498597772.208552",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498597655.170102",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "<@U1HHX1QS3> майкрософт же придумали свою джаву, поэтому мне показалось необычным, что они вдруг решили такой курс сделать",
+        "user": "U0DA4J82H",
+        "ts": "1498597952.267650",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498597655.170102",
+        "parent_user_id": "U0DA4J82H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1HHX1QS3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А что, в этом году в Analytics Edge не будет соревнования? Почитал Syllabus и Schedule, про соревнование ничего там нет",
+        "user": "U0DA4J82H",
+        "ts": "1498598303.380312",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1498598345.000000"
+        },
+        "thread_ts": "1498598303.380312",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1498603377.707608",
+        "reply_users": [
+            "U44A57Q1G"
+        ],
+        "replies": [
+            {
+                "user": "U44A57Q1G",
+                "ts": "1498603377.707608"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.edx.org\/sites\/default\/files\/person\/image\/untitled2_110x110.jpg>\nKasey Champion\nLearning Team\nMicrosoft.\nWe are Champions короче.",
+        "user": "U1UM6S9KN",
+        "ts": "1498599778.826606",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1498599794.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "110x110px image",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/person\/image\/untitled2_110x110.jpg",
+                "image_width": 110,
+                "image_height": 110,
+                "image_bytes": 4259,
+                "from_url": "https:\/\/www.edx.org\/sites\/default\/files\/person\/image\/untitled2_110x110.jpg",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498597655.170102",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "ololo: я прохожу. Вроде на первой неделе упоминали его",
+        "user": "U44A57Q1G",
+        "ts": "1498603377.707608",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "25e660ad630f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/779477052823_25e660ad630fa39b6f48_72.png",
+            "first_name": "Repushko",
+            "real_name": "Repushko Anton",
+            "display_name": "repushko",
+            "team": "T040HKJE3",
+            "name": "grisme",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498598303.380312",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498621064.274999",
+        "user": "U61DN9ZK8",
+        "text": "<@U61DN9ZK8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498623227.520861",
+        "user": "U61DW8G78",
+        "text": "<@U61DW8G78> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498629122.191688",
+        "user": "U60KY6D26",
+        "text": "<@U60KY6D26> has joined the channel"
+    }
+]

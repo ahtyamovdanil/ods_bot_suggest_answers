@@ -1,0 +1,287 @@
+[
+    {
+        "type": "message",
+        "text": "А есть какие онлайн курсы\/книжки по красивой визуализации в Питоне?",
+        "user": "U6BS23P47",
+        "ts": "1511612894.000006",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1511612918.000000"
+        },
+        "thread_ts": "1511612894.000006",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1511725133.000026",
+        "reply_users": [
+            "U60EETE7N",
+            "U1HHX1QS3",
+            "U6QD48HHS",
+            "U6BS23P47",
+            "U5CD3D3RN",
+            "U5QBU8SUR"
+        ],
+        "replies": [
+            {
+                "user": "U60EETE7N",
+                "ts": "1511616894.000049"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1511619602.000078"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1511622127.000077"
+            },
+            {
+                "user": "U6QD48HHS",
+                "ts": "1511629482.000034"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1511639777.000023"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1511662125.000044"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1511664347.000005"
+            },
+            {
+                "user": "U5CD3D3RN",
+                "ts": "1511692983.000025"
+            },
+            {
+                "user": "U5QBU8SUR",
+                "ts": "1511725133.000026"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Tufte + документация pyplot :hardcore:",
+        "user": "U60EETE7N",
+        "ts": "1511616894.000049",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U6BS23P47",
+                    "U6Z21KSBC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а, ещё вот это есть, но я не проходил:\n<https:\/\/www.coursera.org\/learn\/python-plotting>",
+        "user": "U60EETE7N",
+        "ts": "1511619602.000078",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Applied Plotting, Charting &amp; Data Representation in Python | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/python-plotting",
+                "text": "Applied Plotting, Charting &amp; Data Representation in Python from University of Michigan. This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course ...",
+                "fallback": "Coursera: Applied Plotting, Charting &amp; Data Representation in Python | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/06\/02ea60484011e69ea5d7dd7cfcafaa\/python_datascience_thumbnail_datarepresentation_1x1.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/python-plotting",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Да чего там, ставь стиль 538 и пляши от него",
+        "user": "U1HHX1QS3",
+        "ts": "1511622127.000077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "открываешь галерею, находишь то что тебе нравится, изучаешь код",
+        "user": "U6QD48HHS",
+        "ts": "1511629482.000034",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c33a1e47470",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-26\/233280531703_0c33a1e474700b71144d_72.jpg",
+            "first_name": "Vlad",
+            "real_name": "Vlad Gusev",
+            "display_name": "xmvlad",
+            "team": "T040HKJE3",
+            "name": "xmvlad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U1HHX1QS3> можно поподробнее плиз? Что такое стиль 538?",
+        "user": "U6BS23P47",
+        "ts": "1511639777.000023",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/matplotlib.org\/examples\/style_sheets\/plot_fivethirtyeight.html>",
+        "user": "U1HHX1QS3",
+        "ts": "1511662125.000044",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "В пайплоте есть стили. Один из них (тот самый 538) копирует стиль вот этого издания:\n<https:\/\/en.wikipedia.org\/wiki\/FiveThirtyEight>",
+        "user": "U60EETE7N",
+        "ts": "1511664347.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U60EETE7N",
+            "ts": "1511664643.000000"
+        },
+        "thread_ts": "1511612894.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

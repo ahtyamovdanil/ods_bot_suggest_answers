@@ -1,0 +1,771 @@
+[
+    {
+        "client_msg_id": "cb249ba5-4b9c-4384-9ad0-d19e6234e2b5",
+        "type": "message",
+        "text": "<@U9ZU1CYUD>  44 000 NIS. Кроме субсидии для женщин там еще для вновьприбывших субсидия 7000 NIS. Поговорю с ними сегодня. Порасспрашиваю.",
+        "user": "U0101QMQRE2",
+        "ts": "1596440843.066900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "458fe819d1d1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/1007383470916_458fe819d1d15c5a23cd_72.png",
+            "first_name": "expl25",
+            "real_name": "expl25",
+            "display_name": "Oksana",
+            "team": "T040HKJE3",
+            "name": "gerasimetsos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=CuY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U9ZU1CYUD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  44 000 NIS. Кроме субсидии для женщин там еще для вновьприбывших субсидия 7000 NIS. Поговорю с ними сегодня. Порасспрашиваю."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596277259.051500",
+        "parent_user_id": "U0101QMQRE2"
+    },
+    {
+        "client_msg_id": "9D187F49-5F2F-4247-868E-7E9B0FD0DAED",
+        "type": "message",
+        "text": "Добрый день! Подскажите пожалуйста один из самых эффективных курсов на тему Data Science, изучения Python, SQL.\nХочу уйти из сферы экономики в Data Science и много курсов на Степике, Курсере отобрал - но может подскажите какой лучше новичку нужен.",
+        "user": "U0167LJL84T",
+        "ts": "1596444602.069300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd761a230124",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d761a2301244d63d057ae859ea1d2caf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Yan",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "yanrechinsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0167LJL84T",
+            "ts": "1596445134.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hubq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый день! Подскажите пожалуйста один из самых эффективных курсов на тему Data Science, изучения Python, SQL.\nХочу уйти из сферы экономики в Data Science и много курсов на Степике, Курсере отобрал - но может подскажите какой лучше новичку нужен."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1596607574.097900",
+        "reply_users": [
+            "UDHJKLGLR",
+            "U0167LJL84T",
+            "UL95F64PP",
+            "UULTLR318",
+            "U010WCKFS9W"
+        ],
+        "replies": [
+            {
+                "user": "UDHJKLGLR",
+                "ts": "1596450503.072000"
+            },
+            {
+                "user": "U0167LJL84T",
+                "ts": "1596453062.073900"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1596459618.076000"
+            },
+            {
+                "user": "U0167LJL84T",
+                "ts": "1596459901.077100"
+            },
+            {
+                "user": "UULTLR318",
+                "ts": "1596513655.080100"
+            },
+            {
+                "user": "U010WCKFS9W",
+                "ts": "1596535563.081500"
+            },
+            {
+                "user": "U0167LJL84T",
+                "ts": "1596560705.089700"
+            },
+            {
+                "user": "U0167LJL84T",
+                "ts": "1596560822.091800"
+            },
+            {
+                "user": "U010WCKFS9W",
+                "ts": "1596564139.092700"
+            },
+            {
+                "user": "UULTLR318",
+                "ts": "1596607574.097900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U93PTKPU2",
+                    "U9VM1DN4U",
+                    "U9SBJGAS1",
+                    "U012YHMV1FF",
+                    "U7N4E8GBF",
+                    "U7SFPUVQF",
+                    "U4N7G9RQA",
+                    "U8PMZ6397",
+                    "U7KDVG6LS",
+                    "ULA9M7CM9",
+                    "U0160PJMG5U",
+                    "UNHQ57DQA",
+                    "UCAEKNA4V"
+                ],
+                "count": 14
+            },
+            {
+                "name": "mipt",
+                "users": [
+                    "UDHJKLGLR",
+                    "UNHQ57DQA",
+                    "U01364G3W84"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDHJKLGLR",
+                    "UNHQ57DQA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yandex",
+                "users": [
+                    "UDHJKLGLR",
+                    "U8PMZ6397",
+                    "USTKTE472",
+                    "UNHQ57DQA",
+                    "U8ZDR4HMK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "coursera",
+                "users": [
+                    "UDHJKLGLR",
+                    "ULA9M7CM9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sqlhabit",
+                "users": [
+                    "U010WCKFS9W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d970849-d81d-48f5-8735-0830c4d24368",
+        "type": "message",
+        "text": "а у ВШЭ мага - неплохой такой онлайн-курсец за 1,1 млн )",
+        "user": "U57JJAVLN",
+        "ts": "1596446584.070000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49246283a7e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/269614885383_49246283a7e80150b4c2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Kuzminov",
+            "display_name": "zalhonan",
+            "team": "T040HKJE3",
+            "name": "zalhonan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а у ВШЭ мага - неплохой такой онлайн-курсец за 1,1 млн )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596401829.064400",
+        "parent_user_id": "U01444KKZ4L",
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U705ED0CU",
+                    "UTA0FH53P",
+                    "UNHQ57DQA",
+                    "UE4CX9345",
+                    "UJ8UE41FS"
+                ],
+                "count": 6
+            },
+            {
+                "name": "trollface",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U705ED0CU",
+                    "UE4CX9345"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea2beb59-c8f1-418b-aec2-6b0dd6174ee2",
+        "type": "message",
+        "text": "посмотрите запиненные. Обычно все сводится к MIPT + yandex на курсере, a потом <http:\/\/mlcourse.ai|mlcourse.ai>",
+        "user": "UDHJKLGLR",
+        "ts": "1596450503.072000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHJKLGLR",
+            "ts": "1596450517.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "посмотрите запиненные. Обычно все сводится к MIPT + yandex на курсере, a потом "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "parent_user_id": "U0167LJL84T",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "UTA0FH53P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9FAA1AC7-6BC9-4972-BCE5-E570F453F3C3",
+        "type": "message",
+        "text": "Запиненные в этой теме? Или где-то ещё?\nТот курс который написали это не этот - <https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/|https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/>",
+        "user": "U0167LJL84T",
+        "ts": "1596453062.073900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd761a230124",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d761a2301244d63d057ae859ea1d2caf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Yan",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "yanrechinsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas",
+                "title_link": "https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/",
+                "text": "Курс состоит из: 10 статей на Хабре (и то же самое на Медиуме на англ.) 10 лекций (Youtube-канал на русском + более свежие лекции на англ.), подробное описание каждой темы – в этой...",
+                "fallback": "Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas",
+                "image_url": "https:\/\/habr.com\/share\/publication\/322626\/0d63ffe64c21b4ea88713411094339c9\/?format=vk",
+                "from_url": "https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/",
+                "image_width": 560,
+                "image_height": 250,
+                "image_bytes": 45426,
+                "service_icon": "https:\/\/dr.habracdn.net\/habr-web\/img\/favicons\/apple-touch-icon-76.png",
+                "service_name": "m.habr.com",
+                "id": 1,
+                "original_url": "https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tj3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Запиненные в этой теме? Или где-то ещё?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Тот курс который написали это не этот - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/",
+                                "text": "https:\/\/m.habr.com\/ru\/company\/ods\/blog\/322626\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "parent_user_id": "U0167LJL84T"
+    },
+    {
+        "client_msg_id": "7eca2230-e0c3-4dc3-a74d-ac5cc25ca7b6",
+        "type": "message",
+        "text": "@<https:\/\/app.slack.com\/team\/U57JJAVLN|zalhonan>, 600к же, скидка 50%",
+        "user": "U709XK88H",
+        "ts": "1596458564.075100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rRV4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U57JJAVLN",
+                                "text": "zalhonan"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 600к же, скидка 50%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596401829.064400",
+        "parent_user_id": "U01444KKZ4L"
+    },
+    {
+        "client_msg_id": "a9560cd6-092f-4a6e-99c8-1da11c32a742",
+        "type": "message",
+        "text": "Но все равно как-то дороговато :sweat_smile:",
+        "user": "U01444KKZ4L",
+        "ts": "1596458688.075300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "90602b9c97be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-03\/1277277075475_90602b9c97bee9ee92aa_72.jpg",
+            "first_name": "",
+            "real_name": "Александр Никитин",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "alexandrnikitin8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но все равно как-то дороговато "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596401829.064400",
+        "parent_user_id": "U01444KKZ4L"
+    },
+    {
+        "client_msg_id": "da84b334-6e0a-4aca-8394-8fa6a56fdc1f",
+        "type": "message",
+        "text": "<@U0101QMQRE2> прям очень здорово. Чисто на собственное развитие. Тогда конечно имеет место начинать такой курс",
+        "user": "U9ZU1CYUD",
+        "ts": "1596458989.075700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0101QMQRE2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " прям очень здорово. Чисто на собственное развитие. Тогда конечно имеет место начинать такой курс"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596277259.051500",
+        "parent_user_id": "U0101QMQRE2",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U0101QMQRE2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec256a4b-9041-4aa2-8543-c534cbf54b6f",
+        "type": "message",
+        "text": "Попробуйте это видео посмотреть, может поможет чем то\n<https:\/\/opendatascience.slack.com\/archives\/C55EU5BU0\/p1591440721154900>",
+        "user": "UL95F64PP",
+        "ts": "1596459618.076000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C55EU5BU0\/p1591440721154900",
+                "fallback": "[June 6th, 2020 3:52 AM] kirich_s4: Всем привет.\nПока сидел на карантине дома, решил начать свой ютуб канал. (да-да в 2020м :slow:).  Сегодня подснял еще одно видео, решил поделиться тут : <https:\/\/www.youtube.com\/watch?v=w-IdSp_mQuM> , видео про курсы, которые я проходил на пути самообучения. :mlcourse_ai:\nЦА больше интересующиеся тематикой школьники\/студенты и новички. Основная цель канала, научиться говорить на камеру, натренировать речь , ну и может кому полезно будет)\nСначала хотел закинуть это видео в <#C04DP7BUY|edu_courses>, но не решился. Как думаете стоит это сделать?\nВ ближайших планах было снять про:\n1. Почему стоит\/не стоит стать ДС в 2020\n2. Немного кликбейтный ролик, Нейросеть с нуля || Hotdog или не Hotdog, в котором написать классификатор из сериала Кремниевая долина.",
+                "ts": "1591440721.154900",
+                "author_id": "UL95F64PP",
+                "author_subname": "Kirill Burovin",
+                "channel_id": "C55EU5BU0",
+                "channel_name": "show_your_work",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Всем привет.\nПока сидел на карантине дома, решил начать свой ютуб канал. (да-да в 2020м :slow:).  Сегодня подснял еще одно видео, решил поделиться тут : <https:\/\/www.youtube.com\/watch?v=w-IdSp_mQuM> , видео про курсы, которые я проходил на пути самообучения. :mlcourse_ai:\nЦА больше интересующиеся тематикой школьники\/студенты и новички. Основная цель канала, научиться говорить на камеру, натренировать речь , ну и может кому полезно будет)\nСначала хотел закинуть это видео в <#C04DP7BUY|edu_courses>, но не решился. Как думаете стоит это сделать?\nВ ближайших планах было снять про:\n1. Почему стоит\/не стоит стать ДС в 2020\n2. Немного кликбейтный ролик, Нейросеть с нуля || Hotdog или не Hotdog, в котором написать классификатор из сериала Кремниевая долина.",
+                "author_name": "Kirill Burovin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UL95F64PP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C55EU5BU0\/p1591440721154900",
+                "footer": "Thread in #show_your_work"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Попробуйте это видео посмотреть, может поможет чем то\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C55EU5BU0\/p1591440721154900"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "parent_user_id": "U0167LJL84T",
+        "reactions": [
+            {
+                "name": "muscle::skin-tone-3",
+                "users": [
+                    "ULF96QF3K",
+                    "U011SUJ5MN0",
+                    "U018JNFDD0F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "datascienceguy",
+                "users": [
+                    "UL95F64PP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B22F7353-B5AE-4B52-AE34-CBDCE16A1D20",
+        "type": "message",
+        "text": "Спасибо, обязательно ознакомлюсь - курс статистики давно уже ждет своего череда)))",
+        "user": "U0167LJL84T",
+        "ts": "1596459901.077100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd761a230124",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d761a2301244d63d057ae859ea1d2caf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Yan",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "yanrechinsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+7k4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо, обязательно ознакомлюсь - курс статистики давно уже ждет своего череда)))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "parent_user_id": "U0167LJL84T",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UL95F64PP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26FDC493-91AB-4B36-96A8-F05608F53959",
+        "type": "message",
+        "text": "В вышке почти любая платная мага сейчас примерно столько и стоит :)",
+        "user": "UCNNGKT3Q",
+        "ts": "1596463008.078100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "eea6af8b3f80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474143152864_eea6af8b3f80dbe40fe6_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Alimov",
+            "display_name": "iwannabeadored",
+            "team": "T040HKJE3",
+            "name": "alimov46",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WE\/qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В вышке почти любая платная мага сейчас примерно столько и стоит :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596401829.064400",
+        "parent_user_id": "U01444KKZ4L"
+    },
+    {
+        "client_msg_id": "42c2ae97-2500-4580-8100-99f09b8635ff",
+        "type": "message",
+        "text": "<https:\/\/stepik.org\/course\/50352\/syllabus> Посоветовал бы этот курс. Можно как для новичка, так и для того, кто что-то где-то слышал, но структуры в знаниях нет. Я проходил, когда уже работал. Курс дополнил пробелы в знаниях и подчерпнул что-то новое",
+        "user": "UULTLR318",
+        "ts": "1596513655.080100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb95ca60ace3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95ca60ace3b3294c7b111dc162ea6b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Shashmurin",
+            "real_name": "Shashmurin Sergey",
+            "display_name": "Shashmurin Sergey",
+            "team": "T040HKJE3",
+            "name": "shashmurin_s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Нейронные сети и компьютерное зрение",
+                "title_link": "https:\/\/stepik.org\/course\/50352\/syllabus",
+                "text": "Почему стоит начать изучение машинного обучения и нейронных сетей с нашего курса? Наш девиз \"Больше практики!\": излагая математические основы очень доступным языком, авторы курса, эксперты Samsung AI Center дадут базовые знания на примере решения задач компьютерного зрения. Это зрелищно и интересно!",
+                "fallback": "Stepik: online education: Нейронные сети и компьютерное зрение",
+                "from_url": "https:\/\/stepik.org\/course\/50352\/syllabus",
+                "service_icon": "https:\/\/stepik.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/50352\/syllabus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/50352\/syllabus"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Посоветовал бы этот курс. Можно как для новичка, так и для того, кто что-то где-то слышал, но структуры в знаниях нет. Я проходил, когда уже работал. Курс дополнил пробелы в знаниях и подчерпнул что-то новое"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596444602.069300",
+        "parent_user_id": "U0167LJL84T"
+    }
+]

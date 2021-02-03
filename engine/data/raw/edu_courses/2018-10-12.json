@@ -1,0 +1,245 @@
+[
+    {
+        "client_msg_id": "b5e09df3-e770-495c-9e03-16e385f77b36",
+        "type": "message",
+        "text": "Подскажите слак курса по курсу машинного обучения от Яндекса и МФТИ? Или он уже в одс мигрировал?",
+        "user": "U71L6NBV5",
+        "ts": "1539342745.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1539353268.000100",
+        "reply_users": [
+            "UCM4UECJJ",
+            "U71L6NBV5",
+            "U4ZRFG1V0",
+            "U3NV5ADL4"
+        ],
+        "replies": [
+            {
+                "user": "UCM4UECJJ",
+                "ts": "1539342893.000100"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1539343015.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539343041.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539343049.000100"
+            },
+            {
+                "user": "U3NV5ADL4",
+                "ts": "1539347952.000100"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1539353268.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "737dee6f-8445-4f70-8da9-1023cc1de618",
+        "type": "message",
+        "text": "<http:\/\/machinelearning2016.slack.com|machinelearning2016.slack.com>, но выглядит он мертвым",
+        "user": "UCM4UECJJ",
+        "ts": "1539342893.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g33cde0d4d85",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ec33cde0d4d855501d28333147e15e20.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Olga Borzenkova",
+            "display_name": "kusaeva",
+            "team": "T040HKJE3",
+            "name": "kyssike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U26QDDKMY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fb20251-031e-48b4-93e8-154d0d0e798d",
+        "type": "message",
+        "text": "<@UCM4UECJJ> вот мне тоже так показалось, подумал что все сюда перешли(",
+        "user": "U71L6NBV5",
+        "ts": "1539343015.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "e5f50c27-c707-4906-8d29-1b4041d78257",
+        "type": "message",
+        "text": "Они в целом в телеграм переехали: <https:\/\/t.me\/datasciencecourse>",
+        "user": "U4ZRFG1V0",
+        "ts": "1539343041.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "Machine learning",
+                "title_link": "https:\/\/t.me\/datasciencecourse",
+                "text": "Программа «Машинное обучение и анализ данных». Здесь вы можете спросить совета у коллег, обсудить темы курса. В чате запрещены оскорбления, мат и неэтичное поведение. <http:\/\/www.datasciencecourse.ru\/>",
+                "fallback": "Telegram: Machine learning",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/mPB3aYXL9Fs-E-Ql8ckwrQ89CAnWzJmuxGQ7s1kJ9Iaa4P7zRiH7Db8FqZTnXJI4d6pIrK7o4Hx57c27SItLAVMZ5sSQ81VWXuMRTxZfl35P1p4KzzMj03LaUgXZK-0SHpNjVqgOPKY7fbZiTC8nv0UYdTTHQ_U9MJl6rILJHJOpMdeN4RCr39eUpXbeeNcZV-B-1E0EKQSlv0yQYOFWAA2uZmgHxGYsIqqgRI2ux6bxzpRyv2O2qh-bFSgpYGBd7e85a08cAjSVMQf9Lo8eJUGjAY8VMz8s05VSlV-nBJqMmS9rZBvgCH_9Fg5eG_K7dkZ7L-d34B28VzBCPVINUw.jpg",
+                "from_url": "https:\/\/t.me\/datasciencecourse",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1,
+                "original_url": "https:\/\/t.me\/datasciencecourse"
+            }
+        ],
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "2f2bc88e-fe08-4c40-857e-17b7a4d9bdb7",
+        "type": "message",
+        "text": "А тот слак уже давно скорее мертв, чем жив",
+        "user": "U4ZRFG1V0",
+        "ts": "1539343049.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "74e7ffa7-d23d-4635-864c-718822dcc36a",
+        "type": "message",
+        "text": "Недавно на курсе поменяли ссылки со слака на телеграмм. ",
+        "user": "U3NV5ADL4",
+        "ts": "1539347952.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "335507eacfb3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-05\/281789228996_335507eacfb332ed1c1b_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Pavlov",
+            "display_name": "keeper",
+            "team": "T040HKJE3",
+            "name": "keeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "1b21338a-9956-4701-9dba-ffa52869a552",
+        "type": "message",
+        "text": "спасибо!",
+        "user": "U71L6NBV5",
+        "ts": "1539353268.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539342745.000100",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "0151e36a-cfce-4160-9171-95abc8825dee",
+        "type": "message",
+        "text": "Подскажите хороший курс по d3js?",
+        "user": "U6QFHMV3N",
+        "ts": "1539381310.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "439e96366840",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1354292581796_439e963668409a4dd53c_72.png",
+            "first_name": "Eduard",
+            "real_name": "Eduard Kustov",
+            "display_name": "venzel",
+            "team": "T040HKJE3",
+            "name": "venzel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

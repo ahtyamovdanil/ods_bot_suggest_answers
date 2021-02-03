@@ -1,0 +1,607 @@
+[
+    {
+        "client_msg_id": "feca7f98-b40c-4316-8896-81935945c6dd",
+        "type": "message",
+        "text": "Кинул вам гайд по бустам с примерами отбора признаков по SHAP, с помощью BoostARoota и StochasticBoostARoota, гибридного подхода",
+        "user": "UD5FPR92Q",
+        "ts": "1600675089.077100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кинул вам гайд по бустам с примерами отбора признаков по SHAP, с помощью BoostARoota и StochasticBoostARoota, гибридного подхода"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UU6LQEZFS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca1e02e9-c39e-4cb5-bcd9-4de2ca4a5fc0",
+        "type": "message",
+        "text": "Кстати да, забыл про SHAP и LIME. Они хороши для оценки влияния фичей на каждый отдельный предикт, а не в целом.",
+        "user": "U01AEBPE3UH",
+        "ts": "1600675928.080000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кстати да, забыл про SHAP и LIME. Они хороши для оценки влияния фичей на каждый отдельный предикт, а не в целом."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "1e3462a5-dfa2-49f9-a748-49cb32266c27",
+        "type": "message",
+        "text": "Boruta и ее производные у меня как-то никогда ничего полезного не давали, может быть варить не умею.",
+        "user": "U01AEBPE3UH",
+        "ts": "1600675956.080200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AEBPE3UH",
+            "ts": "1600675960.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "829x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Boruta и ее производные у меня как-то никогда ничего полезного не давали, может быть варить не умею."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "134f9156-44b6-47a6-a6fe-57224d5f54f0",
+        "type": "message",
+        "text": "BoostARoota у меня работает и в задачах Kaggle (в гайде есть пример для обычного и стохастического варианта) и в промзадачах, ну и мои ученики, это уже состоявшиеся специалисты, работающие в Сбербанке, также успешно используют для своих задач. Нужно настраивать delta и cutoff, также использовать стохастический шторм. Наиболее частое применение – выбрать из 300-400 признаков 50 наиболее важных. Две постановки - в слабой постановке, чтобы признаков было меньше, а качество осталось прежним, в сильной постановке, чтобы признаков стало меньше, а качество улучшилось.",
+        "user": "UD5FPR92Q",
+        "ts": "1600687377.080800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vQXSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BoostARoota у меня работает и в задачах Kaggle (в гайде есть пример для обычного и стохастического варианта) и в промзадачах, ну и мои ученики, это уже состоявшиеся специалисты, работающие в Сбербанке, также успешно используют для своих задач. Нужно настраивать delta и cutoff, также использовать стохастический шторм. Наиболее частое применение – выбрать из 300-400 признаков 50 наиболее важных. Две постановки - в слабой постановке, чтобы признаков было меньше, а качество осталось прежним, в сильной постановке, чтобы признаков стало меньше, а качество улучшилось."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AEBPE3UH",
+                    "U019NRYKDKQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b93bb302-f22c-406c-bc2a-07f2d3834dd3",
+        "type": "message",
+        "text": "Пример слабой постановки",
+        "user": "UD5FPR92Q",
+        "ts": "1600687391.081000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Пример слабой постановки"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01B2G72R50",
+                "created": 1600687400,
+                "timestamp": 1600687400,
+                "name": "Модуль 3_VI._Построение базовой модели с помощью класса LogisticRegression библиотеки scikit-learn.ipynb",
+                "title": "Модуль 3_VI._Построение базовой модели с помощью класса LogisticRegression библиотеки scikit-learn.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UD5FPR92Q",
+                "editable": false,
+                "size": 535989,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01B2G72R50\/_____________3_vi._________________________________________________________________________________logisticregression______________________scikit-learn.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01B2G72R50\/download\/_____________3_vi._________________________________________________________________________________logisticregression______________________scikit-learn.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UD5FPR92Q\/F01B2G72R50\/_____________3_vi._________________________________________________________________________________logisticregression______________________scikit-learn.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01B2G72R50-cecbcd78d8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UD5FPR92Q",
+        "display_as_bot": false,
+        "ts": "1600687403.081200",
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U01AEBPE3UH",
+                    "UU6LQEZFS",
+                    "U019NRYKDKQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcc59673-887a-469b-a930-022fd2a0069e",
+        "type": "message",
+        "text": "Пример сильной постановки",
+        "user": "UD5FPR92Q",
+        "ts": "1600687416.081700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxNek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Пример сильной постановки"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01BF5B2SQH",
+                "created": 1600687424,
+                "timestamp": 1600687424,
+                "name": "Модуль 6_II.6.4._Кейс применения StochasticBoostARoota_Santander Customer Satisfaction.ipynb",
+                "title": "Модуль 6_II.6.4._Кейс применения StochasticBoostARoota_Santander Customer Satisfaction.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UD5FPR92Q",
+                "editable": false,
+                "size": 64735,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01BF5B2SQH\/_____________6_ii.6.4._______________________________stochasticboostaroota_santander_customer_satisfaction.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01BF5B2SQH\/download\/_____________6_ii.6.4._______________________________stochasticboostaroota_santander_customer_satisfaction.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UD5FPR92Q\/F01BF5B2SQH\/_____________6_ii.6.4._______________________________stochasticboostaroota_santander_customer_satisfaction.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01BF5B2SQH-e53ee3f138",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UD5FPR92Q",
+        "display_as_bot": false,
+        "ts": "1600687427.081900",
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U01AEBPE3UH",
+                    "UU6LQEZFS",
+                    "U019NRYKDKQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cf2c6e6-75b5-4f1f-b967-f68e1e84b185",
+        "type": "message",
+        "text": "15-е место на привате по этой задачке",
+        "user": "UD5FPR92Q",
+        "ts": "1600687452.082400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2dS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15-е место на привате по этой задачке"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "bfce6bc9-cd7b-4b3c-8999-f57315fdf015",
+        "type": "message",
+        "text": "А сравнивали с RFE(MDA) например?",
+        "user": "U01AEBPE3UH",
+        "ts": "1600687472.082600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А сравнивали с RFE(MDA) например?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "50e18d54-7327-4fbb-ae20-f04a22d8328e",
+        "type": "message",
+        "text": "Да, RFE в задаче Porto Seguro было эффективно, но там вообще надо было три подхода соединить, интересный Challenge был, на пространстве из 50-80 признаков Boruta и BoostARoota работают плохо, главная мотивация их применять: из витрины выгрузили 1000 переменных, отдел валидации требует оставить 50-80 и с обоснованием, вот тут их и можно применить. В общем. как всегда, синтез подходов.",
+        "user": "UD5FPR92Q",
+        "ts": "1600687673.083000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04df5d608d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/581848885495_04df5d608d2651125713_72.png",
+            "first_name": "Artyom",
+            "real_name": "Artyom Gruzdev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gruzdev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, RFE в задаче Porto Seguro было эффективно, но там вообще надо было три подхода соединить, интересный Challenge был, на пространстве из 50-80 признаков Boruta и BoostARoota работают плохо, главная мотивация их применять: из витрины выгрузили 1000 переменных, отдел валидации требует оставить 50-80 и с обоснованием, вот тут их и можно применить. В общем. как всегда, синтез подходов."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01AEBPE3UH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffb2fb55-ddbd-44b9-8669-7f8a53619601",
+        "type": "message",
+        "text": "Видимо поэтому у меня Boruta и не заводилась, я ее применял как раз на задачах в 50-100 фичей",
+        "user": "U01AEBPE3UH",
+        "ts": "1600687731.083300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmqZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Видимо поэтому у меня Boruta и не заводилась, я ее применял как раз на задачах в 50-100 фичей"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "9a000f3d-7b58-4173-9bbc-5387634936dc",
+        "type": "message",
+        "text": "Ребят привет! Порекомендуйте курс\/книгу по статистике чтобы там были включены основные распределения теории вероятности и разобраны основные алгоритмы ML и DL. Если в ней будут примеры на питоне так вообще замечательно!",
+        "user": "UDA191BHU",
+        "ts": "1600727109.091000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5b64e2b785cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-21\/872429207649_5b64e2b785cf443c4191_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex",
+            "display_name": "illuminati",
+            "team": "T040HKJE3",
+            "name": "mrilluminates",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDA191BHU",
+            "ts": "1600727408.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/6IP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ребят привет! Порекомендуйте курс\/книгу по статистике чтобы там были включены основные распределения теории вероятности и разобраны основные алгоритмы ML и DL. Если в ней будут примеры на питоне так вообще замечательно!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600727109.091000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1600808322.098800",
+        "reply_users": [
+            "U75FYQZC7"
+        ],
+        "replies": [
+            {
+                "user": "U75FYQZC7",
+                "ts": "1600808322.098800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "imagination",
+                "users": [
+                    "U36Q9NJMD",
+                    "U016XAJU21E",
+                    "U9BDT48M8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "antihype",
+                "users": [
+                    "U4UQPNV9S",
+                    "U71L6NBV5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

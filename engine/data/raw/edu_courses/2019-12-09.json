@@ -1,0 +1,586 @@
+[
+    {
+        "client_msg_id": "8e7a0a5f-b184-4822-ac49-40f4aea144dd",
+        "type": "message",
+        "text": "Имхо, подобные компании (с подобным рекрутингом) лучше, при возможности, обходить стороной.",
+        "user": "UQSS2QECS",
+        "ts": "1575879737.054900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Имхо, подобные компании (с подобным рекрутингом) лучше, при возможности, обходить стороной."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6RBHBQPQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97f9eb13-6cbb-4077-ac30-b29c4d474e4e",
+        "type": "message",
+        "text": "А какие лучше? Мне один раз предложили fizz buzz решить на должность бэкендера...",
+        "user": "URACLD6UQ",
+        "ts": "1575880259.055100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d692823be6e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864028128260_d692823be6e7d8b6f88c_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukashov",
+            "display_name": "Andrey Lukashov",
+            "team": "T040HKJE3",
+            "name": "andrey.lukashov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А какие лучше? Мне один раз предложили fizz buzz решить на должность бэкендера..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "909aa29a-0bae-4c45-9556-452d7ffc31b2",
+        "type": "message",
+        "text": "<@URACLD6UQ>, на листочке ?\nДа я вам особо не подскажу, по крайней мере мое мнение тяжело считать экспертным, поскольку я сам ищу работу :slightly_smiling_face:",
+        "user": "UQSS2QECS",
+        "ts": "1575880611.055400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aG5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URACLD6UQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", на листочке ?\nДа я вам особо не подскажу, по крайней мере мое мнение тяжело считать экспертным, поскольку я сам ищу работу "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "e51241d0-35f3-4260-8cf7-e6ac59924e35",
+        "type": "message",
+        "text": "Полагаю лучше там, где интервьювер, если и спрашивает и просит что то сделать, то это релевантно вашим потенциальным рабочим задачам. Вариатли вы программы писать будете на листочке. Вдобавок, как показывет",
+        "user": "UQSS2QECS",
+        "ts": "1575880734.055600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Полагаю лучше там, где интервьювер, если и спрашивает и просит что то сделать, то это релевантно вашим потенциальным рабочим задачам. Вариатли вы программы писать будете на листочке. Вдобавок, как показывет"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "1b32eeb3-baa4-4230-ac44-72184a836915",
+        "type": "message",
+        "text": "... опыт эти их \"творческие\" конкурсы зачастую слизаны  с интернетов и могут быть типичными (меня, например просили несколько раз перевернуть какой нить контейнер (двусвязный список или строку)) . Получается, что подобный подход не решает и задачи для работодателя, поскольку больший шанс имеет кандидат тупо заучивший решения этих \"уникальных\" заданий. Вдобавок это потенциально ваши коллеги  и возможно даже начальник... Сегодня он просит вас писать код на бумаге а завтра ...",
+        "user": "UQSS2QECS",
+        "ts": "1575881019.055800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1SHn=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... опыт эти их \"творческие\" конкурсы зачастую слизаны  с интернетов и могут быть типичными (меня, например просили несколько раз перевернуть какой нить контейнер (двусвязный список или строку)) . Получается, что подобный подход не решает и задачи для работодателя, поскольку больший шанс имеет кандидат тупо заучивший решения этих \"уникальных\" заданий. Вдобавок это потенциально ваши коллеги  и возможно даже начальник... Сегодня он просит вас писать код на бумаге а завтра ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "070ae6f9-3ad6-448f-9528-6189565330c1",
+        "type": "message",
+        "text": "Но за неимением горничной дела периодически приходится иметь и с дворником.",
+        "user": "UQSS2QECS",
+        "ts": "1575881098.056000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "skdwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но за неимением горничной дела периодически приходится иметь и с дворником."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "bb7f0166-9c9b-483b-92a3-5241dac80a55",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=-K4KKIOr9oE>",
+        "user": "UQSS2QECS",
+        "ts": "1575881130.056200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Письма: неучи учат неучей",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=-K4KKIOr9oE",
+                "author_name": "Константин Сёмин",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC2qoLqo8RuV4P_88yhHCZIg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-K4KKIOr9oE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Письма: неучи учат неучей",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/-K4KKIOr9oE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=-K4KKIOr9oE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=-K4KKIOr9oE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=-K4KKIOr9oE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "8861c660-9991-4670-b515-8369ac458363",
+        "type": "message",
+        "text": "вот кстати пример яркий. Неуч проводит собеседования а потом считает всех наркоманами",
+        "user": "UQSS2QECS",
+        "ts": "1575881165.056500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc7d74369a3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7d74369a3fabb8dd7da3c2e535c78c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Orlov",
+            "display_name": "PraetorP",
+            "team": "T040HKJE3",
+            "name": "praetorian281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sxwoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот кстати пример яркий. Неуч проводит собеседования а потом считает всех наркоманами"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "4394f431-e3cb-4183-95bc-6290c221934a",
+        "type": "message",
+        "text": "haha-classic.jpg",
+        "user": "URACLD6UQ",
+        "ts": "1575881810.056700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d692823be6e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864028128260_d692823be6e7d8b6f88c_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukashov",
+            "display_name": "Andrey Lukashov",
+            "team": "T040HKJE3",
+            "name": "andrey.lukashov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PWPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha-classic.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "ab07fe86-b4fd-4b6c-af81-73dea07e7df0",
+        "type": "message",
+        "text": "<@UQSS2QECS> у меня не такой уровень, чтобы еще и работодателей отсеивать) на начальные позиции везде просят на листочке",
+        "user": "U4X83D0JD",
+        "ts": "1575889650.057400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcda2461b9ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2cda2461b9ea8d80e2f74a19e3c540b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "username",
+            "real_name": "username",
+            "display_name": "nosoftskills",
+            "team": "T040HKJE3",
+            "name": "vehemenas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQSS2QECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " у меня не такой уровень, чтобы еще и работодателей отсеивать) на начальные позиции везде просят на листочке"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "a1fd9ba7-6f30-4c0d-a718-01e7ff5f165d",
+        "type": "message",
+        "text": "Прям учить SQL смысла нет, т.к. у него куча диалектов в зависимости от субд. Я учил по ходу дела, на работе. Была задача что-то выбрать из таблиц, я гуглил и писал запрос. Постепенно дошёл до CTE, OVER и оптимизации планов запросов. Что-то специфическое, однако, я всё равно не знаю, и при необходимости буду гуглить.",
+        "user": "UQCF92JUE",
+        "ts": "1575893608.057600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfd3fd26eeae",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd3fd26eeae9e55f37096773494bb842.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "AntonMerkulov",
+            "real_name": "AntonMerkulov",
+            "display_name": "AntonMerkulov",
+            "team": "T040HKJE3",
+            "name": "anton-merkulov.2009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIwjM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Прям учить SQL смысла нет, т.к. у него куча диалектов в зависимости от субд. Я учил по ходу дела, на работе. Была задача что-то выбрать из таблиц, я гуглил и писал запрос. Постепенно дошёл до CTE, OVER и оптимизации планов запросов. Что-то специфическое, однако, я всё равно не знаю, и при необходимости буду гуглить."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575805483.028900",
+        "parent_user_id": "U4X83D0JD"
+    },
+    {
+        "client_msg_id": "75e2bae2-c62c-4599-b58f-5a32f260572d",
+        "type": "message",
+        "text": "В онлайне таким вещам сложно учиться, но в америках популярны достаточно курсы toastmasters и вот оно примерно про это. Как на уши вешать лапшу и не моргать при этом :slightly_smiling_face:",
+        "user": "UEUF307BJ",
+        "ts": "1575917533.062900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abb5aaedc90f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-20\/882868138880_abb5aaedc90fc1202dbd_72.jpg",
+            "first_name": "Alexey",
+            "real_name": "Alexey Iskrov",
+            "display_name": "optimystic",
+            "team": "T040HKJE3",
+            "name": "iskrov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В онлайне таким вещам сложно учиться, но в америках популярны достаточно курсы toastmasters и вот оно примерно про это. Как на уши вешать лапшу и не моргать при этом "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575660240.004700",
+        "parent_user_id": "U6HDBGC01",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0546DHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33986ae7-f7a0-4bb9-9986-dfb2180d14f7",
+        "type": "message",
+        "text": "оо тост это годнота",
+        "user": "U6HDBGC01",
+        "ts": "1575917935.063100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "eda51c5b9881",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-21\/334788474806_eda51c5b98815c955e14_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Pianykh",
+            "display_name": "vitaliy",
+            "team": "T040HKJE3",
+            "name": "vitaliy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7pD7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "оо тост это годнота"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575660240.004700",
+        "parent_user_id": "U6HDBGC01",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UEUF307BJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

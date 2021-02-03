@@ -1,0 +1,1160 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476100149.001325",
+        "user": "U2MC2D25S",
+        "text": "<@U2MC2D25S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476101399.001326",
+        "user": "U2MCV7K3L",
+        "text": "<@U2MCV7K3L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476101598.001327",
+        "user": "U2MCDAD88",
+        "text": "<@U2MCDAD88> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476101826.001328",
+        "user": "U2MCF2QBY",
+        "text": "<@U2MCF2QBY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF22N7J>, спасибо (<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1475992152001298>). Там вопросы вычислительного характера? Циферки складывать на каких-то примерах? Какой-то курс я смотрел, там много этого было. По-моему, это излишне отвлекает, так как часто идет, и не является необходимым и интересным. Хотя, полезные вещи в лекциях вроде есть.",
+        "user": "U1K89KQ4A",
+        "ts": "1476103177.001329",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1K89KQ4A",
+            "ts": "1476103245.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1475992152001298",
+                "fallback": "[October 8th, 2016 10:49 PM] cepera_ang: Я проходил Data Analyst Nanodegree. Имхо, там всё довольно просто, хотя и зависит от бэкграунда наверное. Мне не особо понравилась подача материала очень короткими отрезками и всякими вопросами на самопроверку между ними. Но кому-то наоборот такой формат нравится",
+                "ts": "1475992152.001298",
+                "author_subname": "cepera_ang",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Я проходил Data Analyst Nanodegree. Имхо, там всё довольно просто, хотя и зависит от бэкграунда наверное. Мне не особо понравилась подача материала очень короткими отрезками и всякими вопросами на самопроверку между ними. Но кому-то наоборот такой формат нравится",
+                "author_name": "Sergey Mushinskiy",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/cepera_ang",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-29\/46609064901_748992f620b64bb9294c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "И у них какая доля практических заданий в nanodegrees? Там практика не идет в ущерб правильному пониманию более общих вещей?",
+        "user": "U1K89KQ4A",
+        "ts": "1476103336.001333",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Исключительно на Python практика? На R и MATLAB нельзя у них задания выполнять?",
+        "user": "U1K89KQ4A",
+        "ts": "1476103391.001334",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И если идет практика, то насколько она у них близка к реальным задачам из реальной жизни?",
+        "user": "U1K89KQ4A",
+        "ts": "1476103461.001335",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Там у них вроде как направлены курсы на трудоустройство. Интересно, насколько они помогают в этом (что касается реальных практических навыков и конкретной помощи в процессе трудоустройства).",
+        "user": "U1K89KQ4A",
+        "ts": "1476103685.001336",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1K89KQ4A> у них практические задания идут в середине курсов, на питоне, в своей IDE встроенной прямо на страницу, поэтому в других языках не получится. Есть курс на R (по предварительному анализу данных), есть по визуализации, там вообще на d3.js надо делать.",
+        "user": "U1CF22N7J",
+        "ts": "1476104131.001337",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CF22N7J",
+            "ts": "1476104215.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "В конце каждого курса -- практический проект, который проверяют живые люди",
+        "user": "U1CF22N7J",
+        "ts": "1476104235.001339",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я бы рекомендовал следующий подход: пройти самостоятельно все курсы бесплатно (всё доступно), сделать проекты и при желании, чтобы их проверили -- записаться на nanodegree и всё сдать за месяц-другой",
+        "user": "U1CF22N7J",
+        "ts": "1476104293.001340",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U041LH06L",
+                    "U09JEC7V0",
+                    "U1BMURR5G",
+                    "U0MEP6PT2"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Может в процессе поймёшь, что не нравится или просто передумаешь",
+        "user": "U1CF22N7J",
+        "ts": "1476104311.001341",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вообще курсы у них не сильно глубокие (по-крайней мере в Data Analyst'e)",
+        "user": "U1CF22N7J",
+        "ts": "1476104339.001342",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Интересно, как люди после них работу находят.",
+        "user": "U041LH06L",
+        "ts": "1476104395.001343",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U09JEC7V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вроде местные в штатах находят работу :slightly_smiling_face:",
+        "user": "U1CF22N7J",
+        "ts": "1476104491.001344",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я подрабатываю у них проверяльщиком проектов",
+        "user": "U1CF22N7J",
+        "ts": "1476104516.001345",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "у них даже была какая-то фича для штатов: если вы прошли наш нанодегри и не нашли работу, мы вернем вам деньги. или как-то так",
+        "user": "U1BMURR5G",
+        "ts": "1476105390.001346",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF22N7J>, спасибо. То есть в плане работы актуальнее для местных. Мне они недавно прислали приглашение, что я в числе 250 человек прошел на программу Self-Driving Car Engineer Nanodegree Program. Вроде как круто, интересно, конкурс большой (11 тыс. человек, как они написали), но при этом сразу просят оплатить $800 за первые три месяца. Что-то как-то круто. Даже нельзя попробовать вначале или заплатить только за первый месяц. И, похоже, тут нет варианта пройти все быстро и заплатить немного. Видимо, $800 - это минимум, а, возможно, и $2400.",
+        "user": "U1K89KQ4A",
+        "ts": "1476105402.001347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1BMURR5G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "да, они объясняли это тем, что формат необычный (для них), и класс фиксированный -- размер класса, даты",
+        "user": "U1BMURR5G",
+        "ts": "1476105433.001348",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1476105468.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "согласен, довольно неудобно и стремно",
+        "user": "U1BMURR5G",
+        "ts": "1476105443.001349",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "кто-нибудь слышал выдают ли они scholarship на этот курс?",
+        "user": "U2KRCH9EU",
+        "ts": "1476105479.001352",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "42feb6d05af0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-25\/970884793526_42feb6d05af0e165aa4f_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Akapian",
+            "display_name": "Pavel Akapian",
+            "team": "T040HKJE3",
+            "name": "p_akapian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А это только для Штатов или для всех? <https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476105390001346>",
+        "user": "U1K89KQ4A",
+        "ts": "1476105497.001353",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476105390001346",
+                "fallback": "[October 10th, 2016 6:16 AM] borowis: у них даже была какая-то фича для штатов: если вы прошли наш нанодегри и не нашли работу, мы вернем вам деньги. или как-то так",
+                "ts": "1476105390.001346",
+                "author_subname": "borowis",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "у них даже была какая-то фича для штатов: если вы прошли наш нанодегри и не нашли работу, мы вернем вам деньги. или как-то так",
+                "author_name": "Borys Zibrov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/borowis",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/80bda3702fb50a31826f9e0794c77a0f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0008-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "для штатов",
+        "user": "U09JEC7V0",
+        "ts": "1476105504.001355",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476105479001352>\nони пишут very limited financial aid available",
+        "user": "U1BMURR5G",
+        "ts": "1476105518.001356",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476105479001352",
+                "fallback": "[October 10th, 2016 6:17 AM] p_akapian: кто-нибудь слышал выдают ли они scholarship на этот курс?",
+                "ts": "1476105479.001352",
+                "author_subname": "p_akapian",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "кто-нибудь слышал выдают ли они scholarship на этот курс?",
+                "author_name": "Pavel Akapian",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/p_akapian",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-10-05\/87874917984_999e061e3a7d54633613_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "но я не пробовал им писать насчет этого",
+        "user": "U1BMURR5G",
+        "ts": "1476105525.001358",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Мне ответили, что, может быть, в будущем дадут, если найдут. Но что-то сомнительно...",
+        "user": "U1K89KQ4A",
+        "ts": "1476105579.001359",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1K89KQ4A> а тебе на какой поток дали место, на октябрь?",
+        "user": "U1CF22N7J",
+        "ts": "1476105678.001360",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "fin aid там капец маленький -- nvidia 10 мест оплачивает :slightly_smiling_face:",
+        "user": "U1CF22N7J",
+        "ts": "1476105704.001361",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF22N7J> старт в ноябре",
+        "user": "U1K89KQ4A",
+        "ts": "1476105708.001362",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А, меня вообще на январь закинули, т.е. всех распределили, а денег сейчас хотят. И я что-то решил болт на них положить. Очень дорого и за кота в мешке",
+        "user": "U1CF22N7J",
+        "ts": "1476105754.001363",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я не стал платить.",
+        "user": "U1K89KQ4A",
+        "ts": "1476105775.001364",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Если бы это ещё вело к трудоустройству, например, в компанию Mercedes, которая у них партнер программы, или в NVIDIA.",
+        "user": "U1K89KQ4A",
+        "ts": "1476105893.001365",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U0JHK9001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Все 500 человек явно не устроятся на работу )",
+        "user": "U1CF22N7J",
+        "ts": "1476105919.001366",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да )",
+        "user": "U1K89KQ4A",
+        "ts": "1476105935.001367",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "С другой стороны, один из устроителей этой программы писал в блоге как он устроился на работу в форд инженером по автономным тачкам -- вовсе не дохера он знал и умел",
+        "user": "U1CF22N7J",
+        "ts": "1476105977.001368",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1K89KQ4A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Скорее больше людей искал, кто мог бы зареферить и резюме рассылал",
+        "user": "U1CF22N7J",
+        "ts": "1476106001.001369",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там не 500, 500 в октябре, 1500 в ноябре, 2500 в декабре и дальше пока неясно",
+        "user": "U1ULNASSV",
+        "ts": "1476107782.001370",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ха, а писали, что 250 человек: \"In our Pioneer program, we plan to have 250 students and expect to increase the number soon after.\" (<https:\/\/www.udacity.com\/drive\/faq>). И 3 октября они должны были прислать ссылку этим 250, как я понял из FAQ. Мне третьего и прислали. Я думал, что крутой конкурс прошел ) если 11 тыс. подали заявления, и поэтому вроде как шанс не стоит упускать, возможно, стоит поэтому заплатить, если в первых рядах будешь (выше шансы на трудоустройство), а оказывается людей-то гораздо больше... )",
+        "user": "U1K89KQ4A",
+        "ts": "1476109026.001371",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Self-Driving Car Engineer FAQ",
+                "title_link": "https:\/\/www.udacity.com\/drive\/faq",
+                "text": "Frequently Asked Questions for the Self-Driving Car Engineer Nanodegree Program.",
+                "fallback": "Self-Driving Car Engineer FAQ",
+                "image_url": "https:\/\/s3-us-west-1.amazonaws.com\/udacity-content\/images\/shared\/self-driving-car-engineer-nanodegree.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.udacity.com\/drive\/faq",
+                "image_bytes": 428184,
+                "service_icon": "https:\/\/d125fmws0bore1.cloudfront.net\/assets\/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png",
+                "service_name": "Udacity",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "это в октябре 250 планировали, потом сделали 500",
+        "user": "U1ULNASSV",
+        "ts": "1476109136.001373",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "и сразу всем прислали инвайты и продавливают на оплату",
+        "user": "U1ULNASSV",
+        "ts": "1476109152.001374",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Выходит, не 500, если сразу прислали 500+1500+2500. По времени разница очень небольшая.",
+        "user": "U1K89KQ4A",
+        "ts": "1476109269.001375",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И в том смысле, что не 250 и не 500 из 11 тыс., а 4500 из 11 тыс. Кто-то подумает, что какой шанс... прошел такой конкурс, платить нужно.",
+        "user": "U1K89KQ4A",
+        "ts": "1476109509.001376",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Кстати говоря, а где они эти цифры опубликовали?",
+        "user": "U1K89KQ4A",
+        "ts": "1476109584.001377",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В общем, наверное, смысла нет проходить это. Где эти 4500 тыс. Self-Driving Car Engineers потом найдут работу? ) У нас, по-моему, этим Камаз занимается. Но там, наверное, уже все места заняты.",
+        "user": "U1K89KQ4A",
+        "ts": "1476109873.001378",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rospil",
+                "users": [
+                    "U09JEC7V0",
+                    "U04ELQZAU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1K89KQ4A> ну так на этом же программа не закончится, будут и дальше учить, так что про работу там вообще думать бесполезно",
+        "user": "U1ULNASSV",
+        "ts": "1476110879.001382",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476111070.001383",
+        "user": "U2MEU8490",
+        "text": "<@U2MEU8490> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U1ULNASSV> а точно именно такие цифры? <https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476107782001370> Они где-то опубликовали об этом информацию?",
+        "user": "U1K89KQ4A",
+        "ts": "1476111531.001385",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1476107782001370",
+                "fallback": "[October 10th, 2016 6:56 AM] alexeyp: там не 500, 500 в октябре, 1500 в ноябре, 2500 в декабре и дальше пока неясно",
+                "ts": "1476107782.001370",
+                "author_subname": "alexeyp",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "там не 500, 500 в октябре, 1500 в ноябре, 2500 в декабре и дальше пока неясно",
+                "author_name": "Alexey Peshekhonov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/alexeyp",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-18\/70789345063_81de7d77c26594332085_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Про начало след. года написано, что 1000 человек возьмут: <https:\/\/www.udacity.com\/drive?utm_campaign=2016-09-25_SDC_ApplicationLaunch_Reminder_Active&amp;utm_content=control&amp;utm_medium=email&amp;utm_source=vero&amp;utm_term=Newsletter&amp;vero_conv=Z3_qSuIADu6XuicUr7MEZ40KBOXVoWWx3l0KflOmCLCv1OswgJH6f_byoLViWK23ux3YNQ5CKSE07YgeZ1Q1iNhJvhf4I023&amp;vero_id=6597941168>",
+        "user": "U1K89KQ4A",
+        "ts": "1476111628.001387",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Self-Driving Car Engineer",
+                "title_link": "https:\/\/www.udacity.com\/drive?utm_campaign=2016-09-25_SDC_ApplicationLaunch_Reminder_Active&utm_content=control&utm_medium=email&utm_source=vero&utm_term=Newsletter&vero_conv=Z3_qSuIADu6XuicUr7MEZ40KBOXVoWWx3l0KflOmCLCv1OswgJH6f_byoLViWK23ux3YNQ5CKSE07YgeZ1Q1iNhJvhf4I023&vero_id=6597941168",
+                "text": "Groundbreaking curriculum, cutting-edge technology, globally-recognized expertise. Build the future, today. Only at Udacity.",
+                "fallback": "Self-Driving Car Engineer",
+                "image_url": "https:\/\/s3-us-west-1.amazonaws.com\/udacity-content\/images\/shared\/self-driving-car-engineer-nanodegree.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.udacity.com\/drive?utm_campaign=2016-09-25_SDC_ApplicationLaunch_Reminder_Active&utm_content=control&utm_medium=email&utm_source=vero&utm_term=Newsletter&vero_conv=Z3_qSuIADu6XuicUr7MEZ40KBOXVoWWx3l0KflOmCLCv1OswgJH6f_byoLViWK23ux3YNQ5CKSE07YgeZ1Q1iNhJvhf4I023&vero_id=6597941168",
+                "image_bytes": 428184,
+                "service_icon": "https:\/\/d125fmws0bore1.cloudfront.net\/assets\/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png",
+                "service_name": "Udacity",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "так это они на сайте пишут, чтобы люди заявки подавали\nа в слаке они пишут реальные цифры\nnd013",
+        "user": "U1ULNASSV",
+        "ts": "1476111774.001389",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1ULNASSV> спасибо за полезную информацию.",
+        "user": "U1K89KQ4A",
+        "ts": "1476113128.001390",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g99c34d4c3b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd99c34d4c3b1a312e39bee678b21410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "dsmlai",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dsmlai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476127054.001391",
+        "user": "U2MJ3M49E",
+        "text": "<@U2MJ3M49E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476131275.001392",
+        "user": "U2MK5H9B9",
+        "text": "<@U2MK5H9B9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476142385.001393",
+        "user": "U2MM12RFB",
+        "text": "<@U2MM12RFB> has joined the channel"
+    }
+]

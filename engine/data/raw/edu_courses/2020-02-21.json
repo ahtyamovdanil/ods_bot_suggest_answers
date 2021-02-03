@@ -1,0 +1,1212 @@
+[
+    {
+        "client_msg_id": "7d423ff8-dccb-4d0c-95b1-7fb5ec0f92eb",
+        "type": "message",
+        "text": "Может будет кому-то из интересующихся биоинформатикой полезно:\n&gt; Two very big pieces of news from me today.\n&gt; First, Pavel Pevzner and I are making our textbook, _Bioinformatics Algorithms: An Active Learning Approach,_ available to read for free on our textbook website. You can find the first two chapters on a completely redesigned website at <http:\/\/bioinformaticsalgorithms.org>. We will be releasing more chapters in the coming weeks.\n&gt; Second, we now have a standalone interactive version of our book that you can complete on Stepik. You can complete automatically-graded coding challenges and exercises in the browser, and get a certificate of completion when you are done! Check it out today at <https:\/\/stepik.org\/course\/55789\/promo>.\n&gt; Finally, if you're on Twitter, please help me get the word out about our effort to make our work open to all: <https:\/\/twitter.com\/PhillipCompeau\/status\/1230159605331877888>.\n&gt; All the Best,\n&gt; Phillip Compeau",
+        "user": "U3NTG7CCS",
+        "ts": "1582273906.048000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a44af1d4b572",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/995520742610_a44af1d4b572542ad764_72.png",
+            "first_name": "Sergei",
+            "real_name": "Sergei Belousov",
+            "display_name": "bes",
+            "team": "T040HKJE3",
+            "name": "bes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Test",
+                "title": "Bioinformatics Algorithms: A Free Online Textbook",
+                "title_link": "http:\/\/bioinformaticsalgorithms.org\/",
+                "text": "Read our free best-selling textbook, Bioinformatics Algorithms. Learn from our lecture videos, and explore our popular online courses.",
+                "fallback": "Test: Bioinformatics Algorithms: A Free Online Textbook",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/988d7f_39797fea43ba4061b7c09fbcd92ca197~mv2.jpg\/v1\/fill\/w_2564,h_2566,al_c\/988d7f_39797fea43ba4061b7c09fbcd92ca197~mv2.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "http:\/\/bioinformaticsalgorithms.org\/",
+                "image_bytes": 635396,
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/988d7f_e474959fdd1d4d1d9b057cbe276e9f3f%7Emv2.jpg\/v1\/fill\/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01\/988d7f_e474959fdd1d4d1d9b057cbe276e9f3f%7Emv2.jpg",
+                "id": 1,
+                "original_url": "http:\/\/bioinformaticsalgorithms.org"
+            },
+            {
+                "service_name": "Stepik: online education",
+                "title": "Bioinformatics Algorithms: An Active Learning Approach",
+                "title_link": "https:\/\/stepik.org\/course\/55789\/promo",
+                "text": "Journey to the Frontier of Computational Biology. Master bioinformatics software and computational approaches in modern biology.",
+                "fallback": "Stepik: online education: Bioinformatics Algorithms: An Active Learning Approach",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/55789\/cover_Kk2AHgL\/028c3765f6d7b80e68cf561e9db5d2e5.jpg",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/55789\/promo",
+                "image_height": 230,
+                "image_bytes": 10580,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1582125246",
+                "id": 2,
+                "original_url": "https:\/\/stepik.org\/course\/55789\/promo"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/PhillipCompeau|@PhillipCompeau>: :mega::mega::mega:I'm so happy to announce that our textbook website for Bioinformatics Algorithms has re-launched!\n\nSome big news: we are making our textbook totally FREE -- two chapters live today and more to come.\n\nLecture videos + links to online courses too!\n\n<http:\/\/bioinformaticsalgorithms.org\/home>",
+                "ts": 1582127879,
+                "author_name": "Phillip Compeau",
+                "author_link": "https:\/\/twitter.com\/PhillipCompeau\/status\/1230159605331877888",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1182741084503453696\/YNAUIHYD_normal.jpg",
+                "author_subname": "@PhillipCompeau",
+                "text": ":mega::mega::mega:I'm so happy to announce that our textbook website for Bioinformatics Algorithms has re-launched!\n\nSome big news: we are making our textbook totally FREE -- two chapters live today and more to come.\n\nLecture videos + links to online courses too!\n\n<http:\/\/bioinformaticsalgorithms.org\/home>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/PhillipCompeau\/status\/1230159605331877888",
+                "id": 3,
+                "original_url": "https:\/\/twitter.com\/PhillipCompeau\/status\/1230159605331877888",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JnC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Может будет кому-то из интересующихся биоинформатикой полезно:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Two very big pieces of news from me today.\nFirst, Pavel Pevzner and I are making our textbook, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bioinformatics Algorithms: An Active Learning Approach, ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "available to read for free on our textbook website. You can find the first two chapters on a completely redesigned website at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bioinformaticsalgorithms.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We will be releasing more chapters in the coming weeks.\nSecond, we now have a standalone interactive version of our book that you can complete on Stepik. You can complete automatically-graded coding challenges and exercises in the browser, and get a certificate of completion when you are done! Check it out today at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/55789\/promo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nFinally, if you're on Twitter, please help me get the word out about our effort to make our work open to all: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/PhillipCompeau\/status\/1230159605331877888"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nAll the Best,\nPhillip Compeau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1582391893.000700",
+        "reply_users": [
+            "U42B6E39N",
+            "U8ZUVETU1",
+            "U3NTG7CCS",
+            "U30LWK54N",
+            "U8GGBPGR3"
+        ],
+        "replies": [
+            {
+                "user": "U42B6E39N",
+                "ts": "1582274003.048200"
+            },
+            {
+                "user": "U8ZUVETU1",
+                "ts": "1582276009.048800"
+            },
+            {
+                "user": "U3NTG7CCS",
+                "ts": "1582276091.049000"
+            },
+            {
+                "user": "U30LWK54N",
+                "ts": "1582278648.049500"
+            },
+            {
+                "user": "U3NTG7CCS",
+                "ts": "1582279279.049800"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582312503.057100"
+            },
+            {
+                "user": "U30LWK54N",
+                "ts": "1582318450.059900"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582358652.077000"
+            },
+            {
+                "user": "U30LWK54N",
+                "ts": "1582364188.078100"
+            },
+            {
+                "user": "U3NTG7CCS",
+                "ts": "1582365914.078400"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582391893.000700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U42B6E39N",
+                    "UAG21HMV4",
+                    "U24FHECDD",
+                    "U04BWJ3QJ",
+                    "UHR5U3ZDZ",
+                    "U70TZK6Q3",
+                    "U60EETE7N",
+                    "U0952QCHE",
+                    "U53E5MFNU",
+                    "U1HHX1QS3",
+                    "U41LBNH6J"
+                ],
+                "count": 11
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U8PMZ6397",
+                    "UE1B5L2Q0",
+                    "UU4BJR4H5",
+                    "USNPH5W14"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b78762f3-ae08-436e-ad84-a0debb3ecaa8",
+        "type": "message",
+        "text": "<#C0MQQT6E6|bioinformatics>",
+        "user": "U42B6E39N",
+        "ts": "1582274003.048200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d4d2090dfa90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-15\/142413741798_d4d2090dfa9078a9b087_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Frolov",
+            "display_name": "alfro",
+            "team": "T040HKJE3",
+            "name": "alfro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0MQQT6E6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS"
+    },
+    {
+        "client_msg_id": "d6c23de2-109b-490e-9525-0606911d978e",
+        "type": "message",
+        "text": "&gt; to over 90% of courses",
+        "user": "UB4F4DZGV",
+        "ts": "1582275624.048600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "91c6007739db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-23\/1018919372709_91c6007739db26234918_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Zheltonozhskii",
+            "display_name": "evgeniyzh",
+            "team": "T040HKJE3",
+            "name": "zheltonozhskiy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOA",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to over 90% of courses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582256809.044500",
+        "parent_user_id": "U0DJEEXE1"
+    },
+    {
+        "client_msg_id": "decd38a7-2a5d-4532-a8bc-c32ab30c5c04",
+        "type": "message",
+        "text": "есть эта книжка в бумаге - и это лучшая книга по качеству полиграфии из всех, что у меня есть из IT :magic:\nсам курс и содержимое книги - эдакие гномики, обернутые в интересную обложку биоинформатики. Туда же <http:\/\/rosalind.info|rosalind.info> для закрепления",
+        "user": "U8ZUVETU1",
+        "ts": "1582276009.048800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g92abf8575f4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6c92abf8575f4f85f0e3c4d24637d5c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "cheyuriy",
+            "display_name": "cheyuriy",
+            "team": "T040HKJE3",
+            "name": "yrii167167",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VTkce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "есть эта книжка в бумаге - и это лучшая книга по качеству полиграфии из всех, что у меня есть из IT "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "magic"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nсам курс и содержимое книги - эдакие гномики, обернутые в интересную обложку биоинформатики. Туда же "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/rosalind.info",
+                                "text": "rosalind.info"
+                            },
+                            {
+                                "type": "text",
+                                "text": " для закрепления"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS"
+    },
+    {
+        "client_msg_id": "fc20f4b5-4a5d-4a69-93cc-64a33a10a26b",
+        "type": "message",
+        "text": "&gt; сам курс и содержимое книги - эдакие гномики, обернутые в интересную обложку биоинформатики.\nНу так вся биоинформатика с точке зрения инженерии - это либо гномики на строковых алгоритмах :gnomik:, либо машинка :car:  :good-enough:",
+        "user": "U3NTG7CCS",
+        "ts": "1582276091.049000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a44af1d4b572",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/995520742610_a44af1d4b572542ad764_72.png",
+            "first_name": "Sergei",
+            "real_name": "Sergei Belousov",
+            "display_name": "bes",
+            "team": "T040HKJE3",
+            "name": "bes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R6u",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "сам курс и содержимое книги - эдакие гномики, обернутые в интересную обложку биоинформатики."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну так вся биоинформатика с точке зрения инженерии - это либо гномики на строковых алгоритмах "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gnomik"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", либо машинка "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "good-enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS"
+    },
+    {
+        "client_msg_id": "a6db3b9f-760f-4fe2-bfad-a58f3c56da46",
+        "type": "message",
+        "text": "неплохо набросил:joy: тогда computer vision с точки зрения инженерии — это либо фильтры применяешь к картинкам:film_frames: либо машинка:car:",
+        "user": "U30LWK54N",
+        "ts": "1582278648.049500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73003e609aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-19\/170963013539_73003e609aa2613ee50c_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Chernov",
+            "display_name": "checho",
+            "team": "T040HKJE3",
+            "name": "checho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ex92y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "неплохо набросил"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " тогда computer vision с точки зрения инженерии — это либо фильтры применяешь к картинкам"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "film_frames"
+                            },
+                            {
+                                "type": "text",
+                                "text": " либо машинка"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U3NTG7CCS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81868dd4-db3e-42be-9f9b-282fac00e647",
+        "type": "message",
+        "text": "В CV машинка :car:  - это тоже \"фильтры применяешь\" :smekalka_hyper:",
+        "user": "U3NTG7CCS",
+        "ts": "1582279279.049800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a44af1d4b572",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/995520742610_a44af1d4b572542ad764_72.png",
+            "first_name": "Sergei",
+            "real_name": "Sergei Belousov",
+            "display_name": "bes",
+            "team": "T040HKJE3",
+            "name": "bes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+LyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В CV машинка "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  - это тоже \"фильтры применяешь\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smekalka_hyper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U62N1NJUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "402940de-50af-4a10-b3e7-bca5cdd0210b",
+        "type": "message",
+        "text": "Добрый день. Недавно тут. Начал готовиться к экзаменам ШАД. И ищу людей, которые тоже готовятся и собираются поступить. Полезно готовиться в группе людей, чем одному. Уровень решения задач текущий не очень высокий(открыл 2 случайных варианта и смог придумать по 3 задачи в  каждом из них). Если есть люди готовые вместе решать, обсуждать и учиться, то можем организовать чатик и решать вместе",
+        "user": "U9KJX3631",
+        "ts": "1582296092.054900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1c2fa60804e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5d1c2fa60804ed93478e0bf17c4a93f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Maruf Karaev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marik.karaev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9KJX3631",
+            "ts": "1582296158.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый день. Недавно тут. Начал готовиться к экзаменам ШАД. И ищу людей, которые тоже готовятся и собираются поступить. Полезно готовиться в группе людей, чем одному. Уровень решения задач текущий не очень высокий(открыл 2 случайных варианта и смог придумать по 3 задачи в  каждом из них). Если есть люди готовые вместе решать, обсуждать и учиться, то можем организовать чатик и решать вместе"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582296092.054900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1582297508.055600",
+        "reply_users": [
+            "UCMC5J36D",
+            "U9KJX3631"
+        ],
+        "replies": [
+            {
+                "user": "UCMC5J36D",
+                "ts": "1582296271.055200"
+            },
+            {
+                "user": "U9KJX3631",
+                "ts": "1582297508.055600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "edc8c885-2378-486e-85c0-a0d332176532",
+        "type": "message",
+        "text": "<#C2XEW8C4B|edu_shad_exams>",
+        "user": "UCMC5J36D",
+        "ts": "1582296271.055200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C2XEW8C4B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582296092.054900",
+        "parent_user_id": "U9KJX3631",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8GGBPGR3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ea0eeb5-7230-4645-9a65-457b949433a4",
+        "type": "message",
+        "text": "<@UCMC5J36D> благодарю",
+        "user": "U9KJX3631",
+        "ts": "1582297508.055600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1c2fa60804e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5d1c2fa60804ed93478e0bf17c4a93f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Maruf Karaev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marik.karaev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEbmY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UCMC5J36D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " благодарю"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582296092.054900",
+        "parent_user_id": "U9KJX3631"
+    },
+    {
+        "client_msg_id": "19395ab1-d4b2-4e2a-8678-512a95466f71",
+        "type": "message",
+        "text": "Главное, что есть доступ к  <https:\/\/www.coursera.org\/specializations\/aml>",
+        "user": "U8GGBPGR3",
+        "ts": "1582312067.056400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0321503a296c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/952385340032_0321503a296c35fc6433_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Filkin",
+            "display_name": "Sergey Filkin",
+            "team": "T040HKJE3",
+            "name": "sergey.filkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Advanced Machine Learning | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/aml",
+                "text": "Learn Advanced Machine Learning from National Research University Higher School of Economics. This specialization gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian ...",
+                "fallback": "Coursera: Advanced Machine Learning | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/aml",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/aml"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Главное, что есть доступ к  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/aml"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582256809.044500",
+        "parent_user_id": "U0DJEEXE1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "USRKU791Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f41e2a3-1e8e-458f-a1fb-f865a77960d5",
+        "type": "message",
+        "text": "Хотя к <https:\/\/www.coursera.org\/specializations\/deep-learning> доступа нет.",
+        "user": "U8GGBPGR3",
+        "ts": "1582312092.056700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0321503a296c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/952385340032_0321503a296c35fc6433_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Filkin",
+            "display_name": "Sergey Filkin",
+            "team": "T040HKJE3",
+            "name": "sergey.filkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning by deeplearning.ai | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into Artificial intelligence (AI), this Specialization will help you. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.",
+                "fallback": "Coursera: Deep Learning by deeplearning.ai | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/kn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хотя к "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+                            },
+                            {
+                                "type": "text",
+                                "text": " доступа нет."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582256809.044500",
+        "parent_user_id": "U0DJEEXE1"
+    },
+    {
+        "type": "message",
+        "text": "Заодно можно заботать ультратоповую книгу по методам алгебраической топологии в биоинформатике",
+        "files": [
+            {
+                "id": "FUB8SSZA8",
+                "created": 1582312474,
+                "timestamp": 1582312474,
+                "name": "Topological Data Analysis for Genomics and Evolution.pdf",
+                "title": "Topological Data Analysis for Genomics and Evolution.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U8GGBPGR3",
+                "editable": false,
+                "size": 29427398,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUB8SSZA8\/topological_data_analysis_for_genomics_and_evolution.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUB8SSZA8\/download\/topological_data_analysis_for_genomics_and_evolution.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUB8SSZA8-3d0dbd25a8\/topological_data_analysis_for_genomics_and_evolution_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 754,
+                "thumb_pdf_h": 1070,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U8GGBPGR3\/FUB8SSZA8\/topological_data_analysis_for_genomics_and_evolution.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FUB8SSZA8-681447c721",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5i4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Заодно можно заботать ультратоповую книгу по методам алгебраической топологии в биоинформатике"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U8GGBPGR3",
+        "display_as_bot": false,
+        "ts": "1582312503.057100",
+        "client_msg_id": "c5374570-7ae8-438d-ba1d-6655bd25ccb0",
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U30LWK54N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1308ec77-442c-457f-8ea2-6980ff8a0866",
+        "type": "message",
+        "text": "<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about>",
+        "user": "U4YEK80R1",
+        "ts": "1582312936.057600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8ba6282f0ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/878ba6282f0ea3fdd28ad8d4e297906e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Aldar",
+            "real_name": "Aldar Antonov",
+            "display_name": "hardliner",
+            "team": "T040HKJE3",
+            "name": "hardliner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Introduction to Machine Learning",
+                "title_link": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about",
+                "text": "6.036: Introduction to Machine Learning",
+                "fallback": "Introduction to Machine Learning",
+                "from_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about",
+                "service_icon": "https:\/\/openlearninglibrary.mit.edu\/static\/mitx\/images\/favicon.527bc038240e.ico",
+                "service_name": "openlearninglibrary.mit.edu",
+                "id": 1,
+                "original_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wi4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UEDUXJXGA",
+                    "U927PTB1P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84065aa7-675e-4cd4-bb67-0874d52db264",
+        "type": "message",
+        "text": "Курсера снова тестирует подписочную модель. За $400 в год можно проходить почти все.\n<https:\/\/www.coursera.org\/courseraplus>\n<https:\/\/learner.coursera.help\/hc\/en-us\/articles\/360036151932>",
+        "user": "U6HDBGC01",
+        "ts": "1582314682.059300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "eda51c5b9881",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-21\/334788474806_eda51c5b98815c955e14_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Pianykh",
+            "display_name": "vitaliy",
+            "team": "T040HKJE3",
+            "name": "vitaliy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6HDBGC01",
+            "ts": "1582314832.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Coursera | Online Courses From Top Universities. Join for Free",
+                "title_link": "https:\/\/www.coursera.org\/courseraplus",
+                "text": "Invest in your professional goals with Coursera Plus. Get Unlimited access to over 90% of courses, Specializations, and Professional Certificates.",
+                "fallback": "Coursera: Coursera | Online Courses From Top Universities. Join for Free",
+                "image_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/courseraplus",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 278328,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/courseraplus"
+            },
+            {
+                "service_name": "Coursera Help Center",
+                "title": "Courses &amp; content available on Coursera Plus",
+                "title_link": "https:\/\/learner.coursera.help\/hc\/en-us\/articles\/360036151932",
+                "text": "The majority of courses, Specializations, and Professional Certificates are included in Coursera Plus. Degrees, MasterTrack™ Certificates, and some Professional Certificates are excluded from Cours...",
+                "fallback": "Coursera Help Center: Courses &amp; content available on Coursera Plus",
+                "from_url": "https:\/\/learner.coursera.help\/hc\/en-us\/articles\/360036151932",
+                "thumb_url": "https:\/\/theme.zdassets.com\/theme_assets\/569881\/7a73ed3d7f7b9b5fdd8427d0987705464dcb2c2a.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/theme.zdassets.com\/theme_assets\/569881\/d6c3bd336c1ecdbe177ab8dbad853d3d698afa32.ico",
+                "id": 2,
+                "original_url": "https:\/\/learner.coursera.help\/hc\/en-us\/articles\/360036151932"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LWhmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Курсера снова тестирует подписочную модель. За $400 в год можно проходить почти все.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/courseraplus"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learner.coursera.help\/hc\/en-us\/articles\/360036151932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582314682.059300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1582494256.016200",
+        "reply_users": [
+            "U57JJAVLN",
+            "U6HDBGC01",
+            "U8GGBPGR3"
+        ],
+        "replies": [
+            {
+                "user": "U57JJAVLN",
+                "ts": "1582360705.077400"
+            },
+            {
+                "user": "U6HDBGC01",
+                "ts": "1582361142.077800"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582392264.001400"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582392352.001600"
+            },
+            {
+                "user": "U6HDBGC01",
+                "ts": "1582447757.006400"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1582494256.016200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U6ME568D7",
+                    "U53E5MFNU",
+                    "UBZ2BHKPZ",
+                    "UC9J53NAY",
+                    "U6Z21KSBC",
+                    "UNTCH3DMK",
+                    "U8GGBPGR3",
+                    "UNMTRMDE0",
+                    "UGVJEKKB8",
+                    "U6YDWF4UB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "arrow_up",
+                "users": [
+                    "U53E5MFNU",
+                    "U8GGBPGR3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UJ8UE41FS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9f56e20-19ac-4ac0-af35-ad749484e0ce",
+        "type": "message",
+        "text": "гомология групп, серьезно:wat:? Радикальный подход, ничего не скажешь. Сразу вспомнился трэш трейлер из ПОМИ РАН\n<https:\/\/www.youtube.com\/watch?v=mqAf5lOJZew>",
+        "user": "U30LWK54N",
+        "ts": "1582318450.059900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73003e609aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-19\/170963013539_73003e609aa2613ee50c_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Chernov",
+            "display_name": "checho",
+            "team": "T040HKJE3",
+            "name": "checho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Группы и теория гомотопий (трэш трейлер)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=mqAf5lOJZew",
+                "author_name": "Лекториум",
+                "author_link": "https:\/\/www.youtube.com\/user\/OpenLektorium",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/mqAf5lOJZew\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Группы и теория гомотопий (трэш трейлер)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/mqAf5lOJZew?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=mqAf5lOJZew",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=mqAf5lOJZew"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=Iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "гомология групп, серьезно"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wat"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Радикальный подход, ничего не скажешь. Сразу вспомнился трэш трейлер из ПОМИ РАН\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=mqAf5lOJZew"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582273906.048000",
+        "parent_user_id": "U3NTG7CCS"
+    }
+]

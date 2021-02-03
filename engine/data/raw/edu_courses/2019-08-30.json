@@ -1,0 +1,220 @@
+[
+    {
+        "client_msg_id": "efdf1c48-a059-445e-8b6a-b3635e6ea925",
+        "type": "message",
+        "text": "Можно еще посмотреть выступления с разных ClickHouse митапов, там периодически показывают и рассказывают про особенности диалекта и его применение для практических задач (у меня было несколько выступлений про это).\n\nВ целом, стоит отталкиваться от практической задачи и пытаться ее решить. И можно про массивы почитать - обычно что-то +- сложное решается именно ими.",
+        "user": "U14DWNVNJ",
+        "ts": "1567150031.023000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bc9f84041ea0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-28\/38486827696_bc9f84041ea04eed5339_72.jpg",
+            "first_name": "Mary",
+            "real_name": "Mary Mansurova",
+            "display_name": "miptgirl",
+            "team": "T040HKJE3",
+            "name": "miptgirl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567108371.019200",
+        "parent_user_id": "U28L0AL7K"
+    },
+    {
+        "client_msg_id": "4952baf5-5526-460f-88b4-f7489a17e711",
+        "type": "message",
+        "text": "Всем доброго утра. В прошлом семестре мы (я и <@U1V5J3RCL>) проводили курс по теории DL от лаборатории iPavlov на физтехе. Так получилось, что весь материал не влез, поэтому этой осенью мы собираемся провести вторую часть. Вторая часть не будет зависеть от первой, и будет полностью посвящена вопросу обобщающей способности нейронных сетей. Как и раньше, мы будем снимать лекции на видео и выкладывать в наш канал: <https:\/\/www.youtube.com\/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa>\n\nВся инфа будет появляться на гитхабе: <https:\/\/github.com\/deepmipt\/tdl2> . Там же есть ссылка на гитхаб первой части.",
+        "user": "U4P8W340Y",
+        "ts": "1567151571.028500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dd643260d04f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/598103661107_dd643260d04f6d6d30cb_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Golikov",
+            "display_name": "varenick",
+            "team": "T040HKJE3",
+            "name": "varenick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "deepmipt\/tdl2",
+                "text": "Theoretical Deep Learning: generalization ability",
+                "title": "deepmipt\/tdl2",
+                "footer": "<https:\/\/github.com\/deepmipt\/tdl2|deepmipt\/tdl2>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1566545759,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Last updated",
+                        "value": "24 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/deepmipt\/tdl2",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1567151571.028500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1567353804.038400",
+        "reply_users": [
+            "UBJ10K86A",
+            "U4P8W340Y",
+            "U8GGBPGR3"
+        ],
+        "replies": [
+            {
+                "user": "UBJ10K86A",
+                "ts": "1567165243.033600"
+            },
+            {
+                "user": "U4P8W340Y",
+                "ts": "1567237884.035800"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1567353646.038200"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1567353804.038400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U5X36JZ4G",
+                    "ULF96QF3K",
+                    "U04422XJL",
+                    "UDK41MN5U",
+                    "U625V2J3G",
+                    "U19EZ8L5D",
+                    "UJANK5WUX",
+                    "U436BP343",
+                    "U74DMEDAQ",
+                    "UEPUBQ16W",
+                    "U6L08K8KS",
+                    "U4N7G9RQA",
+                    "UG8K6LD6D",
+                    "UB4AGRL3C",
+                    "UHE6VU62C",
+                    "UDWRHJB2L",
+                    "U29TG6K9U",
+                    "UEV2FLHPW",
+                    "U6KGETZ40",
+                    "UAT62FNQ5",
+                    "U1CMPEWPQ",
+                    "U6YDWF4UB",
+                    "U411PKASW",
+                    "U7G5T0K7F",
+                    "U50EVF538",
+                    "UAT560BK4",
+                    "UJX1PB3JA",
+                    "U57JJAVLN",
+                    "U0QB98BB9",
+                    "U1UNFRQ1K",
+                    "UEP8V5FM5",
+                    "U2VBC4HEX",
+                    "U7SFPUVQF",
+                    "U60EETE7N",
+                    "U9U6YSZN0",
+                    "UE7FQ2EFR",
+                    "UFE075NRG",
+                    "UCT064AB0",
+                    "U977SGE59",
+                    "U6MU2LH35",
+                    "ULA9M7CM9",
+                    "U8YN9Q1FS",
+                    "U331LV6SE",
+                    "UBRKXHMJB",
+                    "UGFF14T54",
+                    "U1CEYQ6N9",
+                    "U8ZDR4HMK",
+                    "U09JEC7V0",
+                    "UM7UYKR6X"
+                ],
+                "count": 61
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33928183-fbf6-4b4e-b200-5ac4156b99c4",
+        "type": "message",
+        "text": "Ну вообще в jobs редко пишут требования по опыту. Да и негде сейчас взять опытного DS. Рынок перегрет нереально (по крайней мере в Мск)",
+        "user": "U7SFPUVQF",
+        "ts": "1567160840.032700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567103769.015300",
+        "parent_user_id": "UEE1LF7EW"
+    },
+    {
+        "client_msg_id": "bddee3e8-173b-4d88-ad4d-534411ce3845",
+        "type": "message",
+        "text": "Отлично, спасибо большое за такие классные ресурсы!\nОдно не понятно: зачем делать README в репозиторие на английской и названия видео, хотя лектор рассказывает все на русском?",
+        "user": "UBJ10K86A",
+        "ts": "1567165243.033600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567151571.028500",
+        "parent_user_id": "U4P8W340Y",
+        "reactions": [
+            {
+                "name": "grammar",
+                "users": [
+                    "UFUN87R0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U4P8W340Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

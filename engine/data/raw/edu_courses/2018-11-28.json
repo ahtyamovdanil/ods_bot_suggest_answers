@@ -1,0 +1,884 @@
+[
+    {
+        "client_msg_id": "124cec56-14a6-4c11-8c7f-95cd0ef20b47",
+        "type": "message",
+        "text": "это про nlp",
+        "user": "U8J9XMX3J",
+        "ts": "1543392222.553200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543313995.532600",
+        "parent_user_id": "U6QBC2ERG"
+    },
+    {
+        "client_msg_id": "19D7C8EE-8FEF-4A77-BD7F-0BF4F8A07B8D",
+        "type": "message",
+        "text": "Думаю, с чего начать врываться в дата саенс. Пока смотрю на эти курсы <https:\/\/aws.amazon.com\/ru\/training\/learning-paths\/machine-learning\/>\nКто то проходил? Какие отзывы?",
+        "user": "U2N853RGF",
+        "ts": "1543392552.556200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543392552.556200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1543400477.572500",
+        "reply_users": [
+            "U5R6WCSBU",
+            "U2GAEHQR1",
+            "U33G91CMV"
+        ],
+        "replies": [
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1543395085.562700"
+            },
+            {
+                "user": "U2GAEHQR1",
+                "ts": "1543395448.564200"
+            },
+            {
+                "user": "U33G91CMV",
+                "ts": "1543400477.572500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U09JEC7V0",
+                    "U1D2GN319",
+                    "U4ZRFG1V0",
+                    "U1G303UTW",
+                    "U9V48C738",
+                    "U7DTGC4PL",
+                    "UCMK5TDME",
+                    "U1FLG6YR1",
+                    "UDUBG85P1",
+                    "U48B3EN87",
+                    "U5DT3MCG6",
+                    "U6AQ0J0KF",
+                    "U5R6WCSBU",
+                    "U4LCAKK8C",
+                    "U6XMAVALD",
+                    "U34SSE54G",
+                    "U48A49NRJ",
+                    "U60EETE7N",
+                    "U5EF4EQR1",
+                    "U8PMZ6397",
+                    "U677CBGH2",
+                    "UDSC91AH1",
+                    "U6YDWF4UB",
+                    "UDK41MN5U",
+                    "U0AS1QEJF",
+                    "UCAEKNA4V",
+                    "U9K9L5615",
+                    "U6PNWSJL8",
+                    "U6FNTCDUG",
+                    "U27SUBTB9",
+                    "UE259V12B",
+                    "U3PLVL3RD",
+                    "U958UTUU8",
+                    "U6YV1UAS1",
+                    "U17UDV31D",
+                    "U1D9AM7SN",
+                    "UBXSJFA4C",
+                    "U1D6DT6HE",
+                    "U1DURF02E",
+                    "U48379U5D",
+                    "UE0QG4MJN"
+                ],
+                "count": 41
+            },
+            {
+                "name": "rotatingparrot",
+                "users": [
+                    "U3PETUSSE",
+                    "U62N1NJUC",
+                    "U1G303UTW",
+                    "U9V48C738",
+                    "U7DTGC4PL",
+                    "U3T5QEDJ8",
+                    "U5H055U0J",
+                    "U2GAEHQR1",
+                    "U5FUU47GA",
+                    "UDUBG85P1",
+                    "U6PNWSJL8",
+                    "U27SUBTB9",
+                    "U3PLVL3RD",
+                    "U6YV1UAS1",
+                    "U45603VGE",
+                    "U1D9AM7SN",
+                    "UE6JAANGJ"
+                ],
+                "count": 17
+            },
+            {
+                "name": "catshake",
+                "users": [
+                    "U7DTGC4PL",
+                    "U9V48C738",
+                    "U1NLYUY5N",
+                    "U3T5QEDJ8",
+                    "U5H055U0J",
+                    "U2GAEHQR1",
+                    "U7CAU0GMU",
+                    "U6XMAVALD",
+                    "U34SSE54G",
+                    "U48A49NRJ",
+                    "U1BMURR5G",
+                    "U8JCZ254Z",
+                    "U24DR1FUK",
+                    "U1U86QZFF",
+                    "UDSC91AH1",
+                    "UB4AGRL3C",
+                    "U0AS1QEJF",
+                    "UDUBG85P1",
+                    "UCAEKNA4V",
+                    "U6PNWSJL8",
+                    "U14CTBLFJ",
+                    "U3PLVL3RD",
+                    "U958UTUU8",
+                    "U6YV1UAS1",
+                    "U3UMB4R6Y",
+                    "U1D9AM7SN",
+                    "U7AG3EUKH",
+                    "UDKRVP0SY",
+                    "U1D6DT6HE",
+                    "UE6JAANGJ"
+                ],
+                "count": 30
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "U0H7VBQQ1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zhenek_opinion",
+                "users": [
+                    "U09JEC7V0",
+                    "U1FLG6YR1",
+                    "U41R6C0UX",
+                    "UB4BD0R6W",
+                    "U26QDDKMY",
+                    "U6XMAVALD",
+                    "U48A49NRJ",
+                    "U8PMZ6397",
+                    "U7DTGC4PL",
+                    "U3PLVL3RD",
+                    "U6YV1UAS1",
+                    "U5F198S75"
+                ],
+                "count": 12
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U3P82LKDK",
+                    "U33G91CMV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "nabros",
+                "users": [
+                    "U4WM1939Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b395938f-9fe5-4bc3-ae8e-3f5ed33eacad",
+        "type": "message",
+        "text": "ну там вроде всё на амазон завязано, читал где-то уже в каком-то слаке :idk:",
+        "user": "U4N7G9RQA",
+        "ts": "1543393774.560400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391811.547600",
+        "parent_user_id": "U0AD1L5NC"
+    },
+    {
+        "client_msg_id": "2a918fdc-ee7f-4821-b9e7-43f7199763a6",
+        "type": "message",
+        "text": "Если узнаешь больше инфы - напиши плиз",
+        "user": "U4N7G9RQA",
+        "ts": "1543393790.560600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391811.547600",
+        "parent_user_id": "U0AD1L5NC"
+    },
+    {
+        "client_msg_id": "69e5b738-8b20-4f71-af0d-d5c454a88bc7",
+        "type": "message",
+        "text": "Не хватает эмоджи падающей звезды, для тех, кто после найма сеньеров решил таки вкатиться и ищет курсы :kekeke: ",
+        "user": "U5R6WCSBU",
+        "ts": "1543395085.562700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543392552.556200",
+        "parent_user_id": "U2N853RGF",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U5F198S75"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ab9a3c3-9663-4447-b7ae-dad29dcbfa4e",
+        "type": "message",
+        "text": "А по ibm watson случайно курсов не выкатили?",
+        "user": "U2GAEHQR1",
+        "ts": "1543395448.564200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "59a19a1ba337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-18\/826509139699_59a19a1ba3378be8cf85_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Zagorulkin",
+            "display_name": "zagorulkinde",
+            "team": "T040HKJE3",
+            "name": "zagorulkinde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543392552.556200",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "client_msg_id": "14da90b9-d6a4-454c-93f5-caa37149c3ca",
+        "type": "message",
+        "text": "<https:\/\/aws.amazon.com\/ru\/training\/learning-paths\/machine-learning\/>",
+        "user": "U41JTV3C5",
+        "ts": "1543395734.564800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5d98f0e60b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb5d98f0e60b82e28fbc3c774f651312.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kataev",
+            "display_name": "kataev",
+            "team": "T040HKJE3",
+            "name": "analyze_it",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391811.547600",
+        "parent_user_id": "U0AD1L5NC",
+        "reactions": [
+            {
+                "name": "omgtnx",
+                "users": [
+                    "U5FUU47GA",
+                    "U5DT3MCG6",
+                    "U4N7G9RQA",
+                    "U8G3S156E",
+                    "U9V48C738",
+                    "U3PLVL3RD",
+                    "U958UTUU8"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U5FUU47GA",
+        "ts": "1543398377.568700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[November 28th, 2018 12:02 PM] analyze_it: <https:\/\/aws.amazon.com\/ru\/training\/learning-paths\/machine-learning\/>",
+                "ts": "1543395734.564800",
+                "author_id": "U41JTV3C5",
+                "author_subname": "Andrey Kataev",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "<https:\/\/aws.amazon.com\/ru\/training\/learning-paths\/machine-learning\/>",
+                "author_name": "Andrey Kataev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U41JTV3C5",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-08-07\/223113277989_266a120f6ba950047f4c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1543395734564800?thread_ts=1543391811547600&cid=C04DP7BUY",
+                "is_share": true,
+                "footer": "From a thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1543398377.568700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1556199488.023400",
+        "reply_users": [
+            "UAEBWGTPW"
+        ],
+        "replies": [
+            {
+                "user": "UAEBWGTPW",
+                "ts": "1556199488.023400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "astanavites",
+                "users": [
+                    "U8H7YKFME",
+                    "U7GFT92PN",
+                    "U24DR1FUK",
+                    "U09JEC7V0",
+                    "U4WMPCB7W",
+                    "U1BMURR5G",
+                    "U50EVF538",
+                    "UCAEKNA4V",
+                    "UDSC91AH1",
+                    "U6YDWF4UB",
+                    "UB4AGRL3C",
+                    "U5FUU47GA",
+                    "U33G91CMV",
+                    "U3D5HVB51",
+                    "U7DTGC4PL",
+                    "UDK41MN5U",
+                    "U60EETE7N",
+                    "UDUBG85P1",
+                    "U8PMZ6397",
+                    "U5DT3MCG6",
+                    "U26QDDKMY",
+                    "UE259V12B",
+                    "U95EDL3H8",
+                    "U9V48C738",
+                    "U3PLVL3RD",
+                    "U958UTUU8",
+                    "U7DEPRKCZ",
+                    "U8313GG7M"
+                ],
+                "count": 28
+            },
+            {
+                "name": "slow",
+                "users": [
+                    "U625V2J3G",
+                    "U7DEPRKCZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06721f2c-3239-403a-af8b-549f30434c7f",
+        "type": "message",
+        "text": "якобы амазон якобы открыл якобы курсы по якобы ds",
+        "user": "U1BMURR5G",
+        "ts": "1543399125.570100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391060.545900",
+        "parent_user_id": "UDHJKLGLR"
+    },
+    {
+        "client_msg_id": "b46cbd43-f5e8-4247-9844-0b315bb161c1",
+        "type": "message",
+        "text": ":wink: <https:\/\/www.watson-academy.info\/>",
+        "user": "U33G91CMV",
+        "ts": "1543400477.572500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e40f20cf067d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/472850304240_e40f20cf067df00945d6_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Kolodezev",
+            "display_name": "d_key",
+            "team": "T040HKJE3",
+            "name": "d_key",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "IBM Watson Academy",
+                "title_link": "https:\/\/www.watson-academy.info\/",
+                "text": "Learn how to use the tulipe (v18) digital design platform to deliver engaging content and services to any IBM web page.",
+                "fallback": "IBM Watson Academy",
+                "from_url": "https:\/\/www.watson-academy.info\/",
+                "service_icon": "http:\/\/www.ibm.com\/favicon.ico",
+                "service_name": "watson-academy.info",
+                "id": 1,
+                "original_url": "https:\/\/www.watson-academy.info\/"
+            }
+        ],
+        "thread_ts": "1543392552.556200",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "client_msg_id": "7fbced14-1f63-4467-ad0d-23d64b6c8e39",
+        "type": "message",
+        "text": "Подскажите пожалуйста канал для курсов Машинное обучение и анализ данных by Moscow Institute of Physics and Technology &amp; Yandex, я на шестом курсе.",
+        "user": "UCHMRQ7GQ",
+        "ts": "1543401045.574600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6967b094e00",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/006967b094e0006084325bd4836e23b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "abstractwin",
+            "real_name": "abstractwin",
+            "display_name": "abstractwin",
+            "team": "T040HKJE3",
+            "name": "abstractwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1543587424.004600",
+        "reply_users": [
+            "UCHMRQ7GQ",
+            "U4ZRFG1V0",
+            "U3T5QEDJ8",
+            "UCKRPAW21",
+            "UCAQYDBL1"
+        ],
+        "replies": [
+            {
+                "user": "UCHMRQ7GQ",
+                "ts": "1543401102.574700"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1543401189.575300"
+            },
+            {
+                "user": "U3T5QEDJ8",
+                "ts": "1543403475.581500"
+            },
+            {
+                "user": "UCKRPAW21",
+                "ts": "1543405549.586200"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1543405610.586800"
+            },
+            {
+                "user": "UCHMRQ7GQ",
+                "ts": "1543460448.605600"
+            },
+            {
+                "user": "UCAQYDBL1",
+                "ts": "1543578323.003500"
+            },
+            {
+                "user": "UCKRPAW21",
+                "ts": "1543580551.004000"
+            },
+            {
+                "user": "UCAQYDBL1",
+                "ts": "1543587424.004600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "explodyparrot",
+                "users": [
+                    "UCHMRQ7GQ",
+                    "U9V48C738",
+                    "UDK41MN5U",
+                    "U3T5QEDJ8",
+                    "U7KDVG6LS",
+                    "U36Q9NJMD"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b82b0e6-2bf2-4983-958a-e43db729740b",
+        "type": "message",
+        "text": "У меня проблемы с 7ым заданием 4ой недели.",
+        "user": "UCHMRQ7GQ",
+        "ts": "1543401102.574700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6967b094e00",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/006967b094e0006084325bd4836e23b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "abstractwin",
+            "real_name": "abstractwin",
+            "display_name": "abstractwin",
+            "team": "T040HKJE3",
+            "name": "abstractwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "7b5ce057-f073-45b6-bfbf-284db58d58dc",
+        "type": "message",
+        "text": "Так там же есть свой слак и телеграм. Тут отдельного места нет :slightly_smiling_face:",
+        "user": "U4ZRFG1V0",
+        "ts": "1543401189.575300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "baf8ec10-56ad-4905-b2f3-da8701da59b5",
+        "type": "message",
+        "text": "<http:\/\/machinelearning2016.slack.com|machinelearning2016.slack.com>",
+        "user": "U3T5QEDJ8",
+        "ts": "1543403475.581500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d9a15536b214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-16\/874464888836_d9a15536b21451587382_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill L",
+            "display_name": "Офьянко Моторовью",
+            "team": "T040HKJE3",
+            "name": "klenovi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "7ABCFC7D-6D93-44DC-AF47-F652F7BEBC94",
+        "type": "message",
+        "text": "А что за телеграмм?",
+        "user": "UCKRPAW21",
+        "ts": "1543405549.586200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "465e07318b40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-15\/552278182866_465e07318b401000daef_72.png",
+            "first_name": "Дмитрий",
+            "real_name": "Дмитрий Блеклов",
+            "display_name": "bekovmi",
+            "team": "T040HKJE3",
+            "name": "m.bleklof",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "6cffc66d-a265-470b-b6c0-608a7758a271",
+        "type": "message",
+        "text": "<https:\/\/t.me\/datasciencecourse>",
+        "user": "U4ZRFG1V0",
+        "ts": "1543405610.586800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "Machine learning",
+                "title_link": "https:\/\/t.me\/datasciencecourse",
+                "text": "Программа «Машинное обучение и анализ данных». Вопросы помечайте тегом с номером курса и недели, например #C4W3. В чате запрещены оскорбления, мат и неэтичное поведение. <http:\/\/datasciencecourse.ru>",
+                "fallback": "Telegram: Machine learning",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/d9y1hEO5PfB47PSN0y1_7DwcaKFEjHVirDLzZ9AHnEdefR3DKsfOj9efwzaohtX5xyPzK-mtjZc9SJqF6FvL9yWc5nQFO3eZcxSdA-VPLeghw68kA8YdzLlqmFfVJzJ4bQ3cRiosNJDiWUAmfO_Zdn2YqtKC-2lLgRtmyeeifPfJCmCDGoDdiKx6AU0kX_XY5hZQP1o7k6ivXeeN895I4DeD9vSxLhIhSxn2BuebtSJ3rXAByYbR_SutM0dxXePXfa3h1SnjaWJ-PvbMoYxpUlw4jEkPy2HaiqeOE9j1vMwZ_ZNTkCYCUXNF6zaXd7JzlsId0czGT-sOtZGeB1LRRQ.jpg",
+                "from_url": "https:\/\/t.me\/datasciencecourse",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1,
+                "original_url": "https:\/\/t.me\/datasciencecourse"
+            }
+        ],
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "33f7c4be-2463-4cb6-8bdb-b6997d5ca31c",
+        "type": "message",
+        "text": "Из не-привязанного к продуктам AWS там курс Math For Machine Learning.",
+        "user": "UE259V12B",
+        "ts": "1543410680.592400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f4d13dd6b115",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-07\/546167886790_f4d13dd6b11503315e56_72.jpg",
+            "first_name": "SergeKK",
+            "real_name": "SergeKK",
+            "display_name": "SergeKK",
+            "team": "T040HKJE3",
+            "name": "borkinks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391060.545900",
+        "parent_user_id": "UDHJKLGLR"
+    },
+    {
+        "client_msg_id": "8f048e90-be68-4300-a012-35cec637530e",
+        "type": "message",
+        "text": ":joke:",
+        "user": "U5H0L5T98",
+        "ts": "1543411021.593200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U4SKDV2HF",
+                    "UDSC91AH1",
+                    "UDUBG85P1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "catshake",
+                "users": [
+                    "UBRK4HXQV",
+                    "UDUBG85P1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joke",
+                "users": [
+                    "U2N853RGF",
+                    "UEF1YU171",
+                    "U9W1PD5QD",
+                    "U1HHX1QS3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33DACA69-6841-4BFF-9A09-1929744AF62B",
+        "type": "message",
+        "text": "Math.... on aws",
+        "user": "U1HHX1QS3",
+        "ts": "1543411100.593600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543391060.545900",
+        "parent_user_id": "UDHJKLGLR"
+    },
+    {
+        "client_msg_id": "933bbaec-db91-4a96-b7cf-8755a34ace1f",
+        "type": "message",
+        "text": "thx",
+        "user": "UCHMRQ7GQ",
+        "ts": "1543460448.605600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6967b094e00",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/006967b094e0006084325bd4836e23b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "abstractwin",
+            "real_name": "abstractwin",
+            "display_name": "abstractwin",
+            "team": "T040HKJE3",
+            "name": "abstractwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543401045.574600",
+        "parent_user_id": "UCHMRQ7GQ"
+    },
+    {
+        "client_msg_id": "a3722cb3-6f0b-421c-b001-1b43707000ae",
+        "type": "message",
+        "text": "Мне с похожим запросом (что почитать компьютерному лингвисту без опыта полноценной разработки, но с опытом создания всевозможных юпитер ноутбуков для учебы и онлайн-курсов), очень советовали ещё такую книгу, она не очень объемная: <https:\/\/www.amazon.de\/Art-Readable-Code-Dustin-Boswell\/dp\/0596802293>",
+        "user": "UDSGG9SGH",
+        "ts": "1543477257.607900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7dadebd39f50",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-09\/475754063779_7dadebd39f509a983a4f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Krotova",
+            "display_name": "ira.krotova",
+            "team": "T040HKJE3",
+            "name": "i.v.krotova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543190201.488600",
+        "parent_user_id": "UBQELFC8K",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBQELFC8K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

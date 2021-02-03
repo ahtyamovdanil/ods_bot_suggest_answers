@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1458989902.000053",
+        "user": "U0VLLEKGX",
+        "text": "<@U0VLLEKGX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Во вторник (29го марта, а не 28го, как раньше) начнутся лекции Юрия Нестерова про структурную оптимизацию. Кто-нибудь пойдет во вторник и собирается ли этот кто-то записывать лекции - руками, на диктофон, еще как-то? В Вышке мне ответили, что планируют записывать видео, но пока неизвестно, что они с этим будут потом делать. Я сам по вторникам не могу, в остальные дни планирую.",
+        "user": "U0M7UMFDF",
+        "ts": "1458994773.000054",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bb09e726f5bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-03\/24164456278_bb09e726f5bcaba4dc8a_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Nazarov",
+            "display_name": "vadimnazarov",
+            "team": "T040HKJE3",
+            "name": "vadimnazarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0M7UMFDF",
+            "ts": "1458995747.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я пойду. Скорее всего, буду записывать руками",
+        "user": "U04ELQZAU",
+        "ts": "1458996930.000056",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Запись курса, скорее всего, (довольно оперативно) выложат на канале premolab на ютубе",
+        "user": "U04ELQZAU",
+        "ts": "1458996952.000057",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0M7UMFDF",
+                    "U0QB98BB9",
+                    "U0Q3USC0Z",
+                    "U070XFG81"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,389 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Чат, у нас появился канал <#CBYEC8BNC|class_cs224w> для совместного прохождения курса Лесковека. Велкам!",
+        "user": "U6QBC2ERG",
+        "ts": "1532946169.000007",
+        "thread_ts": "1506424525.000069",
+        "root": {
+            "type": "message",
+            "text": "CS224W - Analysis of Networks, на мой взгляд, это - самый-пресамый курс по прикладному сетевому анализу на планете. Начинается сегодня. Здесь за 10 недель дают то, что в ВШЭ читают два семестра. Все материалы доступны онлайн и бесплатно. Нулевая домашка уже опубликована: <http:\/\/web.stanford.edu\/class\/cs224w\/handouts.html>",
+            "user": "U6QBC2ERG",
+            "ts": "1506424525.000069",
+            "team": "T040HKJE3",
+            "thread_ts": "1506424525.000069",
+            "reply_count": 16,
+            "reply_users_count": 7,
+            "latest_reply": "1569491325.254900",
+            "reply_users": [
+                "U0UG04H3M",
+                "U14CTBLFJ",
+                "U6QBC2ERG",
+                "U09BY2N3X",
+                "U09JEC7V0",
+                "U53E5MFNU",
+                "UECGE3ZQE"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "255ee216-d0db-4e7e-a065-3d536c320464",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33eb05af-f1ae-4e22-a68e-c6f2e6730fa8",
+        "type": "message",
+        "text": "<@UAT6E375Y> а встречалось еще что нить хотя бы на этом уровне? Невероятно крутая книга!",
+        "user": "U7N4E8GBF",
+        "ts": "1532979566.000316",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "8759E48E-1F0B-45C6-BEE7-E67D7F116B7F",
+        "type": "message",
+        "text": "Вот эта весьма приличная\n<https:\/\/www.apress.com\/la\/book\/9781484230954>",
+        "user": "U2N853RGF",
+        "ts": "1532979705.000045",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Pro Deep Learning with TensorFlow - A Mathematical Approach to Advanced Artificial Intelligence in Python  | Santanu Pattanayak | Apress",
+                "title_link": "https:\/\/www.apress.com\/la\/book\/9781484230954",
+                "text": "Use this book to deploy deep learning AI solutions with ease using TensorFlow. You also will invent new architectures. Code provided in Python....",
+                "fallback": "Pro Deep Learning with TensorFlow - A Mathematical Approach to Advanced Artificial Intelligence in Python  | Santanu Pattanayak | Apress",
+                "from_url": "https:\/\/www.apress.com\/la\/book\/9781484230954",
+                "service_icon": "https:\/\/www.apress.com\/favicon.ico",
+                "service_name": "apress.com",
+                "id": 1,
+                "original_url": "https:\/\/www.apress.com\/la\/book\/9781484230954"
+            }
+        ],
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "b97a7d94-5b2a-4f3d-8710-17be72a4025b",
+        "type": "message",
+        "text": "<@U14CTBLFJ> Книги Мохри - это что? Foundations of Machine Learning\nMehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar\nMIT Press, 2012 &lt;- 2012 год не устарело????",
+        "user": "U7N4E8GBF",
+        "ts": "1532979782.000160",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "type": "message",
+        "text": "<@U2N853RGF> спасибо - почитаю ))",
+        "files": [
+            {
+                "id": "FBZ1DQ7ED",
+                "created": 1532980206,
+                "timestamp": 1532980206,
+                "name": "Pro Deep Learning with TensorFlow.pdf",
+                "title": "Pro Deep Learning with TensorFlow.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U7N4E8GBF",
+                "editable": false,
+                "size": 16381328,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FBZ1DQ7ED\/pro_deep_learning_with_tensorflow.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FBZ1DQ7ED\/download\/pro_deep_learning_with_tensorflow.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FBZ1DQ7ED-a8ca8ccaa6\/pro_deep_learning_with_tensorflow_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 770,
+                "thumb_pdf_h": 1100,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U7N4E8GBF\/FBZ1DQ7ED\/pro_deep_learning_with_tensorflow.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FBZ1DQ7ED-7bffa528b1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U7N4E8GBF",
+        "display_as_bot": false,
+        "ts": "1532980209.000178",
+        "edited": {
+            "user": "U7N4E8GBF",
+            "ts": "1532980238.000000"
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6",
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DE862004-E69F-42DC-8BC5-059F7F0DB8E1",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C16CCPQCS\/p1513630367000547>",
+        "user": "U2N853RGF",
+        "ts": "1532984534.000243",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C16CCPQCS\/p1513630367000547",
+                "fallback": "[December 18th, 2017 12:52 PM] ippromek: ",
+                "ts": "1513630367.000547",
+                "author_id": "U8E1CPPQA",
+                "author_subname": "Oleg Baydakov",
+                "channel_id": "C16CCPQCS",
+                "channel_name": "edu_books",
+                "is_msg_unfurl": true,
+                "author_name": "Oleg Baydakov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U8E1CPPQA",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-12-26\/290878121425_97fff3123288e949d8f2_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F8FQFECJU",
+                        "created": 1513630366,
+                        "timestamp": 1513630366,
+                        "name": "pro-deep-learning-tensorflow.pdf",
+                        "title": "Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python",
+                        "mimetype": "application\/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "U8E1CPPQA",
+                        "editable": false,
+                        "size": 16349446,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F8FQFECJU\/pro-deep-learning-tensorflow.pdf",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F8FQFECJU\/download\/pro-deep-learning-tensorflow.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F8FQFECJU-a730cbc418\/pro-deep-learning-tensorflow_thumb_pdf.png",
+                        "thumb_pdf_w": 770,
+                        "thumb_pdf_h": 1100,
+                        "permalink": "https:\/\/opendatascience.slack.com\/files\/U8E1CPPQA\/F8FQFECJU\/pro-deep-learning-tensorflow.pdf",
+                        "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F8FQFECJU-74220861a5",
+                        "reactions": [
+                            {
+                                "name": "tnx",
+                                "users": [
+                                    "U2N853RGF",
+                                    "U5H0L5T98",
+                                    "U24FHECDD",
+                                    "U53E5MFNU",
+                                    "U5R6G5JQK",
+                                    "U2ZAVPXND"
+                                ],
+                                "count": 6
+                            },
+                            {
+                                "name": "+1",
+                                "users": [
+                                    "U2N853RGF",
+                                    "U5H0L5T98",
+                                    "U53E5MFNU",
+                                    "U2ZAVPXND"
+                                ],
+                                "count": 4
+                            }
+                        ]
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C16CCPQCS\/p1513630367000547",
+                "footer": "Posted in #edu_books"
+            }
+        ],
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "328d9eb4-a351-4360-90e2-ce3c8a10026f",
+        "type": "message",
+        "text": "У меня Chollet, Goodfellow, Raschka книги щас я думаю на сто лет хватит.\nЯ даже это хрен прочту.",
+        "user": "U9ZU1CYUD",
+        "ts": "1532989684.000196",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9ZU1CYUD",
+            "ts": "1532989702.000000"
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "0736a080-33b0-4a2c-86dc-0f695eccc4b5",
+        "type": "message",
+        "text": "<@U7N4E8GBF> :scream_cat::scream_cat::scream_cat: наверное :pray::skin-tone-2: нет!!!!!!!! Не так давно :point_left::skin-tone-2: в Яндексе Мохри выступал :male-technologist::skin-tone-2: с подобной программой :ok_hand::skin-tone-2:",
+        "user": "U14CTBLFJ",
+        "ts": "1533015350.000128",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "43C532D3-CD37-4E99-8CFF-4AA8766BD4A8",
+        "type": "message",
+        "text": "<@U1X9AEGV6> вот топовый\n<https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/#course-10>",
+        "user": "U2N853RGF",
+        "ts": "1533017376.000071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning Course (Spring 2018)",
+                "title_link": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/#course-10",
+                "text": "Slides, handouts, voice-overs and virtual machine for François Fleuret's EPFL EE-559 deep learning course",
+                "fallback": "Deep Learning Course (Spring 2018)",
+                "from_url": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/#course-10",
+                "service_name": "documents.epfl.ch",
+                "id": 1,
+                "original_url": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/#course-10"
+            }
+        ],
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "775b06e0-71fc-472a-811a-963bc0591e36",
+        "type": "message",
+        "text": "<@U5H0L5T98> Francois же тот что читал на школе PyTorch, так же?)) Выше <@U2N853RGF> чудесную ссылку скинул",
+        "user": "U9ZU1CYUD",
+        "ts": "1533019156.000065",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1532372991.000322",
+        "parent_user_id": "U1X9AEGV6"
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "56e8f6e4-0bc6-425b-accb-0cf9f2c0f846",
+        "type": "message",
+        "text": "Всем привет! Не подскажите какой-нибудь хороший курс\\книгу\\туториал по объектам и классам в python, чтобы после него было легче backprop на numpy делать? :slightly_smiling_face:",
+        "user": "UCZRD57P0",
+        "ts": "1551180517.111400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "60871658d02c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-14\/549999565216_60871658d02cdef47ef8_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Baraboshkin",
+            "display_name": "BEEugene",
+            "team": "T040HKJE3",
+            "name": "evgenii.baraboshkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCZRD57P0",
+            "ts": "1551180618.000000"
+        },
+        "thread_ts": "1551180517.111400",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1551303151.136500",
+        "reply_users": [
+            "U60EETE7N",
+            "U5QBU8SUR",
+            "UCZRD57P0",
+            "U7SFPUVQF",
+            "U0DA4J82H",
+            "U6NG0K2BW"
+        ],
+        "replies": [
+            {
+                "user": "U60EETE7N",
+                "ts": "1551181426.112600"
+            },
+            {
+                "user": "U5QBU8SUR",
+                "ts": "1551182399.113400"
+            },
+            {
+                "user": "UCZRD57P0",
+                "ts": "1551184835.114500"
+            },
+            {
+                "user": "UCZRD57P0",
+                "ts": "1551184959.114800"
+            },
+            {
+                "user": "U5QBU8SUR",
+                "ts": "1551185042.115000"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1551194152.117200"
+            },
+            {
+                "user": "U5QBU8SUR",
+                "ts": "1551194275.117500"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1551211275.121200"
+            },
+            {
+                "user": "U6NG0K2BW",
+                "ts": "1551303151.136500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "50d3b23e-2221-4504-aa0e-c27ac8160d8c",
+        "type": "message",
+        "text": "через неделю будет курс на :python: и для школьников от нас :eyes:",
+        "user": "U040HKJE7",
+        "ts": "1551181401.112400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1550616398.212800",
+        "parent_user_id": "U6Y6D1Q2X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0SDR70LC",
+                    "U7NT8L1M5",
+                    "UFKTQ4F8T",
+                    "U94QA9LFL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80973f52-611d-4fe7-a8c0-a6ad62424cd8",
+        "type": "message",
+        "text": "для бэкпропа на нампае объекты и классы не нужны",
+        "user": "U60EETE7N",
+        "ts": "1551181426.112600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U27SUBTB9",
+                    "UE259V12B",
+                    "U4SKDV2HF",
+                    "U0DA4J82H",
+                    "U6SHTGD5X",
+                    "UE06RJT88",
+                    "UGVJEKKB8"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79cb74ac-64c3-4b16-a92c-0a129be73a6d",
+        "type": "message",
+        "text": "Книгу Ван дер Пласа по численному анализу, \"Python для сложных задач. Наука о данных и машинное обучение\" - там норм изложено про численные вещи и numpy",
+        "user": "U5QBU8SUR",
+        "ts": "1551182399.113400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g10f60dc5098",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9310f60dc509878ecbdf24f9cc0dd180.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Karelin",
+            "display_name": "nkarelin",
+            "team": "T040HKJE3",
+            "name": "nkarelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UCMC5J36D",
+                    "U6YT3HHML"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d2cb5d5-f526-4438-b5c1-c36df27a546b",
+        "type": "message",
+        "text": "<@U60EETE7N> это замечательно, но задача именно обернуть это в объекты и классы",
+        "user": "UCZRD57P0",
+        "ts": "1551184835.114500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "60871658d02c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-14\/549999565216_60871658d02cdef47ef8_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Baraboshkin",
+            "display_name": "BEEugene",
+            "team": "T040HKJE3",
+            "name": "evgenii.baraboshkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0"
+    },
+    {
+        "client_msg_id": "d7805e85-3d1b-4911-91b5-3c7f6f472c1d",
+        "type": "message",
+        "text": "<@U5QBU8SUR>, спасибо, немного облегчило задачу",
+        "user": "UCZRD57P0",
+        "ts": "1551184959.114800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "60871658d02c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-14\/549999565216_60871658d02cdef47ef8_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Baraboshkin",
+            "display_name": "BEEugene",
+            "team": "T040HKJE3",
+            "name": "evgenii.baraboshkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0"
+    },
+    {
+        "client_msg_id": "68d6f959-cf8d-4e52-8769-95274a0f8c7f",
+        "type": "message",
+        "text": "<@UCZRD57P0> Тогда советую Python in Practive Марка Зоммерфельда. Немного старовата, но как раз про шаблоны. Если нужны кишочки и принципы языка, то Fluent Python от Luciano Ramalho (как русский перевод назвали - не помню).",
+        "user": "U5QBU8SUR",
+        "ts": "1551185042.115000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g10f60dc5098",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9310f60dc509878ecbdf24f9cc0dd180.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Karelin",
+            "display_name": "nkarelin",
+            "team": "T040HKJE3",
+            "name": "nkarelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UCZRD57P0",
+                    "U6YT3HHML",
+                    "U6SHTGD5X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "208954a5-cf52-493c-9d98-7ab269b8c6f5",
+        "type": "message",
+        "text": "Отдельные главы Лутца, как проверенный временем вариант вполне ОК. Там достаточно подробно и механизм работы классов и как с ними работать в реальности.",
+        "user": "U7SFPUVQF",
+        "ts": "1551194152.117200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5QBU8SUR",
+                    "U6NG0K2BW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ab75f9c-ae3d-4377-9ae5-c032ba4a477a",
+        "type": "message",
+        "text": "Про Лутца народ ракомендует первые страниц 300 из всего талмуда :wink:",
+        "user": "U5QBU8SUR",
+        "ts": "1551194275.117500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g10f60dc5098",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9310f60dc509878ecbdf24f9cc0dd180.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Karelin",
+            "display_name": "nkarelin",
+            "team": "T040HKJE3",
+            "name": "nkarelin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U0DA4J82H",
+                    "U6SHTGD5X",
+                    "U62PAKHV1",
+                    "U929LR336"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1e46082-a27d-4fc3-8750-6a1d5d764218",
+        "type": "message",
+        "text": "Посмотри как в cs231n в домашках сделано",
+        "user": "U0DA4J82H",
+        "ts": "1551211275.121200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551180517.111400",
+        "parent_user_id": "UCZRD57P0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ",
+                    "U302AALBS",
+                    "U80FZEUV9",
+                    "U929LR336"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "client_msg_id": "2d4798b9-7937-4d70-96a3-a349102fdde5",
+        "type": "message",
+        "text": "Всем привет!\nПодскажите, пожалуйста, есть ли тут люди, кто проходил курс практикума от яндекса по ДС, поделитесь впечатлениями, стою на перепутье выбора)",
+        "user": "U013T7G1WMR",
+        "ts": "1589796958.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "77153c15d05e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-17\/1135320168052_77153c15d05eb6abe471_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Shmyrov",
+            "display_name": "Shmyrov",
+            "team": "T040HKJE3",
+            "name": "mikhailshmyroff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZZ=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет!\nПодскажите, пожалуйста, есть ли тут люди, кто проходил курс практикума от яндекса по ДС, поделитесь впечатлениями, стою на перепутье выбора)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589796958.007400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1589817414.014000",
+        "reply_users": [
+            "UHY5KKK6D",
+            "U013J8QBBRS",
+            "U0147DU1716",
+            "U013T7G1WMR"
+        ],
+        "replies": [
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1589800195.010300"
+            },
+            {
+                "user": "U013J8QBBRS",
+                "ts": "1589801686.012300"
+            },
+            {
+                "user": "U0147DU1716",
+                "ts": "1589815912.013500"
+            },
+            {
+                "user": "U013T7G1WMR",
+                "ts": "1589817414.014000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "08ff5da0-f617-4ea7-83bd-7efb9c67c6f6",
+        "type": "message",
+        "text": "С радостью помогу выбраться из перепутья, если есть выбор потратить деньги или не тратить. Не тратьте. Ищите бесплатные пути :slightly_smiling_face:",
+        "user": "UHY5KKK6D",
+        "ts": "1589800195.010300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fI+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "С радостью помогу выбраться из перепутья, если есть выбор потратить деньги или не тратить. Не тратьте. Ищите бесплатные пути "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589796958.007400",
+        "parent_user_id": "U013T7G1WMR",
+        "reactions": [
+            {
+                "name": "thinking",
+                "users": [
+                    "UHSR5B6LT",
+                    "UT4HRM073",
+                    "U6Z21KSBC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54D203E3-9F41-44BB-A89C-2F27BEF74363",
+        "type": "message",
+        "text": "Я бы еще вот этот курс посоветовал. Он по T-SQL, но это не особо критично. Преподаватель объясняет супер подробно и доходчиво. На английском\n\n<https:\/\/www.udemy.com\/share\/101XjQBEUZeVxUQX4=\/|https:\/\/www.udemy.com\/share\/101XjQBEUZeVxUQX4=\/>",
+        "user": "U013QMTCQSD",
+        "ts": "1589800432.010800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfa14f6ddc52",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa14f6ddc52c40411f74b8c764c70682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Sulzhik Vladislav",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vladsulzhik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я бы еще вот этот курс посоветовал. Он по T-SQL, но это не особо критично. Преподаватель объясняет супер подробно и доходчиво. На английском\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/share\/101XjQBEUZeVxUQX4=\/",
+                                "text": "https:\/\/www.udemy.com\/share\/101XjQBEUZeVxUQX4=\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9VM1DN4U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1130D40E-91E0-4930-8553-F57628B1172C",
+        "type": "message",
+        "text": "<@UP1JY3PK2> МАИ, Системный анализ и управление",
+        "user": "U01310KHRQR",
+        "ts": "1589801013.011800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6169a6238c5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1091119660005_6169a6238c5faddfb43a_72.png",
+            "first_name": "mafilatov",
+            "real_name": "mafilatov",
+            "display_name": "mafilatov",
+            "team": "T040HKJE3",
+            "name": "stroboskopov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kRga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UP1JY3PK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " МАИ, Системный анализ и управление"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589770525.004600",
+        "parent_user_id": "U01310KHRQR"
+    },
+    {
+        "client_msg_id": "7387261c-5d3a-4afb-8729-503880718138",
+        "type": "message",
+        "text": "Прохожу курс по питону для DS на dataquest. Сегодня начал. Очень нравится. Рекомендую. Курс называется data scintce path.",
+        "user": "U013J8QBBRS",
+        "ts": "1589801459.012000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g510d2edb9fb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/510d2edb9fba027a694e4d55636d26e8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ivan Kravtsov",
+            "display_name": "Ivan Kravtsov",
+            "team": "T040HKJE3",
+            "name": "7933509",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4G\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Прохожу курс по питону для DS на dataquest. Сегодня начал. Очень нравится. Рекомендую. Курс называется data scintce path."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653101.464100",
+        "parent_user_id": "US3C4AYTS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U71JW8JHE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "US3C4AYTS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5105346-d041-4283-9e3f-f8f7c7596bdf",
+        "type": "message",
+        "text": "Проходил курс Яндекса математика и анализ данных питон (как то так называется). Сами ребята из яндекса как технари наверное очень хорошие, но как преподаватели мне не понравилось.",
+        "user": "U013J8QBBRS",
+        "ts": "1589801686.012300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g510d2edb9fb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/510d2edb9fba027a694e4d55636d26e8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ivan Kravtsov",
+            "display_name": "Ivan Kravtsov",
+            "team": "T040HKJE3",
+            "name": "7933509",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проходил курс Яндекса математика и анализ данных питон (как то так называется). Сами ребята из яндекса как технари наверное очень хорошие, но как преподаватели мне не понравилось."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589796958.007400",
+        "parent_user_id": "U013T7G1WMR",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UHLKEBC1J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3057215f-d1e4-4a2b-9933-e13783e6dfd6",
+        "type": "message",
+        "text": "Был уже похожий вопрос, вставлю свои 5 копеек еще разок\n :smiley: <https:\/\/opendatascience.slack.com\/archives\/C1UEK73H6\/p1589544513454500>",
+        "user": "U0147DU1716",
+        "ts": "1589815912.013500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50a492600ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1129898683588_50a492600ae64f9a731a_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Tsay",
+            "display_name": "Kami-sama",
+            "team": "T040HKJE3",
+            "name": "afroniashka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C1UEK73H6\/p1589544513454500",
+                "fallback": "[May 15th, 2020 5:08 AM] afroniashka: Я сам сейчас прохожу этот курс. Образование и сфера деятельности далеки от IT в целом, так что можно смело сказать что до начала обучения я был полный 0.\nДо яндекса пытался заниматься самообучением, но слишком большое разнообразие источников (когда вообще смутно понимаешь что и куда) не дает понять, хороший ли курс (бесплатный) или плохой. К тому же зачастую бесплатные курсы преподаются по принципу: \"Это отвертка под крест, это болт под крест, а теперь домашнее задание - соберите синхрофазатрон\" и поэтому я достаточно быстро подвис с этим. Тоже долго думал и читал в интернете отзывы о платных курсах и решился пойти на ДС от Яндекса. Про другие платные сказать ничего не могу, но тут:\n1. Очень удобный тренажер. У тебя на одном экране теория, рядом задание для практики, интерпритатор для записи кода и тут же проверка что ты там накодил.\n2. Поддерживает тебя сразу куча знающих людей (преподаватели)  + студенты с твоей когорты (среди них зачастую много умных людей из схожих сфер))\n3. Дается много практики (каждая тема закрепляется проектом, который нужно сдать)\n4. Весь материал структурирован и подается \"для тупых\", чтобы даже далекий от IT человек нормально понимал.\nВ итоге скажу свое мнение: если есть возможность (финансовая) - стоит пойти и, уже параллельно, заниматься в бесплатных курсах, почитывать книжки на слабоусвоенные темы.",
+                "ts": "1589544513.454500",
+                "author_id": "U0147DU1716",
+                "author_subname": "Alexander",
+                "channel_id": "C1UEK73H6",
+                "channel_name": "mltrainings_beginners",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Я сам сейчас прохожу этот курс. Образование и сфера деятельности далеки от IT в целом, так что можно смело сказать что до начала обучения я был полный 0.\nДо яндекса пытался заниматься самообучением, но слишком большое разнообразие источников (когда вообще смутно понимаешь что и куда) не дает понять, хороший ли курс (бесплатный) или плохой. К тому же зачастую бесплатные курсы преподаются по принципу: \"Это отвертка под крест, это болт под крест, а теперь домашнее задание - соберите синхрофазатрон\" и поэтому я достаточно быстро подвис с этим. Тоже долго думал и читал в интернете отзывы о платных курсах и решился пойти на ДС от Яндекса. Про другие платные сказать ничего не могу, но тут:\n1. Очень удобный тренажер. У тебя на одном экране теория, рядом задание для практики, интерпритатор для записи кода и тут же проверка что ты там накодил.\n2. Поддерживает тебя сразу куча знающих людей (преподаватели)  + студенты с твоей когорты (среди них зачастую много умных людей из схожих сфер))\n3. Дается много практики (каждая тема закрепляется проектом, который нужно сдать)\n4. Весь материал структурирован и подается \"для тупых\", чтобы даже далекий от IT человек нормально понимал.\nВ итоге скажу свое мнение: если есть возможность (финансовая) - стоит пойти и, уже параллельно, заниматься в бесплатных курсах, почитывать книжки на слабоусвоенные темы.",
+                "author_name": "Alexander",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U0147DU1716",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1129898683588_50a492600ae64f9a731a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C1UEK73H6\/p1589544513454500",
+                "footer": "From a thread in #mltrainings_beginners"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cH77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Был уже похожий вопрос, вставлю свои 5 копеек еще разок\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C1UEK73H6\/p1589544513454500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589796958.007400",
+        "parent_user_id": "U013T7G1WMR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6SCXUP6U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U013PPSFYU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "987873d0-aae8-44fb-824f-462f68dc92c9",
+        "type": "message",
+        "text": "Спасибо!",
+        "user": "U013T7G1WMR",
+        "ts": "1589817414.014000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "77153c15d05e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-17\/1135320168052_77153c15d05eb6abe471_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Shmyrov",
+            "display_name": "Shmyrov",
+            "team": "T040HKJE3",
+            "name": "mikhailshmyroff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+r9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589796958.007400",
+        "parent_user_id": "U013T7G1WMR"
+    },
+    {
+        "client_msg_id": "15696cf4-73a8-4633-adda-edf42bed0c4f",
+        "type": "message",
+        "text": "Interesting idea!\nIt's like a less formal version of a developer advocate role, is that right?\nDefinitely, might be a good opportunity for people who are just staring out.\nOne nip-pick:\nWhile the post outlines pretty well what is expected from the applicants, I think it's missing a separate \"what's in it for you?\" section.",
+        "user": "UASGXRLU9",
+        "ts": "1589824776.015000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ecb8fda25b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-10\/1183470310996_2ecb8fda25b98211d9f9_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Kim",
+            "display_name": "alex000kim",
+            "team": "T040HKJE3",
+            "name": "alex000kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J76v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting idea!\nIt's like a less formal version of a developer advocate role, is that right?\nDefinitely, might be a good opportunity for people who are just staring out.\nOne nip-pick:\nWhile the post outlines pretty well what is expected from the applicants, I think it's missing a separate \"what's in it for you?\" section."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589477356.400600",
+        "parent_user_id": "USCA2BBKL"
+    },
+    {
+        "client_msg_id": "1418f914-ce17-4dec-b81c-cbde6802b549",
+        "type": "message",
+        "text": "<@UASGXRLU9> you're absolutely right :slightly_smiling_face:! someone else pointed that out to us last friday, so we wrote a section over the weekend and it's getting deployed in the blog right now",
+        "user": "USCA2BBKL",
+        "ts": "1589828726.015200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a090608ec22f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-01\/1105723538788_a090608ec22f6749c11c_72.jpg",
+            "first_name": "",
+            "real_name": "Elle O'Brien",
+            "display_name": "Elle O'Brien",
+            "team": "T040HKJE3",
+            "name": "elle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "USCA2BBKL",
+            "ts": "1589829243.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIEW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UASGXRLU9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you're absolutely right "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! someone else pointed that out to us last friday, so we wrote a section over the weekend and it's getting deployed in the blog right now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589477356.400600",
+        "parent_user_id": "USCA2BBKL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UASGXRLU9",
+                    "U87RQQJR4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3912bca8-0c61-4330-9e6c-2b1b2dee5b27",
+        "type": "message",
+        "text": "it's definitely less formal than a developer advocate role. it's a volunteer role, and it's built for people to use whatever skills\/methods\/creative approaches to outreach they like. a lot of people who are interested in ambassador positions are folks who already blog a lot (or run meetups) because they love doing it, and they have a style already. whereas a developer advocate role might need to be more strategic, hitting specific targets that are specific to a company's needs, in my experience.",
+        "user": "USCA2BBKL",
+        "ts": "1589829106.015800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a090608ec22f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-01\/1105723538788_a090608ec22f6749c11c_72.jpg",
+            "first_name": "",
+            "real_name": "Elle O'Brien",
+            "display_name": "Elle O'Brien",
+            "team": "T040HKJE3",
+            "name": "elle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5me",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's definitely less formal than a developer advocate role. it's a volunteer role, and it's built for people to use whatever skills\/methods\/creative approaches to outreach they like. a lot of people who are interested in ambassador positions are folks who already blog a lot (or run meetups) because they love doing it, and they have a style already. whereas a developer advocate role might need to be more strategic, hitting specific targets that are specific to a company's needs, in my experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589477356.400600",
+        "parent_user_id": "USCA2BBKL"
+    },
+    {
+        "client_msg_id": "bbe3b537-d991-42a3-ae45-de9ab823dc82",
+        "type": "message",
+        "text": "Thanks for the clarification. Btw, I see the updated blog post - looks good :thumbsup:",
+        "user": "UASGXRLU9",
+        "ts": "1589831031.016300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ecb8fda25b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-10\/1183470310996_2ecb8fda25b98211d9f9_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Kim",
+            "display_name": "alex000kim",
+            "team": "T040HKJE3",
+            "name": "alex000kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the clarification. Btw, I see the updated blog post - looks good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589477356.400600",
+        "parent_user_id": "USCA2BBKL"
+    },
+    {
+        "client_msg_id": "590663cd-dfe6-406b-88a4-c3ff8497d690",
+        "type": "message",
+        "text": "thanks :smile:",
+        "user": "USCA2BBKL",
+        "ts": "1589831060.016500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a090608ec22f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-01\/1105723538788_a090608ec22f6749c11c_72.jpg",
+            "first_name": "",
+            "real_name": "Elle O'Brien",
+            "display_name": "Elle O'Brien",
+            "team": "T040HKJE3",
+            "name": "elle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589477356.400600",
+        "parent_user_id": "USCA2BBKL"
+    }
+]

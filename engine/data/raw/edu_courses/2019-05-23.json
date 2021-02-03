@@ -1,0 +1,835 @@
+[
+    {
+        "client_msg_id": "e29853b3-955f-4642-bc6d-1f090b66a4fc",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=QM1iUe6IofM>",
+        "user": "U6WMC1ZS5",
+        "ts": "1558605295.441900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g27b493cecae",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b327b493cecae10efe6c84c97b05b7a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Lashkevich",
+            "display_name": "belerafon",
+            "team": "T040HKJE3",
+            "name": "belerafon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Object-Oriented Programming is Bad",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=QM1iUe6IofM",
+                "author_name": "Brian Will",
+                "author_link": "https:\/\/www.youtube.com\/user\/briantwill",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/QM1iUe6IofM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Object-Oriented Programming is Bad",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/QM1iUe6IofM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=QM1iUe6IofM",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=QM1iUe6IofM"
+            }
+        ],
+        "thread_ts": "1551423946.031100",
+        "parent_user_id": "U732YJ7FA"
+    },
+    {
+        "client_msg_id": "657ab4cf-80f5-4bc9-84ef-2e499fca687e",
+        "type": "message",
+        "text": "Всем привет! с 21 июля по 4 августа мы делаем мастерскую по Deep Learning на Летней школе на Волге.\n\nНаша мастерская - это 2 недели интенсивного погружения в CV и NLP, где мы поделимся знаниями, которые будут полезны как джунам так и опытным датасаентистам. Расскажем, как создавать наукоемкие продукты, понимать статьи, делать исследования и получать кайф от своей работы. Если вы готовы слушать нас по 8 часов день, а оставшееся время обучать сетки (с перерывами на купание в Волге), смело нажимайте на кнопку \"Подать заявку\": <https:\/\/letnyayashkola.org\/deeplearning\/>\n\nУчастие условно бесплатное, каждый платит по возможностям. Рекомендуемый взнос 400-900 р в день, который идет на питание, электричество и прочее.\n\nСрок рассмотрения заявок на нашу мастерскую продлен до 1 июня, но на входе kaggle-соревнование <https:\/\/www.kaggle.com\/c\/superbowllsh\/overview> (такую же ссылку пришлют в ответ на подачу заявки). Так что лучше начать его решать уже сегодня.",
+        "user": "U2AD9CMR7",
+        "ts": "1558612138.450000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AD9CMR7",
+            "ts": "1558613861.000000"
+        },
+        "attachments": [
+            {
+                "title": "superbowllsh",
+                "title_link": "https:\/\/www.kaggle.com\/c\/superbowllsh\/overview",
+                "text": "Отборочное испытание на мастерскую Deep Learning",
+                "fallback": "superbowllsh",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-competitions\/kaggle\/14301\/logos\/thumb76_76.png?t=2019-05-07-20-47-34",
+                "from_url": "https:\/\/www.kaggle.com\/c\/superbowllsh\/overview",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 2,
+                "original_url": "https:\/\/www.kaggle.com\/c\/superbowllsh\/overview"
+            }
+        ],
+        "thread_ts": "1558612138.450000",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1559050022.050100",
+        "reply_users": [
+            "U0952QCHE",
+            "U2AD9CMR7",
+            "U040M0W0S",
+            "U0XQJK3NJ"
+        ],
+        "replies": [
+            {
+                "user": "U0952QCHE",
+                "ts": "1558613820.451600"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1558613874.451900"
+            },
+            {
+                "user": "U0952QCHE",
+                "ts": "1558614022.452300"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1558614314.452500"
+            },
+            {
+                "user": "U040M0W0S",
+                "ts": "1558614852.452900"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1558615957.453500"
+            },
+            {
+                "user": "U0XQJK3NJ",
+                "ts": "1559041666.049600"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1559050022.050100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U2N853RGF",
+                    "UC3LNBU8L",
+                    "U7NUGSC72",
+                    "U0952QCHE",
+                    "U3WRYT9JL",
+                    "U1D6DT6HE",
+                    "U53E5MFNU",
+                    "U94E07CSE"
+                ],
+                "count": 8
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U2N853RGF",
+                    "UFNCG9F70",
+                    "U7NUGSC72",
+                    "U0952QCHE",
+                    "U3WRYT9JL",
+                    "UCMC5J36D",
+                    "U8Q72GC15",
+                    "U7JQ2HZLY",
+                    "UD2EX7JP9",
+                    "U71NR43CH",
+                    "UF2N1558C",
+                    "U1CMPEWPQ",
+                    "U80PM6B97"
+                ],
+                "count": 13
+            },
+            {
+                "name": "man-swimming",
+                "users": [
+                    "U3WRYT9JL",
+                    "U1D6DT6HE",
+                    "U7SFPUVQF",
+                    "U5QBU8SUR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pytorch",
+                "users": [
+                    "U040M0W0S",
+                    "U80PM6B97"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dushevnost",
+                "users": [
+                    "U04ELQZAU",
+                    "U0546DHDK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc7172df-a072-4867-ae74-74f2bf5c47cf",
+        "type": "message",
+        "text": "&gt; с 21 июня по 4 августа\nc 21 июля, видимо",
+        "user": "U0952QCHE",
+        "ts": "1558613820.451600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8b5d68e25c4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8b5d68e25c49854cd8230f0bab8c61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Kalinin",
+            "display_name": "alxndrkalinin",
+            "team": "T040HKJE3",
+            "name": "alxndrkalinin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7"
+    },
+    {
+        "client_msg_id": "2c425c54-39cb-41c8-8ce8-dcdb096f32d4",
+        "type": "message",
+        "text": "спасибо, поправил )",
+        "user": "U2AD9CMR7",
+        "ts": "1558613874.451900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7"
+    },
+    {
+        "client_msg_id": "0e8fc949-d2e2-492a-9dc8-bfc02e4c3bdb",
+        "type": "message",
+        "text": "ну и в правилах сразу же :)\n&gt; На территории лагеря запрещено купаться — Волга большая и судоходная. Это опасно.",
+        "user": "U0952QCHE",
+        "ts": "1558614022.452300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8b5d68e25c4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8b5d68e25c49854cd8230f0bab8c61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Kalinin",
+            "display_name": "alxndrkalinin",
+            "team": "T040HKJE3",
+            "name": "alxndrkalinin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7",
+        "reactions": [
+            {
+                "name": "good-enough",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "625cc2df-302a-4b21-8b79-49266f8bc2dc",
+        "type": "message",
+        "text": "хз, в прошлый раз купались ) Видимо за пределами лагеря",
+        "user": "U2AD9CMR7",
+        "ts": "1558614314.452500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AD9CMR7",
+            "ts": "1558614339.000000"
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7"
+    },
+    {
+        "client_msg_id": "a69cb75f-636b-4dc0-9a90-a1cb44c41de5",
+        "type": "message",
+        "text": "буквально на территории запрещено, но за территорией купаются.\n\nограничение в том числе, а может и во многом, связано с наличием школьных мастерских.",
+        "user": "U040M0W0S",
+        "ts": "1558614852.452900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7"
+    },
+    {
+        "client_msg_id": "56006e39-d130-4edd-870f-d51792cb4726",
+        "type": "message",
+        "text": "UPD: ссылку пришлют другую, т.к по этой засабмитить не получится",
+        "user": "U2AD9CMR7",
+        "ts": "1558615957.453500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AD9CMR7",
+            "ts": "1558617621.000000"
+        },
+        "thread_ts": "1558612138.450000",
+        "parent_user_id": "U2AD9CMR7",
+        "reactions": [
+            {
+                "name": "good-enough",
+                "users": [
+                    "U5QBU8SUR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "763d9cc9-0d67-4191-ad94-79a028bbb126",
+        "type": "message",
+        "text": "Заканчивается регистрация на MLSS <http:\/\/mlss2019.skoltech.ru|mlss2019.skoltech.ru> - международную школу по ML в Сколтехе :skoltech: *26 августа по 6 сентября 2019 года*. Среди тем лекций - такие популярные сейчас направления, как «Байесовские нейронные сети» (Yarin Gal, University of Oxford, UK), «Обучение с подкреплением» (Shimon Whiteson, University of Oxford, UK), «3D глубокое обучение» (Justin Solomon, MIT, USA), «Математические аспекты глубокого обучения» (Matus Jan Telgarsky, illinois University) и др.\nУ школы чисто символическая стоимость, а члены ODS сообщества еще и смогут получить 80% скидку на регистрацию в MLSS! Регайтесь и в заявке указывайте свой логин в ODS slack :slack: . Осталось меньше 2 недель до окончания регистрации!",
+        "user": "U0Y7U6YER",
+        "ts": "1558617543.454300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0Y7U6YER",
+            "ts": "1558617631.000000"
+        },
+        "thread_ts": "1558617543.454300",
+        "reply_count": 28,
+        "reply_users_count": 8,
+        "latest_reply": "1559639324.000800",
+        "reply_users": [
+            "U97RMH3HQ",
+            "UC7F2BVR9",
+            "U0Y7U6YER",
+            "UHLKEBC1J",
+            "U0ZJSC8JC",
+            "U1YK4SV6W",
+            "UBA7N1YSG",
+            "U9LPKKM7X"
+        ],
+        "replies": [
+            {
+                "user": "U97RMH3HQ",
+                "ts": "1558617877.454600"
+            },
+            {
+                "user": "UC7F2BVR9",
+                "ts": "1558619868.454800"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558622440.455700"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558622502.455900"
+            },
+            {
+                "user": "UHLKEBC1J",
+                "ts": "1558625901.456300"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558625943.456500"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558625950.456700"
+            },
+            {
+                "user": "UHLKEBC1J",
+                "ts": "1558626110.457000"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558629494.457800"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1558674275.000400"
+            },
+            {
+                "user": "U1YK4SV6W",
+                "ts": "1558707098.010100"
+            },
+            {
+                "user": "UBA7N1YSG",
+                "ts": "1558711038.011000"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558765104.013100"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558765144.013300"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558765215.013500"
+            },
+            {
+                "user": "UBA7N1YSG",
+                "ts": "1558778506.020200"
+            },
+            {
+                "user": "U9LPKKM7X",
+                "ts": "1558969527.041200"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1558975059.042300"
+            },
+            {
+                "user": "U9LPKKM7X",
+                "ts": "1558981474.043600"
+            },
+            {
+                "user": "U97RMH3HQ",
+                "ts": "1559165246.073600"
+            },
+            {
+                "user": "U9LPKKM7X",
+                "ts": "1559206072.000900"
+            },
+            {
+                "user": "U97RMH3HQ",
+                "ts": "1559207562.001200"
+            },
+            {
+                "user": "U1YK4SV6W",
+                "ts": "1559211772.002900"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1559276169.008400"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1559276190.008600"
+            },
+            {
+                "user": "U0Y7U6YER",
+                "ts": "1559276350.008900"
+            },
+            {
+                "user": "U0ZJSC8JC",
+                "ts": "1559550270.054100"
+            },
+            {
+                "user": "UHLKEBC1J",
+                "ts": "1559639324.000800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9073D7GC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4eb1b12b-b57d-416e-8f32-a62fdf100949",
+        "type": "message",
+        "text": "Кто-то подавался уже, что такое \"Title and abstract\nof your poster\"? Нужно какую-то свою работу представить?",
+        "user": "U97RMH3HQ",
+        "ts": "1558617877.454600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29d44be820d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-13\/780928711858_29d44be820d467c424ea_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "JanRocketMan",
+            "team": "T040HKJE3",
+            "name": "cherv277",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "302d96cc-2298-4219-b107-529a7dcea790",
+        "type": "message",
+        "text": "Присоединяясь к вопросу выше, можно так же поподробнее про рекомендацию?",
+        "user": "UC7F2BVR9",
+        "ts": "1558619868.454800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a6f87a7fcbcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-13\/416707967959_a6f87a7fcbcd264bbe0c_72.jpg",
+            "first_name": "Artemiy",
+            "real_name": "Artemiy Gushchin",
+            "display_name": "gushart",
+            "team": "T040HKJE3",
+            "name": "ponafly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "e2a20352-5e1a-4e2c-ae5c-e4cfcb820733",
+        "type": "message",
+        "text": "1) по поводу постера - да, идея в том, что вы рассказали что-то о своей работе, где используете ML. При подаче заявки вы указываете название и абстракт (краткое содержание). На мероприятии будет специально отведенное время для poster session, когда вы представите свой постер. В постере вы можете рассказать как о законченной работе, так и о том, что только начали делать. Цель - поделиться с другими участниками чем-то интересным и связанным с ML.",
+        "user": "U0Y7U6YER",
+        "ts": "1558622440.455700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U97RMH3HQ",
+                    "U9073D7GC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47028e34-8d71-4c16-a9b4-77a6482cc861",
+        "type": "message",
+        "text": "2) По поводу рекомендации - просите какого-то релевантного человека - научрука, знакомого преподователя из института, начальника с работы, и тп - что-то про вас написать как о специалисте, про ваши знания в ML.",
+        "user": "U0Y7U6YER",
+        "ts": "1558622502.455900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UC7F2BVR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83b33558-a4af-49df-bd19-9fb1be241903",
+        "type": "message",
+        "text": "<@U0Y7U6YER> Рекомендация тоже на инглише?",
+        "user": "UHLKEBC1J",
+        "ts": "1558625901.456300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c733ac13a310",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-03\/596776198144_c733ac13a3109fab903b_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Orlov",
+            "display_name": "Nikita Orlov",
+            "team": "T040HKJE3",
+            "name": "someoneorlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "54ded5c4-69da-4084-bb93-36a8cc1eef65",
+        "type": "message",
+        "text": "Да. У меня часть коллег англоязычные, кто все это смотреть будет.",
+        "user": "U0Y7U6YER",
+        "ts": "1558625943.456500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "8ff4a9c3-d6e1-4731-96e5-31d4f0a25366",
+        "type": "message",
+        "text": "ну и рабочий язык - английский",
+        "user": "U0Y7U6YER",
+        "ts": "1558625950.456700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "f486ffd7-a608-4d0a-b691-e24c51315191",
+        "type": "message",
+        "text": "Еще вопрос: то, что помечено как “*optional for industry applicants”\n\nЭто опшинал в принципе, или имеется в виду что для студентов не требуется, а для уже-не-студентов обязательно?",
+        "user": "UHLKEBC1J",
+        "ts": "1558626110.457000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c733ac13a310",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-03\/596776198144_c733ac13a3109fab903b_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Orlov",
+            "display_name": "Nikita Orlov",
+            "team": "T040HKJE3",
+            "name": "someoneorlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "9901e234-10dd-49fa-91bb-00b640789bef",
+        "type": "message",
+        "text": "Когда пришлете ссылочку на онлайн тест?",
+        "user": "UF7F03P2S",
+        "ts": "1558628835.457500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8bda5af0057",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/188bda5af0057fe71c0b87b37ac38ef7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Miroshnik",
+            "real_name": "Miroshnik Valery",
+            "display_name": "hpaapipny",
+            "team": "T040HKJE3",
+            "name": "hpaapipny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557312016.222400",
+        "parent_user_id": "UCMC5J36D"
+    },
+    {
+        "client_msg_id": "d21115a2-3b64-45d7-9458-ade8377bd47b",
+        "type": "message",
+        "text": "имеется в виду, что если человек подается как сотрудник компании, и компания за него платит (по повышенной стоимости), то некоторые документы - optional",
+        "user": "U0Y7U6YER",
+        "ts": "1558629494.457800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UHLKEBC1J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd9e3c4a-44ca-40d5-8e66-550cf436946e",
+        "type": "message",
+        "text": "Сорри за задержку, нам нужно ещё дня два-три. Посмотрев свежим взглядом мы поняли, что пережестили с задачами для теста. Учитывая, что впереди ещё экзамен - решили упростить немного.",
+        "user": "UF2N1558C",
+        "ts": "1558634796.458800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c9a6dd9961e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-08\/629886418128_c9a6dd9961e23810b588_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ydorn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557312016.222400",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UF7F03P2S",
+                    "UA1KQL1BM",
+                    "UFL313W1G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94fbe3ad-6241-4dc0-9125-6b5faed469a4",
+        "type": "message",
+        "text": "Без академического бекграунда(только бакалавриат без публикаций), с индустриальным опытом, что то светит?",
+        "user": "U0ZJSC8JC",
+        "ts": "1558674275.000400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14fddee90abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-11\/33753285652_14fddee90abbe25de7fd_72.jpg",
+            "first_name": "andrey",
+            "real_name": "andrey litvinov",
+            "display_name": "laol",
+            "team": "T040HKJE3",
+            "name": "laol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    }
+]

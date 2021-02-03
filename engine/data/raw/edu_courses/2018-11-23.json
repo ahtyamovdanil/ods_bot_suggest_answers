@@ -1,0 +1,1315 @@
+[
+    {
+        "client_msg_id": "ba729b94-0f3d-44cb-9261-9404b7e4252f",
+        "type": "message",
+        "text": "<@UDSJKKTJ8> без теории никуда, но учить линал по Кострикину для работы и каггла не очень поможет.\n\nТа же спецуха от Вышки и Яндекса (как выше рекомендовали) даст стартовый объем теории, вполне достаточный для джуна, но не даст достаточно практики решения задач. Каггл — пусть штука суррогатная относительно реального датасайенса, но дает куда большее представление о задачах работы с данными, чем курсы, во многом потому, что заставляет писать много кода, экспериментировать и сравнивать себя с другими.",
+        "user": "U0ZHCGY5T",
+        "ts": "1542960629.397400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4E2LU4F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19c9b2d6-854c-45ae-a613-dd824508ddef",
+        "type": "message",
+        "text": "а заявка на finaid заполняется на английском или на русском тоже проходит? сомневаюсь в своей способности написать что-то больше \"ай`м нот хэв мани\" :slightly_smiling_face:",
+        "user": "U6TFPN2CQ",
+        "ts": "1542962667.398000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69506f7797e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-23\/1521586706370_69506f7797e1c8320aec_72.png",
+            "first_name": "Nickolay",
+            "real_name": "Nickolay Sergushenkov",
+            "display_name": "sergushenkov",
+            "team": "T040HKJE3",
+            "name": "sergushenkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542956296.381000",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "client_msg_id": "3747d253-e418-4c8a-8943-0497ad9a6090",
+        "type": "message",
+        "text": "&gt; When you apply for financial aid for a Specialization, you will get Financial Aid only for the first course. You will need to submit separate applications for each new course as you go through the Specialization\n\nэто правило точно очень давно существует",
+        "user": "U1BMURR5G",
+        "ts": "1542964164.398700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542956296.381000",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "client_msg_id": "922de5fa-9ac7-47a2-846c-088b719d8dcd",
+        "type": "message",
+        "text": "А кто-то, может, подскажет видеолекцию уровня cs224n про трансформеры? Или может с последнего запуска где-то есть её запись?",
+        "user": "U6MD6AVK2",
+        "ts": "1542965190.400100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6d6ebccb3a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-14\/226028985411_6d6ebccb3a789bc03443_72.png",
+            "first_name": "",
+            "real_name": "dr_no",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dr_no",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542965190.400100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1543346595.539800",
+        "reply_users": [
+            "U6WMC1ZS5"
+        ],
+        "replies": [
+            {
+                "user": "U6WMC1ZS5",
+                "ts": "1543346595.539800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A2FC3287-146E-40E2-B45C-C8F7F6FE66AD",
+        "type": "message",
+        "text": "Напиши свой текущий уровень. \nДля получения первой работы я обычно советую master python\/sql. \nВо первых, в джобс пролетали вакансии, где прямым текстом говорилось что 40 часов решения задачек по sql и позиция ваша.\nВо вторых, для человека, умеющего кодить, и свободно пишущего на питоне, работа всегда найдётся, никто не ждёт от джуниора знаний feature engineering в предметной области.\nВ третьих, матан это не ремесло, сам по себе он денег не приносит, в отличие от того же питона. Это знание, и нужно понимать разницу между этими двумя понятиями.\n\nПоэтому нужно чётко ответить себе на вопрос: хочу ли я получить знаний, или первую работу.",
+        "user": "U2N853RGF",
+        "ts": "1542966454.406600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U2GAEHQR1",
+                    "U0ZHCGY5T",
+                    "U27SUBTB9",
+                    "U6UNGFSMQ",
+                    "U0546DHDK",
+                    "U126TCE79",
+                    "UHE741S5N"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b12364e-a1dd-455c-a4bd-75d02b7f6440",
+        "type": "message",
+        "text": "Я лично обожаю Кострикина, но он тебе в твоей цели не поможет. Хотя удовольствия можно много получить)\nЛучше курсеровские специализации, в них точно только нужное.",
+        "user": "UD2EX7JP9",
+        "ts": "1542967392.407200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71226a5e344e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/466480102403_71226a5e344ef3be9f38_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Pavlovskaia",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ya-ne-bo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a57c0713-edb5-41a7-b3d7-da30be54b4f8",
+        "type": "message",
+        "text": "Добрый день! А кто-нибудь проходил на udacity специализацию по self-driving cars? Она осмысленная?",
+        "user": "UD2EX7JP9",
+        "ts": "1542967538.408100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71226a5e344e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/466480102403_71226a5e344ef3be9f38_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Pavlovskaia",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ya-ne-bo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967538.408100",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1543147459.467900",
+        "reply_users": [
+            "U5EF4EQR1",
+            "UD2EX7JP9",
+            "U09BY2N3X",
+            "U14CTBLFJ",
+            "U7PG7QX51"
+        ],
+        "replies": [
+            {
+                "user": "U5EF4EQR1",
+                "ts": "1542967590.408700"
+            },
+            {
+                "user": "UD2EX7JP9",
+                "ts": "1542968134.410800"
+            },
+            {
+                "user": "U09BY2N3X",
+                "ts": "1542968227.411100"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1542968594.411500"
+            },
+            {
+                "user": "U5EF4EQR1",
+                "ts": "1542985579.418600"
+            },
+            {
+                "user": "UD2EX7JP9",
+                "ts": "1542998141.421300"
+            },
+            {
+                "user": "U7PG7QX51",
+                "ts": "1543146498.467400"
+            },
+            {
+                "user": "U7PG7QX51",
+                "ts": "1543146527.467700"
+            },
+            {
+                "user": "UD2EX7JP9",
+                "ts": "1543147459.467900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "39ffb0de-7490-4dc2-a80b-7c976b0a2c4a",
+        "type": "message",
+        "text": "она дороговатая :disappointed: лучше взять курс от MIT",
+        "user": "U5EF4EQR1",
+        "ts": "1542967590.408700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "30a36a3cbeeb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-12\/757793530656_30a36a3cbeeb32bc8c69_72.jpg",
+            "first_name": "Olga",
+            "real_name": "Olga Ivanova",
+            "display_name": "olgaiv39",
+            "team": "T040HKJE3",
+            "name": "olga.ivanova39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "f8d88caa-214f-4eb5-be83-cc9952b4e9c4",
+        "type": "message",
+        "text": "Кстати, я получил вот такое письмо от Udacity:\nСкидка 15% на любую Nanodegree программу: `15OFFBF`\n\n Не знаю, сработает ли у вас и пригодится ли.",
+        "user": "U3P82LKDK",
+        "ts": "1542967804.410100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3P82LKDK",
+            "ts": "1542967880.000000"
+        },
+        "thread_ts": "1542967804.410100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1542972562.415900",
+        "reply_users": [
+            "U1BMURR5G",
+            "U9V48C738",
+            "UB4AGRL3C",
+            "UCBR1BP37"
+        ],
+        "replies": [
+            {
+                "user": "U1BMURR5G",
+                "ts": "1542967929.410500"
+            },
+            {
+                "user": "U9V48C738",
+                "ts": "1542968512.411300"
+            },
+            {
+                "user": "UB4AGRL3C",
+                "ts": "1542970972.412900"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1542972260.414300"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1542972284.414500"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1542972562.415900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "591bb566-7f67-42c3-86d5-dea43701ce8e",
+        "type": "message",
+        "text": "сработает конечно, это же не персонализированный код. но я смотрю нанодигри у удасити уже по штуке баксов ... как-то это :disappointed:",
+        "user": "U1BMURR5G",
+        "ts": "1542967929.410500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "b97b7b13-17d8-4059-9051-f53444df6a4a",
+        "type": "message",
+        "text": "Я смотрела какой-то курс от  MIT из нескольких лекций, как по мне очень уж обзорно. Или Вы какой курс имеете в виду?\nА дороговатая - это сколько? Я вот мне могу понять $1200 долларов это за один модуль или за оба?",
+        "user": "UD2EX7JP9",
+        "ts": "1542968134.410800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71226a5e344e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/466480102403_71226a5e344ef3be9f38_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Pavlovskaia",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ya-ne-bo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "894da87a-a356-4c88-a245-31d437304700",
+        "type": "message",
+        "text": "1200 за все вроде",
+        "user": "U09BY2N3X",
+        "ts": "1542968227.411100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6fa92c4d29b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/185152750597_6fa92c4d29b6e84e3603_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Manokhina",
+            "display_name": "manokhina",
+            "team": "T040HKJE3",
+            "name": "bauchgefuhl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "c475da8f-8286-42bc-90f8-d4299b6af595",
+        "type": "message",
+        "text": "А их кстати  пиратят :pirate:  ?",
+        "user": "U9V48C738",
+        "ts": "1542968512.411300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78092502e20b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-02\/427031868208_78092502e20bb23c87f6_72.jpg",
+            "first_name": "Insaf",
+            "real_name": "Insaf",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "oopx",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "9c3aeec0-5f67-4e2b-ba32-9396b70580d1",
+        "type": "message",
+        "text": "$1200 за term * 2. Тут писали отзывы про дигри",
+        "user": "U14CTBLFJ",
+        "ts": "1542968594.411500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1542968626.000000"
+        },
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "4dee5598-12e0-4a8c-b6a0-05a0a944863f",
+        "type": "message",
+        "text": "<@U8BHF35KN> я в целом согласен со всеми кто выше писал и курсы все предложены хорошие. Но если смотреть на твой случай когда все ок с программированием, но есть трудности с математикой - я бы рекомендовал классический курс Andrew Ng на matlab\/octave + Khan Academy. Я после универа с трудом вспоминал матрицы и градиенты, но посидев пару дней с khan academy и предварительно порешав кое-что из курса\/примеров на листочке (умножение матриц и т.п.) - пошло намного проще. В чем плюс matlab в данном случае - там работа с матрицами и векторами, что на мой взгляд крайне важно понять и привыкнуть (тут кто-то может поспорить что можно numpy и <http:\/\/deeplearning.ai|deeplearning.ai> и, возможно, они будут правы, но в отличие от matlab в numpy можно скатится в привычные циклы). Хотя практической пользы от знания matlab как языка (инструмента?) ждать не стоит.",
+        "user": "U6Z21KSBC",
+        "ts": "1542970675.412200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83c208ecba22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-05\/429449118643_83c208ecba22effb0557_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Zavgorodnii",
+            "display_name": "nj",
+            "team": "T040HKJE3",
+            "name": "nikitaj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542934354.371000",
+        "parent_user_id": "U8BHF35KN"
+    },
+    {
+        "client_msg_id": "d07ff57b-a181-47bd-9620-f92004f64b67",
+        "type": "message",
+        "text": "Стренг классный, ваще хорошо помогает!",
+        "user": "UA92L7ACC",
+        "ts": "1542970677.412400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b6af9b42202c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355029640979_b6af9b42202cbfefdab1_72.jpg",
+            "first_name": "Artyom",
+            "real_name": "Artyom Palvelev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "palvelev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e39597b7-1fc6-4f5e-aed4-b40d618738dc",
+        "type": "message",
+        "text": "У Кострикина отличный трехтомник, но вряд ли этот курс подходит для прикладных целей, тогда уж лучше Тыртышников, например.\n\nА можно пробежаться по следующим ресурсам:\n\n  — <https:\/\/www.deeplearningbook.org\/contents\/linear_algebra.html>\n\n— <https:\/\/mml-book.github.io\/book\/chapter02.pdf>\n<https:\/\/mml-book.github.io\/book\/chapter03.pdf>\n<https:\/\/mml-book.github.io\/book\/chapter04.pdf>\n(да и вообще весь курс)\n\n— <http:\/\/cs229.stanford.edu\/section\/cs229-linalg.pdf>\n\nКонечно, это по объему и глубине даже близко не соответствует Кострикину, Винбергу и другим крутым учебникам, но, если \"глубины\" не хватит, ее можно будет дополнительно добрать, а пока ограничиться базовыми материалами. Quick and dirty.\n\nДля интуиции рекомендую учебник Стрэнга ещё.\n\nА по теории вероятностей и статистике порекомендую следующий курс:\n<https:\/\/probabilitycourse.com>\n\nОтдельные темы неплохо объяснены в ISLR (Introduction to statistical learning).",
+        "user": "U6UNGFSMQ",
+        "ts": "1542970766.412600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "eff383d4d597",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-02\/739135107601_eff383d4d5978485bd8c_72.jpg",
+            "first_name": "Timur",
+            "real_name": "Timur Sharapov",
+            "display_name": "wdesert",
+            "team": "T040HKJE3",
+            "name": "wdesert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9866fb26-a4e5-49b9-b3bd-0aac6bec945e",
+        "type": "message",
+        "text": "<@U9V48C738> не знаю пиратят ли nanodegree, но (друг) как-то видел на одном из торрент-трекеров курс от udacity, так что   стоит поискать.",
+        "user": "UB4AGRL3C",
+        "ts": "1542970972.412900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4af4ece2cd3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-01\/1216761266995_4af4ece2cd3a843c9f28_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nikalayeu",
+            "display_name": "Pavel Nikalayeu",
+            "team": "T040HKJE3",
+            "name": "pavel.nikalayeu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "39016a77-ec1d-4cbf-ba16-dad1b9ff4622",
+        "type": "message",
+        "text": "Спасибо всем участника треда!\nЧто вынес для себя\/ как скоррективровал план:\nISLR приобрел. Жду доставку завтра.\n<http:\/\/mml-book.github.io> - в списках MustRead\nс Пн. прохожу указанную выше специализацию на Coursera\nпопутно вписываюсь в соревнование на каггл…..",
+        "user": "UDSJKKTJ8",
+        "ts": "1542971705.413600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64b4321d92c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-22\/485897860372_64b4321d92c3bf354f23_72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Ignatev",
+            "display_name": "Nikolay Ignatev",
+            "team": "T040HKJE3",
+            "name": "noilgt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mathematics for Machine Learning",
+                "title_link": "http:\/\/mml-book.github.io\/",
+                "text": "Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. To be published by Cambridge University Press.",
+                "fallback": "Mathematics for Machine Learning",
+                "from_url": "http:\/\/mml-book.github.io\/",
+                "service_name": "mml-book.github.io",
+                "id": 1,
+                "original_url": "http:\/\/mml-book.github.io"
+            }
+        ],
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8"
+    },
+    {
+        "client_msg_id": "e62545cd-9e92-45d9-b0fb-18a28eef41f7",
+        "type": "message",
+        "text": "Попутно каггл не очень хорошая идея, очень тяжело делать две вещи с дедлайнами одновременно. Лучше сделай курс по-быстрому, а потом с новыми силами и выросшей мотивацией берись за каггл.",
+        "user": "UA92L7ACC",
+        "ts": "1542972041.414100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b6af9b42202c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355029640979_b6af9b42202cbfefdab1_72.jpg",
+            "first_name": "Artyom",
+            "real_name": "Artyom Palvelev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "palvelev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b61c6fa4-88c6-4641-917b-d652efbfbef7",
+        "type": "message",
+        "text": "ну они делают основной упор на проверки заданий менторам и т.д., да и часть курсов из специализации доступна бесплатно на самой удасити (искать по udacity free courses)",
+        "user": "U1BMURR5G",
+        "ts": "1542972260.414300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "861514cf-bdd4-4961-bddd-752f837785d3",
+        "type": "message",
+        "text": "если это просто видео лекции и самостоятельная работа то почему бы не взять курс MIT, Stanford + youtube lectures + conference keynotes etc.",
+        "user": "U1BMURR5G",
+        "ts": "1542972284.414500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1542972310.000000"
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "50d19b97-2f51-4529-97a4-986a19ec2ec3",
+        "type": "message",
+        "text": "Подавал на 6 сразу параллельно, раздают без проблем.",
+        "user": "UCBR1BP37",
+        "ts": "1542972298.414800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542956296.381000",
+        "parent_user_id": "U14CTBLFJ"
+    },
+    {
+        "client_msg_id": "be13cbef-1c78-4704-a085-f3f6409f1bc0",
+        "type": "message",
+        "text": "На самом Kaggle есть раздел Learn с набором курсов. Рекомендую. P.S. ISLR — must read. А в виде онлайн курса паралельно с прочтением можно ещё и с R нормально ознакомиться. ",
+        "user": "U8PMZ6397",
+        "ts": "1542972366.415100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8"
+    },
+    {
+        "client_msg_id": "2ee8a104-3a7d-48a4-b764-6cd6ab43f7e4",
+        "type": "message",
+        "text": "А тут ISLR переписали на питоне. Может, пригодится. <https:\/\/github.com\/JWarmenhoven\/ISLR-python>",
+        "user": "U6UNGFSMQ",
+        "ts": "1542972416.415300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "eff383d4d597",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-02\/739135107601_eff383d4d5978485bd8c_72.jpg",
+            "first_name": "Timur",
+            "real_name": "Timur Sharapov",
+            "display_name": "wdesert",
+            "team": "T040HKJE3",
+            "name": "wdesert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "JWarmenhoven\/ISLR-python",
+                "text": "An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code",
+                "title": "JWarmenhoven\/ISLR-python",
+                "footer": "<https:\/\/github.com\/JWarmenhoven\/ISLR-python|JWarmenhoven\/ISLR-python>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1434298440,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1370",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/JWarmenhoven\/ISLR-python",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "omgtnx",
+                "users": [
+                    "U8PMZ6397",
+                    "UDSJKKTJ8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UDSJKKTJ8",
+                    "UDTFQJN1M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f43e267c-37b1-45b1-8d14-94237ee4e48b",
+        "type": "message",
+        "text": "<https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about>",
+        "user": "U8PMZ6397",
+        "ts": "1542972559.415600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Statistical Learning",
+                "title_link": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "text": "Learn some of the main tools used in statistical modeling and data science. We cover both traditional as well as exciting new methods, and how to use them in R.",
+                "fallback": "Statistical Learning",
+                "from_url": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "service_icon": "https:\/\/lagunita.stanford.edu\/static\/lagunita\/images\/favicon.e5d8e474e88d.ico",
+                "service_name": "lagunita.stanford.edu",
+                "id": 1,
+                "original_url": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about"
+            }
+        ],
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8"
+    },
+    {
+        "client_msg_id": "9a58c927-39cf-4422-8ca2-ee8cd6e34fe2",
+        "type": "message",
+        "text": "Вспоминая Сираджа: очень часто курсы на юдасити это довольно интуитивное объяснение от лектора и пихание в потребляющего горы ссылок на и без того доступные ресурсы для самостоятельного изучения.",
+        "user": "UCBR1BP37",
+        "ts": "1542972562.415900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967804.410100",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "fab7f6b0-a378-4bd5-ab63-cecbbd5e9845",
+        "type": "message",
+        "text": "<@U2N853RGF> А что можно считать master python?",
+        "user": "U6UUFSM51",
+        "ts": "1542973465.416500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g03c1b876847",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5903c1b87684763fb00e31a072b6e5a5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Sinyukov",
+            "display_name": "Aleksandr Sinyukov",
+            "team": "T040HKJE3",
+            "name": "astropudding",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F1FD2E17-7E04-466F-AF14-E0BC32D3837F",
+        "type": "message",
+        "text": "Ну как взяли на работу, так, значит, и master! :smekalka: ",
+        "user": "U2N853RGF",
+        "ts": "1542974618.417400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8"
+    },
+    {
+        "client_msg_id": "b3309872-5f95-44b5-84d8-f160bea028e5",
+        "type": "message",
+        "text": "Книжки Кострикина говнище, да и зачем настолько углубляться? Я не видел, чтобы где-то понятием группы даже оперировали, это все абсолютно пустое.\nНачните с чего-нибудь простого, а Kaggle лучше отложить (либо в долгий ящик, либо совсем).",
+        "user": "UBS3ADBAA",
+        "ts": "1542978213.418000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbb0c25e1369",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/03bb0c25e13695c94146af097f9b5aa9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Viktor",
+            "real_name": "Viktor K.",
+            "display_name": "varnothing",
+            "team": "T040HKJE3",
+            "name": "viktor.kuvaldin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UBS3ADBAA",
+            "ts": "1542978262.000000"
+        },
+        "thread_ts": "1542957728.382800",
+        "parent_user_id": "UDSJKKTJ8",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U1R8X3V54",
+                    "U6CKPN7C5",
+                    "UDSJKKTJ8",
+                    "UEE6V2P46",
+                    "UF1D3RDEK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbab5cb5-2352-4b14-be88-ee646b837d44",
+        "type": "message",
+        "text": "<@UD2EX7JP9>  я про вот  этот курс: <https:\/\/selfdrivingcars.mit.edu\/>",
+        "user": "U5EF4EQR1",
+        "ts": "1542985579.418600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "30a36a3cbeeb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-12\/757793530656_30a36a3cbeeb32bc8c69_72.jpg",
+            "first_name": "Olga",
+            "real_name": "Olga Ivanova",
+            "display_name": "olgaiv39",
+            "team": "T040HKJE3",
+            "name": "olga.ivanova39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+                "title_link": "https:\/\/selfdrivingcars.mit.edu\/",
+                "text": "An introduction to deep learning through the applied theme of building a self-driving car. Includes video lectures, competitions, and guest talks.",
+                "fallback": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+                "image_url": "https:\/\/selfdrivingcars.mit.edu\/wordpress\/wp-content\/uploads\/2017\/12\/share_image.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/selfdrivingcars.mit.edu\/",
+                "image_bytes": 153400,
+                "service_name": "selfdrivingcars.mit.edu",
+                "id": 1,
+                "original_url": "https:\/\/selfdrivingcars.mit.edu\/"
+            }
+        ],
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "1b522e09-fb6d-4d9c-a064-6987a0117df0",
+        "type": "message",
+        "text": "Recent Hot Stuff - Advanced DL &amp; RL - by DeepMind\n<https:\/\/www.youtube.com\/watch?v=iOh7QUZGyiU&amp;list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs>",
+        "user": "U97BME4Q7",
+        "ts": "1542990455.419400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d1ca734d3ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-10\/313113763700_8d1ca734d3ce259ae569_72.jpg",
+            "first_name": "Atanas",
+            "real_name": "Atanas Atanasov",
+            "display_name": "Atanas Atanasov",
+            "team": "T040HKJE3",
+            "name": "atanas.atanasov.sf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Deep Learning 1: Introduction to Machine Learning Based AI",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=iOh7QUZGyiU",
+                "author_name": "DeepMind",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCP7jMXSY2xbc3KCAE0MHQ-A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/iOh7QUZGyiU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Deep Learning 1: Introduction to Machine Learning Based AI",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/iOh7QUZGyiU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=iOh7QUZGyiU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=iOh7QUZGyiU&amp;list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U74DLUWUC",
+                    "U049HDR2Z",
+                    "U2N853RGF",
+                    "U95EDL3H8",
+                    "UD6H15YE5",
+                    "U09JEC7V0"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U2N853RGF",
+                    "U9V40URDY",
+                    "U71R6PJ73",
+                    "U09JEC7V0",
+                    "U6YT3HHML"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U95EDL3H8",
+                    "U6KGETZ40",
+                    "U8W7ZER6X",
+                    "U09JEC7V0",
+                    "U6YT3HHML"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fd43c67-6b27-4a70-82ff-3a0f1ff432bf",
+        "type": "message",
+        "text": "<@U5EF4EQR1> Да, его я уже смотрела, спасибо.",
+        "user": "UD2EX7JP9",
+        "ts": "1542998141.421300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71226a5e344e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/466480102403_71226a5e344ef3be9f38_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Pavlovskaia",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ya-ne-bo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542967538.408100",
+        "parent_user_id": "UD2EX7JP9"
+    },
+    {
+        "client_msg_id": "79b4a4ed-ecd8-41d8-a535-80a037639792",
+        "type": "message",
+        "text": "Тут выложили Deep Learning Foundation Nanodegree v1.0.0 от Udacity 2017 года. Исключительно в ознакомительных целях:\n<https:\/\/rutracker.org\/forum\/viewtopic.php?t=5648225>",
+        "user": "U14CTBLFJ",
+        "ts": "1543003144.422800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "[Udacity] Deep Learning Foundation Nanodegree v1.0.0 [2017, ENG, ММ] :: RuTracker.org",
+                "title_link": "https:\/\/rutracker.org\/forum\/viewtopic.php?t=5648225",
+                "text": "[Udacity] Deep Learning Foundation Nanodegree v1.0.0 [2017, ENG, ММ] » Программирование (видеоуроки) » Скачать торрент :: <http:\/\/RuTracker.org|RuTracker.org>",
+                "fallback": "[Udacity] Deep Learning Foundation Nanodegree v1.0.0 [2017, ENG, ММ] :: RuTracker.org",
+                "from_url": "https:\/\/rutracker.org\/forum\/viewtopic.php?t=5648225",
+                "service_icon": "https:\/\/rutracker.org\/favicon.ico",
+                "service_name": "rutracker.org",
+                "id": 1,
+                "original_url": "https:\/\/rutracker.org\/forum\/viewtopic.php?t=5648225"
+            }
+        ],
+        "thread_ts": "1543003144.422800",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1543131130.463500",
+        "reply_users": [
+            "U14CTBLFJ",
+            "U57JJAVLN",
+            "U3NV5ADL4",
+            "U9T0G9W3G"
+        ],
+        "replies": [
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1543003532.423600"
+            },
+            {
+                "user": "U57JJAVLN",
+                "ts": "1543057122.435500"
+            },
+            {
+                "user": "U3NV5ADL4",
+                "ts": "1543077349.451800"
+            },
+            {
+                "user": "U9T0G9W3G",
+                "ts": "1543077651.452300"
+            },
+            {
+                "user": "U57JJAVLN",
+                "ts": "1543131130.463500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U1BMURR5G",
+                    "U17UDV31D",
+                    "UE259V12B",
+                    "U4WM1939Q",
+                    "U9K9L5615",
+                    "U7GFT92PN",
+                    "U48A49NRJ",
+                    "U7906J4CV",
+                    "UDK41MN5U",
+                    "U0546DHDK",
+                    "U9T0G9W3G",
+                    "U5WCUGTBP",
+                    "U4DT019M2",
+                    "U71L6NBV5"
+                ],
+                "count": 14
+            },
+            {
+                "name": "pirate",
+                "users": [
+                    "U1BMURR5G",
+                    "U17UDV31D",
+                    "U66J54U02",
+                    "U4N7G9RQA",
+                    "U9V48C738",
+                    "U4X5JVCQ0",
+                    "U93TH9FU0",
+                    "U93ARKCBS",
+                    "U4WM1939Q",
+                    "U7VDWFSG3",
+                    "U5H055U0J",
+                    "UD6H15YE5",
+                    "U9K9L5615",
+                    "U1CMPEWPQ",
+                    "U7GFT92PN",
+                    "U2ZAVPXND",
+                    "UDK41MN5U",
+                    "U9JG577D1",
+                    "U27SUBTB9",
+                    "U9LKKNJHE",
+                    "U9T0G9W3G",
+                    "UDSC91AH1",
+                    "U0JCGNUCB"
+                ],
+                "count": 23
+            },
+            {
+                "name": "free",
+                "users": [
+                    "U4UQPNV9S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U5H0L5T98",
+                    "U34SSE54G",
+                    "U24N3AB96",
+                    "U9T0G9W3G",
+                    "U5EGA37D0"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U34SSE54G",
+                    "U0JCGNUCB",
+                    "UCFQNLN4V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U34SSE54G",
+                    "U4YQSE857",
+                    "U24N3AB96",
+                    "U0JCGNUCB",
+                    "U6YT3HHML"
+                ],
+                "count": 5
+            },
+            {
+                "name": "woohoo",
+                "users": [
+                    "U57JJAVLN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star",
+                "users": [
+                    "U302AALBS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abc87ece-5e0f-45c3-9402-e9af0a51fa84",
+        "type": "message",
+        "text": "Там и AI 2017 и ml 2018 нанодигри есть тоже.",
+        "user": "U14CTBLFJ",
+        "ts": "1543003532.423600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1543003552.000000"
+        },
+        "thread_ts": "1543003144.422800",
+        "parent_user_id": "U14CTBLFJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UE259V12B",
+                    "UD6H15YE5",
+                    "U5H0L5T98"
+                ],
+                "count": 3
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U5H0L5T98",
+                    "U5FUU47GA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

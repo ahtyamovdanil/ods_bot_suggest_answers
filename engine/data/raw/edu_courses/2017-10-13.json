@@ -1,0 +1,556 @@
+[
+    {
+        "type": "message",
+        "text": "на уровне первых страниц документации тензорфлоу.",
+        "user": "U19EZ8L5D",
+        "ts": "1507881301.000060",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c36a52cd02e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43520908274_8c36a52cd02e63d06789_72.jpg",
+            "first_name": "Vasiliy",
+            "real_name": "Vasiliy Zemlyanov",
+            "display_name": "re9ulus",
+            "team": "T040HKJE3",
+            "name": "re9ulus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507851288.000011",
+        "parent_user_id": "U794MMJ4U",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4B8MC0AD",
+                    "U73S8A3E1",
+                    "U5CD22Z5E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ребята, а есть где-то сводная страничка про готовящийся курс по data engineering?",
+        "user": "U50FD7B7C",
+        "ts": "1507895758.000264",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6acd219f2d19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-14\/329179750752_6acd219f2d1928ae34bf_72.jpg",
+            "first_name": "Aleks",
+            "real_name": "Aleks Artamonov",
+            "display_name": "aleksart",
+            "team": "T040HKJE3",
+            "name": "aleksart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507895758.000264",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1507898554.000130",
+        "reply_users": [
+            "U5R6WCSBU",
+            "U1CEWC3BJ",
+            "U50FD7B7C"
+        ],
+        "replies": [
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1507896069.000134"
+            },
+            {
+                "user": "U1CEWC3BJ",
+                "ts": "1507896384.000114"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1507896462.000211"
+            },
+            {
+                "user": "U50FD7B7C",
+                "ts": "1507898554.000130"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "об этом речь? <https:\/\/www.coursera.org\/specializations\/big-data-engineering>",
+        "user": "U5R6WCSBU",
+        "ts": "1507896069.000134",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1507896078.000000"
+        },
+        "thread_ts": "1507895758.000264",
+        "parent_user_id": "U50FD7B7C"
+    },
+    {
+        "type": "message",
+        "text": "речь скорее всего про курс одс",
+        "user": "U1CEWC3BJ",
+        "ts": "1507896384.000114",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cbca8e74ab90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-30\/816866444006_cbca8e74ab9003465747_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Matveev",
+            "display_name": "optik",
+            "team": "T040HKJE3",
+            "name": "optik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507895758.000264",
+        "parent_user_id": "U50FD7B7C"
+    },
+    {
+        "type": "message",
+        "text": "там курс по биг дата (хотя вероятно в контексте DS и мало чем отличаться должен) планировался и вроде как все, что есть по нему -это табличка со списком авторов.",
+        "user": "U5R6WCSBU",
+        "ts": "1507896462.000211",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1507896532.000000"
+        },
+        "thread_ts": "1507895758.000264",
+        "parent_user_id": "U50FD7B7C"
+    },
+    {
+        "type": "message",
+        "text": "<@U6NG0K2BW> тут вопрос не про Fin Aid был, а про курсеровскую подписку, за которую деньги платишь и получаешь доступ к проверке домашек\/сертификатам :thinking_face:",
+        "user": "U35EN5VLG",
+        "ts": "1507896896.000013",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "637777992c39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/354816243777_637777992c39586ca22d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Salynskii",
+            "display_name": "asalynskii",
+            "team": "T040HKJE3",
+            "name": "asalynskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507810175.000323",
+        "parent_user_id": "U35EN5VLG"
+    },
+    {
+        "type": "message",
+        "text": "Я чёт не верю что к специализациям доступ будет. Тогда какой смысл за них платить если можно подписаться у курсеры и брать по десятку специализаций сразу.",
+        "user": "U5R7NF98S",
+        "ts": "1507897281.000469",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3241cf2276c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289366714609_f3241cf2276c14f63732_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan",
+            "display_name": "expert",
+            "team": "T040HKJE3",
+            "name": "expert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507810175.000323",
+        "parent_user_id": "U35EN5VLG"
+    },
+    {
+        "type": "message",
+        "text": "Нужен какой-то с одной стороны глубокий курс\/книга по дифференциальным играм, с другой стороны меня высокая теория сейчас вообще не волнует, просто хочу понять какие игры человечество научилось решать, как их задавать и чего там вообще",
+        "user": "U0AS548A1",
+        "ts": "1507897614.000408",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AS548A1",
+            "ts": "1507897652.000000"
+        },
+        "thread_ts": "1507897614.000408",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1507924208.000178",
+        "reply_users": [
+            "U0AS548A1",
+            "U6MD6AVK2",
+            "U04ELQZAU"
+        ],
+        "replies": [
+            {
+                "user": "U0AS548A1",
+                "ts": "1507899630.000035"
+            },
+            {
+                "user": "U6MD6AVK2",
+                "ts": "1507901205.000132"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1507906117.000368"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1507906789.000126"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1507924124.000547"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1507924208.000178"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "доступ ко всему. у меня подписка - 50$ в месяц и все курсы и специализации можно проходить без дополнительной платы",
+        "user": "U7E7WDMMG",
+        "ts": "1507897891.000281",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge6fec763a6b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f1e6fec763a6b4c89b1ef780ae639720.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Andrey Safonov",
+            "display_name": "andrey",
+            "team": "T040HKJE3",
+            "name": "andrei411",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7E7WDMMG",
+            "ts": "1507897915.000000"
+        },
+        "thread_ts": "1507810175.000323",
+        "parent_user_id": "U35EN5VLG"
+    },
+    {
+        "type": "message",
+        "text": "да, про ods, но за эту ссылку тоже спасибо.",
+        "user": "U50FD7B7C",
+        "ts": "1507898554.000130",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6acd219f2d19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-14\/329179750752_6acd219f2d1928ae34bf_72.jpg",
+            "first_name": "Aleks",
+            "real_name": "Aleks Artamonov",
+            "display_name": "aleksart",
+            "team": "T040HKJE3",
+            "name": "aleksart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507895758.000264",
+        "parent_user_id": "U50FD7B7C"
+    },
+    {
+        "type": "message",
+        "text": "А при чем тут альфа-го? Да и содержание в целом выглядит как-то про другое.  Т.е. это конечно все связано с оптимальным управлением, но на диффигры не похоже",
+        "user": "U0AS548A1",
+        "ts": "1507899630.000035",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1"
+    },
+    {
+        "type": "message",
+        "text": "Интересно. А не скинете ссылку где можно подписаться ? Я найти не могу. И не знаете, нужно ли мне будет отписаться от специализации ?",
+        "user": "U5R7NF98S",
+        "ts": "1507899951.000182",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3241cf2276c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289366714609_f3241cf2276c14f63732_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan",
+            "display_name": "expert",
+            "team": "T040HKJE3",
+            "name": "expert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507810175.000323",
+        "parent_user_id": "U35EN5VLG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6Z65KHPG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а, наверное, я пропустил слово \"дифференциальным\" :facepalm: nevermind",
+        "user": "U6MD6AVK2",
+        "ts": "1507901205.000132",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6d6ebccb3a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-14\/226028985411_6d6ebccb3a789bc03443_72.png",
+            "first_name": "",
+            "real_name": "dr_no",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dr_no",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1"
+    },
+    {
+        "type": "message",
+        "text": "Ганами решил заняться?",
+        "user": "U04ELQZAU",
+        "ts": "1507906117.000368",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1",
+        "reactions": [
+            {
+                "name": "vanga",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ничего от тебя не скрыть...",
+        "user": "U0AS548A1",
+        "ts": "1507906789.000126",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1",
+        "reactions": [
+            {
+                "name": "sleuth_or_spy",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Думаю, тебе скорее на <http:\/\/math.stackexchange.com|math.stackexchange.com>",
+        "user": "U04ELQZAU",
+        "ts": "1507924124.000547",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1"
+    },
+    {
+        "type": "message",
+        "text": "Вот даже есть похожий вопрос с целым одним ответом <https:\/\/math.stackexchange.com\/q\/2207871>",
+        "user": "U04ELQZAU",
+        "ts": "1507924208.000178",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Reference request - Introductory level text for Differential Games",
+                "title_link": "https:\/\/math.stackexchange.com\/q\/2207871",
+                "text": "I am interested in studying differential games by myself. An introductory textbook will be great. For introductory, I mean that the book shall have the definitions to concept and theorem (with proof)",
+                "fallback": "Reference request - Introductory level text for Differential Games",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/math\/img\/apple-touch-icon@2.png?v=4ec1df2e49b1",
+                "from_url": "https:\/\/math.stackexchange.com\/q\/2207871",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/math\/img\/favicon.ico?v=45993e464f86",
+                "service_name": "math.stackexchange.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1507897614.000408",
+        "parent_user_id": "U0AS548A1"
+    },
+    {
+        "type": "message",
+        "text": "Я третий закончил еще в сентябре :)",
+        "user": "U4LUPEAR0",
+        "ts": "1507947881.000002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3a32b3693e2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-15\/579363527319_3a32b3693e2a60e8631a_72.jpg",
+            "first_name": "Олежа",
+            "real_name": "Олежа Саитов",
+            "display_name": "bloodrammer",
+            "team": "T040HKJE3",
+            "name": "bloodrammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505162632.000348",
+        "parent_user_id": "U4LUPEAR0"
+    },
+    {
+        "type": "message",
+        "text": "Да, я опечатался. Это тоже был третий :slightly_smiling_face:",
+        "user": "U5R7NF98S",
+        "ts": "1507963220.000052",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3241cf2276c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289366714609_f3241cf2276c14f63732_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan",
+            "display_name": "expert",
+            "team": "T040HKJE3",
+            "name": "expert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505162632.000348",
+        "parent_user_id": "U4LUPEAR0"
+    }
+]

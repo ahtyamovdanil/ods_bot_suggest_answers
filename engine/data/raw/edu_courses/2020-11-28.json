@@ -1,0 +1,623 @@
+[
+    {
+        "client_msg_id": "ee533665-b6b5-4ca3-8a2b-ebc327b81621",
+        "type": "message",
+        "text": "Тоже прикупил, спасибо Толик) :fireball::fireball::fireball:",
+        "user": "U019NMNS877",
+        "ts": "1606589475.187000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g58a4f5989a1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/58a4f5989a1c9c43fa7a0f11ba9fc9bc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Viktor",
+            "real_name": "Viktor Repin",
+            "display_name": "VityaChubais",
+            "team": "T040HKJE3",
+            "name": "repinseo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFVLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тоже прикупил, спасибо Толик) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606384046.140100",
+        "parent_user_id": "U010WCKFS9W",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U010WCKFS9W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09e903b6-54c7-4846-be21-0b7cb932029d",
+        "type": "message",
+        "text": "Курс deep learning'a - это прохождение по ноутбукам отсюда <https:\/\/github.com\/udacity\/deep-learning-v2-pytorch> + практика - по итогу, если ты не знал pytorch научишься писать базовый пайплайн, в целом рассматривают на пальцах идеи DL - много времени MLP, CNN, совсем чуть-чуть RNN, обзорно трансформеры - но ни о чем + 1 модуль как развернуть приложеньку (самую минималистичную) в AWS - но все прямо на минималках. Местами похож на спецуху Ына на курсере, но больше практики и больше на пальцах.\nCV - пройти не успел, но здесь уже больше и курс, больше инфы, больше проектики....\nНа DL точно нет смысла раскошеливаться (особенно если проходил какой-нибудь DL на пальцах или спецуху от Ына), единственное, можно ноутбуки глянуть, но там все на MNIST'e так что если умеешь на pytorche pipeline написать, то бесполезно. CV можно посмотреть внимательнее на торрентах есть ну и там уже принять решения нужен ли он - но он интереснее чем просто по ДЛ",
+        "user": "U15V81K6V",
+        "ts": "1606597412.187800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "udacity\/deep-learning-v2-pytorch",
+                "text": "Projects and exercises for the latest Deep Learning ND program <https:\/\/www.udacity.com\/course\/deep-learning-nanodegree--nd101>",
+                "title": "udacity\/deep-learning-v2-pytorch",
+                "footer": "<https:\/\/github.com\/udacity\/deep-learning-v2-pytorch|udacity\/deep-learning-v2-pytorch>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1536083630,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3791",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/udacity\/deep-learning-v2-pytorch",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3DB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Курс deep learning'a - это прохождение по ноутбукам отсюда "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/udacity\/deep-learning-v2-pytorch"
+                            },
+                            {
+                                "type": "text",
+                                "text": " + практика - по итогу, если ты не знал pytorch научишься писать базовый пайплайн, в целом рассматривают на пальцах идеи DL - много времени MLP, CNN, совсем чуть-чуть RNN, обзорно трансформеры - но ни о чем + 1 модуль как развернуть приложеньку (самую минималистичную) в AWS - но все прямо на минималках. Местами похож на спецуху Ына на курсере, но больше практики и больше на пальцах.\nCV - пройти не успел, но здесь уже больше и курс, больше инфы, больше проектики....\nНа DL точно нет смысла раскошеливаться (особенно если проходил какой-нибудь DL на пальцах или спецуху от Ына), единственное, можно ноутбуки глянуть, но там все на MNIST'e так что если умеешь на pytorche pipeline написать, то бесполезно. CV можно посмотреть внимательнее на торрентах есть ну и там уже принять решения нужен ли он - но он интереснее чем просто по ДЛ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12e70414-8734-4855-9165-ae1c691198b7",
+        "type": "message",
+        "text": "алгосы на самом деле стремные, т.е. любой университетский курс + задачки дадут больше, если только ради диплома брать.\n\nИМХО? результат будет выше, если взять\nЛекции, например, Паши Маврина (ИТМО) и забомбить задачки\nЗадачки по его же курсу\n<https:\/\/codeforces.com\/group\/QmrArgR1Jp\/contests>\n\nМАДЕ 2 части, но 2 часть еще в процессе т.к. семестр не закончился...\n<https:\/\/codeforces.com\/group\/zJTwakJcKM\/contests>\n<https:\/\/codeforces.com\/group\/ktuvjC87Ro\/contests>\nЗадачки на базовые алгоритмы + реализации, которые тут требуются жестче, чем на LeetCode - находил уже много раз схожие задачки, на нем можно в задачу зайти с пятки задней ноги, особенно на ++, а на CF учишься ассимптотику считать",
+        "user": "U15V81K6V",
+        "ts": "1606597860.188100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/ilp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "алгосы на самом деле стремные, т.е. любой университетский курс + задачки дадут больше, если только ради диплома брать.\n\nИМХО? результат будет выше, если взять\nЛекции, например, Паши Маврина (ИТМО) и забомбить задачки\nЗадачки по его же курсу\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/QmrArgR1Jp\/contests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nМАДЕ 2 части, но 2 часть еще в процессе т.к. семестр не закончился...\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/zJTwakJcKM\/contests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/ktuvjC87Ro\/contests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЗадачки на базовые алгоритмы + реализации, которые тут требуются жестче, чем на LeetCode - находил уже много раз схожие задачки, на нем можно в задачу зайти с пятки задней ноги, особенно на ++, а на CF учишься ассимптотику считать"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49e832bf-15ff-46e5-9d9b-d31756c28931",
+        "type": "message",
+        "text": "&gt; Там вся ценность в живых ревьюерах, которые и правда неплохо ревьюят.\nревьюверы там посредственные, а временами и просто формальные... Бонус только в том что ты его можешь пинать до писинения, пока не выжмешь, что тебе нужно...",
+        "user": "U15V81K6V",
+        "ts": "1606598005.188300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1606599605.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XROG1",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там вся ценность в живых ревьюерах, которые и правда неплохо ревьюят."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ревьюверы там посредственные, а временами и просто формальные... Бонус только в том что ты его можешь пинать до писинения, пока не выжмешь, что тебе нужно..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD"
+    },
+    {
+        "client_msg_id": "238c5e0a-5000-40ec-9382-2ff0077ef4ff",
+        "type": "message",
+        "text": "Проверял так - внес каку в домашинй проект - все положили болт)\nприняли, без замечаний, на след. проект тоже занес каку - ждал хоть какой-то реакции...",
+        "user": "U15V81K6V",
+        "ts": "1606598101.188500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=HU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проверял так - внес каку в домашинй проект - все положили болт)\nприняли, без замечаний, на след. проект тоже занес каку - ждал хоть какой-то реакции..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Да, по алгосам мне заходит\nНияз - ИТМО\n<https:\/\/www.youtube.com\/c\/NiyazNigmatullin|https:\/\/www.youtube.com\/c\/NiyazNigmatullin>\nПавел Маврин - ИТМО <https:\/\/www.youtube.com\/c\/pavelmavrin|https:\/\/www.youtube.com\/c\/pavelmavrin>\nНа английском Errichto есть, иногда прорешивает литкод и рассказывает базовые задачки, есть и более продвинутые контесты, типо ДП по профилю с матрицами, если хочется похардовее\n<https:\/\/www.youtube.com\/c\/Errichto|https:\/\/www.youtube.com\/c\/Errichto>\nВот есть замечательный канал с разборами задачек с литкода\n<https:\/\/www.youtube.com\/c\/35задачивнеделю|https:\/\/www.youtube.com\/c\/35задачивнеделю>\nГруппа МИЭТа, тут много контестов с учебными задачками на написание алгоритмов \n <https:\/\/codeforces.com\/group\/DIbior3HqT|https:\/\/codeforces.com\/group\/DIbior3HqT>\nИ вот еще вроде конспекты Спбгу, тоже кмк прикольные",
+        "files": [
+            {
+                "id": "F01FWTA3ZHA",
+                "created": 1606607749,
+                "timestamp": 1606607749,
+                "name": "Algo1.pdf",
+                "title": "Algo1.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UTB85ATA5",
+                "editable": false,
+                "size": 2396207,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01FWTA3ZHA\/algo1.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01FWTA3ZHA\/download\/algo1.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01FWTA3ZHA-e2a8cd3cfe\/algo1_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UTB85ATA5\/F01FWTA3ZHA\/algo1.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01FWTA3ZHA-c58c56025d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, по алгосам мне заходит\nНияз - ИТМО\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/c\/NiyazNigmatullin",
+                                "text": "https:\/\/www.youtube.com\/c\/NiyazNigmatullin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПавел Маврин - ИТМО "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/c\/pavelmavrin",
+                                "text": "https:\/\/www.youtube.com\/c\/pavelmavrin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nНа английском Errichto есть, иногда прорешивает литкод и рассказывает базовые задачки, есть и более продвинутые контесты, типо ДП по профилю с матрицами, если хочется похардовее\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/c\/Errichto",
+                                "text": "https:\/\/www.youtube.com\/c\/Errichto"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nВот есть замечательный канал с разборами задачек с литкода\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/c\/35задачивнеделю",
+                                "text": "https:\/\/www.youtube.com\/c\/35задачивнеделю"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nГруппа МИЭТа, тут много контестов с учебными задачками на написание алгоритмов \n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/DIbior3HqT",
+                                "text": "https:\/\/codeforces.com\/group\/DIbior3HqT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nИ вот еще вроде конспекты Спбгу, тоже кмк прикольные"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UTB85ATA5",
+        "display_as_bot": false,
+        "ts": "1606607769.194300",
+        "client_msg_id": "7ca552c9-8433-4e66-a878-25ba0532d2d9",
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U6HBK5DMK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U15V81K6V",
+                    "UE0MX5Y67"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5065666-6fc2-4a2e-b3df-b26d54efb863",
+        "type": "message",
+        "text": "Кстати, по базовым задачкам есть еще\nКорнелл <https:\/\/www.cs.cornell.edu\/courses\/cs5199\/2020sp\/>\nCF к их курсу <https:\/\/codeforces.com\/group\/Cw4JRyRGXR\/contests>\nСF ко всем запускам их курса <https:\/\/codeforces.com\/group\/KIrM1Owd8u\/contests>\nСам курс - больше читать конспект (тот случай если видосы для тя долго), но практика хорошая.\n\n\nИз минусов, особенно если ты питонист, то большая боль, что питон для большинства этих задач - отстойный выбор ))\nСам бился много раз в задачках))\nи частенько даже если ты знаешь алгоритм который по ассимптотике подходит, по времени он не укладывается и нужно познать моменты как быстро делать I\/O, но и  этого мало, на штуках с рекурсией (деревья) - питон тоже в отстое...)\nМораль такова, для практики нужно некоторое подмножество ++ - не нужно знать адские дебри. I\/O (cin\/cout без синхронизации, scanf\/printf), основные типы данных с их размерами, указатели, запомнить тот факт что передача в ++ по значению (а то будешь постоянно контейнеры копировать, а это время), коллекции из STL - хватит за глаза, а прохождение этих всех задачек пойдет более ровно....иначе будет очень большая боль и активная работа с напильником...на минуточку, первый питонячий мастер на CF появился 7 месяцев назад (а проекту, по-моему, больше 10 лет <https:\/\/codeforces.com\/blog\/entry\/76507>)",
+        "user": "U15V81K6V",
+        "ts": "1606621360.195400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1606622094.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кстати, по базовым задачкам есть еще\nКорнелл "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cs.cornell.edu\/courses\/cs5199\/2020sp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCF к их курсу "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/Cw4JRyRGXR\/contests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nСF ко всем запускам их курса "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/group\/KIrM1Owd8u\/contests"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nСам курс - больше читать конспект (тот случай если видосы для тя долго), но практика хорошая.\n\n\nИз минусов, особенно если ты питонист, то большая боль, что питон для большинства этих задач - отстойный выбор ))\nСам бился много раз в задачках))\nи частенько даже если ты знаешь алгоритм который по ассимптотике подходит, по времени он не укладывается и нужно познать моменты как быстро делать I\/O, но и  этого мало, на штуках с рекурсией (деревья) - питон тоже в отстое...)\nМораль такова, для практики нужно некоторое подмножество ++ - не нужно знать адские дебри. I\/O (cin\/cout без синхронизации, scanf\/printf), основные типы данных с их размерами, указатели, запомнить тот факт что передача в ++ по значению (а то будешь постоянно контейнеры копировать, а это время), коллекции из STL - хватит за глаза, а прохождение этих всех задачек пойдет более ровно....иначе будет очень большая боль и активная работа с напильником...на минуточку, первый питонячий мастер на CF появился 7 месяцев назад (а проекту, по-моему, больше 10 лет "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeforces.com\/blog\/entry\/76507"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U3P82LKDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38acaf2f-f6e0-4389-9ff8-d7d4a37b1f47",
+        "type": "message",
+        "text": "Can anyone help me with finding good courses for python which are inclined towards data science ?",
+        "user": "U01F9U3FR47",
+        "ts": "1606630782.197100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49b20710e5ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-29\/1531807186933_49b20710e5ef0e8fd55f_72.jpg",
+            "first_name": "Aninda",
+            "real_name": "Aninda Dutta",
+            "display_name": "Aninda Dutta",
+            "team": "T040HKJE3",
+            "name": "anindadutta86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F9U3FR47",
+            "ts": "1606630876.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone help me with finding good courses for python which are inclined towards data science ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "here_we_go_again",
+                "users": [
+                    "UBRKXHMJB",
+                    "U9T0G9W3G",
+                    "UR5KQA124",
+                    "U016XAJU21E"
+                ],
+                "count": 4
+            },
+            {
+                "name": "science",
+                "users": [
+                    "UQRRC9GCD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "el_resitas_shake2",
+                "users": [
+                    "UR5KQA124"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

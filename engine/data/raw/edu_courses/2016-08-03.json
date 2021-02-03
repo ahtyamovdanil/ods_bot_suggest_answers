@@ -1,0 +1,372 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470211332.000327",
+        "user": "U1XLLQU7M",
+        "text": "<@U1XLLQU7M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470226663.000328",
+        "user": "U1XQ7EP1T",
+        "text": "<@U1XQ7EP1T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470238649.000329",
+        "user": "U0AL6V5TN",
+        "text": "<@U0AL6V5TN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Знакомые интересуются 3х месячным курсом по data science в Германии за 10 тыс евро, не доводилось про него слышать? <http:\/\/datascienceretreat.com\/>",
+        "user": "U0AL6V5TN",
+        "ts": "1470238884.000330",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d7c355d9abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-26\/737577879540_3d7c355d9abbdf5b7402_72.png",
+            "first_name": "Дмитрий",
+            "real_name": "Дмитрий Бабаев",
+            "display_name": "random_b",
+            "team": "T040HKJE3",
+            "name": "dllllb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data Science Retreat for Data Scientists, Berlin Germany",
+                "title_link": "http:\/\/datascienceretreat.com\/",
+                "text": "I want to be a better data scientist, but working alone through online courses doesn't cut it.",
+                "fallback": "Data Science Retreat for Data Scientists, Berlin Germany",
+                "thumb_url": "http:\/\/uploads.webflow.com\/556dbc94aefd5f8b7993b107\/55d6f60b0cbfc4282fdaa466_Dsigma-retreat-wide-Vector-small.jpg",
+                "from_url": "http:\/\/datascienceretreat.com\/",
+                "thumb_width": 300,
+                "thumb_height": 77,
+                "service_icon": "https:\/\/daks2k3a4ib2z.cloudfront.net\/556dbc94aefd5f8b7993b107\/55992bac6b6ebb72637462e0_Logo-no-text.png",
+                "service_name": "datascienceretreat.com",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "moneybag",
+                "users": [
+                    "U1QLYUV8R",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "10 к евrо за тrи месяца? Чем мы тут занимаемся",
+        "user": "U1J5L3NDP",
+        "ts": "1470239178.000332",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1J5L3NDP",
+            "ts": "1470239190.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U041LH06L",
+                    "U09JEC7V0",
+                    "U04ELQZAU",
+                    "U1FLG6YR1",
+                    "U13PBBLLW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "msn",
+                "users": [
+                    "U1V7HFNDP",
+                    "U1D6DT6HE",
+                    "U040HKJE7",
+                    "U15UZGX9A"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "От ноунеймов.",
+        "user": "U041LH06L",
+        "ts": "1470239233.000334",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Слышал, читал положительные отзывы, но не одобряю",
+        "user": "U0DA4J82H",
+        "ts": "1470243362.000335",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там учат на кагл логиниться",
+        "user": "U0DA4J82H",
+        "ts": "1470243387.000336",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/datasciencebr.com\/but-seriously-how-is-data-science-retreat-54cf848e7954#.6dh0sa3jb> Но есть подозрение, что пост проспонсирован",
+        "user": "U0DA4J82H",
+        "ts": "1470243481.000337",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "But seriously: how is Data Science Retreat? — Data Science Brigade",
+                "title_link": "https:\/\/datasciencebr.com\/but-seriously-how-is-data-science-retreat-54cf848e7954#.6dh0sa3jb",
+                "text": "After recommending DSR to many people and explaining the same things over and over again, I decided to put multiple conversations together…",
+                "fallback": "Medium: But seriously: how is Data Science Retreat? — Data Science Brigade",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*-_AswE7KBefrS1kLC_b9Cw.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1467493512,
+                "from_url": "https:\/\/datasciencebr.com\/but-seriously-how-is-data-science-retreat-54cf848e7954#.6dh0sa3jb",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 562059,
+                "service_icon": "https:\/\/cdn-static-1.medium.com\/_\/fp\/icons\/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "судя по этой статье похоже на \"курсы за 180\", опять сборная солянка из биг дейты, ML и изучения популярных библиотек",
+        "user": "U0AL6V5TN",
+        "ts": "1470251564.000339",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d7c355d9abb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-26\/737577879540_3d7c355d9abbdf5b7402_72.png",
+            "first_name": "Дмитрий",
+            "real_name": "Дмитрий Бабаев",
+            "display_name": "random_b",
+            "team": "T040HKJE3",
+            "name": "dllllb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А курсы <http:\/\/data.stepic.org|data.stepic.org> уже обсуждали?",
+        "user": "U040HKJE7",
+        "ts": "1470252089.000340",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470253518.000349",
+        "user": "U1XVC0TJS",
+        "text": "<@U1XVC0TJS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ого сколько ms курсов наштамповали",
+        "user": "U0DA4J82H",
+        "ts": "1470253544.000350",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "горшочек не вари",
+        "user": "U0DA4J82H",
+        "ts": "1470253581.000351",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U0AS548A1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U0E2W4VKL",
+                    "U27SUBTB9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Так на edX они уже давно, просто объединили в серию. А курсы лажа",
+        "user": "U09JEC7V0",
+        "ts": "1470256456.000352",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У них там еще курс по бутстрапу был. Странно что не включили",
+        "user": "U0DA4J82H",
+        "ts": "1470258551.000353",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429183245.000002",
+        "user": "U041LH06L",
+        "text": "<@U041LH06L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1429183246.000003",
+        "user": "U041LH06L",
+        "text": "<@U041LH06L> set the channel purpose: Инфа по курсам, MOOС'ам и всему вот этому.",
+        "purpose": "Инфа по курсам, MOOС'ам и всему вот этому."
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.futurelearn.com\/courses\/big-data\/details>",
+        "user": "U041LH06L",
+        "ts": "1429183270.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FutureLearn",
+                "title": "Big Data - The University of Warwick",
+                "title_link": "https:\/\/www.futurelearn.com\/courses\/big-data\/details",
+                "text": "Join us to explore how the vast amounts of data generated today can help us understand and even predict how humans behave.",
+                "fallback": "FutureLearn: Big Data - The University of Warwick",
+                "image_url": "https:\/\/ugc.futurelearn.com\/uploads\/images\/7b\/89\/regular_7b890055-6964-4152-8105-0e36b3d7efb8.jpg",
+                "from_url": "https:\/\/www.futurelearn.com\/courses\/big-data\/details",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 81560,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1429183298.000006",
+        "user": "U041LH06L",
+        "text": "<@U041LH06L> has renamed the channel from \"_courses\" to \"courses\"",
+        "old_name": "_courses",
+        "name": "courses"
+    },
+    {
+        "type": "message",
+        "text": "Стартует уже 20-го. R, халява, сертификат.",
+        "user": "U041LH06L",
+        "ts": "1429183333.000007",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну и не забываем про <https:\/\/weka.waikato.ac.nz\/dataminingwithweka\/preview>",
+        "user": "U041LH06L",
+        "ts": "1429183351.000008",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429185396.000009",
+        "user": "U041X196C",
+        "text": "<@U041X196C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429185412.000010",
+        "user": "U040M0W0S",
+        "text": "<@U040M0W0S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429185624.000011",
+        "user": "U0449QUP0",
+        "text": "<@U0449QUP0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429185650.000012",
+        "user": "U041P485A",
+        "text": "<@U041P485A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429194226.000013",
+        "user": "U049NHC4X",
+        "text": "<@U049NHC4X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Я уже упоминал где-то, но повторюсь - курс Эконометрики от вышки на курсере просто отличный. Там  нет ничего типа акций, процентов и вкладов и скоринга, а чистой воды статистика применительно к линейной регрессии. Задачи на R, объясняется все отлично. Вот ссылка - <https:\/\/class.coursera.org\/econometrics-001>.",
+        "user": "U049NHC4X",
+        "ts": "1429194431.000014",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbbc21f7d520",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ceaa144a71b6e7f9d0a8880aadbf3ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "nonaryr",
+            "real_name": "nonaryr",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rustam.gilaztdinov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Coursera - Free Online Courses From Top Universities",
+                "title_link": "https:\/\/class.coursera.org\/econometrics-001",
+                "text": "Take free online classes from 115+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Coursera - Free Online Courses From Top Universities",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/class.coursera.org\/econometrics-001",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UT7FY2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429195161.000017",
+        "user": "U0443L8TU",
+        "text": "<@U0443L8TU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "service_name": "FutureLearn",
+                "title": "Big Data - The University of Warwick",
+                "title_link": "https:\/\/www.futurelearn.com\/courses\/big-data\/details",
+                "text": "Join us to explore how the vast amounts of data generated today can help us understand and even predict how humans behave.",
+                "fallback": "FutureLearn: Big Data - The University of Warwick",
+                "image_url": "https:\/\/ugc.futurelearn.com\/uploads\/images\/7b\/89\/regular_7b890055-6964-4152-8105-0e36b3d7efb8.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 81560,
+                "id": 1
+            }
+        ],
+        "ts": "1429197695.000020"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429200484.000022",
+        "user": "U04BWJ3QJ",
+        "text": "<@U04BWJ3QJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "На Futurelearn платные аккаунты, ЕМНИП",
+        "user": "U04BWJ3QJ",
+        "ts": "1429200588.000023",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3cbdb3588d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3cbdb3588d6d7e1acdd2afc7e0efa7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Anton",
+            "real_name": "Anton Leonov",
+            "display_name": "Grammer",
+            "team": "T040HKJE3",
+            "name": "grammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В описании сказано, что бесплатно",
+        "user": "U041LH06L",
+        "ts": "1429201784.000024",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Нашел такое подтверждение моих слов - <https:\/\/about.futurelearn.com\/about\/faq\/?category=statements-of-participation>",
+        "user": "U04BWJ3QJ",
+        "ts": "1429212599.000025",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3cbdb3588d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3cbdb3588d6d7e1acdd2afc7e0efa7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Anton",
+            "real_name": "Anton Leonov",
+            "display_name": "Grammer",
+            "team": "T040HKJE3",
+            "name": "grammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FutureLearn",
+                "title": "FAQ - FutureLearn",
+                "title_link": "https:\/\/about.futurelearn.com\/about\/faq\/?category=statements-of-participation",
+                "text": "We’ve answered some of the most frequently asked questions about FutureLearn here.",
+                "fallback": "FutureLearn: FAQ - FutureLearn",
+                "from_url": "https:\/\/about.futurelearn.com\/about\/faq\/?category=statements-of-participation",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429215722.000027",
+        "user": "U043J44Q5",
+        "text": "<@U043J44Q5> has joined the channel"
+    }
+]

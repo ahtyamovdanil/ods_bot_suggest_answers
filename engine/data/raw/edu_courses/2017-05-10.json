@@ -1,0 +1,275 @@
+[
+    {
+        "type": "message",
+        "text": "gavrisas: Я на ней сейчас. Думаю, что они много обещали и по факту получилось мало. Можно просто курсы, которые есть в программе пройти на степике самостоятельно и все. У них типа плюсы в *особой поддержке кураторов*, но от нее толку не особо. Обещали что будут проекты, но их нет, запуск одного курса вообще отложили. Пока не особо радостоно =(",
+        "user": "U4G0TN0GP",
+        "ts": "1494402289.642551",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bbb3c7bd3671",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-17\/257356588947_bbb3c7bd367157635572_72.jpg",
+            "first_name": "Olga",
+            "real_name": "Olga Larkina",
+            "display_name": "osl",
+            "team": "T040HKJE3",
+            "name": "osl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494276465.637073",
+        "parent_user_id": "U1X3X7SQZ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494406602.583310",
+        "user": "U5B7259NX",
+        "text": "<@U5B7259NX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494408195.959396",
+        "user": "U5C47P431",
+        "text": "<@U5C47P431> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494409477.252996",
+        "user": "U5AKKJ82U",
+        "text": "<@U5AKKJ82U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Они писали что с весны будут запускать курсы. А как уровень? Что лучше, этот или мфти специализация на курсере? Или Data Science Specialization от John Hopkins?",
+        "user": "U1X3X7SQZ",
+        "ts": "1494411225.641078",
+        "thread_ts": "1494276465.637073",
+        "root": {
+            "type": "message",
+            "text": "Что думаете о <http:\/\/data.stepik.org> ?",
+            "user": "U1X3X7SQZ",
+            "ts": "1494276465.637073",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "title": "Анализ данных",
+                    "title_link": "http:\/\/data.stepik.org",
+                    "text": "Годовая онлайн-программа профессиональной переподготовки от СПбАУ РАН и Института биоинформатики на <http:\/\/Stepik.org|Stepik.org>",
+                    "fallback": "Анализ данных",
+                    "image_url": "https:\/\/static.tildacdn.com\/tild6265-3030-4431-b263-366435306431\/download.jpg",
+                    "from_url": "http:\/\/data.stepik.org",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "image_bytes": 304742,
+                    "service_icon": "https:\/\/static.tildacdn.com\/tild6662-3335-4663-b334-643039313631\/data_fav.ico",
+                    "service_name": "data.stepik.org",
+                    "id": 1
+                }
+            ],
+            "thread_ts": "1494276465.637073",
+            "reply_count": 10,
+            "reply_users_count": 6,
+            "latest_reply": "1494873110.586630",
+            "reply_users": [
+                "U4G0TN0GP",
+                "U1X3X7SQZ",
+                "U1R8X3V54",
+                "U1UM6S9KN",
+                "U4K5AFEQ2",
+                "U1NMKU9DY"
+            ],
+            "subscribed": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U1X3X7SQZ",
+        "ts": "1494411225.641129",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1494276465637073",
+                "fallback": "[May 8th, 2017 1:47 PM] gavrisas: Что думаете о <http:\/\/data.stepik.org> ?",
+                "ts": "1494276465.637073",
+                "author_subname": "gavrisas",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Что думаете о <http:\/\/data.stepik.org> ?",
+                "author_name": "Alexander Gavris",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/gavrisas",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-02\/65531184372_9d3173a10cb8fbf5e666_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "2 replies"
+            },
+            {
+                "fallback": "Они писали что с весны будут запускать курсы. А как уровень? Что лучше, этот или мфти специализация на курсере? Или Data Science Specialization от John Hopkins?",
+                "author_name": "Alexander Gavris",
+                "author_subname": "gavrisas",
+                "text": "Они писали что с весны будут запускать курсы. А как уровень? Что лучше, этот или мфти специализация на курсере? Или Data Science Specialization от John Hopkins?",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/gavrisas",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1494411225641078?thread_ts=1494276465637073&cid=C04DP7BUY",
+                "ts": "1494411225.641078",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-02\/65531184372_9d3173a10cb8fbf5e666_48.jpg",
+                "id": 2
+            }
+        ],
+        "new_broadcast": true
+    },
+    {
+        "type": "message",
+        "text": "Все курсы можно бесплатно проходить. Уровень курсов хороший. По мат. анализу прекрасный курс, например",
+        "user": "U1R8X3V54",
+        "ts": "1494411323.660990",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494276465.637073",
+        "parent_user_id": "U1X3X7SQZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1D6DT6HE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ага, прекрасный.Если ты уже обдолбался Зоричем и прочими. Иначе курс анализа вызывает у людей лютый :bombanoolo: Да и не курс это(имею ввиду обе части). Скорее \"Избранные главы анализа \" эти курсы надо называть.",
+        "user": "U1UM6S9KN",
+        "ts": "1494412132.821652",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1494412330.000000"
+        },
+        "thread_ts": "1494276465.637073",
+        "parent_user_id": "U1X3X7SQZ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U19EZ8L5D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0QMAK6T1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1494411225641078?thread_ts=1494276465.637073&amp;cid=C04DP7BUY>\nПрактически все курсы открыты сейчас. Начинать нужно с ликбеза дискретной математики и вводного курса по Python.",
+        "user": "U1UM6S9KN",
+        "ts": "1494412194.834290",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1494412227.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1494411225641078?thread_ts=1494276465.637073&amp;cid=C04DP7BUY",
+                "fallback": "[May 10th, 2017 3:13 AM] gavrisas: Они писали что с весны будут запускать курсы. А как уровень? Что лучше, этот или мфти специализация на курсере? Или Data Science Specialization от John Hopkins?",
+                "ts": "1494411225.641078",
+                "msg_subtype": "thread_broadcast",
+                "author_subname": "gavrisas",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Они писали что с весны будут запускать курсы. А как уровень? Что лучше, этот или мфти специализация на курсере? Или Data Science Specialization от John Hopkins?",
+                "author_name": "Alexander Gavris",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/gavrisas",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-02\/65531184372_9d3173a10cb8fbf5e666_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "From a thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1494276465.637073",
+        "parent_user_id": "U1X3X7SQZ"
+    },
+    {
+        "type": "message",
+        "text": "Все курсы доступны бесплатно на Степике (одного из программы сейчас не хватает). Проходить их можно в любое время и в любом порядке. Сделаны на мой взгляд хорошо. Учусь по ним. Проходил три первых курса на Data Science Specialization от John Hopkins. Степик на мой взгляд лучше. В платном варианте преимущества скорее в государственном сертификате, если он не нужен, достаточно бесплатного варианта. Про курс МФТИ ничего сказать не могу, не смотрел.",
+        "user": "U4K5AFEQ2",
+        "ts": "1494418047.967393",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c0e771cf762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155868718294_0c0e771cf762864b7f18_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Schetinin",
+            "display_name": "dimanik",
+            "team": "T040HKJE3",
+            "name": "dimanik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1494276465.637073",
+        "parent_user_id": "U1X3X7SQZ"
+    }
+]

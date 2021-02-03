@@ -1,0 +1,523 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492067307.416188",
+        "user": "U4Y0C2L2U",
+        "text": "<@U4Y0C2L2U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492067841.499012",
+        "user": "U4Y0EL8Q0",
+        "text": "<@U4Y0EL8Q0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492068048.531718",
+        "user": "U4YM6B0UA",
+        "text": "<@U4YM6B0UA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492069407.760366",
+        "user": "U4YMDHURY",
+        "text": "<@U4YMDHURY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1492070276.917333",
+        "user": "U1ZFMRMBJ",
+        "text": "<@U1ZFMRMBJ> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Если на курсере, получив финейд, не пройти курс --другого уже не дадут?",
+        "user": "U3K7PNTML",
+        "ts": "1492070779.016120",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1492105771.341477",
+        "reply_users": [
+            "U36Q9NJMD",
+            "U3PETUSSE",
+            "U3K7PNTML",
+            "U0AS548A1"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1492072092.268771"
+            },
+            {
+                "user": "U3PETUSSE",
+                "ts": "1492072800.413658"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1492074824.845250"
+            },
+            {
+                "user": "U3PETUSSE",
+                "ts": "1492075166.916934"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1492079699.820154"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1492098704.968281"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1492105771.341477"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U09BY2N3X"
+                ],
+                "count": 1
+            },
+            {
+                "name": "told-you",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "U0AS548A1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492071232.102632",
+        "user": "U4ZCP3QHM",
+        "text": "<@U4ZCP3QHM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492071675.187229",
+        "user": "U4Y128T2L",
+        "text": "<@U4Y128T2L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Это точно?:disappointed: У меня старых незакрытых финэйдов полно до 21 апреля",
+        "user": "U36Q9NJMD",
+        "ts": "1492072092.268771",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1492072128.000000"
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "text": "дадут",
+        "user": "U3PETUSSE",
+        "ts": "1492072800.413658",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "58c967e32603",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-24\/846603308724_58c967e3260319010d23_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Yutkin",
+            "display_name": "0x1337",
+            "team": "T040HKJE3",
+            "name": "0x1337",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492072917.437760",
+        "user": "U4Y23RVPT",
+        "text": "<@U4Y23RVPT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U3PETUSSE> по личному опыту говоришь или слышал?",
+        "user": "U3K7PNTML",
+        "ts": "1492074824.845250",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "text": "Соседу в общаге дали второй раз на один и тот же курс. Считается ли это за личный опыт? ",
+        "user": "U3PETUSSE",
+        "ts": "1492075166.916934",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "58c967e32603",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-24\/846603308724_58c967e3260319010d23_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Yutkin",
+            "display_name": "0x1337",
+            "team": "T040HKJE3",
+            "name": "0x1337",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492075359.958140",
+        "user": "U4ZDFAAA3",
+        "text": "<@U4ZDFAAA3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Считается за достоверное знание ",
+        "user": "U3K7PNTML",
+        "ts": "1492079699.820154",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492080489.953118",
+        "user": "U4YMEDPBM",
+        "text": "<@U4YMEDPBM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492080515.957776",
+        "user": "U4Y2P2J64",
+        "text": "<@U4Y2P2J64> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492082280.257381",
+        "user": "U4YQV1VNY",
+        "text": "<@U4YQV1VNY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492091611.404543",
+        "user": "U4YRPPJCS",
+        "text": "<@U4YRPPJCS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492092189.602863",
+        "user": "U4YUJQSDB",
+        "text": "<@U4YUJQSDB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492097333.468694",
+        "user": "U4YTL2NAE",
+        "text": "<@U4YTL2NAE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/deepcases.github.io\/>  sounds great, but if it is too simple, will you return money back?",
+        "user": "U3LN56F7D",
+        "ts": "1492098609.933732",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge858b07e8f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/31e858b07e8f20278c187945a4cb732a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Sander",
+            "real_name": "Sander Stepanov",
+            "display_name": "sander",
+            "team": "T040HKJE3",
+            "name": "sander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Онлайн курс Deep Learning",
+                "title_link": "https:\/\/deepcases.github.io\/",
+                "text": "Онлайн курс Deep Learning от профессионалов.",
+                "fallback": "Онлайн курс Deep Learning",
+                "from_url": "https:\/\/deepcases.github.io\/",
+                "service_name": "deepcases.github.io",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "U1BMURR5G",
+                    "U04ELQZAU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bajan",
+                "users": [
+                    "U09BY2N3X",
+                    "U09JEC7V0",
+                    "U3UR4BKFS",
+                    "U26MG2Z37",
+                    "U4AA9GF26",
+                    "U2ZAVPXND"
+                ],
+                "count": 6
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U09JEC7V0",
+                    "U041P485A",
+                    "U26MG2Z37",
+                    "U27SUBTB9",
+                    "U24FHECDD",
+                    "U4DT6PXK6",
+                    "U2ZAVPXND"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Как-то не красиво ",
+        "user": "U0AS548A1",
+        "ts": "1492098704.968281",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "text": "not sure.. did you see this guy pants? Not sure about money return",
+        "user": "U49L4JLTA",
+        "ts": "1492098888.034264",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd5d3d5326f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c1d5d3d5326f3dd4c53814a0ddbaab2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Max",
+            "real_name": "Max Terekhov",
+            "display_name": "gambler_max",
+            "team": "T040HKJE3",
+            "name": "gambler_max",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U09BY2N3X",
+                    "U31S67ZC5",
+                    "U04ELQZAU",
+                    "U049NHC4X",
+                    "U4GL8MTTK",
+                    "U27SUBTB9",
+                    "U3PLVL3RD",
+                    "U0L4KM9R9",
+                    "U0UG04H3M"
+                ],
+                "count": 9
+            },
+            {
+                "name": "but_why",
+                "users": [
+                    "U14C0LPSL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492102376.214820",
+        "user": "U4ZKWDCJ2",
+        "text": "<@U4ZKWDCJ2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "некрасиво, правда",
+        "user": "U3K7PNTML",
+        "ts": "1492105771.341477",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492070779.016120",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492106499.594274",
+        "user": "U4YAM1MQ9",
+        "text": "<@U4YAM1MQ9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492114308.092182",
+        "user": "U4Z4KASSY",
+        "text": "<@U4Z4KASSY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492119154.477582",
+        "user": "U4YDBUCAU",
+        "text": "<@U4YDBUCAU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Самая большая боль на заочке - лекции выходят с небольшим опозданием и сложно задать вопрос, если что-то не понял.",
+        "user": "U07159GKF",
+        "ts": "1492138826.235183",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "72d0bf90bbac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-08\/25213708321_72d0bf90bbac07288ec5_72.jpg",
+            "first_name": "Timofei",
+            "real_name": "Timofei Semenov",
+            "display_name": "fineguy",
+            "team": "T040HKJE3",
+            "name": "timofei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1491938068.754602",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492144558.742066",
+        "user": "U4Z808UKU",
+        "text": "<@U4Z808UKU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492150679.249388",
+        "user": "U4Z9KQEMS",
+        "text": "<@U4Z9KQEMS> has joined the channel"
+    }
+]

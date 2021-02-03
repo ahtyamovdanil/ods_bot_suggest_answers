@@ -1,0 +1,812 @@
+[
+    {
+        "client_msg_id": "187f2402-8984-4d45-b1b2-02020eccc1b6",
+        "type": "message",
+        "text": "Учился на подготовительных курсах на БИ, так как не поступил в магистратуру с первого раза. По сути это было необходимо, так как сам был не из вышки. После подготовительных курсов поступил без проблем, накинули еще баллов за это. По факту пользы от них больше не было, кроме самого поступления :slightly_smiling_face:",
+        "user": "UDHTGEDDK",
+        "ts": "1567676136.228100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0a3f7e6c30c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512926538374_0a3f7e6c30c28afa1e1e_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Filipyev",
+            "display_name": "Andrey Filipyev",
+            "team": "T040HKJE3",
+            "name": "a.filipev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHTGEDDK",
+            "ts": "1567676153.000000"
+        },
+        "thread_ts": "1567508701.151500",
+        "parent_user_id": "U9FNQ7D37"
+    },
+    {
+        "client_msg_id": "4fba057f-3e7a-4acb-8467-c74faaf06a56",
+        "type": "message",
+        "text": "Добрый день! А кто-нибудь проходил курс Theoretical Deep Learning course от Физтеха <https:\/\/github.com\/deepmipt\/tdl>? В частности интересуют необходимый уровень знаний для понимания материала, насколько он пересекается с другими курсами по DL, скажем CS231 или курсом от CMU например? Или наоборот в нем дается более глубокая теория?",
+        "user": "UHSBA8F35",
+        "ts": "1567676318.231000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4e6b00712c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a4e6b00712c72d0bebc5560397227fc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Anatolijrubanov",
+            "display_name": "Anatolijrubanov",
+            "team": "T040HKJE3",
+            "name": "anatolijrubanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "deepmipt\/tdl",
+                "text": "Course \"Theories of Deep Learning\"",
+                "title": "deepmipt\/tdl",
+                "footer": "<https:\/\/github.com\/deepmipt\/tdl|deepmipt\/tdl>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1547297684,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "122",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/deepmipt\/tdl",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1567676318.231000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1567677565.231900",
+        "reply_users": [
+            "U04ELQZAU",
+            "U4P8W340Y"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1567676828.231300"
+            },
+            {
+                "user": "U4P8W340Y",
+                "ts": "1567677565.231900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9BDT48M8",
+                    "UCT064AB0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33f15e72-58cc-4ef2-a1ae-e49abc1030b2",
+        "type": "message",
+        "text": "Отвечает <@U4P8W340Y>",
+        "user": "U04ELQZAU",
+        "ts": "1567676828.231300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567676318.231000",
+        "parent_user_id": "UHSBA8F35"
+    },
+    {
+        "client_msg_id": "e9d05faa-c5d5-49db-acb1-7a1bc419fcc2",
+        "type": "message",
+        "text": "С упомянутыми курсами не пересекается никак. В первой части речь идёт о поверхности лосс-функции, о динамике градспуска и об инфоботтлнеке. Во второй части (<https:\/\/github.com\/deepmipt\/tdl2>), которая читается в этом семестре, речь идёт об обобщающей способности. Короче, да, глубокая теория. Необходимый уровень понимания формализовать трудно. Знания современных архитектур точно не требуется: речь идёт только о полносвязных сетках. Чисто теоретически, достаточно знать, что такое нейросеть, как она учится, и немного знать линал с теорвером.",
+        "user": "U4P8W340Y",
+        "ts": "1567677565.231900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dd643260d04f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/598103661107_dd643260d04f6d6d30cb_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Golikov",
+            "display_name": "varenick",
+            "team": "T040HKJE3",
+            "name": "varenick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4P8W340Y",
+            "ts": "1567677604.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "deepmipt\/tdl2",
+                "text": "Theoretical Deep Learning: generalization ability",
+                "title": "deepmipt\/tdl2",
+                "footer": "<https:\/\/github.com\/deepmipt\/tdl2|deepmipt\/tdl2>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1566545759,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "13",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "15 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/deepmipt\/tdl2",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1567676318.231000",
+        "parent_user_id": "UHSBA8F35",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UHSBA8F35",
+                    "UCMC5J36D",
+                    "U8GGBPGR3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39adc463-d06d-4637-9ced-f076899e28e7",
+        "type": "message",
+        "text": "Курсы по составлению плана обучения в DS:\n<https:\/\/school.vivaldi.ai\/>\n\nБесплатный вебинар 10 сентября в 20:00:\n<https:\/\/school.vivaldi.ai\/webinar>",
+        "user": "U4PNHH70B",
+        "ts": "1567695151.235000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5e97ea67e071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1187635280323_5e97ea67e071f884402e_72.jpg",
+            "first_name": "Zhuikov",
+            "real_name": "Zhuikov Vladimir",
+            "display_name": "vladimir_zhuikov",
+            "team": "T040HKJE3",
+            "name": "vladimir_zhuikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PNHH70B",
+            "ts": "1567696509.000000"
+        },
+        "attachments": [
+            {
+                "title": "Онлайн школа практических курсов по Data Science",
+                "title_link": "https:\/\/school.vivaldi.ai\/",
+                "text": "Онлайн школа практических курсов по Data Science",
+                "fallback": "Онлайн школа практических курсов по Data Science",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3562-6130-4533-b365-383339313338\/photo_2019-04-04_18-.jpg",
+                "from_url": "https:\/\/school.vivaldi.ai\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 4704,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild3062-3266-4930-b766-336163353731\/favicon.ico",
+                "service_name": "school.vivaldi.ai",
+                "id": 1,
+                "original_url": "https:\/\/school.vivaldi.ai\/"
+            }
+        ],
+        "thread_ts": "1567695151.235000",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1567751601.259500",
+        "reply_users": [
+            "U4PNHH70B",
+            "UGF8L176H",
+            "UFUKQMV5K",
+            "U1HHX1QS3",
+            "U04EWH882",
+            "U0D6ZPJ56"
+        ],
+        "replies": [
+            {
+                "user": "U4PNHH70B",
+                "ts": "1567696454.239200"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1567698081.241300"
+            },
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1567708134.246700"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1567709669.248300"
+            },
+            {
+                "user": "U04EWH882",
+                "ts": "1567751042.258700"
+            },
+            {
+                "user": "U0D6ZPJ56",
+                "ts": "1567751601.259500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "el_resitas_shake2",
+                "users": [
+                    "UFS228B29",
+                    "U6Y47FWKX",
+                    "U677CBGH2",
+                    "UFDMALG6P",
+                    "UE61U6DCL",
+                    "UCYF6G750",
+                    "UCB3HLCFQ",
+                    "U7DTGC4PL",
+                    "U5GCU82HX",
+                    "U871S4R6F",
+                    "UFWKK8HD1",
+                    "U2N853RGF",
+                    "UDUBG85P1",
+                    "U710D2PPX",
+                    "UL2QESVPB",
+                    "U1CMPEWPQ",
+                    "U64HAB6BA",
+                    "U7SFPUVQF",
+                    "U2YUHS02V",
+                    "U24FHECDD",
+                    "U93P65UQN",
+                    "U7GFT92PN",
+                    "U5FCA4F8X",
+                    "UCW4TBCER",
+                    "U9V48C738",
+                    "U709XK88H",
+                    "UDK41MN5U",
+                    "UD2NGFPHD",
+                    "UC9J53NAY",
+                    "U6L08K8KS",
+                    "U04EWH882",
+                    "UM38YUS0Y",
+                    "U49MGP9MX",
+                    "U6YDWF4UB",
+                    "U1D6DT6HE",
+                    "U828HFY0G",
+                    "U1YQLTMLH",
+                    "UUL1KNKGT"
+                ],
+                "count": 38
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "UFS228B29",
+                    "U6Y47FWKX",
+                    "UFDMALG6P",
+                    "UE61U6DCL",
+                    "U7DTGC4PL",
+                    "U5GCU82HX",
+                    "U2N853RGF",
+                    "U710D2PPX",
+                    "UL2QESVPB",
+                    "U7SFPUVQF",
+                    "U2YUHS02V",
+                    "U9V48C738",
+                    "U709XK88H",
+                    "UD2NGFPHD",
+                    "UD37TP39U",
+                    "U6L08K8KS",
+                    "U04EWH882",
+                    "UM38YUS0Y",
+                    "U49MGP9MX",
+                    "U6YDWF4UB",
+                    "U1D6DT6HE",
+                    "U1YQLTMLH"
+                ],
+                "count": 22
+            },
+            {
+                "name": "joy-hyper",
+                "users": [
+                    "U677CBGH2",
+                    "UFDMALG6P",
+                    "UCYF6G750",
+                    "U9BDT48M8",
+                    "U7DTGC4PL",
+                    "UFWKK8HD1",
+                    "UDUBG85P1",
+                    "U710D2PPX",
+                    "UKES2BDAA",
+                    "UCW4TBCER",
+                    "UD2NGFPHD",
+                    "UL2QESVPB",
+                    "U3WRYT9JL",
+                    "U1BMURR5G",
+                    "U6L08K8KS",
+                    "U4E5B4TAN"
+                ],
+                "count": 16
+            },
+            {
+                "name": "deeper",
+                "users": [
+                    "U6X5YAFU3",
+                    "U710D2PPX",
+                    "U7GFT92PN",
+                    "U4WM1939Q",
+                    "UL2QESVPB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "UCB3HLCFQ",
+                    "U5GCU82HX",
+                    "UGF8L176H",
+                    "U04EWH882",
+                    "UUL1KNKGT"
+                ],
+                "count": 5
+            },
+            {
+                "name": "xzibit",
+                "users": [
+                    "UCXQC3P8Q",
+                    "U7DTGC4PL",
+                    "U710D2PPX",
+                    "U1UNFRQ1K",
+                    "UEP8V5FM5",
+                    "UG2L1B44F"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5e37eb7-8d8d-458e-bbe4-196e39d908d5",
+        "type": "message",
+        "text": "Done",
+        "user": "U4PNHH70B",
+        "ts": "1567696454.239200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5e97ea67e071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1187635280323_5e97ea67e071f884402e_72.jpg",
+            "first_name": "Zhuikov",
+            "real_name": "Zhuikov Vladimir",
+            "display_name": "vladimir_zhuikov",
+            "team": "T040HKJE3",
+            "name": "vladimir_zhuikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B"
+    },
+    {
+        "client_msg_id": "dbdab757-300d-427f-b7e3-834c0aa1a71c",
+        "type": "message",
+        "text": "Имеет ли данная организация отношение к тематике канала? Может, все-таки пост удалить?",
+        "user": "UGF8L176H",
+        "ts": "1567698081.241300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B"
+    },
+    {
+        "client_msg_id": "BB1B76A0-6337-4C9F-A87D-7D7B603224ED",
+        "type": "message",
+        "text": "Курсы по составлению списка других курсов?",
+        "user": "UFUKQMV5K",
+        "ts": "1567708134.246700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMK8Q121W",
+                    "U828HFY0G",
+                    "UMZ4M2X7Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "368a675d-54de-4c52-a11a-eebc60484d10",
+        "type": "message",
+        "text": "Кто на какие курсы записался, собирается в осеннем семестре? Накидайте советов плиз.",
+        "user": "U64HGTLTD",
+        "ts": "1567709393.248200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38e674d24c91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474947967331_38e674d24c912ff8bd04_72.jpg",
+            "first_name": "Frank",
+            "real_name": "Frank Shikhaliev",
+            "display_name": "Frank[insolver.io]",
+            "team": "T040HKJE3",
+            "name": "fshikhaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567709393.248200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1567759280.262700",
+        "reply_users": [
+            "UHSBA8F35",
+            "U64HGTLTD",
+            "UJ8MSQEJH",
+            "ULA9M7CM9",
+            "UM38YUS0Y"
+        ],
+        "replies": [
+            {
+                "user": "UHSBA8F35",
+                "ts": "1567711171.249000"
+            },
+            {
+                "user": "U64HGTLTD",
+                "ts": "1567714676.249400"
+            },
+            {
+                "user": "UJ8MSQEJH",
+                "ts": "1567716930.249900"
+            },
+            {
+                "user": "ULA9M7CM9",
+                "ts": "1567736613.250600"
+            },
+            {
+                "user": "UM38YUS0Y",
+                "ts": "1567759280.262700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "94227945-0399-4af5-8e5f-04d0cefffc12",
+        "type": "message",
+        "text": "но есть же курсы по тому как учиться? и даже здесь кто-то рекомендовал",
+        "user": "U1HHX1QS3",
+        "ts": "1567709669.248300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B"
+    },
+    {
+        "client_msg_id": "fe49a507-e8d0-4365-bc05-65edb1278853",
+        "type": "message",
+        "text": "Чтобы советовать, надо понимать какая область интересует.",
+        "user": "UHSBA8F35",
+        "ts": "1567711171.249000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4e6b00712c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a4e6b00712c72d0bebc5560397227fc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Anatolijrubanov",
+            "display_name": "Anatolijrubanov",
+            "team": "T040HKJE3",
+            "name": "anatolijrubanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567709393.248200",
+        "parent_user_id": "U64HGTLTD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UBM4B8CBU",
+                    "U6LSE0FT9",
+                    "U6YDWF4UB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5ea8201-836c-4e09-8a9d-a15b39d17f24",
+        "type": "message",
+        "text": "<@UHSBA8F35> да я скорее посмотреть где народ учиться собирается и может быть примкнуть.",
+        "user": "U64HGTLTD",
+        "ts": "1567714676.249400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38e674d24c91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474947967331_38e674d24c912ff8bd04_72.jpg",
+            "first_name": "Frank",
+            "real_name": "Frank Shikhaliev",
+            "display_name": "Frank[insolver.io]",
+            "team": "T040HKJE3",
+            "name": "fshikhaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U64HGTLTD",
+            "ts": "1567714750.000000"
+        },
+        "thread_ts": "1567709393.248200",
+        "parent_user_id": "U64HGTLTD"
+    },
+    {
+        "client_msg_id": "6774ca20-eb42-49f6-9c9b-d49f10a39134",
+        "type": "message",
+        "text": "На самом деле я не советую смотреть на народ ибо лучше лишний раз посидеть за задачей если не можешь решить ,чем спросить у знающих,знаний так явно больше получишь",
+        "user": "UJ8MSQEJH",
+        "ts": "1567716930.249900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7d545425c64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/997d545425c6458b577dbafc165de5d5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Rakov Dmitriy",
+            "display_name": "Rakov Dmitriy",
+            "team": "T040HKJE3",
+            "name": "cszer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567709393.248200",
+        "parent_user_id": "U64HGTLTD"
+    },
+    {
+        "client_msg_id": "15a26e2a-c1d4-475e-b5fa-f2cac64a0c94",
+        "type": "message",
+        "text": ":mlcourse_ai:",
+        "user": "ULA9M7CM9",
+        "ts": "1567736613.250600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c253c1585bea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-06\/1342927501205_c253c1585bea83e6491f_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Kosarevsky",
+            "display_name": "if",
+            "team": "T040HKJE3",
+            "name": "dkosarevsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567709393.248200",
+        "parent_user_id": "U64HGTLTD"
+    },
+    {
+        "client_msg_id": "09dce4fa-1d3d-4707-ba8e-689d6ffda827",
+        "type": "message",
+        "text": "&gt; и даже здесь кто-то рекомендовал\nааа, ну если так, то ок",
+        "user": "U04EWH882",
+        "ts": "1567751042.258700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7bf410f11342",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1132281472481_7bf410f1134213219a5f_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey",
+            "display_name": "zhirzemli",
+            "team": "T040HKJE3",
+            "name": "alexeykarnachev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B"
+    },
+    {
+        "client_msg_id": "1915132c-2eb5-47f3-88f9-450f10c3a542",
+        "type": "message",
+        "text": "После курсов по подготовке к получению карты поляка этот канал никогда не станет прежним",
+        "user": "U0D6ZPJ56",
+        "ts": "1567751601.259500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "85394b0b97dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-03\/746700992080_85394b0b97dc562e866d_72.jpg",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Kashin",
+            "display_name": "tom.sawyer",
+            "team": "T040HKJE3",
+            "name": "tom.sawyer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567695151.235000",
+        "parent_user_id": "U4PNHH70B"
+    },
+    {
+        "client_msg_id": "19770c57-127c-4749-a118-f3a589a25b91",
+        "type": "message",
+        "text": "Всем привет, у меня вопрос такой: есть ли что-то подобное <https:\/\/datagym.ru\/>, но только не очно, а онлайн? Или может кто-то что-то знает про ML тренировки в Украине?",
+        "user": "UM39TF93J",
+        "ts": "1567751653.260400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fac0553434fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-07\/707476247058_fac0553434fac92e13db_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Hladkyi",
+            "display_name": "Ivan Hladkyi",
+            "team": "T040HKJE3",
+            "name": "liberte1793",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DataGym.ru - Тренируем ваши знания Data Science",
+                "title_link": "https:\/\/datagym.ru\/",
+                "text": "Очный курс по Машинному Обучению и Data Science",
+                "fallback": "DataGym.ru - Тренируем ваши знания Data Science",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3732-6534-4830-b062-363739323032\/Depositphotos_677991.jpg",
+                "from_url": "https:\/\/datagym.ru\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 217552,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild3436-3339-4736-a561-316132323264\/Sports-Dumbbell-icon.png",
+                "service_name": "datagym.ru",
+                "id": 1,
+                "original_url": "https:\/\/datagym.ru\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDD345XLG",
+                    "UDE93F477",
+                    "U9NAK0FQF",
+                    "UCNRFLQ8M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "U1UNFRQ1K",
+                    "UFS228B29",
+                    "U4B8MC0AD",
+                    "UBM7ZCYRK",
+                    "UJANK5WUX",
+                    "U6L08K8KS",
+                    "U9W1PD5QD",
+                    "UM38YUS0Y",
+                    "UD8HRS7LK",
+                    "U6YDWF4UB",
+                    "U8XCZCF0F",
+                    "UMMG65X9C",
+                    "U7PHZ3QTU",
+                    "U9V48C738",
+                    "ULPRYQNS2"
+                ],
+                "count": 15
+            },
+            {
+                "name": "datagym_welcome",
+                "users": [
+                    "U3NTG7CCS",
+                    "U8J9XMX3J",
+                    "U15UZGX9A",
+                    "U6Y47FWKX",
+                    "U625V2J3G",
+                    "U57JJAVLN",
+                    "U6HFSNFQR",
+                    "U1G303UTW",
+                    "UJW9M71RV",
+                    "U09JEC7V0",
+                    "U9V48C738"
+                ],
+                "count": 11
+            }
+        ]
+    }
+]

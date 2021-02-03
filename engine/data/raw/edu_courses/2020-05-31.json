@@ -1,0 +1,896 @@
+[
+    {
+        "client_msg_id": "a0123142-8cfe-4724-bbb4-311130ba2169",
+        "type": "message",
+        "text": "Анки для кандзи это прям топчик",
+        "user": "UL95F64PP",
+        "ts": "1590917584.265200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zCrR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Анки для кандзи это прям топчик"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ"
+    },
+    {
+        "client_msg_id": "d02a4f5f-668b-47aa-a43f-01a610ad9eac",
+        "type": "message",
+        "text": "<http:\/\/lingoracer.com\/> вот ещё аркадно)",
+        "user": "U012T73D0SJ",
+        "ts": "1590920486.265800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a17b799b0349",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-02\/1202948395095_a17b799b0349ec6b28ef_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Golovach",
+            "display_name": "cybersatori",
+            "team": "T040HKJE3",
+            "name": "galaxyschildentertain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LingoRacer: Language, made fun!",
+                "title_link": "http:\/\/lingoracer.com\/",
+                "text": "The most exciting way to learn the Japanese language. LingoRacer is a multiplayer competitive quiz game that will keep you coming back for more.",
+                "fallback": "LingoRacer: Language, made fun!",
+                "from_url": "http:\/\/lingoracer.com\/",
+                "service_name": "lingoracer.com",
+                "id": 1,
+                "original_url": "http:\/\/lingoracer.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AGlK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/lingoracer.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " вот ещё аркадно)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ"
+    },
+    {
+        "client_msg_id": "0b0ade5f-b54c-4945-add4-4124900f656b",
+        "type": "message",
+        "text": "Привет! Посоветуйте, пожалуйста, курс DS, где много практики и наработки \"портфолио\" для не-новичка, продвинутого уровня?",
+        "user": "UJJHK6RE3",
+        "ts": "1590921812.267400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2f28aac4491",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/352f28aac449154d12a079b65f07688e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Valentina K",
+            "display_name": "Valentina K",
+            "team": "T040HKJE3",
+            "name": "val.levanchuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет! Посоветуйте, пожалуйста, курс DS, где много практики и наработки \"портфолио\" для не-новичка, продвинутого уровня?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1591118580.291400",
+        "reply_users": [
+            "UJ8BXBM36",
+            "U2N853RGF",
+            "U4Z9Q18QH",
+            "U6YLFT8QP",
+            "U21MU5ATE",
+            "UJJHK6RE3"
+        ],
+        "replies": [
+            {
+                "user": "UJ8BXBM36",
+                "ts": "1590921860.267500"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1590922464.268100"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1590924139.268500"
+            },
+            {
+                "user": "U6YLFT8QP",
+                "ts": "1590932772.275800"
+            },
+            {
+                "user": "U21MU5ATE",
+                "ts": "1590955293.280200"
+            },
+            {
+                "user": "UJJHK6RE3",
+                "ts": "1590998169.283200"
+            },
+            {
+                "user": "UJJHK6RE3",
+                "ts": "1591000624.284900"
+            },
+            {
+                "user": "UJ8BXBM36",
+                "ts": "1591000635.285100"
+            },
+            {
+                "user": "UJJHK6RE3",
+                "ts": "1591118580.291400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kaggle",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "231cbd87-8c68-4a00-8aef-0633aadafc4b",
+        "type": "message",
+        "text": "Стенфордские? <#C7TS10ND6|class_cs231n>",
+        "user": "UJ8BXBM36",
+        "ts": "1590921860.267500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "624566c1f7b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-28\/928184124678_624566c1f7b062c88e7c_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Gribul",
+            "display_name": "Datasciensyash",
+            "team": "T040HKJE3",
+            "name": "archypeshenka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Стенфордские? "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C7TS10ND6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "parent_user_id": "UJJHK6RE3"
+    },
+    {
+        "client_msg_id": "cc438417-b36d-46d1-9666-327765213da6",
+        "type": "message",
+        "text": "в запиненные",
+        "user": "U2N853RGF",
+        "ts": "1590922464.268100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "в запиненные"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "parent_user_id": "UJJHK6RE3"
+    },
+    {
+        "client_msg_id": "e5a58c49-09f7-4e1e-8fd9-773a2fe6a45e",
+        "type": "message",
+        "text": "<http:\/\/Mlcourse.ai|Mlcourse.ai>",
+        "user": "U4Z9Q18QH",
+        "ts": "1590924139.268500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1W+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Mlcourse.ai",
+                                "text": "Mlcourse.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "parent_user_id": "UJJHK6RE3"
+    },
+    {
+        "client_msg_id": "b6901063-da9c-4b0c-8239-ce558543012d",
+        "type": "message",
+        "text": "Привет, такой вопрос, возможно ли к концу лету устроиться на работу по DS ? В данный момент, прохожу курс от Яндекса на курсера и паралельно изучаю линейную алгебру, питон знаю на базовом уровне( ф-ции, классы - с ними умею работать). Также знаю pandas, numpy, plt. Не скажу прям класс, но думаю хорошо. Проходил некоторые курсы в DataCamp. Но пока собственных проектов пока нет. Что можете посоветовать ?",
+        "user": "U012A05G5MJ",
+        "ts": "1590925335.272700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gba8e81738bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ba8e81738bf4a671c0fe8d86ac60f610.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Insaf",
+            "real_name": "Insaf",
+            "display_name": "MrMistake",
+            "team": "T040HKJE3",
+            "name": "gizatullininsaf25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3tB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет, такой вопрос, возможно ли к концу лету устроиться на работу по DS ? В данный момент, прохожу курс от Яндекса на курсера и паралельно изучаю линейную алгебру, питон знаю на базовом уровне( ф-ции, классы - с ними умею работать). Также знаю pandas, numpy, plt. Не скажу прям класс, но думаю хорошо. Проходил некоторые курсы в DataCamp. Но пока собственных проектов пока нет. Что можете посоветовать ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "kaggle",
+                "users": [
+                    "UEVA1NXGT",
+                    "UQCMBBS9W",
+                    "U014X8DALC8",
+                    "UJ8BXBM36",
+                    "UNFTX1XT9",
+                    "USTKTE472",
+                    "U7N4E8GBF",
+                    "UP1JY3PK2",
+                    "U53E5MFNU",
+                    "U5EF4EQR1",
+                    "UFZ9SJ2P3",
+                    "UTCLVKQD8",
+                    "U1X40T58U"
+                ],
+                "count": 13
+            },
+            {
+                "name": "sql",
+                "users": [
+                    "UCNNGKT3Q",
+                    "UNFTX1XT9",
+                    "USTKTE472",
+                    "U7N4E8GBF",
+                    "U53E5MFNU",
+                    "U6SHTGD5X",
+                    "UBHD83KJR",
+                    "UFZ9SJ2P3",
+                    "UBCTUFA75",
+                    "USRKU791Q",
+                    "U018F37JXQU"
+                ],
+                "count": 11
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U013PPV77PS",
+                    "U012T73D0SJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5fcd4ef-888b-4279-905d-5576fabd8a9b",
+        "type": "message",
+        "text": "<http:\/\/users.bestweb.net\/~siom\/martian_mountain\/!%20L-R%20the%20most%20important%20passages.htm>",
+        "user": "U4ZRFG1V0",
+        "ts": "1590931951.275500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hm4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/users.bestweb.net\/~siom\/martian_mountain\/!%20L-R%20the%20most%20important%20passages.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ"
+    },
+    {
+        "client_msg_id": "c1f96ec9-d3b3-4d9a-b595-8f2b5d1e3f97",
+        "type": "message",
+        "text": "kaggle",
+        "user": "U6YLFT8QP",
+        "ts": "1590932772.275800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "16b350663214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-10\/297195119942_16b350663214268ec567_72.jpg",
+            "first_name": "Full",
+            "real_name": "Full Name",
+            "display_name": "ohwr",
+            "team": "T040HKJE3",
+            "name": "fer24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kaggle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "parent_user_id": "UJJHK6RE3"
+    },
+    {
+        "client_msg_id": "2c5f85f3-aa2e-45d3-aacb-2867e83673c4",
+        "type": "message",
+        "text": "выше писали про книги Ильи Франка. Лежит у меня 3 его книги, чет совсем не зашло. Есть ощущение что такой подход с иероглифическими языками плохо работает. Ну или это я просто дурачок)",
+        "user": "UL95F64PP",
+        "ts": "1590933041.276000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL95F64PP",
+            "ts": "1590933258.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tnxx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "выше писали про книги Ильи Франка. Лежит у меня 3 его книги, чет совсем не зашло. Есть ощущение что такой подход с иероглифическими языками плохо работает. Ну или это я просто дурачок)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ"
+    },
+    {
+        "client_msg_id": "98cf10ac-5325-460c-82b1-2775dc417d01",
+        "type": "message",
+        "text": "Здесь разница в том, что чтение совмещается с аудио)\nТо есть типа слушаешь Гарри Поттера на японском, а перед глазами текст на английском (или русском, что нравится больше).",
+        "user": "U4ZRFG1V0",
+        "ts": "1590933494.276800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n67",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Здесь разница в том, что чтение совмещается с аудио)\nТо есть типа слушаешь Гарри Поттера на японском, а перед глазами текст на английском (или русском, что нравится больше)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ"
+    },
+    {
+        "client_msg_id": "f429ffda-6239-4586-a024-9d142741f51e",
+        "type": "message",
+        "text": "тут наверно зависит от того как человек воспринимает лучше, кто то на слух кому то написать надо)",
+        "user": "UL95F64PP",
+        "ts": "1590933967.277000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "тут наверно зависит от того как человек воспринимает лучше, кто то на слух кому то написать надо)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ab0ea90-2a24-4ea0-b0d6-e36517796cf5",
+        "type": "message",
+        "text": "Для кандзей отлично зашло Basic kanji book. Но зубрить только их смысла не вижу, без контекста запоминается плохо и часто неправильно, так что лучше читать больше.\n\nДля грамматики и отработки азбук - первые два тома Нечаевой, этого примерно хватит на Н4-3 уровень, там куча упражнений для вдалбливания, одному нормально проходить.\n\nДля диалогов и аудирования - видео с субтитрами\/аниме\/дорамы\/nhk\/ватева. Из учебников можно глянуть серию Маругото, там все построено вокруг коротких диалогов.\n\nДля себя заметил, что легче начинать учить иняз с прослушивания  и повторения диалогов, не зная грамматики и лексики. Дети ведь так язык учат)\n\nНу и главный совет - по чуть-чуть, но каждый день)",
+        "user": "UCARC91TK",
+        "ts": "1590938697.277700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c721eeb1cfb3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-03\/429275224071_c721eeb1cfb3b8835f8e_72.jpg",
+            "first_name": "Andrei",
+            "real_name": "Andrei Varkentin",
+            "display_name": "varan",
+            "team": "T040HKJE3",
+            "name": "andrei.varkentin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxFM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Для кандзей отлично зашло Basic kanji book. Но зубрить только их смысла не вижу, без контекста запоминается плохо и часто неправильно, так что лучше читать больше.\n\nДля грамматики и отработки азбук - первые два тома Нечаевой, этого примерно хватит на Н4-3 уровень, там куча упражнений для вдалбливания, одному нормально проходить.\n\nДля диалогов и аудирования - видео с субтитрами\/аниме\/дорамы\/nhk\/ватева. Из учебников можно глянуть серию Маругото, там все построено вокруг коротких диалогов.\n\nДля себя заметил, что легче начинать учить иняз с прослушивания  и повторения диалогов, не зная грамматики и лексики. Дети ведь так язык учат)\n\nНу и главный совет - по чуть-чуть, но каждый день)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590850478.251800",
+        "parent_user_id": "U012T73D0SJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "133d99f1-931c-4eb8-a56f-6f90dc854c7c",
+        "type": "message",
+        "text": "Посоветуйте курс где подробно разбирается как работает мультипроцессинг\/мультиттрединг в питоне.",
+        "user": "U24N3AB96",
+        "ts": "1590953996.279800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Посоветуйте курс где подробно разбирается как работает мультипроцессинг\/мультиттрединг в питоне."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590953996.279800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1590956228.280600",
+        "reply_users": [
+            "U6YLFT8QP",
+            "UEFGL4WP7"
+        ],
+        "replies": [
+            {
+                "user": "U6YLFT8QP",
+                "ts": "1590954840.279900"
+            },
+            {
+                "user": "UEFGL4WP7",
+                "ts": "1590956228.280600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2102b499-cc2e-41a2-9c93-7e3f51f80cce",
+        "type": "message",
+        "text": "вот тут было <https:\/\/www.coursera.org\/learn\/diving-in-python>\nкурс для новичков - поэтому они старались подробно",
+        "user": "U6YLFT8QP",
+        "ts": "1590954840.279900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "16b350663214",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-10\/297195119942_16b350663214268ec567_72.jpg",
+            "first_name": "Full",
+            "real_name": "Full Name",
+            "display_name": "ohwr",
+            "team": "T040HKJE3",
+            "name": "fer24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Погружение в Python",
+                "title_link": "https:\/\/www.coursera.org\/learn\/diving-in-python",
+                "text": "Offered by Moscow Institute of Physics and Technology. Python – простой, гибкий и невероятно популярный язык, который используется практически во всех областях современной разработки. С его помощью можно создавать веб-приложения, писать игры, заниматься анализом данных, автоматизировать задачи системного администрирования и многое другое. “Погружение в Python” читают разработчики, применяющие Python в проектах, которыми ежедневно пользуются миллионы людей. Курс покрывает все необходимые для ежедневной работы программиста темы, а также рассказывает про многие особенности языка, которые часто опускают при его изучении. В ходе курса вы изучите конструкции языка, типы и структуры данных, функции, научитесь применять объектно-ориентированное и функциональное программирование, узнаете про особенности реализации Python, научитесь писать асинхронный и многопоточный код. Помимо теории вас ждут практические задания, которые помогут проверить полученные знания и отточить навыки программирования на Python. После успешного окончания курса вы сможете использовать полученный опыт для разработки проектов различной сложности.",
+                "fallback": "Coursera: Погружение в Python",
+                "image_url": "https:\/\/coursera_assets.s3.us-east-1.amazonaws.com\/metatag-images\/xdp-optimized\/di\/learn-diving-in-python-A.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/diving-in-python",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 57544,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/diving-in-python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот тут было "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/diving-in-python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nкурс для новичков - поэтому они старались подробно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590953996.279800",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "client_msg_id": "565935e7-28c2-468b-8650-ad1013892ace",
+        "type": "message",
+        "text": "<#C17SUH211|_call_4_collaboration> \/ ds for social good",
+        "user": "U21MU5ATE",
+        "ts": "1590955293.280200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6ec8003478b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488503545155_6ec8003478b73a178825_72.jpg",
+            "first_name": "Vlad",
+            "real_name": "Vlad Lialin",
+            "display_name": "dropout05",
+            "team": "T040HKJE3",
+            "name": "vlyalin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwZbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C17SUH211"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/ ds for social good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590921812.267400",
+        "parent_user_id": "UJJHK6RE3"
+    },
+    {
+        "client_msg_id": "20c72712-d001-42ab-8bc7-3b2ec9c08f59",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C044B7CSQ\/p1522446776000233>",
+        "user": "UEFGL4WP7",
+        "ts": "1590956228.280600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9ec586374f4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc9ec586374f4b7f4f272bf4eef68ebb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Dmitry Burdeiny",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dmitry.burdeiny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C044B7CSQ\/p1522446776000233",
+                "fallback": "[March 30th, 2018 2:52 PM] evgeniimakarov: А подскажите, что почитать по Python хорошего, чтобы чуть поглубже? Ну там генераторы, мультипроцессинг, метаклассы всякие. Хорошие практики еще.",
+                "ts": "1522446776.000233",
+                "author_id": "U2N853RGF",
+                "author_subname": "Evgenii Makarov",
+                "channel_id": "C044B7CSQ",
+                "channel_name": "lang_python",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "А подскажите, что почитать по Python хорошего, чтобы чуть поглубже? Ну там генераторы, мультипроцессинг, метаклассы всякие. Хорошие практики еще.",
+                "author_name": "Evgenii Makarov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U2N853RGF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C044B7CSQ\/p1522446776000233",
+                "footer": "Thread in #lang_python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIVFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C044B7CSQ\/p1522446776000233"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590953996.279800",
+        "parent_user_id": "U24N3AB96"
+    }
+]

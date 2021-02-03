@@ -1,0 +1,1122 @@
+[
+    {
+        "client_msg_id": "98e7dac0-f591-4d0f-a70a-802f14a125ec",
+        "type": "message",
+        "text": "Я верно понимаю, что с техподдержкой курсеры никак не связаться? У них есть Help center, но там только набор статей, ни почты, ни чата, ничего такого нет....?",
+        "user": "U8W6RA8B0",
+        "ts": "1539850228.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539850228.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1539851212.000100",
+        "reply_users": [
+            "U9W1PD5QD"
+        ],
+        "replies": [
+            {
+                "user": "U9W1PD5QD",
+                "ts": "1539851212.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2d25bf0-343a-4448-90ee-86f2b6b12b2a",
+        "type": "message",
+        "text": "Есть чат. Под статьей кнопка",
+        "user": "U9W1PD5QD",
+        "ts": "1539851212.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b4331f571aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-02\/448256824742_b4331f571aefb8eb0653_72.jpg",
+            "first_name": "ezhova-darja",
+            "real_name": "ezhova-darja",
+            "display_name": "ezhdi",
+            "team": "T040HKJE3",
+            "name": "ezhova-darja",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539850228.000100",
+        "parent_user_id": "U8W6RA8B0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8W6RA8B0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f1b1b49-01d6-4dcb-834b-8f9973fc5e02",
+        "type": "message",
+        "text": "Маленький туториал по numpy, pytorch, tensorflow интересен?",
+        "user": "U3YPW87KL",
+        "ts": "1539851726.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f16c4f11df7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-04\/136346878193_2f16c4f11df7f084b649_72.jpg",
+            "first_name": "Arseniy",
+            "real_name": "Arseniy Trushin",
+            "display_name": "tarstars",
+            "team": "T040HKJE3",
+            "name": "tarstars",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539788618.000100",
+        "parent_user_id": "U26QNB7SB",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9V48C738",
+                    "UCM52RUBG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "978cb495-ab0f-4a1a-b783-ab3c3cd0413c",
+        "type": "message",
+        "text": "Хочу попробовать свои силы в ML. Порекомендуйте, с какого фреймворка начать: TensorFlow, Keras или PyTorch. И жеательно литературу или курсы в рекомендациях",
+        "user": "UCM52RUBG",
+        "ts": "1539865791.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCM52RUBG",
+            "ts": "1539865881.000000"
+        },
+        "thread_ts": "1539865791.000100",
+        "reply_count": 27,
+        "reply_users_count": 8,
+        "latest_reply": "1556257727.030100",
+        "reply_users": [
+            "U4ZRFG1V0",
+            "UCM52RUBG",
+            "U1BMURR5G",
+            "U24FHECDD",
+            "U6QF7NATC",
+            "UA92L7ACC",
+            "U505GQJ6M",
+            "UDDJ1A4CA"
+        ],
+        "replies": [
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539866051.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539866285.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539866293.000100"
+            },
+            {
+                "user": "U24FHECDD",
+                "ts": "1539866302.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539866302.000300"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539866333.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539866351.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539866375.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539866386.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1539866457.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539866525.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539866643.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539866660.000200"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539866784.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539866871.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539867057.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539867076.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539867299.000100"
+            },
+            {
+                "user": "U6QF7NATC",
+                "ts": "1539867356.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539867533.000100"
+            },
+            {
+                "user": "U6QF7NATC",
+                "ts": "1539867996.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539868003.000100"
+            },
+            {
+                "user": "UCM52RUBG",
+                "ts": "1539868515.000100"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1539870717.000100"
+            },
+            {
+                "user": "UA92L7ACC",
+                "ts": "1539899976.000100"
+            },
+            {
+                "user": "U505GQJ6M",
+                "ts": "1543509133.631800"
+            },
+            {
+                "user": "UDDJ1A4CA",
+                "ts": "1556257727.030100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "excel",
+                "users": [
+                    "U10K3LXHV",
+                    "U1UMQM200",
+                    "U2N853RGF",
+                    "U33G91CMV",
+                    "U24FHECDD",
+                    "UDG3FGKDE",
+                    "U1G303UTW",
+                    "U6QF7NATC",
+                    "U9JG577D1",
+                    "U7VDWFSG3",
+                    "U7SFPUVQF",
+                    "U7HAARZEC",
+                    "U4B8MC0AD",
+                    "U7906J4CV",
+                    "U8H7YKFME",
+                    "U436BP343",
+                    "U09JEC7V0",
+                    "U19EZ8L5D",
+                    "U5H0L5T98",
+                    "UCAEKNA4V",
+                    "UCVMG03HN",
+                    "U480YG74G",
+                    "U44J8KC13",
+                    "U50EVF538",
+                    "U53E5MFNU",
+                    "U9LKKNJHE",
+                    "U944AS8DR",
+                    "U1HHX1QS3",
+                    "U24DR1FUK",
+                    "U5FUU47GA",
+                    "UDJS7Q1DL",
+                    "U1G2RBBDY",
+                    "U9V48C738",
+                    "UA8MGM9HD",
+                    "U94QA9LFL",
+                    "UA1KQL1BM",
+                    "UD6AS2KGR",
+                    "U95EDL3H8",
+                    "UAK4QLC8Z",
+                    "U7N4E8GBF",
+                    "UDVK7JKH9",
+                    "U129L113M"
+                ],
+                "count": 42
+            },
+            {
+                "name": "1c",
+                "users": [
+                    "U4BFBQHBQ",
+                    "U8T04GC3C",
+                    "U7DTGC4PL",
+                    "U2N853RGF",
+                    "U5ZP4G811",
+                    "U24FHECDD",
+                    "U7VDWFSG3",
+                    "U4B8MC0AD",
+                    "U436BP343",
+                    "UCAEKNA4V",
+                    "UCVMG03HN",
+                    "U480YG74G",
+                    "U44J8KC13",
+                    "U50EVF538",
+                    "U9LKKNJHE",
+                    "U7GFT92PN",
+                    "U6Y8R56NM",
+                    "UDFKRQH33",
+                    "U24DR1FUK",
+                    "U5FUU47GA",
+                    "UDJS7Q1DL",
+                    "U9V48C738",
+                    "UCKMBKZUK",
+                    "UA8MGM9HD"
+                ],
+                "count": 24
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "U5EF4EQR1",
+                    "U625V2J3G",
+                    "U1BMURR5G",
+                    "UCVMG03HN",
+                    "U6FNTCDUG"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pytorch",
+                "users": [
+                    "U34SSE54G",
+                    "U5EF4EQR1",
+                    "U2N853RGF",
+                    "U33G91CMV",
+                    "U132PFKHS",
+                    "U06K9ELB1",
+                    "U1NLYUY5N",
+                    "UD37TP39U",
+                    "UB4F4DZGV",
+                    "U4B8MC0AD",
+                    "U0H7VBQQ1",
+                    "U3S96B5QF",
+                    "UCAEKNA4V",
+                    "U53E5MFNU",
+                    "U26QDDKMY",
+                    "U26KV8W3D",
+                    "UA92L7ACC",
+                    "U6WMC1ZS5",
+                    "UB8BJMN0M",
+                    "U4RFX4PJT",
+                    "U50FY1AG6",
+                    "U8K4F3Z7W"
+                ],
+                "count": 22
+            },
+            {
+                "name": "keras",
+                "users": [
+                    "U34SSE54G",
+                    "U625V2J3G",
+                    "U0U2ENJ4U",
+                    "U0H7VBQQ1",
+                    "U3W6X77FG",
+                    "UB4AKUGH2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "mxnet",
+                "users": [
+                    "U9JPJCD2L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "458797ed-4a7c-48ea-95d5-42f93aa7003b",
+        "type": "message",
+        "text": "Если хочешь изучить ML, то вначале лучше изучать именно ML, а не DL",
+        "user": "U4ZRFG1V0",
+        "ts": "1539866051.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1NPQ2WPN",
+                    "U24FHECDD",
+                    "U7VDWFSG3",
+                    "U4B8MC0AD",
+                    "U5F198S75",
+                    "U6YDWF4UB",
+                    "U3CJPQ4HX",
+                    "U1D6DT6HE",
+                    "U9LKKNJHE",
+                    "U9V48C738",
+                    "UCMAWD588",
+                    "U17UDV31D",
+                    "U1CMPEWPQ",
+                    "UDDCJ9L84",
+                    "U62N1NJUC",
+                    "UDG3FGKDE"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "client_msg_id": "720d48db-6967-4f93-ba07-822f01508458",
+        "type": "message",
+        "text": "Я хочу картинки на Кагле пораспозновать. DS я изучаю сейчас. Хотелось бы попробовать что-то, что связано с CV, но не знаю, как подступиться. Извиняюсь, если вопрос показался глупым или неправильным",
+        "user": "UCM52RUBG",
+        "ts": "1539866285.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "grammar",
+                "users": [
+                    "U1D6DT6HE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38bf373b-2447-4f47-96a9-230f48dae543",
+        "type": "message",
+        "text": "это dl",
+        "user": "U1BMURR5G",
+        "ts": "1539866293.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a27783f-e44b-4382-bb64-f18d969931e2",
+        "type": "message",
+        "text": "А затем - именно DL, а не фреймворки.",
+        "user": "U24FHECDD",
+        "ts": "1539866302.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U5F198S75",
+                    "U9V48C738"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01358152-64f9-425f-98a4-892a4187163d",
+        "type": "message",
+        "text": "<#C93MBF6VC|class_fastai>",
+        "user": "U1BMURR5G",
+        "ts": "1539866302.000300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "0425edd2-f520-4b51-83d0-d8ef7b84e8b0",
+        "type": "message",
+        "text": "Тогда либо <#C93MBF6VC|class_fastai> либо <#C7TS10ND6|class_cs231n> либо <#CCLPKP6N5|class_dl_cmu>  :slightly_smiling_face:",
+        "user": "U4ZRFG1V0",
+        "ts": "1539866333.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "ace4cd3d-041b-4a69-92a1-6e691c0269a4",
+        "type": "message",
+        "text": "а что это?",
+        "user": "UCM52RUBG",
+        "ts": "1539866351.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "b02104da-d77a-434d-a878-0cbdf904baef",
+        "type": "message",
+        "text": "просто выглядит, как курс для соревнований Kaggle",
+        "user": "UCM52RUBG",
+        "ts": "1539866375.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "b4ee4eb6-c600-4f8d-b4ef-6f4abe8a4292",
+        "type": "message",
+        "text": "Это курсы по DL",
+        "user": "U4ZRFG1V0",
+        "ts": "1539866386.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "adf6ea2b-c6df-43d9-aff1-0db4876deaa7",
+        "type": "message",
+        "text": "первое - довольно крутая библиотека, обертка :pytorch: как раз на следующей неделе начинается новая итерация.\n\nВторое - классический и один из лучших курсов по CV. Вначале на numpy, потом :tf: \/:pytorch:\n\nТретье - курс по :pytorch:  Сейчас ждём первых домашек",
+        "user": "U4ZRFG1V0",
+        "ts": "1539866457.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "ada284d6-580e-4c53-bb08-1583b3475ece",
+        "type": "message",
+        "text": "соревнования на кегле весьма полезны",
+        "user": "U1BMURR5G",
+        "ts": "1539866525.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fd69c2d-2d7b-412f-852c-46a298d6487e",
+        "type": "message",
+        "text": "к соревнованиям надо подходить хотя бы с каким то пониманием. А когда для тебя код в тетрадке, это криптография какая то соревноваться трудно",
+        "user": "UCM52RUBG",
+        "ts": "1539866643.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "8291a9cf-35fb-4ba3-9468-d05d2d4b882f",
+        "type": "message",
+        "text": "В любом случае спасибо за помощь",
+        "user": "UCM52RUBG",
+        "ts": "1539866660.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "89fb1848-f8df-4855-a04e-ac356db2cd88",
+        "type": "message",
+        "text": "ну можно начать с линейной алгебры, статистики и теорвера, потом изучить статистические методы, классический мл, потом добраться до дл, заглянуть также в байесовский методы и reinforcement learning. и тогда через пару лет ты узнаешь что ты все равное не понимаешь кучу всего :smile:",
+        "user": "U1BMURR5G",
+        "ts": "1539866784.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9ZU1CYUD",
+                    "U93S7T13R",
+                    "U17UDV31D",
+                    "UDFTESPKM",
+                    "U8313GG7M"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c13ff3f1-83be-479a-9884-5d87d6993144",
+        "type": "message",
+        "text": "люди разные, если тебе нравится bottom-up подход бери cs231n, если top down и ты хочешь начать как можно быстрее то fastai; и то, и другое весьма и весьма (и не взаимоисключает)",
+        "user": "U1BMURR5G",
+        "ts": "1539866871.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1539866905.000000"
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "ae4f7417-1369-4aba-90ee-6f3b9c7888e4",
+        "type": "message",
+        "text": "давай по-другому, что легче и быстрее освоить?",
+        "user": "UCM52RUBG",
+        "ts": "1539867057.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "excel",
+                "users": [
+                    "U24FHECDD",
+                    "U6QF7NATC",
+                    "U8H7YKFME",
+                    "U27SUBTB9",
+                    "UCAEKNA4V",
+                    "UCFCEJYBS",
+                    "UDFKRQH33",
+                    "U62N1NJUC",
+                    "UBTLVD0BD"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f430d9d3-6142-4c50-8b1e-b1a89d5dacc8",
+        "type": "message",
+        "text": "и что менее требовательно к железу?",
+        "user": "UCM52RUBG",
+        "ts": "1539867076.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "excel",
+                "users": [
+                    "UD1RF7NGM",
+                    "UBTLVD0BD",
+                    "U6Y47FWKX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc7c0c17-78a7-48e2-a40b-a8858243dcee",
+        "type": "message",
+        "text": "есть разные уровни понимания и детализации. чем более реальными задачами ты занимаешься тем легче не утратить интерес и не перегореть",
+        "user": "U1BMURR5G",
+        "ts": "1539867299.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "b6b487c3-6aed-40e5-93b4-3d96be00d040",
+        "type": "message",
+        "text": "смотря что ты вкладываешь в \"освоить\". очень быстро можно освоить Керас - но в реальном мире людям будет страшно пользоваться моделями :keras: -умельца, который не освоил хотя бы линал и статы",
+        "user": "U6QF7NATC",
+        "ts": "1539867356.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80afca339449",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-14\/1357312344693_80afca339449984c04e2_72.png",
+            "first_name": "Михаил",
+            "real_name": "Михаил Полупанов",
+            "display_name": "m_pov",
+            "team": "T040HKJE3",
+            "name": "birds_and_snakes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "459a2ab2-3a6f-4104-9401-4f045abb0d65",
+        "type": "message",
+        "text": "Ну, линейную регрессию я уже могу:wink:",
+        "user": "UCM52RUBG",
+        "ts": "1539867533.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UA92L7ACC",
+                    "U9V48C738"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3c0481c-6281-411c-bb16-5769c50378c6",
+        "type": "message",
+        "text": "значит скоро сможешь и небольшую полносвязную сеть на numpy)\nпопробуй посмотреть в сторону cs231. но он уже подразумевает какое-то знакомство с базовой математикой вокруг мл",
+        "user": "U6QF7NATC",
+        "ts": "1539867996.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80afca339449",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-14\/1357312344693_80afca339449984c04e2_72.png",
+            "first_name": "Михаил",
+            "real_name": "Михаил Полупанов",
+            "display_name": "m_pov",
+            "team": "T040HKJE3",
+            "name": "birds_and_snakes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "010b1c78-1de9-4972-8585-3be136828569",
+        "type": "message",
+        "text": "&gt; и что менее требовательно к железу?\nесли ты хочешь заниматься картинками тебе понадобится gpu или машина в облаке с ним, тут без вариантов",
+        "user": "U1BMURR5G",
+        "ts": "1539868003.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "cda9d5d1-8f1b-4608-a716-90a757befd5f",
+        "type": "message",
+        "text": "я знаю, но даже тут все очень сильно разниться.",
+        "user": "UCM52RUBG",
+        "ts": "1539868515.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "40d227d3a66d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488202234977_40d227d3a66da00624c2_72.jpg",
+            "first_name": "White",
+            "real_name": "White Hanekava",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "spectrmen123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "09179781-35a9-4d42-98cf-8c2bd3c9c615",
+        "type": "message",
+        "text": "ну скажем так, для cs231n нужно меньше ресурсов чем для кеггла\/фаст.аи\/реальных проектов",
+        "user": "U1BMURR5G",
+        "ts": "1539870717.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    },
+    {
+        "client_msg_id": "dc1c1e69-6671-4754-8e07-55f2fed63872",
+        "type": "message",
+        "text": "<@U9V48C738> <@UCM52RUBG> Первая статья цикла, сейчас пишу вторую: <https:\/\/habr.com\/company\/hh\/blog\/424227\/>",
+        "user": "U3YPW87KL",
+        "ts": "1539871974.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f16c4f11df7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-04\/136346878193_2f16c4f11df7f084b649_72.jpg",
+            "first_name": "Arseniy",
+            "real_name": "Arseniy Trushin",
+            "display_name": "tarstars",
+            "team": "T040HKJE3",
+            "name": "tarstars",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Равномерно распределяем точки по сфере в pytorch и tensorflow",
+                "title_link": "https:\/\/habr.com\/company\/hh\/blog\/424227\/",
+                "text": "Этот текст написан для тех, кто интересуется глубоким обучением, кто хочет использовать разные методы библиотек pytorch и tensorflow для минимизации функции...",
+                "fallback": "Равномерно распределяем точки по сфере в pytorch и tensorflow",
+                "image_url": "https:\/\/habrastorage.org\/webt\/kz\/fa\/h2\/kzfah2g6zgoehvsimumi8hy9nie.jpeg",
+                "from_url": "https:\/\/habr.com\/company\/hh\/blog\/424227\/",
+                "image_width": 354,
+                "image_height": 250,
+                "image_bytes": 115352,
+                "service_icon": "https:\/\/habr.com\/images\/apple-touch-icon.png",
+                "service_name": "Хабр",
+                "id": 1,
+                "original_url": "https:\/\/habr.com\/company\/hh\/blog\/424227\/"
+            }
+        ],
+        "thread_ts": "1539788618.000100",
+        "parent_user_id": "U26QNB7SB"
+    },
+    {
+        "client_msg_id": "336857bd-1135-42a3-bd45-1e175406270b",
+        "type": "message",
+        "text": "На каггле если вовремя подсуетиться, часто можно получить кредиты на клауд 300-500 баксов, это порядка  150-200 gpu-часов, вполне прилично для начала.",
+        "user": "UA92L7ACC",
+        "ts": "1539899976.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b6af9b42202c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355029640979_b6af9b42202cbfefdab1_72.jpg",
+            "first_name": "Artyom",
+            "real_name": "Artyom Palvelev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "palvelev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539865791.000100",
+        "parent_user_id": "UCM52RUBG"
+    }
+]

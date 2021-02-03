@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "589AC600-E655-4D9E-984D-BB21A7BB1719",
+        "type": "message",
+        "text": "Вышел четвёртый курс специализации Ына по tensorflow, посвящённый sequence models\n\nTensorFlow in Practice | <http:\/\/deeplearning.ai|deeplearning.ai>\n<https:\/\/www.coursera.org\/specializations\/tensorflow-in-practice>",
+        "user": "U9BDT48M8",
+        "ts": "1564604083.126200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "TensorFlow in Practice | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/tensorflow-in-practice",
+                "text": "Learn TensorFlow in Practice from <http:\/\/deeplearning.ai|deeplearning.ai>. Discover the tools software developers use to build scalable AI-powered algorithms in TensorFlow, a popular open-source machine learning framework. In this four-course Specialization, you’ll ...",
+                "fallback": "Coursera: TensorFlow in Practice | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/tensorflow-in-practice",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/tensorflow-in-practice"
+            }
+        ],
+        "thread_ts": "1564604083.126200",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1565106033.264600",
+        "reply_users": [
+            "U04ELQZAU",
+            "UL95F64PP",
+            "UDZC02ATZ",
+            "U907S63D0",
+            "UBRKXHMJB"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1564618106.126800"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1564638304.127100"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1564639472.127300"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1564645680.127800"
+            },
+            {
+                "user": "U907S63D0",
+                "ts": "1564732791.131700"
+            },
+            {
+                "user": "UBRKXHMJB",
+                "ts": "1565106033.264600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U53E5MFNU",
+                    "UGB019YE5",
+                    "U1D6DT6HE",
+                    "U1BMURR5G",
+                    "U4N7G9RQA",
+                    "UDD345XLG",
+                    "U6P8KP2P6",
+                    "UEP8V5FM5"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d991d3b4-df49-43e8-87f6-f1493a30e8af",
+        "type": "message",
+        "text": "Кажется, это неудачный момент для запуска курса по :tf:, когда тот находится на распутье между версиями",
+        "user": "U04ELQZAU",
+        "ts": "1564618106.126800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U04ELQZAU",
+            "ts": "1564618125.000000"
+        },
+        "thread_ts": "1564604083.126200",
+        "parent_user_id": "U9BDT48M8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1G2RBBDY",
+                    "U6Z21KSBC",
+                    "UD2NGFPHD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4ae377f-92e9-4f28-983b-99cbc0e58705",
+        "type": "message",
+        "text": "Сильно отличаются версии?",
+        "user": "UL95F64PP",
+        "ts": "1564638304.127100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564604083.126200",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "a36ff985-dfab-4b51-a0dc-28934d896e8f",
+        "type": "message",
+        "text": "Весьма",
+        "user": "U04ELQZAU",
+        "ts": "1564639472.127300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564604083.126200",
+        "parent_user_id": "U9BDT48M8"
+    }
+]

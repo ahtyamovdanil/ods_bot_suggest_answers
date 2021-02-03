@@ -1,0 +1,461 @@
+[
+    {
+        "client_msg_id": "00b6cd50-7fe0-4dd2-a593-50366143fe79",
+        "type": "message",
+        "text": "<@U97RMH3HQ> я написал организаторам - скидка только для Industry practitioner\nто есть как индустри чувак 200$\nкак студент не из РФ вуза 400$",
+        "user": "U9LPKKM7X",
+        "ts": "1559206072.000900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "403f55dd545c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-10\/327557969795_403f55dd545c79007213_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Klimuk",
+            "display_name": "ivan.k",
+            "team": "T040HKJE3",
+            "name": "ivanklimuk96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "a35ee1bd-63e9-41fd-b586-6c59298d6164",
+        "type": "message",
+        "text": "<@U9LPKKM7X> а как студент из РФ вуза, но не из маги?",
+        "user": "U97RMH3HQ",
+        "ts": "1559207562.001200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29d44be820d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-13\/780928711858_29d44be820d467c424ea_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "JanRocketMan",
+            "team": "T040HKJE3",
+            "name": "cherv277",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "eb5e4f8f-7f95-48cc-82e5-c2af846d66b4",
+        "type": "message",
+        "text": "Можете посоветовать годных курсов по spark ?",
+        "user": "U0XF4GAM8",
+        "ts": "1559210632.001600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "11a44eac66df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-04\/31733785554_11a44eac66dffe707efa_72.gif",
+            "first_name": "Vasily",
+            "real_name": "Vasily Ryazanov",
+            "display_name": "ryazanoff",
+            "team": "T040HKJE3",
+            "name": "ryazanoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559210632.001600",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1560438119.161200",
+        "reply_users": [
+            "U0XF4GAM8",
+            "UDSJHKRNC",
+            "U0A8KNDC6",
+            "UFRNULBFV",
+            "UDSBE0FKN"
+        ],
+        "replies": [
+            {
+                "user": "U0XF4GAM8",
+                "ts": "1559210908.001800"
+            },
+            {
+                "user": "UDSJHKRNC",
+                "ts": "1559211145.002200"
+            },
+            {
+                "user": "U0A8KNDC6",
+                "ts": "1559211318.002600"
+            },
+            {
+                "user": "UFRNULBFV",
+                "ts": "1559517132.048500"
+            },
+            {
+                "user": "UDSBE0FKN",
+                "ts": "1560438119.161200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "47a357c1-1817-4929-a027-6aa17fbba1de",
+        "type": "message",
+        "text": "Поиском по чату нашел\n<https:\/\/www.edx.org\/course\/big-data-analytics-using-spark-2>\n<https:\/\/www.coursera.org\/specializations\/big-data-engineering>\n<https:\/\/www.udemy.com\/scala-and-spark-for-big-data-and-machine-learning\/>\nЧто про них скажете?",
+        "user": "U0XF4GAM8",
+        "ts": "1559210908.001800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "11a44eac66df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-04\/31733785554_11a44eac66dffe707efa_72.gif",
+            "first_name": "Vasily",
+            "real_name": "Vasily Ryazanov",
+            "display_name": "ryazanoff",
+            "team": "T040HKJE3",
+            "name": "ryazanoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "service_url": "https:\/\/www.edx.org\/course\/big-data-analytics-using-spark-2",
+                "text": "Learn how to analyze large datasets using Jupyter notebooks, MapReduce and Spark as a platform.",
+                "fallback": "edX: ",
+                "thumb_url": "https:\/\/www.edx.org\/images\/subject\/data_science.png",
+                "from_url": "https:\/\/www.edx.org\/course\/big-data-analytics-using-spark-2",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/course\/big-data-analytics-using-spark-2"
+            },
+            {
+                "service_name": "Coursera",
+                "title": "Big Data for Data Engineers | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/big-data-engineering",
+                "text": "Learn Big Data for Data Engineers from Yandex. This specialization is made for people working with data (either small or big). If you are a Data Analyst, Data Scientist, Data Engineer or Data Architect (or you want to become one) — don’t miss the ...",
+                "fallback": "Coursera: Big Data for Data Engineers | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/big-data-engineering",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/big-data-engineering"
+            },
+            {
+                "service_name": "Udemy",
+                "title": "Scala and Spark for Big Data and Machine Learning",
+                "title_link": "https:\/\/www.udemy.com\/scala-and-spark-for-big-data-and-machine-learning\/",
+                "text": "Learn the latest Big Data technology - Spark and Scala, including Spark 2.0 DataFrames!",
+                "fallback": "Udemy: Scala and Spark for Big Data and Machine Learning",
+                "image_url": "https:\/\/i.udemycdn.com\/course\/480x270\/977062_019b_2.jpg",
+                "from_url": "https:\/\/www.udemy.com\/scala-and-spark-for-big-data-and-machine-learning\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 15933,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 3,
+                "original_url": "https:\/\/www.udemy.com\/scala-and-spark-for-big-data-and-machine-learning\/"
+            }
+        ],
+        "thread_ts": "1559210632.001600",
+        "parent_user_id": "U0XF4GAM8"
+    },
+    {
+        "client_msg_id": "6553d3c7-531e-4cad-a3ec-475d7cc47efd",
+        "type": "message",
+        "text": "&gt; <https:\/\/www.coursera.org\/specializations\/big-data-engineering>\nМне <@U0A8KNDC6> этот курс рекомендовал. Не только потому, что он его создатель:povar:",
+        "user": "UDSJHKRNC",
+        "ts": "1559211145.002200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d18bca68341d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/511616843572_d18bca68341d2439bb1b_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton",
+            "display_name": "noob_saibot",
+            "team": "T040HKJE3",
+            "name": "halo2olah90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDSJHKRNC",
+            "ts": "1559211285.000000"
+        },
+        "thread_ts": "1559210632.001600",
+        "parent_user_id": "U0XF4GAM8"
+    },
+    {
+        "client_msg_id": "bb79c6b0-21bb-4130-a0d8-0c1237637cf5",
+        "type": "message",
+        "text": "С курсами по спарку, нашим тоже, есть одна проблема, они устаревают. Но для базового понимания наш все ещё годен. Задания на кластере опять же. А потом уже можно наверстать по датафреймам и датасетам на практике.",
+        "user": "U0A8KNDC6",
+        "ts": "1559211318.002600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c8fd6fd62414",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-28\/175415327521_c8fd6fd62414815ab19e_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Klemenkov",
+            "display_name": "pklemenkov",
+            "team": "T040HKJE3",
+            "name": "pklemenkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559210632.001600",
+        "parent_user_id": "U0XF4GAM8",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U6Z21KSBC",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d844a21e-c0eb-4915-9884-7babe64f31a4",
+        "type": "message",
+        "text": "<@U0Y7U6YER> Правильно ли я понимаю, что для Academic records (transcript) достаточно указать краткую информацию о своих дипломах? Или указать список своих публикаций? Есть ли необходимость это как-то заверять?",
+        "user": "U1YK4SV6W",
+        "ts": "1559211772.002900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6989691a5239",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-23\/885509412519_6989691a5239c34c649f_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Gulyaev",
+            "display_name": "PaGul",
+            "team": "T040HKJE3",
+            "name": "pagul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "c62b2808-aa0a-49b3-bc95-79527111f72e",
+        "type": "message",
+        "text": "Подскажите, пожалуйста, есть ли сайты или книги на которых можно потренироваться в решении GMAT и прочих numerical reasoning test? Желательно бесплатные",
+        "user": "U1U86QZFF",
+        "ts": "1559240863.006800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c76aa2f702c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-03\/358772279478_c76aa2f702c968a499a9_72.jpg",
+            "first_name": "Валентин",
+            "real_name": "Валентин Пальшин",
+            "display_name": "val3k",
+            "team": "T040HKJE3",
+            "name": "val3k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559240863.006800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1559287815.009500",
+        "reply_users": [
+            "UAG21HMV4",
+            "UAVJFD37T"
+        ],
+        "replies": [
+            {
+                "user": "UAG21HMV4",
+                "ts": "1559242865.007300"
+            },
+            {
+                "user": "UAVJFD37T",
+                "ts": "1559287815.009500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f7b4b60b-18cf-4827-89cb-ffe52ed3c6fe",
+        "type": "message",
+        "text": "<https:\/\/www.khanacademy.org\/test-prep\/gmat>",
+        "user": "UAG21HMV4",
+        "ts": "1559242865.007300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Khan Academy",
+                "title_link": "https:\/\/www.khanacademy.org\/test-prep\/gmat",
+                "text": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+                "fallback": "Khan Academy",
+                "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background.new.png",
+                "from_url": "https:\/\/www.khanacademy.org\/test-prep\/gmat",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 10225,
+                "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                "service_name": "khanacademy.org",
+                "id": 1,
+                "original_url": "https:\/\/www.khanacademy.org\/test-prep\/gmat"
+            }
+        ],
+        "thread_ts": "1559240863.006800",
+        "parent_user_id": "U1U86QZFF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1U86QZFF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d232a6f-55e6-4923-81ce-d41e3343d8a8",
+        "type": "message",
+        "text": "гикбоейнс хуета, свой опыт",
+        "user": "UHY5KKK6D",
+        "ts": "1559250387.008000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559077852.063900",
+        "parent_user_id": "UJ2P26MS6"
+    },
+    {
+        "client_msg_id": "c64ee9d4-4bd5-4435-97eb-a3e3a1368110",
+        "type": "message",
+        "text": "бери онлайн курсы и <http:\/\/mlcourse.ai\/>",
+        "user": "UHY5KKK6D",
+        "ts": "1559250414.008200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559077852.063900",
+        "parent_user_id": "UJ2P26MS6"
+    },
+    {
+        "client_msg_id": "4f55eec7-4f38-4f3e-a9ab-6def2f307263",
+        "type": "message",
+        "text": "<@U97RMH3HQ> Привет. Скидки действуют для студентов, которые учатся в российских университетах. С этой точки зрения, вы же поступаете в магистратуру скорее всего? Ну или как бакалавр подавайтесь - это так же считается.",
+        "user": "U0Y7U6YER",
+        "ts": "1559276169.008400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0Y7U6YER",
+            "ts": "1559276263.000000"
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "1a66c654-30ff-4008-9968-53eafa03869b",
+        "type": "message",
+        "text": "<@U1YK4SV6W> заверять, конечно, не надо",
+        "user": "U0Y7U6YER",
+        "ts": "1559276190.008600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "045b9723-7bbf-4200-9b5b-344c5e3e69e9",
+        "type": "message",
+        "text": "Для того, чтобы вашу заявку оценили как можно лучше, конечно стоит в CV или мотивационном письме указать список статей. academic transcripts - это скорее для того, чтобы посмотреть, насколько ваше образование релевантно направлению IT\/ML\/CS",
+        "user": "U0Y7U6YER",
+        "ts": "1559276350.008900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481616624.000225",
+        "user": "U3E39PN5T",
+        "text": "<@U3E39PN5T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U040M0W0S> мне понравилось объяснение  и задания по симуляции Монте-Карло здесь <https:\/\/www.edx.org\/course\/introduction-computational-thinking-data-mitx-6-00-2x-4>",
+        "user": "U2AML8LEB",
+        "ts": "1481625724.000226",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gaebd5ddf87a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60aebd5ddf87a8d93a5f74eea8bc9a1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Ilya",
+            "real_name": "Ilya Rusin",
+            "display_name": "franchb",
+            "team": "T040HKJE3",
+            "name": "franchb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Introduction to Computational Thinking and Data Science",
+                "title_link": "https:\/\/www.edx.org\/course\/introduction-computational-thinking-data-mitx-6-00-2x-4",
+                "text": "6.00.2x is an introduction to using computation to understand real-world phenomena.",
+                "fallback": "edX: Introduction to Computational Thinking and Data Science",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/promoted\/6.00.2x_computational_thinking_homepage378x225.jpg",
+                "ts": 1470788086,
+                "from_url": "https:\/\/www.edx.org\/course\/introduction-computational-thinking-data-mitx-6-00-2x-4",
+                "image_width": 378,
+                "image_height": 225,
+                "image_bytes": 27797,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S",
+                    "U1APSGQCC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Скукожил всё в одну pdf'ку — <https:\/\/yadi.sk\/i\/zlHCco8533Mwk3>",
+        "user": "U1CF95PP1",
+        "ts": "1481625925.000228",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[December 12th, 2016 6:03 PM] evgeniiegorov: owen <http:\/\/statweb.stanford.edu\/~owen\/mc\/>",
+                "ts": "1481551382.000213",
+                "author_subname": "evgeniiegorov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "owen <http:\/\/statweb.stanford.edu\/~owen\/mc\/>",
+                "author_name": "Evgenii Egorov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/evgeniiegorov",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-09-17\/80860084405_a417bae606adc9813d2a_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1481551382000213",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            },
+            {
+                "service_name": "Yandex.Disk",
+                "title": "owen.pdf",
+                "title_link": "https:\/\/yadi.sk\/i\/zlHCco8533Mwk3",
+                "text": "View and download from Yandex.Disk",
+                "fallback": "Yandex.Disk: owen.pdf",
+                "thumb_url": "https:\/\/yastatic.net\/disk\/_\/8UuX4JgNxcmBipjVNmpQjDoheDc.jpg",
+                "from_url": "https:\/\/yadi.sk\/i\/zlHCco8533Mwk3",
+                "thumb_width": 158,
+                "thumb_height": 158,
+                "service_icon": "https:\/\/yadi.sk\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AS548A1",
+                    "U1UQHNK5M",
+                    "U040M0W0S",
+                    "U1CF22N7J",
+                    "U1FLG6YR1",
+                    "U04ELQZAU",
+                    "U040HKJE7",
+                    "U2AML8LEB",
+                    "U1CF1BZ1A",
+                    "U31S67ZC5",
+                    "U1GMCNV3M"
+                ],
+                "count": 11
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U040M0W0S",
+                    "U1CF22N7J",
+                    "U040HKJE7",
+                    "U2AML8LEB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "гайз, а че у нас сейчас из годноты по биг дате есть? ( spark на edx понравился)",
+        "user": "U0M39M6LS",
+        "ts": "1481626106.000230",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "на степике по хэдупу, но он вроде более теоретический, чем практический",
+        "user": "U0M39M6LS",
+        "ts": "1481626180.000231",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481626371.000232",
+        "user": "U3DAY67C0",
+        "text": "<@U3DAY67C0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Спасибо, друзья, за ваши рекомендации! :+1: ",
+        "user": "U040M0W0S",
+        "ts": "1481627613.000233",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А по теории вероятностей найден уже хороший iнтерактивный учебник?",
+        "user": "U1UM6S9KN",
+        "ts": "1481627848.000234",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U04ELQZAU",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "take-my-money",
+                "users": [
+                    "U1BMURR5G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Интерактивный? ",
+        "user": "U1CF22N7J",
+        "ts": "1481627880.000235",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да.",
+        "user": "U1UM6S9KN",
+        "ts": "1481627906.000236",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ты так говоришь, как будто по другим областям уже есть какие-то крутые интерактивные учебники и только теорвер остался. Но что ты имеешь в виду под интерактивным учебником?",
+        "user": "U1CF22N7J",
+        "ts": "1481628105.000237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CF22N7J",
+            "ts": "1481628115.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF95PP1>: ещё бы ToC нормальный :face_with_rolling_eyes:",
+        "user": "U04ELQZAU",
+        "ts": "1481628771.000239",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481642017.000240",
+        "user": "U3E5GMTCJ",
+        "text": "<@U3E5GMTCJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481643746.000241",
+        "user": "U3DEM5C0Y",
+        "text": "<@U3DEM5C0Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481649210.000242",
+        "user": "U3DG8SFNU",
+        "text": "<@U3DG8SFNU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481655341.000243",
+        "user": "U3DHZ00JU",
+        "text": "<@U3DHZ00JU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481656518.000244",
+        "user": "U3EBXQFSQ",
+        "text": "<@U3EBXQFSQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481700515.000245",
+        "user": "U3DRBNHDW",
+        "text": "<@U3DRBNHDW> has joined the channel"
+    }
+]

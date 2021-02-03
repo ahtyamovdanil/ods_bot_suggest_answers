@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "c2de1822-74ad-4b35-8cdd-8faa25d7ae30",
+        "type": "message",
+        "text": "Можешь ссылкой поделиться, пожалуйста?",
+        "user": "U4SKDV2HF",
+        "ts": "1544085242.074000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0a3d286061cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-02\/1454110663831_0a3d286061cfe1c26ac2_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Kotenkov",
+            "display_name": "stm",
+            "team": "T040HKJE3",
+            "name": "stalkermustang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544054860.071200",
+        "parent_user_id": "U90B3UTFY"
+    },
+    {
+        "client_msg_id": "4b461ccf-8132-4eac-b337-ccf34f7a19ad",
+        "type": "message",
+        "text": "<@U4SKDV2HF> <https:\/\/ru.coursera.org\/specializations\/aml> тут еще норм курс по нлп.",
+        "user": "U90B3UTFY",
+        "ts": "1544088944.074500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "65e1ff92acec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1190242936402_65e1ff92acec262a284d_72.jpg",
+            "first_name": "KolchenkoSergey",
+            "real_name": "KolchenkoSergey",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "kolchenkosergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Advanced Machine Learning | Coursera",
+                "title_link": "https:\/\/ru.coursera.org\/specializations\/aml",
+                "text": "Advanced Machine Learning from National Research University Higher School of Economics. This specialization gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. Top ...",
+                "fallback": "Coursera: Advanced Machine Learning | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/ru.coursera.org\/specializations\/aml",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/ru.coursera.org\/specializations\/aml"
+            }
+        ],
+        "thread_ts": "1544054860.071200",
+        "parent_user_id": "U90B3UTFY",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U4SKDV2HF",
+                    "UE4CX9345"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81cc95ea-61f0-46a2-a9db-f85de815932f",
+        "type": "message",
+        "text": "про тексты от меня тема",
+        "user": "U2LGQMC4D",
+        "ts": "1544090061.075300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ffc723117cb3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-14\/1345601413783_ffc723117cb385805a6c_72.jpg",
+            "first_name": "Valeriy",
+            "real_name": "Valeriy Babushkin",
+            "display_name": "venheads",
+            "team": "T040HKJE3",
+            "name": "venheads",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544029797.067200",
+        "parent_user_id": "U64HAB6BA"
+    }
+]

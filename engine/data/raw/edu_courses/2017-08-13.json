@@ -1,0 +1,942 @@
+[
+    {
+        "type": "message",
+        "text": "CS231n 2017 <https:\/\/m.youtube.com\/watch?v=vT1JzLTH4G4>",
+        "user": "U6BS23P47",
+        "ts": "1502613435.466621",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=vT1JzLTH4G4",
+                "author_name": "Stanford University School of Engineering",
+                "author_link": "https:\/\/www.youtube.com\/user\/stanfordeng",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vT1JzLTH4G4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vT1JzLTH4G4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/m.youtube.com\/watch?v=vT1JzLTH4G4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1502613435.466621",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1502618264.722637",
+        "reply_users": [
+            "U1UM6S9KN",
+            "U6BS23P47"
+        ],
+        "replies": [
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1502613843.487841"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1502614138.504122"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1502618264.722637"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U09JEC7V0",
+                    "U5H0L5T98",
+                    "U04725QK7",
+                    "U5CD22Z5E",
+                    "U0L4KM9R9",
+                    "U1CGKK865",
+                    "U1BMURR5G",
+                    "U49MGP9MX",
+                    "U3PLVL3RD",
+                    "U1D6DT6HE",
+                    "U1CMPEWPQ",
+                    "U5GT468HH"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ставил на то, что в отсутствии Кати первым :slow: поставит <@U09JEC7V0> или <@U04ELQZAU> . Выиграл сам у себя.",
+        "user": "U1UM6S9KN",
+        "ts": "1502613843.487841",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1502613859.000000"
+        },
+        "thread_ts": "1502613435.466621",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U09JEC7V0",
+                    "U6BS23P47"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А сейчас проиграл - ставил на то, что ты поставишь :psyduck: моему сообщению.",
+        "user": "U1UM6S9KN",
+        "ts": "1502614138.504122",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502613435.466621",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "loh",
+                "users": [
+                    "U04ELQZAU",
+                    "U49MGP9MX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN> &amp; <@U04ELQZAU>  Спецназ edu_courses за вами не угонишься блин. Списываю на три часа временной разницы :joy:",
+        "user": "U6BS23P47",
+        "ts": "1502618264.722637",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1502618306.000000"
+        },
+        "thread_ts": "1502613435.466621",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U04ELQZAU",
+                    "U411PKASW",
+                    "U09JEC7V0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Посмотрел первые две недели лекций по progfun1 (первый курс из специализации) - как-то сумбурно всё. В видео только о теории говорят, и к заданиям вообще не понятно как подступиться: как работать с библиотекой, какие есть стандартные типы, как объекты писать.",
+        "user": "U049HDR2Z",
+        "ts": "1502627453.239998",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502127235.199489",
+        "parent_user_id": "U049HDR2Z"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502641061.232539",
+        "user": "U6MT2JP7V",
+        "text": "<@U6MT2JP7V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650153.964137",
+        "user": "U6MTMDC7M",
+        "text": "<@U6MTMDC7M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650161.964814",
+        "user": "U6N4BDRSR",
+        "text": "<@U6N4BDRSR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650164.965120",
+        "user": "U6P3389KR",
+        "text": "<@U6P3389KR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650166.965287",
+        "user": "U6ME55DB3",
+        "text": "<@U6ME55DB3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650182.966567",
+        "user": "U6ME568D7",
+        "text": "<@U6ME568D7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650197.967749",
+        "user": "U6P339XST",
+        "text": "<@U6P339XST> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650212.969272",
+        "user": "U6N25QT52",
+        "text": "<@U6N25QT52> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650230.971291",
+        "user": "U6N0D5Q82",
+        "text": "<@U6N0D5Q82> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650231.971317",
+        "user": "U6MTMJ803",
+        "text": "<@U6MTMJ803> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650232.971364",
+        "user": "U6ME59EM7",
+        "text": "<@U6ME59EM7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650234.971600",
+        "user": "U6N25S97W",
+        "text": "<@U6N25S97W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650254.973227",
+        "user": "U6MAN8G1W",
+        "text": "<@U6MAN8G1W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650393.984130",
+        "user": "U6P33MRT9",
+        "text": "<@U6P33MRT9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650405.985036",
+        "user": "U6MTMUFQT",
+        "text": "<@U6MTMUFQT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650416.985823",
+        "user": "U6N4BUM8V",
+        "text": "<@U6N4BUM8V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650420.986154",
+        "user": "U6ME5L8TT",
+        "text": "<@U6ME5L8TT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650437.987379",
+        "user": "U6ME5M28Z",
+        "text": "<@U6ME5M28Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650497.992039",
+        "user": "U6N4C3NQ5",
+        "text": "<@U6N4C3NQ5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650609.001075",
+        "user": "U6N26JSN8",
+        "text": "<@U6N26JSN8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650655.004756",
+        "user": "U6NSMTDT8",
+        "text": "<@U6NSMTDT8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650731.010936",
+        "user": "U6N4CHKKP",
+        "text": "<@U6N4CHKKP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650750.012555",
+        "user": "U6P34D3LP",
+        "text": "<@U6P34D3LP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650780.015201",
+        "user": "U6N0E8P7U",
+        "text": "<@U6N0E8P7U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502650925.028696",
+        "user": "U6NSNFRLN",
+        "text": "<@U6NSNFRLN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651063.040024",
+        "user": "U6N27JTN0",
+        "text": "<@U6N27JTN0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651237.053803",
+        "user": "U6N0F9Z26",
+        "text": "<@U6N0F9Z26> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651443.070405",
+        "user": "U6NSPJCS2",
+        "text": "<@U6NSPJCS2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651488.074408",
+        "user": "U6N4E7EF7",
+        "text": "<@U6N4E7EF7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651567.080876",
+        "user": "U6N28KS76",
+        "text": "<@U6N28KS76> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651588.082533",
+        "user": "U6ME84GHX",
+        "text": "<@U6ME84GHX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651770.098039",
+        "user": "U6NSQ80GN",
+        "text": "<@U6NSQ80GN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651819.102100",
+        "user": "U6N0GEW90",
+        "text": "<@U6N0GEW90> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502651867.105994",
+        "user": "U6MARK1UY",
+        "text": "<@U6MARK1UY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502652351.145580",
+        "user": "U6N0HGXS6",
+        "text": "<@U6N0HGXS6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502652354.145808",
+        "user": "U6ME9LBCH",
+        "text": "<@U6ME9LBCH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502652598.165974",
+        "user": "U6P387L6B",
+        "text": "<@U6P387L6B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502652940.193562",
+        "user": "U6MTT57FD",
+        "text": "<@U6MTT57FD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653049.201574",
+        "user": "U6MEB31J5",
+        "text": "<@U6MEB31J5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653177.211619",
+        "user": "U6N4HK51B",
+        "text": "<@U6N4HK51B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653201.213489",
+        "user": "U6N4HL84D",
+        "text": "<@U6N4HL84D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653262.218253",
+        "user": "U6N4HPU7P",
+        "text": "<@U6N4HPU7P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653286.220093",
+        "user": "U6MTTRZ99",
+        "text": "<@U6MTTRZ99> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653444.232692",
+        "user": "U6N0KMW2E",
+        "text": "<@U6N0KMW2E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653777.259094",
+        "user": "U6N0LBRJ6",
+        "text": "<@U6N0LBRJ6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502653863.266156",
+        "user": "U6MECKXUZ",
+        "text": "<@U6MECKXUZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502654190.292139",
+        "user": "U6N0M6J3C",
+        "text": "<@U6N0M6J3C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502654506.318916",
+        "user": "U6N0MSANN",
+        "text": "<@U6N0MSANN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502654728.337800",
+        "user": "U6MTWPCV9",
+        "text": "<@U6MTWPCV9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502654827.345492",
+        "user": "U6N4LTWR3",
+        "text": "<@U6N4LTWR3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502654967.356879",
+        "user": "U6NSWL7JA",
+        "text": "<@U6NSWL7JA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502655091.366281",
+        "user": "U6MAY38N4",
+        "text": "<@U6MAY38N4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502655116.368109",
+        "user": "U6MAY4FLY",
+        "text": "<@U6MAY4FLY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502655184.373276",
+        "user": "U6N4MJ81K",
+        "text": "<@U6N4MJ81K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502655762.419541",
+        "user": "U6N2H154L",
+        "text": "<@U6N2H154L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502656205.454808",
+        "user": "U6MB06KTJ",
+        "text": "<@U6MB06KTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502656253.458673",
+        "user": "U6MTZLY11",
+        "text": "<@U6MTZLY11> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502656901.509833",
+        "user": "U6N0SETMY",
+        "text": "<@U6N0SETMY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502657810.580976",
+        "user": "U6MU2LH35",
+        "text": "<@U6MU2LH35> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502657940.590806",
+        "user": "U6MELHYN5",
+        "text": "<@U6MELHYN5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502657980.594123",
+        "user": "U6NT2E2ES",
+        "text": "<@U6NT2E2ES> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502658455.636464",
+        "user": "U6N0VHMUJ",
+        "text": "<@U6N0VHMUJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502658612.649393",
+        "user": "U6MEMUZ9P",
+        "text": "<@U6MEMUZ9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502658622.650296",
+        "user": "U6N0VSTBL",
+        "text": "<@U6N0VSTBL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Колмогорова - чтобы сразу с фундамента :+1: measure theoretic probability увеличивает пульс и заставляет нейроны выстреливать все чаще и чаще ",
+        "user": "U6BS23P47",
+        "ts": "1502658701.657060",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502454824.108533",
+        "parent_user_id": "U4SHH1ZE2"
+    },
+    {
+        "type": "message",
+        "text": "Вообще нравятся запросы на тему \"фундаментального\", сразу возникает вопрос а какой собственно из \"фундаментов\" - классическая вероятность или measure theoretic? По measure theoretic лучше тоненькую желтую книжку француза погрызть - если плохо на станет то потом уже Kahlenberg или Billingsley. А вообще интересно почему по классической вероятности никто не упоминает широко известный и хороший учебник Оксфорда?  ",
+        "user": "U6BS23P47",
+        "ts": "1502658984.680634",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502454824.108533",
+        "parent_user_id": "U4SHH1ZE2"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502659086.688927",
+        "user": "U6MENRLBT",
+        "text": "<@U6MENRLBT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502659984.762264",
+        "user": "U6N4WR405",
+        "text": "<@U6N4WR405> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502660626.810676",
+        "user": "U6N0ZK742",
+        "text": "<@U6N0ZK742> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502660830.826129",
+        "user": "U6MU8EGCT",
+        "text": "<@U6MU8EGCT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502660887.830778",
+        "user": "U6N10409Y",
+        "text": "<@U6N10409Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502661244.857111",
+        "user": "U6N2TE57E",
+        "text": "<@U6N2TE57E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502661464.872753",
+        "user": "U6N1159FC",
+        "text": "<@U6N1159FC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502661687.890971",
+        "user": "U6N501ZDK",
+        "text": "<@U6N501ZDK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502662214.933457",
+        "user": "U6MBBMZ16",
+        "text": "<@U6MBBMZ16> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502662995.994559",
+        "user": "U6MEW81A5",
+        "text": "<@U6MEW81A5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502663605.041371",
+        "user": "U6MBEBC1E",
+        "text": "<@U6MBEBC1E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502666777.305619",
+        "user": "U6MUL1L9Z",
+        "text": "<@U6MUL1L9Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502670344.641594",
+        "user": "U6N1KHUG2",
+        "text": "<@U6N1KHUG2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502672606.888449",
+        "user": "U6NTZ7TSA",
+        "text": "<@U6NTZ7TSA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502673443.987226",
+        "user": "U6N1TGV34",
+        "text": "<@U6N1TGV34> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502676957.436343",
+        "user": "U6MVBN83D",
+        "text": "<@U6MVBN83D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502681532.037881",
+        "user": "U6MCR38TS",
+        "text": "<@U6MCR38TS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502682312.134751",
+        "user": "U6N4AN38U",
+        "text": "<@U6N4AN38U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502682675.180705",
+        "user": "U6NUSR5GE",
+        "text": "<@U6NUSR5GE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502683080.230560",
+        "user": "U6N0EDR2P",
+        "text": "<@U6N0EDR2P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502683468.284395",
+        "user": "U6N4DS8QL",
+        "text": "<@U6N4DS8QL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502685070.493487",
+        "user": "U6N6PRP6Z",
+        "text": "<@U6N6PRP6Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502685671.569862",
+        "user": "U6MGK5JE5",
+        "text": "<@U6MGK5JE5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502686727.700649",
+        "user": "U6N4NAA9J",
+        "text": "<@U6N4NAA9J> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502687279.774215",
+        "user": "U6MD6AVK2",
+        "text": "<@U6MD6AVK2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502688190.889294",
+        "user": "U6N4S6QG4",
+        "text": "<@U6N4S6QG4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502689207.022822",
+        "user": "U6NVA468N",
+        "text": "<@U6NVA468N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502690932.280363",
+        "user": "U6P01636J",
+        "text": "<@U6P01636J> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502691060.300614",
+        "user": "U6N76407P",
+        "text": "<@U6N76407P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502692500.545861",
+        "user": "U6MH4FKLH",
+        "text": "<@U6MH4FKLH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502692556.556136",
+        "user": "U6N17424B",
+        "text": "<@U6N17424B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502693330.707769",
+        "user": "U6N5809RA",
+        "text": "<@U6N5809RA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502693790.804494",
+        "user": "U6P0ATEKY",
+        "text": "<@U6P0ATEKY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502693801.806589",
+        "user": "U6N59MZ28",
+        "text": "<@U6N59MZ28> has joined the channel"
+    }
+]

@@ -1,0 +1,1065 @@
+[
+    {
+        "client_msg_id": "546eb99b-ae19-49c0-bcbf-f48768223720",
+        "type": "message",
+        "text": "круто, спасибо всем! На <http:\/\/stepik.ru|stepik.ru> действительно оказалось много релевантных курсов",
+        "user": "U60LP5VL0",
+        "ts": "1556093837.224900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9b250e41424b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-10\/211025229894_9b250e41424b8a27c527_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gasparyan",
+            "display_name": "gas",
+            "team": "T040HKJE3",
+            "name": "gas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556036267.219100",
+        "parent_user_id": "U60LP5VL0"
+    },
+    {
+        "client_msg_id": "f7fd0f2a-0412-484c-bbda-956a6e818440",
+        "type": "message",
+        "text": "Выиграл книгу Гудфеллоу по Deep Learning. Актуально ли читать её, если из опыта только software engineering?",
+        "user": "UCFNZUKPD",
+        "ts": "1556120938.004000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7563d0a38a6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f7563d0a38a6e2635f5c2daa20082e6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey",
+            "display_name": "Andrey",
+            "team": "T040HKJE3",
+            "name": "siddok",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1556131875.006100",
+        "reply_users": [
+            "U04ELQZAU",
+            "U4WGFD012"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1556121000.004100"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1556121039.004300"
+            },
+            {
+                "user": "U4WGFD012",
+                "ts": "1556130806.005500"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1556131182.005700"
+            },
+            {
+                "user": "U4WGFD012",
+                "ts": "1556131657.005900"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1556131875.006100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "494ff1b2-fd1f-4855-8c04-79c7d2b9e3a3",
+        "type": "message",
+        "text": "Нормально, там есть необходимый background",
+        "user": "U04ELQZAU",
+        "ts": "1556121000.004100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b96a41d5-ae6a-4b7d-a3b3-bad70447cc09",
+        "type": "message",
+        "text": "Вообще, DL не так сильно пересекается с классическим машинным обучением",
+        "user": "U04ELQZAU",
+        "ts": "1556121039.004300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD",
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U1G303UTW",
+                    "UCFQNLN4V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0SBLSTJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52b7f3a0-6a51-4f01-8b15-4e1dcd6bbe23",
+        "type": "message",
+        "text": "Здрасте а шо такое классическое машинное обучение",
+        "user": "U4WGFD012",
+        "ts": "1556130806.005500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD"
+    },
+    {
+        "client_msg_id": "5a77e6aa-54de-4d44-8f86-d695e3f3b1a9",
+        "type": "message",
+        "text": "Ну SVM, PCA, GMM, решающие деревья, случайные леса, вот это всё",
+        "user": "U04ELQZAU",
+        "ts": "1556131182.005700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD"
+    },
+    {
+        "client_msg_id": "1d43c11e-af25-4067-9282-225955425730",
+        "type": "message",
+        "text": "Ну кстати хз, я конечно не эксперт, но всякие pca gmm где-то в диплернинге пробегают туда сюда иногда\nНу и svm с нейросетевым ядром",
+        "user": "U4WGFD012",
+        "ts": "1556131657.005900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD"
+    },
+    {
+        "client_msg_id": "8d3c6a11-b3c2-41dc-87ff-d5fe487e4302",
+        "type": "message",
+        "text": "Имхо только в рисерче, но там и этого не хватит",
+        "user": "U04ELQZAU",
+        "ts": "1556131875.006100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556120938.004000",
+        "parent_user_id": "UCFNZUKPD"
+    },
+    {
+        "client_msg_id": "5d19d634-092d-4752-bdd6-65f670a25919",
+        "type": "message",
+        "text": "Diversity\nDataQuest открывает scholarship для \"people who identify as female, nonbinary, or gender non-conforming\" При успешном получении scholarship даёт 2 месяца Dataquest Basic subscription access\n<https:\/\/www.dataquest.io\/blog\/dataquest-women-data-science-scholarship>",
+        "user": "U4ZRFG1V0",
+        "ts": "1556132708.007300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dataquest",
+                "title": "Apply to Dataquest’s Diversity Scholarship Pilot Program",
+                "title_link": "https:\/\/www.dataquest.io\/blog\/dataquest-women-data-science-scholarship",
+                "text": "We're offering a subscription to women and people who identify as nonbinary or gender non-conforming to learn data science at Dataquest, free.",
+                "fallback": "Dataquest: Apply to Dataquest’s Diversity Scholarship Pilot Program",
+                "image_url": "https:\/\/www.dataquest.io\/wp-content\/uploads\/2019\/04\/Comp_1.gif",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1556125918,
+                "from_url": "https:\/\/www.dataquest.io\/blog\/dataquest-women-data-science-scholarship",
+                "image_bytes": 397495,
+                "service_icon": "https:\/\/www.dataquest.io\/wp-content\/uploads\/2019\/01\/cropped-rocket-icon-300x300.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.dataquest.io\/blog\/dataquest-women-data-science-scholarship"
+            }
+        ],
+        "thread_ts": "1556132708.007300",
+        "reply_count": 16,
+        "reply_users_count": 11,
+        "latest_reply": "1556274752.034400",
+        "reply_users": [
+            "UF8MWTAAH",
+            "U6QDDUH4L",
+            "U4ZRFG1V0",
+            "U57JJAVLN",
+            "U48B3EN87",
+            "UCKTJQG9K",
+            "U1HHX1QS3",
+            "UAL8CA2TF",
+            "UF4JULRGX",
+            "U1D2GN319",
+            "UEJ8KPLP2"
+        ],
+        "replies": [
+            {
+                "user": "UF8MWTAAH",
+                "ts": "1556134017.007900"
+            },
+            {
+                "user": "U6QDDUH4L",
+                "ts": "1556134200.008300"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1556134296.008600"
+            },
+            {
+                "user": "U6QDDUH4L",
+                "ts": "1556134419.009200"
+            },
+            {
+                "user": "U57JJAVLN",
+                "ts": "1556135604.010400"
+            },
+            {
+                "user": "U48B3EN87",
+                "ts": "1556137076.011000"
+            },
+            {
+                "user": "U57JJAVLN",
+                "ts": "1556137686.012100"
+            },
+            {
+                "user": "UCKTJQG9K",
+                "ts": "1556137742.012500"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1556137887.013000"
+            },
+            {
+                "user": "UAL8CA2TF",
+                "ts": "1556141013.014300"
+            },
+            {
+                "user": "UCKTJQG9K",
+                "ts": "1556141364.014600"
+            },
+            {
+                "user": "UAL8CA2TF",
+                "ts": "1556141682.014800"
+            },
+            {
+                "user": "UF4JULRGX",
+                "ts": "1556142828.015100"
+            },
+            {
+                "user": "U48B3EN87",
+                "ts": "1556143863.015300"
+            },
+            {
+                "user": "U1D2GN319",
+                "ts": "1556274675.034200"
+            },
+            {
+                "user": "UEJ8KPLP2",
+                "ts": "1556274752.034400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "triggered",
+                "users": [
+                    "U625V2J3G",
+                    "U4B8MC0AD",
+                    "U4X5JVCQ0",
+                    "UCKTJQG9K",
+                    "U60EETE7N",
+                    "U2M1FAWES",
+                    "UFKN3THPV",
+                    "U9V48C738",
+                    "U5FCA4F8X",
+                    "UHLKEBC1J",
+                    "UDK41MN5U",
+                    "U600Q839S",
+                    "U30LWK54N",
+                    "U9W1PD5QD",
+                    "UFH7M7CEP",
+                    "UJ2RPQSTS",
+                    "UHGUXSJRK",
+                    "UEJ8KPLP2",
+                    "U8G3YNU82",
+                    "UBRK4HXQV",
+                    "U9BDT48M8",
+                    "U7SFPUVQF",
+                    "UA40CJJAW"
+                ],
+                "count": 23
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U1HHX1QS3",
+                    "U4B8MC0AD",
+                    "UAL8CA2TF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U8PMZ6397",
+                    "U4B8MC0AD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pepe_happy",
+                "users": [
+                    "U6QDDUH4L",
+                    "U4B8MC0AD",
+                    "U5FCA4F8X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "UAL8CA2TF",
+                    "U9W1PD5QD",
+                    "UEJ8KPLP2"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "970dd5c8-4bfb-4fee-90c7-3f3ea44cdd56",
+        "type": "message",
+        "text": "один из примеров дискриминации. Что-то вроде ленинского \"неравенства в пользу угнетенных наций\".\nТам в первом параграфе заявлено, что цель - сделать всё \"more affordable and accessible to **everyone**\". А в последующих - что программа **ограничивает** участников по тем самым интересным признакам.",
+        "user": "UF8MWTAAH",
+        "ts": "1556134017.007900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dd0e09bc7beb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1444980297862_dd0e09bc7beb22f22497_72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Kroutikov",
+            "display_name": "pgmmpk",
+            "team": "T040HKJE3",
+            "name": "pgmmpk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UF8MWTAAH",
+            "ts": "1556134854.000000"
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "shrug",
+                "users": [
+                    "U4ZRFG1V0",
+                    "UJ4QYG82J"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U5FCA4F8X",
+                    "UFKQSEU7N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a80c9ea-4d6c-4ac9-87df-aee26ff15adf",
+        "type": "message",
+        "text": "Они верят на слово или справку от врача надо? А то знаете, если тут все джентльмены, сейчас мне карта как попрет",
+        "user": "U6QDDUH4L",
+        "ts": "1556134200.008300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g29535dc7073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5929535dc7073f619b2196db4cde67ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry",
+            "display_name": "tldr",
+            "team": "T040HKJE3",
+            "name": "tdrv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4ZRFG1V0",
+                    "UB4AGRL3C",
+                    "U600Q839S",
+                    "UCMC5J36D",
+                    "U9W1PD5QD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "На слово",
+        "files": [
+            {
+                "id": "FJ7E0275M",
+                "created": 1556134293,
+                "timestamp": 1556134293,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-24, 10:31 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4ZRFG1V0",
+                "editable": false,
+                "size": 265260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FJ7E0275M\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FJ7E0275M\/download\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 97,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 129,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ7E0275M-0495d03bc0\/image_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 193,
+                "image_exif_rotation": 1,
+                "original_w": 749,
+                "original_h": 201,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U4ZRFG1V0\/FJ7E0275M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FJ7E0275M-512183a51d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U4ZRFG1V0",
+        "display_as_bot": false,
+        "ts": "1556134296.008600",
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "pepe_happy",
+                "users": [
+                    "U6QDDUH4L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c4da76e-043f-4887-8aec-83e2bfc2b6e4",
+        "type": "message",
+        "text": "~Dmitry~ Dimitra Todarev approves this message",
+        "user": "U6QDDUH4L",
+        "ts": "1556134419.009200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g29535dc7073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5929535dc7073f619b2196db4cde67ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry",
+            "display_name": "tldr",
+            "team": "T040HKJE3",
+            "name": "tdrv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "U48B3EN87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U48B3EN87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "vagina",
+                "users": [
+                    "U48B3EN87"
+                ],
+                "count": 1
+            },
+            {
+                "name": "trollface",
+                "users": [
+                    "U48B3EN87",
+                    "UFSTXBQ7K",
+                    "U9K9L5615"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24b46b17-ee97-4b6d-b58e-bad1d8629e88",
+        "type": "message",
+        "text": "&gt;На слово\nух, сколько им там сейчас небинарных набежит",
+        "user": "U57JJAVLN",
+        "ts": "1556135604.010400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49246283a7e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/269614885383_49246283a7e80150b4c2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Kuzminov",
+            "display_name": "zalhonan",
+            "team": "T040HKJE3",
+            "name": "zalhonan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "client_msg_id": "b01da090-0e93-4ee6-91ee-2904295fa004",
+        "type": "message",
+        "text": "сейчас прохожу курс по питону в виде вузовских лекций, правда, там заданий нет, только теория, но это неплохое дополнение к практике: <https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs&amp;list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0>",
+        "user": "UHE741S5N",
+        "ts": "1556136498.010700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "94936e499195",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-17\/699196712278_94936e49919526d8461a_72.jpg",
+            "first_name": "Evgeniya",
+            "real_name": "Evgeniya Chernomordova",
+            "display_name": "Evgeniya Chernomordova",
+            "team": "T040HKJE3",
+            "name": "wiskas85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Алгоритмы на Python 3. Лекция №1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs",
+                "author_name": "Тимофей Хирьянов",
+                "author_link": "https:\/\/www.youtube.com\/user\/tkhirianov",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KdZ4HF1SrFs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Алгоритмы на Python 3. Лекция №1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KdZ4HF1SrFs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=KdZ4HF1SrFs&amp;list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0"
+            }
+        ],
+        "thread_ts": "1555923675.161200",
+        "parent_user_id": "UHWC6MN6M",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UHT0XGK1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aada98f2-416d-4a54-9934-a6213fd04e6e",
+        "type": "message",
+        "text": "<@U57JJAVLN>, ну так вся эта движуха и основана на вере джентельменов (употребить в нужном поле) в слово другого джентльмена. Ибо ничем не измеряется кроме как желанием индивидуума называть себя небинарным и тд",
+        "user": "U48B3EN87",
+        "ts": "1556137076.011000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c7a34914705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-27\/305499298995_3c7a34914705a4753a5a_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor",
+            "display_name": "abracadabra",
+            "team": "T040HKJE3",
+            "name": "abracadabra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1HHX1QS3",
+                    "U4ZRFG1V0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "796a2bc2-41a2-40f0-85d9-cd9787df74c1",
+        "type": "message",
+        "text": "Нужно ботать библиотеки, а не язык. Я понял это, когда погрузился с головой в курсы с нормальной практической составляющей. Типичные требования знаний питона для джуниора это \"понимать различия между (), [] и {}\"",
+        "user": "UHGJK5P52",
+        "ts": "1556137672.011900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc55d68680fb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6bc55d68680fb63a718b214696c8a339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Poludenov Dmitry",
+            "display_name": "Poludenov Dmitry",
+            "team": "T040HKJE3",
+            "name": "poludenov.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHGJK5P52",
+            "ts": "1556137689.000000"
+        },
+        "thread_ts": "1555923675.161200",
+        "parent_user_id": "UHWC6MN6M"
+    },
+    {
+        "client_msg_id": "fe11d609-8a65-45e1-a152-9d43e33427b9",
+        "type": "message",
+        "text": "То есть, называя себя небинарным для получения льгот ты реально им становишься, а вся кампания по предоставлению льгот - это хитрый план по увеличению количества небинарных?",
+        "user": "U57JJAVLN",
+        "ts": "1556137686.012100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49246283a7e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/269614885383_49246283a7e80150b4c2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Kuzminov",
+            "display_name": "zalhonan",
+            "team": "T040HKJE3",
+            "name": "zalhonan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UF8MWTAAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smekalka",
+                "users": [
+                    "UB4AGRL3C",
+                    "U60EETE7N",
+                    "UAL8CA2TF",
+                    "UFKN3THPV",
+                    "UBXD6L81E",
+                    "UDK41MN5U",
+                    "U9W1PD5QD"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "709d0572-485c-4807-b66b-285aa518ec6f",
+        "type": "message",
+        "text": "Да.",
+        "user": "UCKTJQG9K",
+        "ts": "1556137742.012500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g89a9e119a4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd89a9e119a4aeea00d90026998d6994.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Petr Kungurtsev",
+            "display_name": "corwin",
+            "team": "T040HKJE3",
+            "name": "pk456",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "client_msg_id": "c71996c2-a839-4cf6-9309-a8218685d44d",
+        "type": "message",
+        "text": "еще можно на паперти постоять в камуфле - тоже верят (иногда)",
+        "user": "U1HHX1QS3",
+        "ts": "1556137887.013000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b672fecc-d874-46da-bc49-3cf4dd1f823f",
+        "type": "message",
+        "text": "Гм, что ты имеешь в виду? А если знаний языка ноль? Мне кажется, стоит понимать его хотя бы на базовом уровне курса степика, чтобы как минимум примерно понимать код",
+        "user": "UHE741S5N",
+        "ts": "1556139641.013700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "94936e499195",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-17\/699196712278_94936e49919526d8461a_72.jpg",
+            "first_name": "Evgeniya",
+            "real_name": "Evgeniya Chernomordova",
+            "display_name": "Evgeniya Chernomordova",
+            "team": "T040HKJE3",
+            "name": "wiskas85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555923675.161200",
+        "parent_user_id": "UHWC6MN6M"
+    },
+    {
+        "client_msg_id": "7ad1bce4-cb1d-49ce-ae66-5e1da9496a3a",
+        "type": "message",
+        "text": "<@UHE741S5N> мне пригождаются следующие знания: как импортировать библиотеки, как обращаться со списками (особенно срезы списков) и словарями, как производить итерации и выходить из циклов. Ну и мелочи всякие. Двух недель должно с головой хватить, а остальное придет вместе с гуглежом во время решения практических задач",
+        "user": "UHGJK5P52",
+        "ts": "1556140053.013900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc55d68680fb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6bc55d68680fb63a718b214696c8a339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Poludenov Dmitry",
+            "display_name": "Poludenov Dmitry",
+            "team": "T040HKJE3",
+            "name": "poludenov.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555923675.161200",
+        "parent_user_id": "UHWC6MN6M",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UHE741S5N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d67390b3-950c-4b53-98d4-c3441972175c",
+        "type": "message",
+        "text": "nonbinary, or gender non-conforming --  сколько уже гендеров? и что такое небинарный ))",
+        "user": "UAL8CA2TF",
+        "ts": "1556141013.014300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "47e11a645608",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-31\/1461363661430_47e11a645608a4ec635d_72.jpg",
+            "first_name": "Таня",
+            "real_name": "Таня",
+            "display_name": "Tati Gabru",
+            "team": "T040HKJE3",
+            "name": "tatihabru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "client_msg_id": "5040790f-fb79-452e-b4de-86c564f5ca5f",
+        "type": "message",
+        "text": "Бинарный - это мужчина и женщина. Небинарный - ни то, ни другое. Не путать gender и sex.",
+        "user": "UCKTJQG9K",
+        "ts": "1556141364.014600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g89a9e119a4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd89a9e119a4aeea00d90026998d6994.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Petr Kungurtsev",
+            "display_name": "corwin",
+            "team": "T040HKJE3",
+            "name": "pk456",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "client_msg_id": "f4b0dfa5-89b4-4a15-89d6-130582cad981",
+        "type": "message",
+        "text": "нифига себе как все усложнилось. я раньше помню были только би, лесби и геи... или это как раз sex? не проще ли просто отменить понятие гендера как таковое, и назвать человека просто \"душа в теле\".... хотя тогда найдутся те, кто без души :thinking_face:, с чужой душой, с переменчиво меняющимися душами... весело...",
+        "user": "UAL8CA2TF",
+        "ts": "1556141682.014800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "47e11a645608",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-31\/1461363661430_47e11a645608a4ec635d_72.jpg",
+            "first_name": "Таня",
+            "real_name": "Таня",
+            "display_name": "Tati Gabru",
+            "team": "T040HKJE3",
+            "name": "tatihabru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UAL8CA2TF",
+            "ts": "1556141719.000000"
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U600Q839S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "948509c9-c14a-46e7-98ee-5c0bebb88fd1",
+        "type": "message",
+        "text": "А кто-нибудь проходил их курсы? Как они?",
+        "user": "UF4JULRGX",
+        "ts": "1556142828.015100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6a024478a01",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e56a024478a01df864abc38634fc7102.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Ekaterina Blatova",
+            "display_name": "Ekaterina",
+            "team": "T040HKJE3",
+            "name": "ekaterina.blatova.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "client_msg_id": "5a0e5649-80e3-4cfa-8a2b-ecf3bb855038",
+        "type": "message",
+        "text": "<@UF4JULRGX>, культурно обогащенные. Даже без открытия ссылки оставляют мало равнодушных. Те уже выдающиеся во многих смыслах",
+        "user": "U48B3EN87",
+        "ts": "1556143863.015300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c7a34914705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-27\/305499298995_3c7a34914705a4753a5a_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor",
+            "display_name": "abracadabra",
+            "team": "T040HKJE3",
+            "name": "abracadabra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556132708.007300",
+        "parent_user_id": "U4ZRFG1V0"
+    }
+]

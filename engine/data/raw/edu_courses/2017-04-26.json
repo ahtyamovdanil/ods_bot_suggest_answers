@@ -1,0 +1,318 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493204361.752614",
+        "user": "U54MXBT5Y",
+        "text": "<@U54MXBT5Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493208188.487139",
+        "user": "U542YDJGG",
+        "text": "<@U542YDJGG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1493211004.148845",
+        "user": "U4NJU27NU",
+        "text": "<@U4NJU27NU> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/openedu.ru\/course\/mipt\/STOCH\/>\nПроходил кто? Сложно, насколько интересно и полезно?",
+        "user": "U4UPKHJQP",
+        "ts": "1493212431.565675",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "70b70c135164",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-25\/335263341761_70b70c135164092c7c53_72.jpg",
+            "first_name": "Ildar",
+            "real_name": "Ildar Kamaldinov",
+            "display_name": "ildarkm",
+            "team": "T040HKJE3",
+            "name": "ildarkm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Открытое образование: Онлайн-курс \"Случайные процессы\"",
+                "title_link": "https:\/\/openedu.ru\/course\/mipt\/STOCH\/",
+                "text": "Онлайн-курс \"Случайные процессы\" на <http:\/\/openedu.ru|openedu.ru> - записывайтесь и учитесь с нами!",
+                "fallback": "Открытое образование: Онлайн-курс \"Случайные процессы\"",
+                "image_url": "https:\/\/openedu.ru\/media\/cover\/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D1%83%D1%80%D1%81%D0%B0_-_%D1%81%D0%BB%D1%83%D1%87_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B.png",
+                "from_url": "https:\/\/openedu.ru\/course\/mipt\/STOCH\/",
+                "image_width": 351,
+                "image_height": 250,
+                "image_bytes": 192718,
+                "service_icon": "https:\/\/openedu.ru\/static\/img\/favicon.ico",
+                "service_name": "openedu.ru",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1493212431.565675",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1493212769.671775",
+        "reply_users": [
+            "U1R8X3V54"
+        ],
+        "replies": [
+            {
+                "user": "U1R8X3V54",
+                "ts": "1493212769.671775"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Я прохожу сейчас. Почти в конце уже. Мне не очень понарвилось. Слишком сухо выходит, в отличии от англоязычной литературы по теме.",
+        "user": "U1R8X3V54",
+        "ts": "1493212769.671775",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493212431.565675",
+        "parent_user_id": "U4UPKHJQP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493218337.774748",
+        "user": "U55KXJDKQ",
+        "text": "<@U55KXJDKQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493227148.203180",
+        "user": "U55251KFX",
+        "text": "<@U55251KFX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ну все посоны, теперь можно стать легитимным датасаентистом и не работать нелегально <https:\/\/www.sas.com\/ru_ru\/insights\/articles\/analytics\/first-data-scientist-in-russia.html>",
+        "user": "U09JEC7V0",
+        "ts": "1493235312.201168",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В России появился первый сертифицированный Data Scientist",
+                "title_link": "https:\/\/www.sas.com\/ru_ru\/insights\/articles\/analytics\/first-data-scientist-in-russia.html",
+                "text": "Первым специалистом, завершившим обе части сертификации в России, стал руководитель Академической программы SAS в России и СНГ Михаил Петровский",
+                "fallback": "В России появился первый сертифицированный Data Scientist",
+                "image_url": "https:\/\/www.sas.com\/ru_ru\/insights\/articles\/analytics\/first-data-scientist-in-russia\/_jcr_content\/socialShareImage.img.png",
+                "from_url": "https:\/\/www.sas.com\/ru_ru\/insights\/articles\/analytics\/first-data-scientist-in-russia.html",
+                "image_width": 508,
+                "image_height": 250,
+                "image_bytes": 250208,
+                "service_icon": "https:\/\/www.sas.com\/etc\/designs\/saswww\/favicon.ico",
+                "service_name": "sas.com",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U24QAAZBL",
+                    "U0DA4J82H",
+                    "U17TSJWG0",
+                    "U1Z40FGQ6",
+                    "U40N03RGC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "satan",
+                "users": [
+                    "U19EZ8L5D",
+                    "U4WMPCB7W",
+                    "U1YQLTMLH",
+                    "U1NLYUY5N",
+                    "U1D6DT6HE",
+                    "U26MG2Z37",
+                    "U24FHECDD",
+                    "U48CB4W02",
+                    "U1V57JCUF"
+                ],
+                "count": 9
+            },
+            {
+                "name": "take-my-money",
+                "users": [
+                    "U0DA4J82H",
+                    "U1NLYUY5N",
+                    "U041P485A",
+                    "U49MGP9MX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;Учебный центр SAS в России готов сделать скидку 15% *первым 15 желающим* пройти подготовку и сдать экзамен. Предложение действительно до *31 декабря 2017 года.* \nПацаны верно оценивают, 15 человек они будут искать не менее 7 месяцев.",
+        "user": "U1UM6S9KN",
+        "ts": "1493236323.539760",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493236323.539760",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1493367884.688336",
+        "reply_users": [
+            "U09JEC7V0",
+            "U3VC0QX9D",
+            "U4P5MNMRQ",
+            "U4Y2P2J64"
+        ],
+        "replies": [
+            {
+                "user": "U09JEC7V0",
+                "ts": "1493236405.567968"
+            },
+            {
+                "user": "U3VC0QX9D",
+                "ts": "1493239632.670530"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1493291202.565617"
+            },
+            {
+                "user": "U4Y2P2J64",
+                "ts": "1493367661.641625"
+            },
+            {
+                "user": "U4Y2P2J64",
+                "ts": "1493367884.688336"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U14CTBLFJ",
+                    "U4FD7UABD",
+                    "U5303KXRR",
+                    "U0L4KM9R9",
+                    "U24FHECDD",
+                    "U1CMPEWPQ",
+                    "U43QVTY49"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "да поди набегут сотрудники всяких интеграторов",
+        "user": "U09JEC7V0",
+        "ts": "1493236405.567968",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493236323.539760",
+        "parent_user_id": "U1UM6S9KN",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "16K$ со скидкой :slightly_smiling_face:",
+        "user": "U3VC0QX9D",
+        "ts": "1493239632.670530",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a0adda3135a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1265285720980_7a0adda3135a67550024_72.jpg",
+            "first_name": "Dmitrijs",
+            "real_name": "Dmitrijs Cudihins",
+            "display_name": "dmitrijsc",
+            "team": "T040HKJE3",
+            "name": "dmitrijsc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493236323.539760",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493240489.963179",
+        "user": "U54GESKLH",
+        "text": "<@U54GESKLH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493270837.715240",
+        "user": "U54J55RMW",
+        "text": "<@U54J55RMW> has joined the channel"
+    }
+]

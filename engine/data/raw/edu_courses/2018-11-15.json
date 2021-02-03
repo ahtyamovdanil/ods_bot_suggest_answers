@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "f3b16749-d819-4c92-892b-fb8ea2629d99",
+        "type": "message",
+        "text": "<@UCKEMMP3N> можно линку?",
+        "user": "UBJ10K86A",
+        "ts": "1542280321.296100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541775982.222900",
+        "parent_user_id": "UAEJ6EU7K"
+    },
+    {
+        "client_msg_id": "5041c25c-9b07-46e3-af6e-839761f0c7e2",
+        "type": "message",
+        "text": "<@UBJ10K86A> <https:\/\/www.youtube.com\/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_> \nПрошу.",
+        "user": "UCKEMMP3N",
+        "ts": "1542291048.296800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7958a745fef9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-12\/833597092102_7958a745fef92b6edb79_72.jpg",
+            "first_name": "NurikS",
+            "real_name": "NurikS",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "nurbek.saidnassim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Глубокие нейронные сети на Python - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_",
+                "text": "Курс начального уровня по программированию глубоких нейронных сетей и глубокому обучению на Python. Страница с материалами курса - <http:\/\/www.asozykin.ru\/cou>...",
+                "fallback": "YouTube: Глубокие нейронные сети на Python - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/GX7qxV5nh5o\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDL87l-y1S8ojt4dNACc_oMwzkJAQ",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_"
+            }
+        ],
+        "thread_ts": "1541775982.222900",
+        "parent_user_id": "UAEJ6EU7K"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I have completed this course recently. :r:\nIf I did it 1-2 years ago, it would be much more useful. Still, I have learned enough good stuff to justify the time spent on it.\nTasks after each lesson were great, and as additional challenge there is a limit on number of attempts, unlike Coursera.\nBut sometimes they were very annoying, like: build a logistic regression on 30+ variables, manually look at them and decide which of them are significant.\nAlso the course used the most basic R - no data.tables, no caret and so on. Though it is is useful for practice.\nTwo last courses are linear and numerical optimization in... :excel: it was interesting, but I don't want to experience this again :slightly_smiling_face:\n\nAnyway, this is a wonderful course for beginner and intermediate level. I recommend.",
+        "user": "U4ZRFG1V0",
+        "ts": "1542292691.297300",
+        "thread_ts": "1536829964.000100",
+        "root": {
+            "client_msg_id": "2fef12ae-c7d3-4bdc-8967-367fbf317177",
+            "type": "message",
+            "text": "Maybe ~2 years ago I managed to enroll and pass an amazing course :slightly_smiling_face: accidentally discovered its next iteration ( starts in a 5 days ) <https:\/\/www.edx.org\/course\/the-analytics-edge>",
+            "user": "U97BME4Q7",
+            "ts": "1536829964.000100",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "service_name": "edX",
+                    "title": "The Analytics Edge",
+                    "title_link": "https:\/\/www.edx.org\/course\/the-analytics-edge",
+                    "text": "Through inspiring examples and stories, discover the power of data and use analytics to provide an edge to your career and your life.",
+                    "fallback": "edX: The Analytics Edge",
+                    "image_url": "https:\/\/prod-discovery.edx-cdn.org\/media\/course\/image\/ff1df27b-3c97-42ee-a9b3-e031ffd41a4f-321f2b7e42f0.small.jpg",
+                    "ts": 1530045677,
+                    "from_url": "https:\/\/www.edx.org\/course\/the-analytics-edge",
+                    "image_width": 378,
+                    "image_height": 225,
+                    "image_bytes": 21851,
+                    "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.edx.org\/course\/the-analytics-edge"
+                }
+            ],
+            "thread_ts": "1536829964.000100",
+            "reply_count": 18,
+            "reply_users_count": 9,
+            "latest_reply": "1555501719.082400",
+            "reply_users": [
+                "U4ZRFG1V0",
+                "U1X9AEGV6",
+                "U29TG6K9U",
+                "U3Y5VQ5J6",
+                "U1CF22N7J",
+                "U6QF7NATC",
+                "U60EETE7N",
+                "U27SUBTB9",
+                "UGLKHNU9E"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "6d2cceea-4819-4131-8ec7-fd31a10103d7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3Y5VQ5J6",
+                    "U1BMURR5G",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "noexcel",
+                "users": [
+                    "U60EETE7N",
+                    "U49MGP9MX",
+                    "U9V48C738",
+                    "U95EDL3H8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "nor",
+                "users": [
+                    "U66A98XEC",
+                    "U9V48C738",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb8b4798-af14-4666-b7d4-b92953a939ee",
+        "type": "message",
+        "text": "<@UCKEMMP3N> gracias",
+        "user": "UBJ10K86A",
+        "ts": "1542316541.298500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541775982.222900",
+        "parent_user_id": "UAEJ6EU7K"
+    },
+    {
+        "client_msg_id": "69f6a2cf-04d0-445e-90fc-096b2319bfe6",
+        "type": "message",
+        "text": "Добрый, хочу сконвертировать накопленные знания в сертификат (пусть даже если дорого), подскажите что на рынке вообще котируется у компаний? Track может какой-то. Courser'ерой ли одной? :slightly_smiling_face: Спасибо!",
+        "user": "UE02MRN64",
+        "ts": "1542354965.301800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8dbcf5c6a6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c68dbcf5c6a6e6300c62620a972bc841.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Maxim Stanciu",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "maxim.stanciu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542354965.301800",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1542383482.307100",
+        "reply_users": [
+            "U04422XJL",
+            "UE02MRN64",
+            "U6ZVBULGG",
+            "U1G303UTW",
+            "U4WM1939Q",
+            "UDHJKLGLR",
+            "U15V81K6V",
+            "UCBR1BP37",
+            "U1HHX1QS3"
+        ],
+        "replies": [
+            {
+                "user": "U04422XJL",
+                "ts": "1542355079.301900"
+            },
+            {
+                "user": "UE02MRN64",
+                "ts": "1542355186.302100"
+            },
+            {
+                "user": "U6ZVBULGG",
+                "ts": "1542355458.302300"
+            },
+            {
+                "user": "U1G303UTW",
+                "ts": "1542357430.303400"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1542358790.304100"
+            },
+            {
+                "user": "UDHJKLGLR",
+                "ts": "1542363238.304900"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1542364345.305900"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1542369219.306800"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1542383482.307100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kaggle",
+                "users": [
+                    "U6ZVBULGG",
+                    "UE02MRN64",
+                    "U5EF4EQR1",
+                    "UB4F4DZGV",
+                    "U9V48C738",
+                    "U6DCD6XUN",
+                    "UDK41MN5U",
+                    "U1NPQ2WPN",
+                    "U4ZRFG1V0",
+                    "U15V81K6V",
+                    "U53E5MFNU",
+                    "U5MN8V5T3",
+                    "U8CD7JS22",
+                    "UDSC91AH1",
+                    "U50EVF538",
+                    "U7SFPUVQF",
+                    "U34Q3KU8H",
+                    "U30LWK54N",
+                    "UE6JAANGJ",
+                    "U46F2L65T"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9be6fc5-2a1e-4525-9618-1b0645f41dd2",
+        "type": "message",
+        "text": "Не котируется",
+        "user": "U04422XJL",
+        "ts": "1542355079.301900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8cd145f72446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-27\/739003798132_8cd145f72446bbd4194c_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Trofimov",
+            "display_name": "mtrofimov",
+            "team": "T040HKJE3",
+            "name": "mtrofimov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542354965.301800",
+        "parent_user_id": "UE02MRN64",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1D6DT6HE",
+                    "U4SKDV2HF",
+                    "U126TCE79",
+                    "U6SHTGD5X"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "608977e9-e424-4722-b4c1-3e4c73bf25f0",
+        "type": "message",
+        "text": "Меня не раз спрашивали о сертфикатах",
+        "user": "UE02MRN64",
+        "ts": "1542355186.302100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8dbcf5c6a6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c68dbcf5c6a6e6300c62620a972bc841.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Maxim Stanciu",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "maxim.stanciu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542354965.301800",
+        "parent_user_id": "UE02MRN64"
+    }
+]

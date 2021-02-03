@@ -1,0 +1,929 @@
+[
+    {
+        "type": "message",
+        "text": "Там сперва теория, а потом задачи на написание мапперов и редюсеров на любом языке, поддерживающие стандартный ввод вывод. И еще чуть-чуть Java, а так достаточно легкоусвояемый материал, только по объему много.",
+        "user": "U5J7KCHLG",
+        "ts": "1497430561.029815",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d0d57a12253a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-05\/430761499127_d0d57a12253a6c146796_72.jpg",
+            "first_name": "Dima",
+            "real_name": "Dima Grigorev",
+            "display_name": "dgrigorev",
+            "team": "T040HKJE3",
+            "name": "dgrigorev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497417760.648070",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5R6WCSBU",
+                    "U26NC465B",
+                    "U5S11SHM4",
+                    "U1Z40FGQ6"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Мне понравилось. Я хотел просто систематизировать, то что уже знал и как конспект очень годная вещь. За практику не знаю, не проходил.",
+        "user": "U26NC465B",
+        "ts": "1497433325.745056",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497417760.648070",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "<@U1UNFRQ1K> и ко, а нет ли случайно планов сделать какой-то предварительный курс по математике, по тем самым матан, линал и теорвер и мат.статистике? Или может не курс, а просто организовать группу, для которой подобрать план действий: что читать и что решать и какую-то возможность задавать вопросы.",
+        "user": "U0JCGHU9H",
+        "ts": "1497433697.838898",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "reply_count": 18,
+        "reply_users_count": 8,
+        "latest_reply": "1497504277.200739",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "U0JCGHU9H",
+            "U0DA4J82H",
+            "U4X6DG29F",
+            "U4R49TGN9",
+            "U47F2RC9J",
+            "U4WPLUF9P",
+            "U4MKDSYD9"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1497433808.867051"
+            },
+            {
+                "user": "U0JCGHU9H",
+                "ts": "1497433875.884221"
+            },
+            {
+                "user": "U0JCGHU9H",
+                "ts": "1497433922.895928"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1497434694.092199"
+            },
+            {
+                "user": "U0JCGHU9H",
+                "ts": "1497434968.157593"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1497435113.190858"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1497435343.243540"
+            },
+            {
+                "user": "U4X6DG29F",
+                "ts": "1497435415.259827"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1497435435.263910"
+            },
+            {
+                "user": "U0JCGHU9H",
+                "ts": "1497438415.887332"
+            },
+            {
+                "user": "U4R49TGN9",
+                "ts": "1497442048.653381"
+            },
+            {
+                "user": "U0JCGHU9H",
+                "ts": "1497443068.899030"
+            },
+            {
+                "user": "U4R49TGN9",
+                "ts": "1497445183.482771"
+            },
+            {
+                "user": "U47F2RC9J",
+                "ts": "1497468380.506581"
+            },
+            {
+                "user": "U47F2RC9J",
+                "ts": "1497468620.590740"
+            },
+            {
+                "user": "U47F2RC9J",
+                "ts": "1497468644.599077"
+            },
+            {
+                "user": "U4WPLUF9P",
+                "ts": "1497471491.579471"
+            },
+            {
+                "user": "U4MKDSYD9",
+                "ts": "1497504277.200739"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U44A57Q1G",
+                    "U411PKASW",
+                    "U1BMURR5G",
+                    "U5QKHMS65",
+                    "U19HATM25",
+                    "U3K7PNTML",
+                    "U4YQKKZFA",
+                    "U4YSWQGS2",
+                    "U5S11SHM4",
+                    "U1D6DT6HE",
+                    "U5R6G5JQK",
+                    "U1Z40FGQ6"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "gsoul: <@U3BPQS0L8> вроде хотел вводные статьи писать, но вроде даже не на гитхабе, а в своем блоге. У меня лично таких планов нет. <@U0JCGHU9H> можешь организовать :grinning:",
+        "user": "U1UNFRQ1K",
+        "ts": "1497433808.867051",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "Дык я сам начинающий. Т.е. я не понимаю где написано хорошо, а где плохо. При этом например прохожу статистику на степике, но там практики слишком мало и быстро все забывается.",
+        "user": "U0JCGHU9H",
+        "ts": "1497433875.884221",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "Т.е. я был бы готов подергать уважаемую аудиторию на тему составления плана изучения\/вспоминания материалов, только если сама аудитория не против.",
+        "user": "U0JCGHU9H",
+        "ts": "1497433922.895928",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "Можно посмотреть лекции Странга и, если очень хочется, перевести их, для алгебры будет достаточно. Хотя лекции популярные, не исключено, что перевод уже есть где-то",
+        "user": "U0DA4J82H",
+        "ts": "1497434694.092199",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Лекции - это хорошо, как с практикой быть? Что у нас зовется хорошим задачником сейчас?",
+        "user": "U0JCGHU9H",
+        "ts": "1497434968.157593",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "у Странга есть учебник, там есть неплохие задачки, в т.ч. на реализацию, еще вот отсюда можно порешать задачи <http:\/\/codingthematrix.com\/>",
+        "user": "U0DA4J82H",
+        "ts": "1497435113.190858",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "по терверу вот хороший курс <https:\/\/www.edx.org\/course\/introduction-probability-science-mitx-6-041x-2>, с задачами, он же есть на OCW",
+        "user": "U0DA4J82H",
+        "ts": "1497435343.243540",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Introduction to Probability - The Science of Uncertainty",
+                "title_link": "https:\/\/www.edx.org\/course\/introduction-probability-science-mitx-6-041x-2",
+                "text": "An introduction to probabilistic models, including random processes and the basic elements of statistical inference.",
+                "fallback": "edX: Introduction to Probability - The Science of Uncertainty",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/featured-card\/6.041x_318x210.jpg",
+                "ts": 1481312992,
+                "from_url": "https:\/\/www.edx.org\/course\/introduction-probability-science-mitx-6-041x-2",
+                "image_width": 318,
+                "image_height": 210,
+                "image_bytes": 48994,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U27SUBTB9",
+                    "U49A8JCKW",
+                    "U2N853RGF",
+                    "U0ZHCGY5T"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/cache-mskdataline02.cdn.yandex.net\/download.cdn.yandex.net\/shad\/shad_program_v3.pdf>",
+        "user": "U4X6DG29F",
+        "ts": "1497435415.259827",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3701ec724110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-21\/333468713636_3701ec7241108ac5251e_72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Golovanov",
+            "display_name": "golovanov",
+            "team": "T040HKJE3",
+            "name": "golovanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H",
+        "reactions": [
+            {
+                "name": "shad",
+                "users": [
+                    "U0DA4J82H",
+                    "U27SUBTB9",
+                    "U5R6G5JQK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "По статистике вот тут норм: <https:\/\/www.openintro.org\/stat\/>, но там без матана, матан в Сasella &amp; Berger",
+        "user": "U0DA4J82H",
+        "ts": "1497435435.263910",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497436142.416271",
+        "user": "U5TDYCNLB",
+        "text": "<@U5TDYCNLB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497436344.460359",
+        "user": "U5TJZ9TCM",
+        "text": "<@U5TJZ9TCM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497436359.463318",
+        "user": "U5THLS8NQ",
+        "text": "<@U5THLS8NQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497436555.504341",
+        "user": "U5UAGGSEA",
+        "text": "<@U5UAGGSEA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497436766.547163",
+        "user": "U5THPPZ60",
+        "text": "<@U5THPPZ60> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497437154.626046",
+        "user": "U5SV3AF09",
+        "text": "<@U5SV3AF09> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497437340.663002",
+        "user": "U5UAP57AS",
+        "text": "<@U5UAP57AS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497437361.667352",
+        "user": "U5UB7T0PR",
+        "text": "<@U5UB7T0PR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497438246.850649",
+        "user": "U5TJ4GNFN",
+        "text": "<@U5TJ4GNFN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Спасибо большое за ссылки всем! Предлагаю продолжить обсуждение здесь: <https:\/\/opendatascience.slack.com\/archives\/C17SUH211\/p1497438372855189>",
+        "user": "U0JCGHU9H",
+        "ts": "1497438415.887332",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C17SUH211\/p1497438372855189",
+                "fallback": "[June 14th, 2017 4:06 AM] gsoul: Всем привет.\n \nТекущий вопрос родился из:\n<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1497433697838898>\nи короткого обсуждения некоторых идей с <@U040HKJE7> в личке.\n \nПроблема и мотивация:\nДумаю большая часть аудитории этого сообщества уже забыла\/или особо и не знала основы математики, которые нужны для DS. Я один из таких людей. При этом с математикой есть 3 проблемы:\nЗнания совершенно не структурирована в канале. Рекомендации по источникам разбросаны то там, то здесь\nЗачастую источники указываются только на лекцию\/теорию. При этом не хватает практики, без которой теория быстро забывается.\nМежду списком тем вроде этого: <https:\/\/cache-mskdataline02.cdn.yandex.net\/download.cdn.yandex.net\/shad\/shad_program_v3.pdf> и сообщениями из #careers вроде таких: “notabene [3 days ago]: С вертушки в щи и после этого попросили вывести дивиргенцию Кульбака-Лейблера из принципа энтропии.” Для меня лично сейчас лежит пропасть.\n \n \nПредлагаемое решение:\nСобрать необходимый для изучения список тем, и лучшие источники для их изучения. Понятно, что у каждого свое мнение о хороших источниках, но есть надежда, что если собрать достаточное количество мнений опытных товарищей и их как-то усреднить, то выйдет достаточно полезный список.\n \nТакой список в идеале должен в себя включать:\nСписок тем по каждому из предметов: Лин.ал., Матан, Теор.Вер и Мат. Стат. (возможно разбитый на 2 части: обязательная и некий advanced уровень)\nСписок открытых источников по этим темам (ограниченное избранное их количество, чтобы у новичков не разбегались глаза), обязательно с практикой, возможно вплоть до номеров задач по каждой теме в задачнике. + если это книга, то крайне желательно наличие ее электронной версии.\nВозможность проверить свои решения (наличие ответов в том или ином виде)\nНаличие места, где можно обсудить возникающие сложности (канал <#C3E3KUWPK|math>, или новый какой?!)\n \nПосле этого, если кто-то наберется сил сделать на этой базе курс - будет здорово, но учитывая, что большей частью это классические разделы математики, то self-paced подход мне кажется здесь также будет уместен. Хотя делать что-то компанией обычно веселее.\n \nПоэтому как мне видится, на первом этапе нужны люди, которые хорошо знают необходимые разделы математики, и обладают пониманием какие из тем наиболее актуальны в практических задачах, чье мнение дальше можно было бы как-то агрегировать и сформировать best practices.\n \nВозможно <@U040HKJE7> что-то еще добавит. Мнение <@U1UNFRQ1K> и <@U06J1LG1M> и любых других уважаемых донов крайне приветствуется.",
+                "ts": "1497438372.855189",
+                "author_subname": "gsoul",
+                "channel_id": "C17SUH211",
+                "channel_name": "_call_4_collaboration",
+                "is_msg_unfurl": true,
+                "text": "Всем привет.\n \nТекущий вопрос родился из:\n<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1497433697838898>\nи короткого обсуждения некоторых идей с <@U040HKJE7> в личке.\n \nПроблема и мотивация:\nДумаю большая часть аудитории этого сообщества уже забыла\/или особо и не знала основы математики, которые нужны для DS. Я один из таких людей. При этом с математикой есть 3 проблемы:\nЗнания совершенно не структурирована в канале. Рекомендации по источникам разбросаны то там, то здесь\nЗачастую источники указываются только на лекцию\/теорию. При этом не хватает практики, без которой теория быстро забывается.\nМежду списком тем вроде этого: <https:\/\/cache-mskdataline02.cdn.yandex.net\/download.cdn.yandex.net\/shad\/shad_program_v3.pdf> и сообщениями из #careers вроде таких: “notabene [3 days ago]: С вертушки в щи и после этого попросили вывести дивиргенцию Кульбака-Лейблера из принципа энтропии.” Для меня лично сейчас лежит пропасть.\n \n \nПредлагаемое решение:\nСобрать необходимый для изучения список тем, и лучшие источники для их изучения. Понятно, что у каждого свое мнение о хороших источниках, но есть надежда, что если собрать достаточное количество мнений опытных товарищей и их как-то усреднить, то выйдет достаточно полезный список.\n \nТакой список в идеале должен в себя включать:\nСписок тем по каждому из предметов: Лин.ал., Матан, Теор.Вер и Мат. Стат. (возможно разбитый на 2 части: обязательная и некий advanced уровень)\nСписок открытых источников по этим темам (ограниченное избранное их количество, чтобы у новичков не разбегались глаза), обязательно с практикой, возможно вплоть до номеров задач по каждой теме в задачнике. + если это книга, то крайне желательно наличие ее электронной версии.\nВозможность проверить свои решения (наличие ответов в том или ином виде)\nНаличие места, где можно обсудить возникающие сложности (канал <#C3E3KUWPK|math>, или новый какой?!)\n \nПосле этого, если кто-то наберется сил сделать на этой базе курс - будет здорово, но учитывая, что большей частью это классические разделы математики, то self-paced подход мне кажется здесь также будет уместен. Хотя делать что-то компанией обычно веселее.\n \nПоэтому как мне видится, на первом этапе нужны люди, которые хорошо знают необходимые разделы математики, и обладают пониманием какие из тем наиболее актуальны в практических задачах, чье мнение дальше можно было бы как-то агрегировать и сформировать best practices.\n \nВозможно <@U040HKJE7> что-то еще добавит. Мнение <@U1UNFRQ1K> и <@U06J1LG1M> и любых других уважаемых донов крайне приветствуется.",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/gsoul",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #_call_4_collaboration"
+            }
+        ],
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497438565.918034",
+        "user": "U5TGT5SQ2",
+        "text": "<@U5TGT5SQ2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497438607.926604",
+        "user": "U5UBM95C7",
+        "text": "<@U5UBM95C7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497438627.931116",
+        "user": "U5UBMHBC7",
+        "text": "<@U5UBMHBC7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497438896.985874",
+        "user": "U5T07PU81",
+        "text": "<@U5T07PU81> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497440130.235606",
+        "user": "U5TJNFB9S",
+        "text": "<@U5TJNFB9S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497440539.318527",
+        "user": "U5TL3K3K7",
+        "text": "<@U5TL3K3K7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497440977.408380",
+        "user": "U5ST5J532",
+        "text": "<@U5ST5J532> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": ".sla",
+        "user": "U4R49TGN9",
+        "ts": "1497442048.653381",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "489d3afba63c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-16\/169155406400_489d3afba63c9d379be6_72.jpg",
+            "first_name": "Dennis",
+            "real_name": "Dennis Richardson",
+            "display_name": "4SkyNet",
+            "team": "T040HKJE3",
+            "name": "4skynet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "<@U4R49TGN9> что имелось в виду?",
+        "user": "U0JCGHU9H",
+        "ts": "1497443068.899030",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga530daa3f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eea530daa3f6acdd110a60ea14e380fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "gsoul",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gsoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497443662.051976",
+        "user": "U5TFT3NUT",
+        "text": "<@U5TFT3NUT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0JCGHU9H> да я тупой просто, пока не нашел способа что-то к себе добавить на возможно потом посм. с каким-ниб тагом",
+        "user": "U4R49TGN9",
+        "ts": "1497445183.482771",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "489d3afba63c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-16\/169155406400_489d3afba63c9d379be6_72.jpg",
+            "first_name": "Dennis",
+            "real_name": "Dennis Richardson",
+            "display_name": "4SkyNet",
+            "team": "T040HKJE3",
+            "name": "4skynet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497445344.538246",
+        "user": "U5UCPDRSA",
+        "text": "<@U5UCPDRSA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497445399.556474",
+        "user": "U5UCQ0LF8",
+        "text": "<@U5UCQ0LF8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497448122.509142",
+        "user": "U5TK9VC9G",
+        "text": "<@U5TK9VC9G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497448167.526448",
+        "user": "U5T2MN53K",
+        "text": "<@U5T2MN53K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497450724.579001",
+        "user": "U5UF22N95",
+        "text": "<@U5UF22N95> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497451420.869974",
+        "user": "U5TJBF7NF",
+        "text": "<@U5TJBF7NF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497451556.927846",
+        "user": "U5T0XM4HW",
+        "text": "<@U5T0XM4HW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497459551.240867",
+        "user": "U5TR0CVRS",
+        "text": "<@U5TR0CVRS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497462132.198869",
+        "user": "U5TT8DB6Z",
+        "text": "<@U5TT8DB6Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497464562.121987",
+        "user": "U5TR7BF1Q",
+        "text": "<@U5TR7BF1Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497465452.455777",
+        "user": "U5T5VQN3A",
+        "text": "<@U5T5VQN3A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497465719.554703",
+        "user": "U5TT13744",
+        "text": "<@U5TT13744> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497466102.695069",
+        "user": "U5T62M396",
+        "text": "<@U5T62M396> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Практических заданий мало, да. А так вообще курс неплохой.",
+        "user": "U1D6DT6HE",
+        "ts": "1497467377.163577",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0de241d94ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/440de241d94ed23deb7d077c30cb0818.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Sushinskii",
+            "display_name": "esushinskii",
+            "team": "T040HKJE3",
+            "name": "esushinskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497417760.648070",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "Ну любителям матана послушать <http:\/\/matan.dyatlov.org\/>",
+        "user": "U47F2RC9J",
+        "ts": "1497468380.506581",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74521d058227",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-25\/146474411266_74521d058227041fa61a_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Komarov",
+            "display_name": "komarovma",
+            "team": "T040HKJE3",
+            "name": "komarovma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "Линейна алгебра, <http:\/\/lectoriy.mipt.ru\/course\/LinearAlgebra>",
+        "user": "U47F2RC9J",
+        "ts": "1497468620.590740",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74521d058227",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-25\/146474411266_74521d058227041fa61a_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Komarov",
+            "display_name": "komarovma",
+            "team": "T040HKJE3",
+            "name": "komarovma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Лекторий МФТИ",
+                "title": "Линейная алгебра",
+                "title_link": "http:\/\/lectoriy.mipt.ru\/course\/LinearAlgebra",
+                "fallback": "Лекторий МФТИ: Линейная алгебра",
+                "image_url": "https:\/\/mipt.lectoriy.ru\/img\/course\/LinearAlgebra.jpg",
+                "from_url": "http:\/\/lectoriy.mipt.ru\/course\/LinearAlgebra",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 49273,
+                "id": 1
+            }
+        ],
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "Ну не курс, а лекции послушать",
+        "user": "U47F2RC9J",
+        "ts": "1497468644.599077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74521d058227",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-25\/146474411266_74521d058227041fa61a_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Komarov",
+            "display_name": "komarovma",
+            "team": "T040HKJE3",
+            "name": "komarovma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "вот вроде неплохой курс по линейной алгебре\n<https:\/\/www.lem.ma\/books\/VBS92YDYuscc5-lK\/landing>\nи задания \n<https:\/\/www.lem.ma\/books\/VBS92YDYuscc5-lK\/problems>",
+        "user": "U4WPLUF9P",
+        "ts": "1497471491.579471",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g95ceaa7caae",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6095ceaa7caae5bf57e354ada84d5979.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Allaberdi",
+            "real_name": "Allaberdi Hojayev",
+            "display_name": "allash",
+            "team": "T040HKJE3",
+            "name": "allash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H"
+    },
+    {
+        "type": "message",
+        "text": "по матану у меня хорошо заходит вот этот <https:\/\/www.coursera.org\/learn\/single-variable-calculus\/home\/welcome>",
+        "user": "U4MKDSYD9",
+        "ts": "1497504277.200739",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8151f10d570c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-29\/372702641351_8151f10d570c220f4db9_72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Shebanov",
+            "display_name": "killthekitten",
+            "team": "T040HKJE3",
+            "name": "killthekitten",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Calculus: Single Variable Part 1 - Functions | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/single-variable-calculus\/home\/welcome",
+                "text": "Calculus: Single Variable Part 1 - Functions from University of Pennsylvania. Calculus is one of the grandest achievements of human thought, explaining everything from planetary orbits to the optimal size of a city to the periodicity of a ...",
+                "fallback": "Coursera: Calculus: Single Variable Part 1 - Functions | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/25\/1fd880977511e5894d4f9b8bb1895f\/CSV-logo-chapter-1-copy.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/single-variable-calculus\/home\/welcome",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1497433697.838898",
+        "parent_user_id": "U0JCGHU9H",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0DA4J82H",
+                    "U5EHT0M28"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497508640.741577",
+        "user": "U5UTBE287",
+        "text": "<@U5UTBE287> has joined the channel"
+    }
+]

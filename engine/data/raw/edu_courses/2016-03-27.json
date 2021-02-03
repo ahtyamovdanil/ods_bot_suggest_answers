@@ -1,0 +1,964 @@
+[
+    {
+        "type": "message",
+        "text": "Камрады, посоветуйте крэш-курс для введение в ML мальчику 30+ лет (не я), знаком с программированием, базовым матаном (физтех), но почти не работал с машинным обучением и статистикой.",
+        "user": "U0QB98BB9",
+        "ts": "1459070444.000061",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0QB98BB9",
+            "ts": "1459085139.000000"
+        },
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U040M0W0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "у меня только курс Ng и Яндекса в голове крутится",
+        "user": "U0QB98BB9",
+        "ts": "1459070489.000062",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie>",
+        "user": "U0873FY94",
+        "ts": "1459070684.000063",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Введение в машинное обучение - Higher School of Economics | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie",
+                "text": "Введение в машинное обучение from Higher School of Economics. Не так давно получил распространение термин «большие данные», обозначивший новую прикладную область — поиск способов автоматического быстрого анализа огромных объёмов разнородной информации. Наука о больших данных ещё только оформляется, но уже сейчас она очень востребована — и в будущем будет востребована только больше. С её помощью можно решать невероятные задачи: оценивать состояние печени по кардиограмме, предсказывать зарплату по описанию вакансии, предлагать пользователю музыку на основании его анкеты в интернете. Большими данными может оказаться что угодно: результаты научных экспериментов, логи банковских транзакций, метеорологические наблюдения, профили в социальных сетях — словом, всё, что может быть полезно проанализировать. Самым перспективным подходом к анализу больших данных считается применение машинного обучения — набора методов, благодаря которым компьютер может находить в массивах изначально неизвестные взаимосвязи и закономерности. На факультете компьютерных наук ВШЭ и в Школе анализа данных есть люди, активно использующие машинное обучение и разрабатывающие новые подходы к нему. Именно они — преподаватели этого курса. Вы изучите основные типы задач, решаемых с помощью машинного обучения — в основном речь пойдёт о классификации, регрессии и кластеризации. Узнаете об основных методах машинного обучения и их особенностях, научитесь оценивать качество моделей — и решать, подходит ли модель для решения конкретной задачи. Наконец, познакомитесь с современными библиотеками, в которых реализованы обсуждаемые модели и методы оценки их качества. Для работы мы будем использовать реальные данные из реальных задач. Краткая программа курса: Неделя 1. Введение. Примеры задач. Логические методы: решающие деревья и решающие леса. Неделя 2. Метрические методы классификации. Линейные методы, стохастический градиент. Неделя 3. Метод опорных векторов (SVM). Логистическая регрессия. Метрики качества классификации. Неделя 4. Линейная регрессия. Понижение размерности, метод главных компонент. Неделя 5. Композиции алгоритмов, градиентный бустинг. Нейронные сети. Неделя 6. Кластеризация и визуализация. Частичное обучение. Неделя 7. Прикладные задачи анализа данных: постановки и методы решения. Слушателю нужно знать об основных понятиях математики: функциях, производных, векторах, матрицах. Для выполнения практических заданий потребуются базовые навыки программирования. Очень желательно знать Python. Задания рассчитаны на использование этого языка и его библиотек numpy, pandas и scikit-learn. Чтобы успешно завершить курс, нужно набрать проходную сумму баллов за тесты и практические задания, а также выполнить финальный проект, посвящённый решению прикладной задачи анализа данных. Мы уверены, что этот курс будет полезен каждому, кто хочет постичь искусство предсказательного моделирования и освоить интеллектуальный анализ данных. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Введение в машинное обучение - Higher School of Economics | Coursera",
+                "thumb_url": "https:\/\/coursera-course-photos.s3.amazonaws.com\/a2\/c23430579811e59644373576122c07\/Ya-Icon-new-size.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0873FY94>: спасибо. Это Воронцова?  Вы проходили?",
+        "user": "U0QB98BB9",
+        "ts": "1459071497.000065",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "мне показался немного сухим, как будто он свои лекции в онлайн читает, вообще без переработки.",
+        "user": "U0QB98BB9",
+        "ts": "1459071545.000066",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ага, Воронцова, нет) я проходил Ng, Хинтона и Джонс Хопкинс  пачкой (последний не рекомендуют продвинутые люди :simple_smile: )",
+        "user": "U0873FY94",
+        "ts": "1459071620.000067",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "да, я их тоже проходил, давно еще, как только появились",
+        "user": "U0QB98BB9",
+        "ts": "1459071661.000068",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ng мне понравился. Хинтон тоже неплох, но высокоуровневый какой-то",
+        "user": "U0QB98BB9",
+        "ts": "1459071683.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "так вы все проходили)) может уже  не введение, а расширение стоит тогда?",
+        "user": "U0873FY94",
+        "ts": "1459071714.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "так я ж не себе спрашиваю )",
+        "user": "U0QB98BB9",
+        "ts": "1459071759.000071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "мне после книжки Бишопа на курсы уже не тянет ))",
+        "user": "U0QB98BB9",
+        "ts": "1459071781.000072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну вобщем, спасибо. скину \"студенту\".",
+        "user": "U0QB98BB9",
+        "ts": "1459071818.000073",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "для нормального серьезного подхода - ШАД, скорее всего, оптимален (если не знать ничего специфического о \"студенте\" :) - потребностях и т.п.)",
+        "user": "U0873FY94",
+        "ts": "1459071979.000074",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0873FY94",
+            "ts": "1459072015.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "ШАД после 30 звучит сомнительно... он же для хантинга студентов был создан на сколько я знаю",
+        "user": "U0QB98BB9",
+        "ts": "1459073144.000076",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А я где-то читал о таком случае, как парень пошёл в ШАД сильно после окончания вуза",
+        "user": "U04ELQZAU",
+        "ts": "1459073270.000077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И успешно закончил. Только мне кажется, это было не в Мск, а где-то где есть филиал ШАДа (Киев?)",
+        "user": "U04ELQZAU",
+        "ts": "1459073309.000078",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "в ШАДе, большая нагрузка просто (насколько я слышал) и нужно выделять много времени (после 30 его не  так много, обычно :simple_smile: )\nк тому же, после 30, по-хорошему, куда лучше понимается чего хочется делать и почему. Поэтому сидеть на лекциях 2 года - это много, оптимально, например пару тройку месяцев с прикладным аспектом\nкурс по машинному обучению за 180к на 3 месяца - оптимален",
+        "user": "U0873FY94",
+        "ts": "1459073465.000079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/newprolab.com\/bigdata\/>",
+        "user": "U0873FY94",
+        "ts": "1459073543.000080",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "New Professions Lab: Big Data",
+                "title_link": "http:\/\/newprolab.com\/bigdata\/",
+                "fallback": "New Professions Lab: Big Data",
+                "image_url": "http:\/\/newprolab.com\/bigdata\/img\/big-data-600-315.jpg",
+                "from_url": "http:\/\/newprolab.com\/bigdata\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 93275,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0873FY94>: рекламка? ) Да, лучше что-то более направленное, согласен. Но я не видел хороших курсов пока такого рода.",
+        "user": "U0QB98BB9",
+        "ts": "1459073577.000082",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU>: интересно. но это скорее исключение. наврятли если кто-то к ним заявится и скажет что не планирует работать в яндексе, они воспримут это оптимистично",
+        "user": "U0QB98BB9",
+        "ts": "1459073625.000083",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "хотя.. хз, это мои домыслы",
+        "user": "U0QB98BB9",
+        "ts": "1459073633.000084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "не, ни разу не связан))) просто общаюсь с человеком после 30, который закончил - довольно хороший базис закладывают",
+        "user": "U0873FY94",
+        "ts": "1459073647.000085",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В ШАДе нормально относятся к тем, кто даже не думает о работе в яндексе",
+        "user": "U04ELQZAU",
+        "ts": "1459073688.000086",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0873FY94> спасибо за инфу. может и правда курс какой порекомендую. только я так и не привык к термину \"большие данные\" . не понимаю что это :simple_smile:. если алгоритм NP то там и 10 mb входных данных будет лопатить вечно.",
+        "user": "U0QB98BB9",
+        "ts": "1459073997.000087",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU>: я так понял вы проходили. как ощущения? я по разным конференциям бывших шадовцев встречаю, некоторые говорят не очень полезно оказалось впоследствии, некоторые прям хвалят.",
+        "user": "U0QB98BB9",
+        "ts": "1459074055.000088",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0QB98BB9>: ну полезно или нет — зависит от того, чем человек в дальнейшем заниматься собирается. Если он про свободную кассу кричать будет или фронтенд верстать, то действительно не очень полезно",
+        "user": "U04ELQZAU",
+        "ts": "1459076995.000089",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Плюс, в большинстве случаев придётся потом углубляться в свою область",
+        "user": "U04ELQZAU",
+        "ts": "1459077064.000090",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Но ШАД даёт отличную базу и полезные контакты",
+        "user": "U04ELQZAU",
+        "ts": "1459077101.000091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/cs.hse.ru\/dpo\/datamining> вот вышка еще запустила",
+        "user": "U0AS548A1",
+        "ts": "1459077466.000092",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0873FY94>: оптимален? 0____о \nс трехмесячными лекциями такая проблема, что поднять предмет с нуля за 3 месяца можно только с очень сильной предварительной подготовкой и ежедневной практикой. если цель - обзорно захватить предмет и уметь сделать простые демки, то по желанию можно выложить 180к. \n\nно не хуже, а то и сильно лучше, можно разобраться в предмете по связке онлайн курсы + kaggle. что там, что там результат будет зависеть только от личного участия обучаемого и сколько времени он готов будет вложить. но тогда встает разумный вопрос: зачем 180к?",
+        "user": "U040HKJE7",
+        "ts": "1459082045.000093",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0873FY94",
+                    "U0R0JGNRL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU",
+                    "U0DA4J82H",
+                    "U0Q3USC0Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Тут баланс качество - время я имел ввиду",
+        "user": "U0873FY94",
+        "ts": "1459082116.000094",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "abbef2ee3d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-26\/29741720673_abbef2ee3d06f403260b_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Belyaev",
+            "display_name": "vladislav",
+            "team": "T040HKJE3",
+            "name": "vladislav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0QB98BB9>: начинай с Воронцова :simple_smile: если есть понимание, что хочется от обучающих программ, тоесть должно получится через N месяцев обучения, можем сейчас подборку курсов придумать",
+        "user": "U040HKJE7",
+        "ts": "1459082204.000095",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "если уже есть понимание подобласти, в которой хочется работать, это бы тоже нам помогло :simple_smile: потому что какиенибудь эконометрика, нлп, компьютерное зрение и прочие сильно отличаются и по теории и по подходам и по инструментам",
+        "user": "U040HKJE7",
+        "ts": "1459082350.000096",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040HKJE7>: я хотел узнать, что есть сейчас из курсов, потому что сам учился давно. вобщем-то понял приблизительную картину. спасибо.",
+        "user": "U0QB98BB9",
+        "ts": "1459084634.000097",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "на счет nlp\/computer vision не соглашусь, сейчас и там и там одни и те же алгоритмы )",
+        "user": "U0QB98BB9",
+        "ts": "1459084661.000098",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "думаю что те кто занимается <#C04N3UMSL> с этим не согласятся :simple_smile: nlp это не только генерить текст нейронками и делать word2vec",
+        "user": "U040HKJE7",
+        "ts": "1459084839.000099",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U040HKJE7",
+            "ts": "1459084845.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "я ж и занимаюсь",
+        "user": "U0QB98BB9",
+        "ts": "1459084877.000101",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "sentiment, speech recognition, computer vision",
+        "user": "U0QB98BB9",
+        "ts": "1459084895.000102",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "crf и там, и там",
+        "user": "U0QB98BB9",
+        "ts": "1459084903.000103",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "единсвенное что эмбеддинги в cv меньше используются, но и там есть подобие словарей",
+        "user": "U0QB98BB9",
+        "ts": "1459084941.000104",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "но это я так.. вобщем разница действительно есть",
+        "user": "U0QB98BB9",
+        "ts": "1459084961.000105",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "просто в последнее время сокращается",
+        "user": "U0QB98BB9",
+        "ts": "1459084967.000106",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "про курсы я не для себя спрашивал, а для \"друга\" :simple_smile:",
+        "user": "U0QB98BB9",
+        "ts": "1459084979.000107",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459112233.000109",
+        "user": "U0VQ5PGAU",
+        "text": "<@U0VQ5PGAU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459112498.000110",
+        "user": "U0VPWSRA8",
+        "text": "<@U0VPWSRA8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459119133.000111",
+        "user": "U0VQJFN81",
+        "text": "<@U0VQJFN81> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459137262.000112",
+        "user": "U0VR3R2LQ",
+        "text": "<@U0VR3R2LQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459142483.000113",
+        "user": "U0VRGU3ED",
+        "text": "<@U0VRGU3ED> has joined the channel"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/spark-in.me\/post\/learn-data-science>\nИ при этом не заплатив 150,000 рублей",
+        "user": "U1NLYUY5N",
+        "ts": "1496393743.058346",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spark in me",
+                "title": "Как научиться науке о данных (Data Science)",
+                "title_link": "http:\/\/spark-in.me\/post\/learn-data-science",
+                "text": "В статье описан подход автора к самообразованию в сфере Data Science и приведен список бесплатных онлайн курсов Статьи автора - <http:\/\/spark-in.me\/author\/snakers41> Блог - <http:\/\/spark-in.me>",
+                "fallback": "Spark in me: Как научиться науке о данных (Data Science)",
+                "image_url": "http:\/\/pics.spark-in.me\/upload\/54a44f7c6f0b81ffc3b87ca48c10ca28.jpg",
+                "ts": 1496404084,
+                "from_url": "http:\/\/spark-in.me\/post\/learn-data-science",
+                "image_width": 390,
+                "image_height": 250,
+                "image_bytes": 42980,
+                "service_icon": "http:\/\/spark-in.me\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1496393743.058346",
+        "reply_count": 14,
+        "reply_users_count": 7,
+        "latest_reply": "1496400829.595261",
+        "reply_users": [
+            "U1GMCNV3M",
+            "U0ZHCGY5T",
+            "U1NLYUY5N",
+            "U3K7PNTML",
+            "U1UNFRQ1K",
+            "U35EN5VLG",
+            "U3SE4D38X"
+        ],
+        "replies": [
+            {
+                "user": "U1GMCNV3M",
+                "ts": "1496394653.280156"
+            },
+            {
+                "user": "U0ZHCGY5T",
+                "ts": "1496394697.290326"
+            },
+            {
+                "user": "U1NLYUY5N",
+                "ts": "1496394698.290671"
+            },
+            {
+                "user": "U1NLYUY5N",
+                "ts": "1496394781.310179"
+            },
+            {
+                "user": "U1GMCNV3M",
+                "ts": "1496395004.361956"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1496397492.928306"
+            },
+            {
+                "user": "U0ZHCGY5T",
+                "ts": "1496398035.051861"
+            },
+            {
+                "user": "U1GMCNV3M",
+                "ts": "1496398243.095160"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1496399269.303134"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1496399549.357135"
+            },
+            {
+                "user": "U35EN5VLG",
+                "ts": "1496399685.382912"
+            },
+            {
+                "user": "U35EN5VLG",
+                "ts": "1496399748.394853"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1496400564.546366"
+            },
+            {
+                "user": "U3SE4D38X",
+                "ts": "1496400829.595261"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "leonid.danilchenko: мб я :slow:\nно почему ODS - питерское сообщество?\nкого это в mail звали на джунов?\nи как связано качество курса с трудоустройством?",
+        "user": "U1GMCNV3M",
+        "ts": "1496394653.280156",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a745fd6b6f48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-28\/161455034983_a745fd6b6f484741356a_72.jpg",
+            "first_name": "Ilya",
+            "real_name": "Ilya Baryshnikov",
+            "display_name": "lucidyan",
+            "team": "T040HKJE3",
+            "name": "lucidyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "ну такой себе пост.\nпо уровню подборки курсов сильно проигрывает <https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie>",
+        "user": "U0ZHCGY5T",
+        "ts": "1496394697.290326",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "title_link": "https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "text": "vvedenie-mashinnoe-obuchenie - :memo: Подборка ресурсов по машинному обучению",
+                "fallback": "GitHub: demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "from_url": "https:\/\/github.com\/demidovakatya\/vvedenie-mashinnoe-obuchenie",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/5788652?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NLYUY5N",
+                    "U0JHK9001",
+                    "U4CNAPFFH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U1NLYUY5N",
+                    "U4CNAPFFH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "forever_bot",
+                "users": [
+                    "U1GMCNV3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1GMCNV3M> я вот тоже как-то не понял этих слов",
+        "user": "U1NLYUY5N",
+        "ts": "1496394698.290671",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "а вообще в слаке есть автор <@U4BU5BR6X>",
+        "user": "U1NLYUY5N",
+        "ts": "1496394781.310179",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "возможно, я старомоден, но расписать на бумажке и реализовать сет алгоритмов самому, как у <@U0JHK9001>, будет гораздо полезнее коллекционирования курсов\n\nпотом  шлифануть :kaggle: и снова вернуться на первый пункт\n\nФишка в том, что в процессе всего этого придется перелопатить такое количество литературы и постов, что большинство поверхностных курсов уже не понадобится\n\nа production-ready штуки уже изучаешь на работе, по мере необходимости",
+        "user": "U1GMCNV3M",
+        "ts": "1496395004.361956",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a745fd6b6f48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-28\/161455034983_a745fd6b6f484741356a_72.jpg",
+            "first_name": "Ilya",
+            "real_name": "Ilya Baryshnikov",
+            "display_name": "lucidyan",
+            "team": "T040HKJE3",
+            "name": "lucidyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1GMCNV3M",
+            "ts": "1496395149.000000"
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U0JHK9001",
+                    "U47EXAQ8H",
+                    "U1UNFRQ1K",
+                    "U1FLG6YR1",
+                    "U4DQUUTS7",
+                    "U18PYFC9L",
+                    "U2BA0SHMF",
+                    "U24FHECDD",
+                    "U34Q3KU8H",
+                    "U0ZHCGY5T",
+                    "U1G303UTW"
+                ],
+                "count": 11
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4E2LU4F4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;но...тем, кто сделал хоть какие-то домашние задания предложили сходить в <http:\/\/Mail.ru|Mail.ru> на собеседование\n\n:mason: :msn: конспирология",
+        "user": "U3K7PNTML",
+        "ts": "1496397492.928306",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3K7PNTML",
+            "ts": "1496397508.000000"
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "<@U3K7PNTML> \nэто не конспирология, это просто неправда.\nя сделал хоть какие-то домашние задания, меня никто никуда не звал. :loh:",
+        "user": "U0ZHCGY5T",
+        "ts": "1496398035.051861",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0ZHCGY5T",
+            "ts": "1496398239.000000"
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U5JLX94DU",
+                    "U4U4GFDNK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0ZHCGY5T> и меня :pepe_sad: ",
+        "user": "U1GMCNV3M",
+        "ts": "1496398243.095160",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a745fd6b6f48",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-28\/161455034983_a745fd6b6f484741356a_72.jpg",
+            "first_name": "Ilya",
+            "real_name": "Ilya Baryshnikov",
+            "display_name": "lucidyan",
+            "team": "T040HKJE3",
+            "name": "lucidyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U5JLX94DU",
+                    "U4U4GFDNK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U4BU5BR6X> ты отличаешь митап от собеседования на позицию джуна? курс – моя личная инициатива, а то что мэйл хочет рассказать про свои открытые позиции тем, кого бесплатно впустил на целую субботу (а это, поверь, недешево) – это нормально, я считаю",
+        "user": "U1UNFRQ1K",
+        "ts": "1496399269.303134",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "myaso",
+                "users": [
+                    "U3K7PNTML",
+                    "U1GMCNV3M",
+                    "U04725QK7"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "потом будут говорить, что мэйл под прикрытием открытости набирает себе джунов :facepalm: поверьте, мэйлу и так от них отбиваться приходится – своих образовательных проектов только штук пять, еще и GeekBrains",
+        "user": "U1UNFRQ1K",
+        "ts": "1496399549.357135",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UNFRQ1K",
+            "ts": "1496399597.000000"
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "Парень походу совсем не вкурил про ODS курс, да и вообще про ODS как-то поверхностно осведомлен судя по составу статьи. =(",
+        "user": "U35EN5VLG",
+        "ts": "1496399685.382912",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "637777992c39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/354816243777_637777992c39586ca22d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Salynskii",
+            "display_name": "asalynskii",
+            "team": "T040HKJE3",
+            "name": "asalynskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "Раз уж он есть в чатике, надо бы намекнуть, что не стоит писать о том, в чем не уверен, да и статейку поправить не мешало бы",
+        "user": "U35EN5VLG",
+        "ts": "1496399748.394853",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "637777992c39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/354816243777_637777992c39586ca22d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Salynskii",
+            "display_name": "asalynskii",
+            "team": "T040HKJE3",
+            "name": "asalynskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "в-общем, у меня реально :bombanoolo: от такой клеветы :smile:",
+        "user": "U1UNFRQ1K",
+        "ts": "1496400564.546366",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "гм скорее неточность, mail совместил приятное с полезным",
+        "user": "U3SE4D38X",
+        "ts": "1496400829.595261",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gffe85a2573b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/56ffe85a2573bb2447bb751cd1c8cd7a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Pol",
+            "real_name": "Pol Liashkov",
+            "display_name": "bigbag1983",
+            "team": "T040HKJE3",
+            "name": "bigbag1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496393743.058346",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U34Q3KU8H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

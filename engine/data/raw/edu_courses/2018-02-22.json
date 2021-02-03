@@ -1,0 +1,467 @@
+[
+    {
+        "type": "message",
+        "text": "попался довольно интересный курс, может кому пригодится. System Design это вообще довольно скользкая тема, но отвечать на вопросы если хочется пройти собеседование придется, это и есть основная цель курса. <https:\/\/www.educative.io\/collection\/5668639101419520\/5649050225344512>",
+        "user": "U5R6WCSBU",
+        "ts": "1519298438.000178",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Educative: Interactive Courses for Software Developers",
+                "title": "Grokking the System Design Interview",
+                "title_link": "https:\/\/www.educative.io\/collection\/5668639101419520\/5649050225344512",
+                "text": "System design questions have become a standard part of the software engineering interview process. Performance in these interviews reflects upon your ability to work with complex systems and translates into the position and salary the interviewing company offers you. Most engineers struggle with system design interview (SDI), partly because of their lack of experience in developing large-scale systems, and partly because of the unstructured nature of SDIs. Even engineers, who’ve some experience building such systems, aren't comfortable with these interviews, mainly due to the open-ended nature of design problems that don't have a standard answer. This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions, that haven’t only been repeatedly asked at top companies but also provide a thorough experience to handle any system design problem. Let’s get started!",
+                "fallback": "Educative: Interactive Courses for Software Developers: Grokking the System Design Interview",
+                "from_url": "https:\/\/www.educative.io\/collection\/5668639101419520\/5649050225344512",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1519298438.000178",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1519500800.000153",
+        "reply_users": [
+            "U7MHQLM1N",
+            "U5R6WCSBU",
+            "U459QGLVD"
+        ],
+        "replies": [
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519303932.000353"
+            },
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519304007.000345"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1519304216.000316"
+            },
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519304299.000223"
+            },
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519304409.000372"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1519304447.000289"
+            },
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519304505.000170"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1519304589.000179"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1519304613.000002"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1519304817.000267"
+            },
+            {
+                "user": "U7MHQLM1N",
+                "ts": "1519304937.000294"
+            },
+            {
+                "user": "U459QGLVD",
+                "ts": "1519500800.000153"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UV86WJU",
+                    "U7FFW1WGZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "это из статьи на ДОУ? пролистал, топики и то что описано в превью ооочень базово",
+        "user": "U7MHQLM1N",
+        "ts": "1519303932.000353",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7MHQLM1N",
+            "ts": "1519303953.000000"
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "статья по LB мне кажется смешной - так уже никто не делает, делают SD по типу Consul",
+        "user": "U7MHQLM1N",
+        "ts": "1519304007.000345",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "&gt; это из статьи на ДОУ? пролистал, топики и то что описано в превью ооочень базово\nвозможно, я утром читал несколько ресурсов, а сейчас просто сохраненные ссылки разбирал. А ждать не базовых вещей в курсе, который готовит к собесу было бы странно. Иначе нужен полноценный университетский курс :slightly_smiling_face:",
+        "user": "U5R6WCSBU",
+        "ts": "1519304216.000316",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1UV86WJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я имею ввиду, что описанное в курсе знакомо любому, кто имеет хотя бы небольшой пратический опыт",
+        "user": "U7MHQLM1N",
+        "ts": "1519304299.000223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "и врею что слабо поможет на интервью :slightly_smiling_face:",
+        "user": "U7MHQLM1N",
+        "ts": "1519304409.000372",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "тому, кто работает часто даже реализацию сортировки вспомнить сложно, такие курсы нужны чтобы освежить и структурировать информацию.",
+        "user": "U5R6WCSBU",
+        "ts": "1519304447.000289",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "возможно. но за $50 курс ожидал больше информации и посвежее",
+        "user": "U7MHQLM1N",
+        "ts": "1519304505.000170",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "&gt; и врею что слабо поможет на интервью\nесли ты не занимался дизайном то даже сформулировать ответ будет сложно, все твои высказывания \"своими словами\" -это отказ после первой фразы. Не так много тех, кто легко отвечает на эти вопросы на самом деле.\n&gt;  но за $50 курс\nон рассчитан на штаты и тех, кто собирается идти на интервью в топовые it конторы, я бы ожидал цены $200+\/- $1",
+        "user": "U5R6WCSBU",
+        "ts": "1519304589.000179",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "но да все субъективно многим это не нужно, а большинству вряд ли поможет )))",
+        "user": "U5R6WCSBU",
+        "ts": "1519304613.000002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "там по сути одной темы хватит, System Design Problems. Это позволит сформулировать базовое понимание в какой задаче и чего ожидают услышать. Потому и планирую его послушать.",
+        "user": "U5R6WCSBU",
+        "ts": "1519304817.000267",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "да, это может быть. но надо еще посмотреть на их решения - может как раз после них и выгонят с собеса",
+        "user": "U7MHQLM1N",
+        "ts": "1519304937.000294",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1003ba85822d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473555418593_1003ba85822d8ddde054_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "sasha895",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7MHQLM1N",
+            "ts": "1519304981.000000"
+        },
+        "thread_ts": "1519298438.000178",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "Посоветуйте пару хороших курсов\/специализацию по классификации изображений (1000+ классов), распознавании текста на изображениях\nСпасибо!",
+        "user": "U70DQ5KCY",
+        "ts": "1519320238.000456",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9e082b6092b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-17\/365456604066_9e082b6092b0bd75eee3_72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Cherkes",
+            "display_name": "chernika",
+            "team": "T040HKJE3",
+            "name": "chernika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519320238.000456",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1519321965.000347",
+        "reply_users": [
+            "U6XCTTGUB",
+            "U1BMURR5G"
+        ],
+        "replies": [
+            {
+                "user": "U6XCTTGUB",
+                "ts": "1519321383.000666"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1519321965.000347"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "по классификации могу cs231n посоветовать",
+        "user": "U6XCTTGUB",
+        "ts": "1519321383.000666",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b08f39422b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-24\/245986594740_b08f39422b5243bb4659_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Канашов",
+            "display_name": "scientist",
+            "team": "T040HKJE3",
+            "name": "scientist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519320238.000456",
+        "parent_user_id": "U70DQ5KCY"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/course.fast.ai|course.fast.ai>",
+        "user": "U1BMURR5G",
+        "ts": "1519321965.000347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519320238.000456",
+        "parent_user_id": "U70DQ5KCY"
+    },
+    {
+        "type": "message",
+        "text": "при чем тут Пайтон?  про тервер говорим же…",
+        "user": "U1UV86WJU",
+        "ts": "1519323421.000751",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1504561501.000169",
+        "parent_user_id": "U60EETE7N"
+    }
+]

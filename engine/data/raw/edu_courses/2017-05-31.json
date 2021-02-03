@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1496218058.903754",
+        "user": "U5LB2FATE",
+        "text": "<@U5LB2FATE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1496221830.838301",
+        "user": "U5LD87WGM",
+        "text": "<@U5LD87WGM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "по плюсам(старым) есть неплохие книжки. Всякие новомодные фичи начиная с С++11 можно смотреть и чиать Майерса. \nЕсть видеокурс Александра Смаля из CSC\n1) <https:\/\/www.youtube.com\/watch?v=Ff5BhtyPrZk&amp;list=PLlb7e2G7aSpQQWIFH4vHEN2gRaBlhwhkw>\n2) <https:\/\/www.youtube.com\/watch?v=b9cqgr7NpYU&amp;list=PLlb7e2G7aSpQJpe8sWD2kIQ51Lx74H2FH>\n\nЕсли хочется в более сжатом формате для общего понимания  можно посмотреть лекции вот этого крутого дяди\n<https:\/\/www.youtube.com\/watch?v=tSANTMp-T9o>",
+        "user": "U30LWK54N",
+        "ts": "1496223353.220297",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73003e609aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-19\/170963013539_73003e609aa2613ee50c_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Chernov",
+            "display_name": "checho",
+            "team": "T040HKJE3",
+            "name": "checho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Объектно-ориентированное программирование",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Ff5BhtyPrZk",
+                "author_name": "Computer Science Center",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0YHNueF-3Nh3uQT0P4YQZw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Ff5BhtyPrZk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Объектно-ориентированное программирование",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Ff5BhtyPrZk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Ff5BhtyPrZk",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "STL: последовательные контейнеры",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=b9cqgr7NpYU",
+                "author_name": "Computer Science Center",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0YHNueF-3Nh3uQT0P4YQZw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/b9cqgr7NpYU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: STL: последовательные контейнеры",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/b9cqgr7NpYU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=b9cqgr7NpYU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 2
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Современный С++: новые возможности и лучшие методологии (лекция 1)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=tSANTMp-T9o",
+                "author_name": "Computer Science Center",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0YHNueF-3Nh3uQT0P4YQZw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tSANTMp-T9o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Современный С++: новые возможности и лучшие методологии (лекция 1)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/tSANTMp-T9o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=tSANTMp-T9o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 3
+            }
+        ],
+        "thread_ts": "1496147585.670167",
+        "parent_user_id": "U1UM6S9KN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U29TG6K9U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "csc",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,556 @@
+[
+    {
+        "client_msg_id": "806bfe1a-c453-4d31-a490-bfabe0c61bff",
+        "type": "message",
+        "text": "Гайз, всем привет! Посоветуйте плиз какой гайд или статейку с примерами по Feature Selection, желательно с применением catboost, но не обязательно)\nСам пытался подружиться с их CatboostEvaluation, но наткнулся на отсутствие документации)",
+        "user": "UU6LQEZFS",
+        "ts": "1600604352.069100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9cef8b426c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-19\/1071893303730_9cef8b426c2291aeef17_72.jpg",
+            "first_name": "Segey",
+            "real_name": "Segey Polyakov",
+            "display_name": "IamSVP",
+            "team": "T040HKJE3",
+            "name": "iamsvp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Гайз, всем привет! Посоветуйте плиз какой гайд или статейку с примерами по Feature Selection, желательно с применением catboost, но не обязательно)\nСам пытался подружиться с их CatboostEvaluation, но наткнулся на отсутствие документации)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1600687731.083300",
+        "reply_users": [
+            "U01AEBPE3UH",
+            "UU6LQEZFS",
+            "UD5FPR92Q"
+        ],
+        "replies": [
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600607013.071500"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600607381.071900"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600607421.072100"
+            },
+            {
+                "user": "UU6LQEZFS",
+                "ts": "1600608116.072400"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600675089.077100"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600675928.080000"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600675956.080200"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687377.080800"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687391.081000"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687403.081200"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687416.081700"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687427.081900"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687452.082400"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600687472.082600"
+            },
+            {
+                "user": "UD5FPR92Q",
+                "ts": "1600687673.083000"
+            },
+            {
+                "user": "U01AEBPE3UH",
+                "ts": "1600687731.083300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U013AMQU7QV",
+                    "U71JW8JHE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U71JW8JHE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8099638-f5e2-4d63-84bc-4739fa9f587c",
+        "type": "message",
+        "text": "Проще написать, чем найти :)\n\nОсновная идея:\nесть два набора алгоритмов\n1. Feature Importance\n2. Feature Selection\nFeature Importance алгоритмы определяют важность фичей.\n\nFeature Selection алгоритмы берут на вход набор фичей и набор их importance scores и отбирают сабсет лучших фичей.\n\nТипичные способы считать feature importance:\n1. <https:\/\/eli5.readthedocs.io\/en\/latest\/blackbox\/permutation_importance.html|MDA> = Mean Decrease Accuracy* = PermutationImportance (может быть посчитано для любого скора, не только accuracy). Скорит out-of-sample по влиянию на метрику модели.\n2. MDI = Mean Decrease Impurity. То, что считают деревянные модели. Скорит in-sample по Gini Importance деревьев.\n3. SFI = Single Feature Importance методы. Тут может быть как MDA one-feature-at-a-time, так и разные меры дистанции на паре (feature, target). <https:\/\/towardsdatascience.com\/anova-for-feature-selection-in-machine-learning-d9305e228476|ANOVA>, correlation, Mutual Information (MI), Variation of Information (VI), Normalized Information Distance (NID) и тп.\nТипичные способы отбирать отскоренные фичи:\n1. RFE = Recursive feature elimination. Скорит набор фичей заданным importance методом, выбрасывает n худших, скорит оставшееся, скорит, и так до тех пор пока не остатся k фичей.\n2. SelectKBest = выбирает k лучших фичей по скору",
+        "user": "U01AEBPE3UH",
+        "ts": "1600607013.071500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AEBPE3UH",
+            "ts": "1600607516.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Проще написать, чем найти :)\n\nОсновная идея:\nесть два набора алгоритмов\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Feature Importance"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Feature Selection"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFeature Importance алгоритмы определяют важность фичей.\n\nFeature Selection алгоритмы берут на вход набор фичей и набор их importance scores и отбирают сабсет лучших фичей.\n\nТипичные способы считать feature importance:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eli5.readthedocs.io\/en\/latest\/blackbox\/permutation_importance.html",
+                                        "text": "MDA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " = Mean Decrease Accuracy* = PermutationImportance (может быть посчитано для любого скора, не только accuracy). Скорит out-of-sample по влиянию на метрику модели."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MDI = Mean Decrease Impurity. То, что считают деревянные модели. Скорит in-sample по Gini Importance деревьев."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SFI = Single Feature Importance методы. Тут может быть как MDA one-feature-at-a-time, так и разные меры дистанции на паре (feature, target). "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/towardsdatascience.com\/anova-for-feature-selection-in-machine-learning-d9305e228476",
+                                        "text": "ANOVA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", correlation, Mutual Information (MI), Variation of Information (VI), Normalized Information Distance (NID) и тп."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nТипичные способы отбирать отскоренные фичи:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RFE = Recursive feature elimination. Скорит набор фичей заданным importance методом, выбрасывает n худших, скорит оставшееся, скорит, и так до тех пор пока не остатся k фичей."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SelectKBest = выбирает k лучших фичей по скору"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UU6LQEZFS",
+                    "UMQSP3DJM",
+                    "UUHBNFF8X",
+                    "U2ADZFUH4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0U2ENJ4U",
+                    "U5H0L5T98",
+                    "UDHJKLGLR",
+                    "UUHBNFF8X",
+                    "UEUL0CPS5",
+                    "U012QDW7E4B",
+                    "U3L4UC8H4",
+                    "UL94X7JEL",
+                    "U015SP78BRV",
+                    "U01BR75UGU8",
+                    "U2ADZFUH4",
+                    "U01BHRZJ4SV"
+                ],
+                "count": 12
+            },
+            {
+                "name": "jesus",
+                "users": [
+                    "UDHJKLGLR",
+                    "UUHBNFF8X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "594142ac-5234-4735-a079-bbce19c906aa",
+        "type": "message",
+        "text": "Это из популярного. Из менее популярного еще есть модификации, которые пытаются улучшить стабильность отбора фичей между фолдами. Например можно бутстрапить данные перед MDI, считать 10 сэмплов и усреднять. Это дает более стабильный importance score.\n\nЕще есть ансамблевые методы, EFI = Ensemble Feature Importance и EFS = Ensemble Feature Selection.\n\nПервый берет на вход пачку importance measures, например MDA + MDI + NID, считает ranked importance = 1 \/ feature_rank для каждого и усредняет. Получается средний ранговый importance score.\n\nВторой берет на вход importance measure и алгоритм селекции. Например MDA + MDI + NID и SelectKBest. И делает:\n```hard_vote(\n  SelectKBest(MDA),\n  SelectKBest(MDI),\n  SelectKBest(NID),\n)```\n",
+        "user": "U01AEBPE3UH",
+        "ts": "1600607381.071900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "covi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Это из популярного. Из менее популярного еще есть модификации, которые пытаются улучшить стабильность отбора фичей между фолдами. Например можно бутстрапить данные перед MDI, считать 10 сэмплов и усреднять. Это дает более стабильный importance score.\n\nЕще есть ансамблевые методы, EFI = Ensemble Feature Importance и EFS = Ensemble Feature Selection.\n\nПервый берет на вход пачку importance measures, например MDA + MDI + NID, считает ranked importance = 1 \/ feature_rank для каждого и усредняет. Получается средний ранговый importance score.\n\nВторой берет на вход importance measure и алгоритм селекции. Например MDA + MDI + NID и SelectKBest. И делает:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hard_vote(\n  SelectKBest(MDA),\n  SelectKBest(MDI),\n  SelectKBest(NID),\n)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UU6LQEZFS",
+                    "UN7TQ77T9",
+                    "UMQSP3DJM",
+                    "U2ADZFUH4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "jesus",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dushevnost",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d7ec587-1326-4c0a-afde-8eacd7f2c60a",
+        "type": "message",
+        "text": "для второго набора у меня есть либа написанная, в обозримом будущем опенсорсну ее",
+        "user": "U01AEBPE3UH",
+        "ts": "1600607421.072100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga0bb502732a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0bb502732af3efc77543575aeb1727a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Eugene",
+            "real_name": "Eugene Tartakovsky",
+            "display_name": "et",
+            "team": "T040HKJE3",
+            "name": "et19216801",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U0y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "для второго набора у меня есть либа написанная, в обозримом будущем опенсорсну ее"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS"
+    },
+    {
+        "client_msg_id": "95bb1e83-6ef9-47d2-ac20-d86c76201a15",
+        "type": "message",
+        "text": "Воу <@U01AEBPE3UH>, это уже тянет на статью, как минимум по объему)\nСпасибо за инфу, жду запуска вашего проекта)",
+        "user": "UU6LQEZFS",
+        "ts": "1600608116.072400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9cef8b426c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-19\/1071893303730_9cef8b426c2291aeef17_72.jpg",
+            "first_name": "Segey",
+            "real_name": "Segey Polyakov",
+            "display_name": "IamSVP",
+            "team": "T040HKJE3",
+            "name": "iamsvp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Воу "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AEBPE3UH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", это уже тянет на статью, как минимум по объему)\nСпасибо за инфу, жду запуска вашего проекта)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600604352.069100",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01AEBPE3UH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3db6ded0-4cef-4934-b524-245d7294b2a0",
+        "type": "message",
+        "text": "Специализация от Яндекса определённо лучше, хотя некоторые области покрываются лишь ознокомительно, как-никак материалы делались достаточно давно. В целом для понимания что это вообще такое ml подходит хорошо.\n\nЗачем платить за то что можно выучить бесплатно или почти бесплатно.",
+        "user": "US22JSW5U",
+        "ts": "1600670495.076800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5d67d838733",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5d67d8387331ff6fb7eb52b875abc040.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Sutiagin Leonid",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "syleonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14QW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Специализация от Яндекса определённо лучше, хотя некоторые области покрываются лишь ознокомительно, как-никак материалы делались достаточно давно. В целом для понимания что это вообще такое ml подходит хорошо.\n\nЗачем платить за то что можно выучить бесплатно или почти бесплатно."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599207219.214700",
+        "parent_user_id": "URTMDTCET",
+        "reactions": [
+            {
+                "name": "printing-money",
+                "users": [
+                    "U6LSE0FT9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

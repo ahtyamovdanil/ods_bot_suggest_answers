@@ -1,0 +1,403 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501745132.631919",
+        "user": "U6GSB6NCQ",
+        "text": "<@U6GSB6NCQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501745359.697725",
+        "user": "U6HE0LDKM",
+        "text": "<@U6HE0LDKM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501746445.029863",
+        "user": "U6JD4A2EA",
+        "text": "<@U6JD4A2EA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501747382.349515",
+        "user": "U6HEBQLBD",
+        "text": "<@U6HEBQLBD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501748409.706366",
+        "user": "U6HJEE2J0",
+        "text": "<@U6HJEE2J0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501748950.904240",
+        "user": "U6H12P4M7",
+        "text": "<@U6H12P4M7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501750007.301662",
+        "user": "U6HETRKGT",
+        "text": "<@U6HETRKGT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501754232.910839",
+        "user": "U6JLMNDT9",
+        "text": "<@U6JLMNDT9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501756746.760740",
+        "user": "U6HJ6PLR0",
+        "text": "<@U6HJ6PLR0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "привет! подскажите, какие есть практические интенсивы в Москве по типу этого <http:\/\/newprolab.com\/ru\/deeplearning\/> ?",
+        "user": "U4TD199M4",
+        "ts": "1501760564.930323",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48414fb77596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1116567300358_48414fb77596f56581de_72.jpg",
+            "first_name": "Ali",
+            "real_name": "Ali Aliev",
+            "display_name": "alievk",
+            "team": "T040HKJE3",
+            "name": "aaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "New Professions Lab: Deep Learning",
+                "title_link": "http:\/\/newprolab.com\/ru\/deeplearning\/",
+                "fallback": "New Professions Lab: Deep Learning",
+                "image_url": "http:\/\/newprolab.com\/ru\/deeplearning\/img\/dl-preview.png",
+                "from_url": "http:\/\/newprolab.com\/ru\/deeplearning\/",
+                "image_width": 473,
+                "image_height": 250,
+                "image_bytes": 249769,
+                "service_name": "newprolab.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501760564.930323",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1501832410.823254",
+        "reply_users": [
+            "U4M771QHX",
+            "U4TD199M4",
+            "U51SRULNL"
+        ],
+        "replies": [
+            {
+                "user": "U4M771QHX",
+                "ts": "1501773098.370994"
+            },
+            {
+                "user": "U4M771QHX",
+                "ts": "1501773165.414791"
+            },
+            {
+                "user": "U4TD199M4",
+                "ts": "1501832016.709493"
+            },
+            {
+                "user": "U51SRULNL",
+                "ts": "1501832410.823254"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "six",
+                "users": [
+                    "U36Q9NJMD",
+                    "U2GAH002G",
+                    "U3NR8Q399",
+                    "U17UDV31D"
+                ],
+                "count": 4
+            },
+            {
+                "name": "zero",
+                "users": [
+                    "U36Q9NJMD",
+                    "U2GAH002G",
+                    "U3NR8Q399",
+                    "U6B4LEZ0D",
+                    "U17UDV31D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "U36Q9NJMD",
+                    "U2GAH002G",
+                    "U17UDV31D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "кто-нибудь проходил этот курс :arrow_up: ? какие впечатления?",
+        "user": "U4TD199M4",
+        "ts": "1501760642.953013",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48414fb77596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1116567300358_48414fb77596f56581de_72.jpg",
+            "first_name": "Ali",
+            "real_name": "Ali Aliev",
+            "display_name": "alievk",
+            "team": "T040HKJE3",
+            "name": "aaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1501831927.683184",
+        "reply_users": [
+            "U04CH4QBD",
+            "U32TKU2TX",
+            "U4TD199M4"
+        ],
+        "replies": [
+            {
+                "user": "U04CH4QBD",
+                "ts": "1501798858.457200"
+            },
+            {
+                "user": "U04CH4QBD",
+                "ts": "1501799005.505047"
+            },
+            {
+                "user": "U04CH4QBD",
+                "ts": "1501799201.567613"
+            },
+            {
+                "user": "U04CH4QBD",
+                "ts": "1501799354.617067"
+            },
+            {
+                "user": "U32TKU2TX",
+                "ts": "1501831400.536006"
+            },
+            {
+                "user": "U4TD199M4",
+                "ts": "1501831927.683184"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501764978.521052",
+        "user": "U6HKZS4HG",
+        "text": "<@U6HKZS4HG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Это была ирония, конечно. Храброву уважуха и всё добро пожизненно.",
+        "user": "U14CTBLFJ",
+        "ts": "1501767359.735954",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501665834.917567",
+        "parent_user_id": "U49MGP9MX"
+    },
+    {
+        "type": "message",
+        "text": "Проходил в этой компании когда-то курсы big data, там Гриша Сапунов, читал спарк и рекомендательные системы, я был очень, очень доволен, поэтому не вижу оснований считать, что этот курс плох :slightly_smiling_face:",
+        "user": "U4M771QHX",
+        "ts": "1501773098.370994",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac7dc634508",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/edac7dc63450837695a7f9586cfce997.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Kobets",
+            "display_name": "skobets",
+            "team": "T040HKJE3",
+            "name": "skobets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4M771QHX",
+            "ts": "1501773257.000000"
+        },
+        "thread_ts": "1501760564.930323",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "Меня только малая продолжительность несколько смущает, тема весьма объемная.",
+        "user": "U4M771QHX",
+        "ts": "1501773165.414791",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac7dc634508",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/edac7dc63450837695a7f9586cfce997.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Kobets",
+            "display_name": "skobets",
+            "team": "T040HKJE3",
+            "name": "skobets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760564.930323",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501796333.497962",
+        "user": "U6HDBGC01",
+        "text": "<@U6HDBGC01> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U126TCE79> <@U075SR8JX> <@U13QJJR6F> <@U10M2B2G3> <@U1922HS0Z> <@U1DNPLGR5> \nкто еще проходил?",
+        "user": "U04CH4QBD",
+        "ts": "1501798858.457200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "<@U32TKU2TX> <@U0QJ7NM37> <@U06LWKFMM>",
+        "user": "U04CH4QBD",
+        "ts": "1501799005.505047",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "(может кого случайно добавил)",
+        "user": "U04CH4QBD",
+        "ts": "1501799201.567613",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "а я могу скидку 15% попытаться тебе выдать :wink:",
+        "user": "U04CH4QBD",
+        "ts": "1501799354.617067",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4TD199M4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501812922.777558",
+        "user": "U6HFSNFQR",
+        "text": "<@U6HFSNFQR> has joined the channel"
+    }
+]

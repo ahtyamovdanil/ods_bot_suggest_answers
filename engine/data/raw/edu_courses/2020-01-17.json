@@ -1,0 +1,387 @@
+[
+    {
+        "client_msg_id": "15563d20-c6cc-41cc-863b-bc4402d54a2e",
+        "type": "message",
+        "text": "Ребята гдк можно  взять  материалы  для подготовки  в шад?",
+        "user": "UECGE3ZQE",
+        "ts": "1579288639.002100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge8611bab350",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d2e8611bab35079b694119d3fe66428a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Avtandylrudenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "avtandylrudenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4I+GA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ребята гдк можно  взять  материалы  для подготовки  в шад?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579288639.002100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1579288759.002300",
+        "reply_users": [
+            "U53E5MFNU"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1579288759.002300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "google",
+                "users": [
+                    "UC7F3KJ7P",
+                    "UB4F4DZGV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UDD345XLG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee35872b-2c80-4fb7-874b-c8e654bbfe2c",
+        "type": "message",
+        "text": "<#C2XEW8C4B|edu_shad_exams>",
+        "user": "U53E5MFNU",
+        "ts": "1579288759.002300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C2XEW8C4B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579288639.002100",
+        "parent_user_id": "UECGE3ZQE"
+    },
+    {
+        "client_msg_id": "5a8bfc04-2e15-43a9-896d-23d84bb28865",
+        "type": "message",
+        "text": "<https:\/\/geekbrains.ru\/geek_university\/data-science> Ребят подскажите пожалуйста кто-то что слышал про это?",
+        "user": "USTKTE472",
+        "ts": "1579292278.003200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a406aba7fe91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-17\/911726935717_a406aba7fe917fa8657c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Ryzhov",
+            "display_name": "Ivan Ryzhov",
+            "team": "T040HKJE3",
+            "name": "ivanryshov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GeekBrains",
+                "title": "Data Science обучение - курсы машинного обучения | GeekBrains - образовательный портал",
+                "title_link": "https:\/\/geekbrains.ru\/geek_university\/data-science",
+                "text": "Обучение Data Science с нуля на факультете GeekBrains. Курсы по машинному обучению от профессиональных преподавателей, предоставим опыт для успешного трудоустройства!",
+                "fallback": "GeekBrains: Data Science обучение - курсы машинного обучения | GeekBrains - образовательный портал",
+                "image_url": "https:\/\/d2xzmw6cctk25h.cloudfront.net\/faculty\/117\/og_image\/b97aadb74bc5f8163cf40c34fffc9554.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/geekbrains.ru\/geek_university\/data-science",
+                "image_bytes": 40529,
+                "service_icon": "https:\/\/geekbrains.ru\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/geekbrains.ru\/geek_university\/data-science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMqt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/geekbrains.ru\/geek_university\/data-science"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ребят подскажите пожалуйста кто-то что слышал про это?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579292278.003200",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1579299875.005200",
+        "reply_users": [
+            "ULRTEEHT4",
+            "USTKTE472",
+            "UHY5KKK6D"
+        ],
+        "replies": [
+            {
+                "user": "ULRTEEHT4",
+                "ts": "1579292687.003500"
+            },
+            {
+                "user": "ULRTEEHT4",
+                "ts": "1579293268.003900"
+            },
+            {
+                "user": "USTKTE472",
+                "ts": "1579293423.004100"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1579299875.005200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c37f7f60-45dd-4ea5-be45-59076883bbf4",
+        "type": "message",
+        "text": "Я не слышал, но надпись <http:\/\/mail.ru|mail.ru> и два всплывающих окна со звуком на странице уже наводят на некоторые мысли... :upside_down_face:",
+        "user": "ULRTEEHT4",
+        "ts": "1579292687.003500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5505a5260446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/778417812039_5505a5260446ca82dec7_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Semenov",
+            "display_name": "g0nzalez",
+            "team": "T040HKJE3",
+            "name": "dan949494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TA7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я не слышал, но надпись "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mail.ru",
+                                "text": "mail.ru"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и два всплывающих окна со звуком на странице уже наводят на некоторые мысли... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579292278.003200",
+        "parent_user_id": "USTKTE472"
+    },
+    {
+        "client_msg_id": "4fb66edc-d726-44ec-8152-66f2547554e2",
+        "type": "message",
+        "text": "Ладно, я вообще, конечно, просто хрен с горы, и может это гениальный курс, но чисто по программе как-то ооооочень странно выглядит использование ML в sklearn ещё до того, как начнётся всякая математика и kNN уже после всяких регрессий, деревьев и бустингов :thinking_face:",
+        "user": "ULRTEEHT4",
+        "ts": "1579293268.003900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5505a5260446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/778417812039_5505a5260446ca82dec7_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Semenov",
+            "display_name": "g0nzalez",
+            "team": "T040HKJE3",
+            "name": "dan949494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16Db6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ладно, я вообще, конечно, просто хрен с горы, и может это гениальный курс, но чисто по программе как-то ооооочень странно выглядит использование ML в sklearn ещё до того, как начнётся всякая математика и kNN уже после всяких регрессий, деревьев и бустингов "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579292278.003200",
+        "parent_user_id": "USTKTE472"
+    },
+    {
+        "client_msg_id": "99c96918-dc83-422b-a254-7364489698ef",
+        "type": "message",
+        "text": "Спасибо большое за совет!",
+        "user": "USTKTE472",
+        "ts": "1579293423.004100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a406aba7fe91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-17\/911726935717_a406aba7fe917fa8657c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Ryzhov",
+            "display_name": "Ivan Ryzhov",
+            "team": "T040HKJE3",
+            "name": "ivanryshov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо большое за совет!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579292278.003200",
+        "parent_user_id": "USTKTE472"
+    },
+    {
+        "client_msg_id": "8e4c935d-8d5a-4a26-bb2f-4a201b701123",
+        "type": "message",
+        "text": "Продолжительность\n18 месяцев\n\nДа там ебнеш...я учиться столько, 5-6 месяцев и в бой как по мне.",
+        "user": "UHY5KKK6D",
+        "ts": "1579299875.005200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vs3IQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Продолжительность\n18 месяцев\n\nДа там ебнеш...я учиться столько, 5-6 месяцев и в бой как по мне."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579292278.003200",
+        "parent_user_id": "USTKTE472",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "ULRTEEHT4",
+                    "UKTQ3DJV7",
+                    "UDHJKLGLR",
+                    "UDK41MN5U"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

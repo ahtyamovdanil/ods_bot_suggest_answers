@@ -1,0 +1,547 @@
+[
+    {
+        "client_msg_id": "b31e1a82-3d4e-4cda-9c47-bf987cfb28fb",
+        "type": "message",
+        "text": "накину еще пару в копилку\n<https:\/\/www.udacity.com\/course\/sql-for-data-analysis--ud198>\n<https:\/\/stepik.org\/course\/63054>",
+        "user": "U4N7G9RQA",
+        "ts": "1605516814.486700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4N7G9RQA",
+            "ts": "1605516825.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAeq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "накину еще пару в копилку\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/sql-for-data-analysis--ud198"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/63054"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605385747.462100",
+        "parent_user_id": "U01EW6C9RK3"
+    },
+    {
+        "client_msg_id": "d6033c39-f16d-46e0-900b-abc0ae518585",
+        "type": "message",
+        "text": "Всем привет, может кто порекомендовать где почитать или просмотреть, про предсказания значений на какой-то период, суть задачи какая, есть табличка, с датами и значениями и надо предсказывать данные на следующий месяц посуточно, может кто сталкивался с подобной задачей, есть рекомендации?",
+        "user": "UV24N2EE7",
+        "ts": "1605538230.487800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3ef7a239c17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-13\/1001516035527_3ef7a239c17affdd216b_72.jpg",
+            "first_name": "zero",
+            "real_name": "zero nero",
+            "display_name": "zero nero",
+            "team": "T040HKJE3",
+            "name": "zeronerorgb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет, может кто порекомендовать где почитать или просмотреть, про предсказания значений на какой-то период, суть задачи какая, есть табличка, с датами и значениями и надо предсказывать данные на следующий месяц посуточно, может кто сталкивался с подобной задачей, есть рекомендации?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1605678619.005500",
+        "reply_users": [
+            "U0U2ENJ4U",
+            "U7SFPUVQF",
+            "UV24N2EE7",
+            "UF1ED121H",
+            "URV3BA571"
+        ],
+        "replies": [
+            {
+                "user": "U0U2ENJ4U",
+                "ts": "1605539041.487900"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1605546036.489100"
+            },
+            {
+                "user": "U0U2ENJ4U",
+                "ts": "1605546418.489400"
+            },
+            {
+                "user": "UV24N2EE7",
+                "ts": "1605547100.489900"
+            },
+            {
+                "user": "UV24N2EE7",
+                "ts": "1605547183.490100"
+            },
+            {
+                "user": "UV24N2EE7",
+                "ts": "1605547214.490400"
+            },
+            {
+                "user": "UF1ED121H",
+                "ts": "1605640958.004100"
+            },
+            {
+                "user": "URV3BA571",
+                "ts": "1605678619.005500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ee562b3-24fd-4346-a0c3-0ec28b0c3df0",
+        "type": "message",
+        "text": "начать следует с того, что прочитать несколько учебников по той предметной области, из которой эти таблички пришли",
+        "user": "U0U2ENJ4U",
+        "ts": "1605539041.487900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14882ebdc4fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-18\/60657636951_14882ebdc4fa3a51a76d_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lyashenko",
+            "display_name": "andrey",
+            "team": "T040HKJE3",
+            "name": "andrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "начать следует с того, что прочитать несколько учебников по той предметной области, из которой эти таблички пришли"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUCMUC3D1",
+                    "UJ8UE41FS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "URV3BA571"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "566672f7-b643-4868-bcdc-8b49cc2dfd6a",
+        "type": "message",
+        "text": "Если нет времени что-то читать и нужно это сделать \"вчера\", то можно просто запихнуть в fbprophet и это будет неплохой бэйзлайн.",
+        "user": "U7SFPUVQF",
+        "ts": "1605546036.489100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gffu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если нет времени что-то читать и нужно это сделать \"вчера\", то можно просто запихнуть в fbprophet и это будет неплохой бэйзлайн."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV24N2EE7",
+                    "UQWQH3DEU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "если ты хочешь бездумно предсказывать неизвестно что, то вот книжка с кодами уже",
+        "files": [
+            {
+                "id": "F01F0T75N20",
+                "created": 1605546341,
+                "timestamp": 1605546341,
+                "name": "deep_learning_time_series_forecasting.pdf",
+                "title": "deep_learning_time_series_forecasting.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0U2ENJ4U",
+                "editable": false,
+                "size": 8539277,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01F0T75N20\/deep_learning_time_series_forecasting.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01F0T75N20\/download\/deep_learning_time_series_forecasting.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01F0T75N20-ea12040d5f\/deep_learning_time_series_forecasting_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U0U2ENJ4U\/F01F0T75N20\/deep_learning_time_series_forecasting.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01F0T75N20-1230693105",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "если ты хочешь бездумно предсказывать неизвестно что, то вот книжка с кодами уже"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0U2ENJ4U",
+        "display_as_bot": false,
+        "ts": "1605546418.489400",
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV24N2EE7",
+                    "U927PTB1P",
+                    "U01E8TE4S1X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df61ae2d-e4b6-414d-8a9d-c09b85190a7d",
+        "type": "message",
+        "text": "Времени разбираться в показателях нет, надо именно какие-нибудь лайфхаки",
+        "user": "UV24N2EE7",
+        "ts": "1605547100.489900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3ef7a239c17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-13\/1001516035527_3ef7a239c17affdd216b_72.jpg",
+            "first_name": "zero",
+            "real_name": "zero nero",
+            "display_name": "zero nero",
+            "team": "T040HKJE3",
+            "name": "zeronerorgb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tC4R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Времени разбираться в показателях нет, надо именно какие-нибудь лайфхаки"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7"
+    },
+    {
+        "client_msg_id": "07015198-12ea-42c2-a9c8-6829fbfb7792",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/NVKDSNM702k> что-то типо такого, только по предсказанию табличных данных",
+        "user": "UV24N2EE7",
+        "ts": "1605547183.490100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3ef7a239c17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-13\/1001516035527_3ef7a239c17affdd216b_72.jpg",
+            "first_name": "zero",
+            "real_name": "zero nero",
+            "display_name": "zero nero",
+            "team": "T040HKJE3",
+            "name": "zeronerorgb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Tinkoff Data Science Challenge — Станислав Семёнов",
+                "title_link": "https:\/\/youtu.be\/NVKDSNM702k",
+                "author_name": "ODS AI Ru",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCeq6ZIlvC9SVsfhfKnSvM9w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/NVKDSNM702k\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tinkoff Data Science Challenge — Станислав Семёнов",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/NVKDSNM702k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/NVKDSNM702k",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/NVKDSNM702k"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/NVKDSNM702k"
+                            },
+                            {
+                                "type": "text",
+                                "text": " что-то типо такого, только по предсказанию табличных данных"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7"
+    },
+    {
+        "client_msg_id": "fdad6585-acba-4d89-91c6-495717db43b1",
+        "type": "message",
+        "text": "а не на основе табличных данных предсказывать какое-то значение в строчке",
+        "user": "UV24N2EE7",
+        "ts": "1605547214.490400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3ef7a239c17a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-13\/1001516035527_3ef7a239c17affdd216b_72.jpg",
+            "first_name": "zero",
+            "real_name": "zero nero",
+            "display_name": "zero nero",
+            "team": "T040HKJE3",
+            "name": "zeronerorgb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а не на основе табличных данных предсказывать какое-то значение в строчке"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605538230.487800",
+        "parent_user_id": "UV24N2EE7"
+    },
+    {
+        "client_msg_id": "34d81812-50c2-4eea-8e97-5029d32489c6",
+        "type": "message",
+        "text": "<@U60EETE7N>, ценные сертификаты ещё как бывают, например от AWS или Cloud Native.",
+        "user": "UKJH49YNM",
+        "ts": "1605567994.492800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g348d4dfff62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/17348d4dfff62875e1071f1557b79895.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Stavonin",
+            "display_name": "Alexander Stavonin",
+            "team": "T040HKJE3",
+            "name": "a.stavonin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ey9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U60EETE7N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ценные сертификаты ещё как бывают, например от AWS или Cloud Native."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605385747.462100",
+        "parent_user_id": "U01EW6C9RK3"
+    },
+    {
+        "client_msg_id": "a384de70-17b5-4775-bc5c-048dfd2f4cfa",
+        "type": "message",
+        "text": "не знал, что у AWS есть сертификаты по SQL",
+        "user": "U60EETE7N",
+        "ts": "1605570139.493000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvcBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "не знал, что у AWS есть сертификаты по SQL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605385747.462100",
+        "parent_user_id": "U01EW6C9RK3"
+    }
+]

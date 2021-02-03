@@ -1,0 +1,360 @@
+[
+    {
+        "client_msg_id": "c457c299-bf35-4afe-a37b-548ffaf95567",
+        "type": "message",
+        "text": "*<https:\/\/app.slack.com\/team\/U0SBLSTJ4|altrav>*  <https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900|[11:42 AM]>\nВсем привет,\n\nменя зовут Максим Панов, я работаю в Сколтехе старшим преподавателем и координирую магистерские и аспирантские программы по Data Science в Сколтехе.\n\nНаша приемная кампания в магистратуру уже стартовала, детали:\n- <https:\/\/msc.skoltech.ru\/data-science\/>\nПодавать заявки можно по ссылке: <https:\/\/apply.skoltech.ru\/>\nДедлайн подачи заявлений на ближайший отбор: 15 марта.\n\nЯ думаю, что у сообщества есть вопросы по нашим программам и процедуре поступления - задавайте их в комментариях к посту в канале edu_academy: <https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900>",
+        "user": "U0SBLSTJ4",
+        "ts": "1583829898.324400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900",
+                "fallback": "[March 10th, 2020 1:42 AM] altrav: Всем привет,\n\nменя зовут Максим Панов, я работаю в Сколтехе старшим преподавателем и координирую магистерские и аспирантские программы по Data Science в Сколтехе.\n\nНаша приемная кампания в магистратуру уже стартовала, детали:\n- <https:\/\/msc.skoltech.ru\/data-science\/>\nПодавать заявки можно по ссылке: <https:\/\/apply.skoltech.ru\/>\nДедлайн подачи заявлений на ближайший отбор: 15 марта.\n\nЯ думаю, что у сообщества есть вопросы по нашим программам и процедуре поступления - задавайте их в комментариях к этому посту, постараюсь на все ответить.",
+                "ts": "1583829752.040900",
+                "author_id": "U0SBLSTJ4",
+                "author_subname": "Maxim Panov",
+                "channel_id": "C0KGMMCAX",
+                "channel_name": "edu_academy",
+                "is_msg_unfurl": true,
+                "text": "Всем привет,\n\nменя зовут Максим Панов, я работаю в Сколтехе старшим преподавателем и координирую магистерские и аспирантские программы по Data Science в Сколтехе.\n\nНаша приемная кампания в магистратуру уже стартовала, детали:\n- <https:\/\/msc.skoltech.ru\/data-science\/>\nПодавать заявки можно по ссылке: <https:\/\/apply.skoltech.ru\/>\nДедлайн подачи заявлений на ближайший отбор: 15 марта.\n\nЯ думаю, что у сообщества есть вопросы по нашим программам и процедуре поступления - задавайте их в комментариях к этому посту, постараюсь на все ответить.",
+                "author_name": "Maxim Panov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U0SBLSTJ4",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900",
+                "footer": "Posted in #edu_academy"
+            },
+            {
+                "title": "Data Science, Skoltech",
+                "title_link": "https:\/\/msc.skoltech.ru\/data-science\/",
+                "fallback": "Data Science, Skoltech",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3565-3734-4636-b164-313830313762\/DS.png",
+                "from_url": "https:\/\/msc.skoltech.ru\/data-science\/",
+                "image_width": 517,
+                "image_height": 250,
+                "image_bytes": 97857,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild6261-3561-4839-b838-303736386435\/favicon.ico",
+                "service_name": "msc.skoltech.ru",
+                "id": 2,
+                "original_url": "https:\/\/msc.skoltech.ru\/data-science\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0SBLSTJ4",
+                                "text": "altrav",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900",
+                                "text": "[11:42 AM]"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nВсем привет,\n\nменя зовут Максим Панов, я работаю в Сколтехе старшим преподавателем и координирую магистерские и аспирантские программы по Data Science в Сколтехе.\n\nНаша приемная кампания в магистратуру уже стартовала, детали:\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/msc.skoltech.ru\/data-science\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПодавать заявки можно по ссылке: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apply.skoltech.ru\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nДедлайн подачи заявлений на ближайший отбор: 15 марта.\n\nЯ думаю, что у сообщества есть вопросы по нашим программам и процедуре поступления - задавайте их в комментариях к посту в канале edu_academy: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C0KGMMCAX\/p1583829752040900"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583829898.324400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583831618.325100",
+        "reply_users": [
+            "U4SH2QAC9",
+            "U0SBLSTJ4"
+        ],
+        "replies": [
+            {
+                "user": "U4SH2QAC9",
+                "ts": "1583831421.324900"
+            },
+            {
+                "user": "U0SBLSTJ4",
+                "ts": "1583831618.325100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UJ2LDB4BS",
+                    "U4E5B4TAN",
+                    "UCBMR2G4E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "skoltech",
+                "users": [
+                    "UJ2LDB4BS",
+                    "U705ED0CU",
+                    "U4E5B4TAN",
+                    "USBPKUTEG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UJZPH4P0X",
+                    "U4E5B4TAN",
+                    "USBPKUTEG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cafce4b-a918-4824-b46c-9f17073fd97d",
+        "type": "message",
+        "text": "<https:\/\/www.udacity.com\/course\/product-manager-nanodegree--nd036>",
+        "user": "U8DRB30SX",
+        "ts": "1583831136.324600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3367c2eea8d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/615557996323_3367c2eea8d7e9717b35_72.jpg",
+            "first_name": "Кирилл",
+            "real_name": "Кирилл Иванов",
+            "display_name": "kirill",
+            "team": "T040HKJE3",
+            "name": "s.kirill.iv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Online Product Manager Training | Udacity",
+                "title_link": "https:\/\/www.udacity.com\/course\/product-manager-nanodegree--nd036",
+                "text": "This online program will teach you the foundations of product management, and ready you to start your career as a product manager. Learn online, with Udacity.",
+                "fallback": "Online Product Manager Training | Udacity",
+                "image_url": "https:\/\/images.ctfassets.net\/2y9b3o528xhq\/2qJIG7uVzH6NiXVwjS61J9\/1da3921b1e57917da57169155d7d0247\/SEO-Image__1_.jpg",
+                "from_url": "https:\/\/www.udacity.com\/course\/product-manager-nanodegree--nd036",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 238105,
+                "service_icon": "https:\/\/www.udacity.com\/favicon.ico",
+                "service_name": "udacity.com",
+                "id": 1,
+                "original_url": "https:\/\/www.udacity.com\/course\/product-manager-nanodegree--nd036"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kIa8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/product-manager-nanodegree--nd036"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582452854.008000",
+        "parent_user_id": "U1FLG6YR1"
+    },
+    {
+        "client_msg_id": "3a83c691-eeeb-4039-8f6d-8d5730087423",
+        "type": "message",
+        "text": "Когда стартует аспирантская программа и какие-нибудь с ней связанные мероприятия?",
+        "user": "U4SH2QAC9",
+        "ts": "1583831421.324900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ea3919aabbdf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-06\/823709238485_ea3919aabbdf89b57939_72.jpg",
+            "first_name": "Dimitriy",
+            "real_name": "Dimitriy Rudenko",
+            "display_name": "dimitriy_rudenko",
+            "team": "T040HKJE3",
+            "name": "dimitriy_rudenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=res",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Когда стартует аспирантская программа и какие-нибудь с ней связанные мероприятия?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583829898.324400",
+        "parent_user_id": "U0SBLSTJ4"
+    },
+    {
+        "client_msg_id": "597ddda7-c2a8-4712-a5d3-e5fc75a01e38",
+        "type": "message",
+        "text": "Информация есть по этой ссылке: <https:\/\/www.skoltech.ru\/en\/apply\/phd-programs\/>\nПервая волна отбора 25-27 мая. Дедлайн подачи документов на нее будет в конце апреля, точная дата скоро появится.",
+        "user": "U0SBLSTJ4",
+        "ts": "1583831618.325100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Skoltech | Skolkovo Institute of Science and Technology",
+                "title_link": "https:\/\/www.skoltech.ru\/en\/apply\/phd-programs\/",
+                "text": "Skolkovo Institute of Science and Technology",
+                "fallback": "Skoltech | Skolkovo Institute of Science and Technology",
+                "from_url": "https:\/\/www.skoltech.ru\/en\/apply\/phd-programs\/",
+                "service_icon": "https:\/\/cdn.skoltech.ru\/img\/favicon.ico",
+                "service_name": "skoltech.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.skoltech.ru\/en\/apply\/phd-programs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Информация есть по этой ссылке: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.skoltech.ru\/en\/apply\/phd-programs\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПервая волна отбора 25-27 мая. Дедлайн подачи документов на нее будет в конце апреля, точная дата скоро появится."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583829898.324400",
+        "parent_user_id": "U0SBLSTJ4"
+    },
+    {
+        "client_msg_id": "35710b0d-5320-4843-a3f4-9034336cbe31",
+        "type": "message",
+        "text": "Это курс по PM, а не базовым особенностям систем дизайна",
+        "user": "U1FLG6YR1",
+        "ts": "1583831626.325400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Это курс по PM, а не базовым особенностям систем дизайна"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582452854.008000",
+        "parent_user_id": "U1FLG6YR1"
+    }
+]

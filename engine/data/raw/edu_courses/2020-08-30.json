@@ -1,0 +1,263 @@
+[
+    {
+        "client_msg_id": "a99a82f2-feb3-41a4-98e9-3535c966bd82",
+        "type": "message",
+        "text": "Всем привет! Есть ли какой-нибудь неплохой относительно свежий курс по text2speech? Хочется, с одной стороны, познакомиться с классическими подходами перевода текста в речь и вообще работы с речью\/звуком, а с другой - узнать подробнее о современных SOTA методах. Слышал слова WaveNet, Tacotron, Deep Voice, Vocoder, но не знаю, что они значат) Могу узнать, прочитав, но было бы гораздо приятнее начать с какого-нибудь специализированного курса.\nБыло бы идеально найти что-то наподобие курсов DL от <http:\/\/deeplearning.ai|deeplearning.ai> на Курсере (<https:\/\/www.coursera.org\/specializations\/deep-learning#courses>).",
+        "user": "UBA7N1YSG",
+        "ts": "1598782030.105000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UBA7N1YSG",
+            "ts": "1598782716.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning#courses",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into Artificial intelligence (AI), this Specialization will help you. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.",
+                "fallback": "Coursera: Deep Learning",
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning#courses",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 278328,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning#courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Есть ли какой-нибудь неплохой относительно свежий курс по text2speech? Хочется, с одной стороны, познакомиться с классическими подходами перевода текста в речь и вообще работы с речью\/звуком, а с другой - узнать подробнее о современных SOTA методах. Слышал слова WaveNet, Tacotron, Deep Voice, Vocoder, но не знаю, что они значат) Могу узнать, прочитав, но было бы гораздо приятнее начать с какого-нибудь специализированного курса.\nБыло бы идеально найти что-то наподобие курсов DL от "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/deeplearning.ai",
+                                "text": "deeplearning.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " на Курсере ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/deep-learning#courses"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598782030.105000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1598804304.109600",
+        "reply_users": [
+            "U01AF7L429W",
+            "U6XP4JL49"
+        ],
+        "replies": [
+            {
+                "user": "U01AF7L429W",
+                "ts": "1598785376.106500"
+            },
+            {
+                "user": "U6XP4JL49",
+                "ts": "1598804304.109600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1598782964.105400",
+        "user": "UDP8J51T5",
+        "text": "<@UDP8J51T5> has joined the channel",
+        "inviter": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "2aa2a1f9-b567-4b9e-bbb4-789045759669",
+        "type": "message",
+        "text": "<@UBA7N1YSG> Так у <http:\/\/deeplearning.ai|deeplearning.ai> есть специализация по NLP) Месяц-два назад появилась. <https:\/\/www.coursera.org\/specializations\/natural-language-processing>",
+        "user": "U01AF7L429W",
+        "ts": "1598785376.106500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f6973db33bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-29\/1316682321191_2f6973db33bdc7333e16_72.jpg",
+            "first_name": "Oleksii",
+            "real_name": "Oleksii Liaskovskyi",
+            "display_name": "Oleksii Liaskovskyi",
+            "team": "T040HKJE3",
+            "name": "alexlyaskovskyy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Natural Language Processing",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/natural-language-processing",
+                "text": "Offered by <http:\/\/deeplearning.ai|deeplearning.ai>. Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an AI-powered future. This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.",
+                "fallback": "Coursera: Natural Language Processing",
+                "image_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 278328,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bj=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UBA7N1YSG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Так у "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/deeplearning.ai",
+                                "text": "deeplearning.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " есть специализация по NLP) Месяц-два назад появилась. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/natural-language-processing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598782030.105000",
+        "parent_user_id": "UBA7N1YSG",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UBA7N1YSG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35f00878-09cf-4ec9-8982-0fadeba0c0ce",
+        "type": "message",
+        "text": "Рекомендую этот канал посмотреть для общего понимания, как работать с речью в DL <https:\/\/www.youtube.com\/channel\/UCZPFjMe1uRSirmSpznqvJfQ\/featured>\n\nКасательно курса именно по синтезу речи, то таких не встречал. Лучше всего начать с разбора популярных моделей типа tacotron2  и wavernn (их достаточно легко написать и обучить самому) и дальше двигаться в сторону более продвинутых вещей типа эмоционального синтеза.",
+        "user": "U6XP4JL49",
+        "ts": "1598804304.109600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6558858ca619",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-20\/418586535792_6558858ca6194201f721_72.jpg",
+            "first_name": "Григорий",
+            "real_name": "Григорий Вашкевич",
+            "display_name": "gvashkevich",
+            "team": "T040HKJE3",
+            "name": "gvashkevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Valerio Velardo - The Sound of AI",
+                "title_link": "https:\/\/www.youtube.com\/channel\/UCZPFjMe1uRSirmSpznqvJfQ\/featured",
+                "text": "Hi there! I'm Valerio Velardo, an AI audio\/music engineer and consultant with a PhD in Music &amp; AI. In this channel, I publish tutorials on AI audio\/music, I ...",
+                "fallback": "YouTube: Valerio Velardo - The Sound of AI",
+                "thumb_url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzZV2cpyrWxkQihreXirhmQdpCMtIPF7_8jiy6z=s900-c-k-c0xffffffff-no-rj-mo",
+                "from_url": "https:\/\/www.youtube.com\/channel\/UCZPFjMe1uRSirmSpznqvJfQ\/featured",
+                "thumb_width": 900,
+                "thumb_height": 900,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/5690d2c6\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/channel\/UCZPFjMe1uRSirmSpznqvJfQ\/featured"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NXV\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Рекомендую этот канал посмотреть для общего понимания, как работать с речью в DL "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/channel\/UCZPFjMe1uRSirmSpznqvJfQ\/featured"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nКасательно курса именно по синтезу речи, то таких не встречал. Лучше всего начать с разбора популярных моделей типа tacotron2  и wavernn (их достаточно легко написать и обучить самому) и дальше двигаться в сторону более продвинутых вещей типа эмоционального синтеза."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598782030.105000",
+        "parent_user_id": "UBA7N1YSG",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UBA7N1YSG",
+                    "U9JB3151B",
+                    "UCPC7CCET"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

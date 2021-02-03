@@ -1,0 +1,1224 @@
+[
+    {
+        "client_msg_id": "e8d4f294-982b-41f2-8980-82da19b76624",
+        "type": "message",
+        "text": "прикупил",
+        "user": "U4JHLR6TG",
+        "ts": "1606470936.154600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2e17f68064b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/272e17f68064b3b78135dac9915ddbf0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Vekhov",
+            "display_name": "naavi",
+            "team": "T040HKJE3",
+            "name": "naavi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "прикупил"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606384046.140100",
+        "parent_user_id": "U010WCKFS9W",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U010WCKFS9W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "502f4492-c27b-4efe-b47d-6fc7199894f5",
+        "type": "message",
+        "text": "<http:\/\/work.caltech.edu\/telecourse.html>",
+        "user": "U60EETE7N",
+        "ts": "1606475510.156300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/work.caltech.edu\/telecourse.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606250854.105800",
+        "parent_user_id": "U0194MV8NFQ"
+    },
+    {
+        "client_msg_id": "21FFD550-4DCF-48B2-9087-F76BA0205EFB",
+        "type": "message",
+        "text": "Всем привет\nВопрос касательно Курса По Машинному обучению от Яндекса  и МФТИ\nНасколько полно там рассматривается математика?\nДостаточно ли ее будет для хорошего понимания классических алгоритмов машинного обучения и нейронок?\nКакие курсы по математике можете посоветовать, чтобы быть с нейронками на ты?:thinking_face:",
+        "user": "U01F3GY3C48",
+        "ts": "1606477389.161000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f8d995e15d67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-10\/1475785833495_f8d995e15d67f8ea6d22_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Kruglov",
+            "display_name": "Jesuz",
+            "team": "T040HKJE3",
+            "name": "nikitakruglov.1999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1Mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет\nВопрос касательно Курса По Машинному обучению от Яндекса  и МФТИ\nНасколько полно там рассматривается математика?\nДостаточно ли ее будет для хорошего понимания классических алгоритмов машинного обучения и нейронок?\nКакие курсы по математике можете посоветовать, чтобы быть с нейронками на ты?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606477389.161000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1606482917.165700",
+        "reply_users": [
+            "UHY5KKK6D",
+            "U9BDT48M8",
+            "UUHBNFF8X"
+        ],
+        "replies": [
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1606477582.161200"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1606477754.162600"
+            },
+            {
+                "user": "UUHBNFF8X",
+                "ts": "1606482917.165700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "chikibamboni",
+                "users": [
+                    "U01F3GY3C48"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79e1e736-f31e-46ff-82d5-3e79e0e34c85",
+        "type": "message",
+        "text": "Я бы дополнительно прошел курсы от CSC на степике",
+        "user": "UHY5KKK6D",
+        "ts": "1606477582.161200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8yKAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я бы дополнительно прошел курсы от CSC на степике"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606477389.161000",
+        "parent_user_id": "U01F3GY3C48"
+    },
+    {
+        "client_msg_id": "68C778D9-039D-4835-A002-0F99662846AA",
+        "type": "message",
+        "text": "Там математика практически и не рассматривается. А сразу мл. Классика мл — хорошо, за сетями — в другие места",
+        "user": "U9BDT48M8",
+        "ts": "1606477754.162600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EoOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там математика практически и не рассматривается. А сразу мл. Классика мл — хорошо, за сетями — в другие места"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606477389.161000",
+        "parent_user_id": "U01F3GY3C48",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6X5YAFU3",
+                    "U3P82LKDK",
+                    "UUHBNFF8X",
+                    "UJ5ESHK35",
+                    "UMM4N60K1",
+                    "UJ8UE41FS"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B685B7BD-445D-4343-87DA-92F5248F4EA0",
+        "type": "message",
+        "text": "Прошёл курс до конца, математика очень поверхностно и уровень рваный ( то база, то сложные вещи). Курс самсунга по cv на стёртее даст что-то из математики , но не все",
+        "user": "UUHBNFF8X",
+        "ts": "1606482917.165700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g35a0d7cc14e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35a0d7cc14ea637893857af37ee0adbf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexxx",
+            "real_name": "Alexxx",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "alexzuev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Прошёл курс до конца, математика очень поверхностно и уровень рваный ( то база, то сложные вещи). Курс самсунга по cv на стёртее даст что-то из математики , но не все"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606477389.161000",
+        "parent_user_id": "U01F3GY3C48"
+    },
+    {
+        "client_msg_id": "7d03f31c-dd62-4404-8f64-294e848f77ca",
+        "type": "message",
+        "text": "Ребята Салют. Я новичок в DS. Недавно слушал Павла Плескова, он посоветовал сразу же начинать участвовать на Kaggle. Я зашёл в действующие соревнования, выбрал то, которое меня больше всего интересует. Зашел в notebooks и понял что абсолютно не понимаю код. Что делать в таком случае? Как же обучаться на kaggle ? Правильно ли понимаю, что нужно выбрать самый beginner-friendly notebook и скурпулезно его изучить, потом перейти к другому ?",
+        "user": "URYSC76KZ",
+        "ts": "1606485890.170000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0fe3bbf2ee8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0fe3bbf2ee846629af9c52746aaf302e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Rustem Sadykov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rasadev00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ребята Салют. Я новичок в DS. Недавно слушал Павла Плескова, он посоветовал сразу же начинать участвовать на Kaggle. Я зашёл в действующие соревнования, выбрал то, которое меня больше всего интересует. Зашел в notebooks и понял что абсолютно не понимаю код. Что делать в таком случае? Как же обучаться на kaggle ? Правильно ли понимаю, что нужно выбрать самый beginner-friendly notebook и скурпулезно его изучить, потом перейти к другому ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1606541725.185200",
+        "reply_users": [
+            "UDSM3B9RT",
+            "UL95F64PP",
+            "URYSC76KZ",
+            "U9BDT48M8",
+            "UA92L7ACC",
+            "UEK7QL3HN",
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "UDSM3B9RT",
+                "ts": "1606486148.170100"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1606486255.170400"
+            },
+            {
+                "user": "URYSC76KZ",
+                "ts": "1606486339.170600"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1606486537.170800"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1606487278.171700"
+            },
+            {
+                "user": "UA92L7ACC",
+                "ts": "1606488004.172600"
+            },
+            {
+                "user": "UEK7QL3HN",
+                "ts": "1606495978.175300"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1606497585.175800"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1606541725.185200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c12a0339-6582-4c97-8b9e-80baa4bce5a7",
+        "type": "message",
+        "text": "Если хочется именно с каггла начать, то я бы посоветовал обратить внимание на соревы из этого треда <https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1606226322331000>",
+        "user": "UDSM3B9RT",
+        "ts": "1606486148.170100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g27449527a62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a027449527a62f85e67779db3efadcb0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Corvushospes",
+            "real_name": "Corvushospes",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "corvushospes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1606226322331000",
+                "fallback": "[November 24th, 2020 5:58 AM] naneustroev: Какое из действующих соревнований на :kaggle: больше всего подойдет для entry level :no-junior: ?\nUPD: не считая бессрочные типа :titanic:",
+                "ts": "1606226322.331000",
+                "author_id": "U019PLLUL1G",
+                "author_subname": "Nikolai Neustroev",
+                "channel_id": "C043ZEF6K",
+                "channel_name": "kaggle_crackers",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Какое из действующих соревнований на :kaggle: больше всего подойдет для entry level :no-junior: ?\nUPD: не считая бессрочные типа :titanic:",
+                "author_name": "Nikolai Neustroev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U019PLLUL1G",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-08-28\/1329732889202_4a23b1953e063a71f9ea_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1606226322331000",
+                "footer": "Thread in #kaggle_crackers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leBR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если хочется именно с каггла начать, то я бы посоветовал обратить внимание на соревы из этого треда "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1606226322331000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "5afda5ca-271d-4c19-8032-5ac84d31d9d1",
+        "type": "message",
+        "text": "не ну если даже пайтон не знаешь совсем, смысла биться об кагл мало наверно",
+        "user": "UL95F64PP",
+        "ts": "1606486255.170400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "не ну если даже пайтон не знаешь совсем, смысла биться об кагл мало наверно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "796dafb8-ee2f-42d3-935a-90025384ab42",
+        "type": "message",
+        "text": "Python знаю неплохо.",
+        "user": "URYSC76KZ",
+        "ts": "1606486339.170600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0fe3bbf2ee8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0fe3bbf2ee846629af9c52746aaf302e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Rustem Sadykov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rasadev00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Phm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Python знаю неплохо."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "8b7534b9-aa52-4c84-94e4-efb323de5d58",
+        "type": "message",
+        "text": "ну тогда стоит пройти курсы кагла самого по пандасу, визуализации и мл, они небольшие, немного введут в курс дела а потом да, самый беггинер френдли и вперед по строчкам разбираться че происходит. но лучше наверно :mlcourse_ai:  пройти сначала",
+        "user": "UL95F64PP",
+        "ts": "1606486537.170800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL95F64PP",
+            "ts": "1606487338.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну тогда стоит пройти курсы кагла самого по пандасу, визуализации и мл, они небольшие, немного введут в курс дела а потом да, самый беггинер френдли и вперед по строчкам разбираться че происходит. но лучше наверно "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mlcourse_ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  пройти сначала"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "BDB875D8-174B-4E11-AA95-EB0D62110CF2",
+        "type": "message",
+        "text": "Лучше не начинать учиться по кагглу, особенно по каггловским ноутбукам",
+        "user": "U9BDT48M8",
+        "ts": "1606487278.171700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Лучше не начинать учиться по кагглу, особенно по каггловским ноутбукам"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJ8BXBM36",
+                    "U1G303UTW",
+                    "U6LSE0FT9",
+                    "U4ZRFG1V0",
+                    "UA92L7ACC",
+                    "UG3P7DHB9",
+                    "UTUCPJMRS",
+                    "UCMC5J36D",
+                    "UP1JY3PK2",
+                    "U01CX0XER3R",
+                    "UQ9UCJT0T",
+                    "USLHTRF40",
+                    "UDSGG9SGH",
+                    "ULRT7HT1R",
+                    "U016XAJU21E",
+                    "U6L08K8KS",
+                    "ULMML7Z5K",
+                    "UJ8UE41FS",
+                    "UCKGAQKE0"
+                ],
+                "count": 19
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U62N1NJUC",
+                    "UJ8BXBM36",
+                    "UG3P7DHB9",
+                    "UTUCPJMRS",
+                    "UUHBNFF8X",
+                    "UR5KQA124",
+                    "U9ZU1CYUD",
+                    "USLHTRF40",
+                    "U6L08K8KS",
+                    "U1UC11GGN"
+                ],
+                "count": 10
+            },
+            {
+                "name": "harold",
+                "users": [
+                    "UJ8BXBM36",
+                    "U8PMZ6397",
+                    "U019PLLUL1G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "el_resitas_shake",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e40ef5ee-c6d1-4a02-95b2-45e4fcfdfcff",
+        "type": "message",
+        "text": "Какой конкретно код не понимаешь? Пройди курсы по соответствующим темам, не надо тыкаться вслепую",
+        "user": "UA92L7ACC",
+        "ts": "1606488004.172600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b6af9b42202c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355029640979_b6af9b42202cbfefdab1_72.jpg",
+            "first_name": "Artyom",
+            "real_name": "Artyom Palvelev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "palvelev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKuc6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Какой конкретно код не понимаешь? Пройди курсы по соответствующим темам, не надо тыкаться вслепую"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "0A2FBD8E-8DFB-44C3-B05A-D2F8D5EA3299",
+        "type": "message",
+        "text": "Чтобы начать изучать датасайнс на каггле, надо сломать ногу, как я слышал",
+        "user": "UEK7QL3HN",
+        "ts": "1606495978.175300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gde6e6aed3e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6ede6e6aed3e5fbc863d0d6aa568989d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Svyatoslav",
+            "real_name": "Svyatoslav Shishkin",
+            "display_name": "Somemath",
+            "team": "T040HKJE3",
+            "name": "fstml",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGW5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Чтобы начать изучать датасайнс на каггле, надо сломать ногу, как я слышал"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    },
+    {
+        "client_msg_id": "07bdd771-d4e2-421d-bee5-e243b706d000",
+        "type": "message",
+        "text": "<@U9BDT48M8> особенно от некоторых ноутбук грандмастеров )))\nну конечно такие как <@U4ZRFG1V0> не в счет, который делает все офигенно.",
+        "user": "U9ZU1CYUD",
+        "ts": "1606497585.175800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U9BDT48M8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " особенно от некоторых ноутбук грандмастеров )))\nну конечно такие как "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4ZRFG1V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " не в счет, который делает все офигенно."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ",
+        "reactions": [
+            {
+                "name": "feelsgoodmeme",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U677CBGH2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "881bcbc2-28d3-43d0-b222-a3b11af2e944",
+        "type": "message",
+        "text": "Здарова ребятки!\n\nТут  Udacity распродажу устроил 75%, показалось заманчиво.\nХотел совета от тех кто проходил следующие нанодегри. Стоит ли времени. На деньги пох.\n\nDeep Learning <https:\/\/www.udacity.com\/course\/deep-learning-nanodegree--nd101>\nComputer Vision <https:\/\/www.udacity.com\/course\/computer-vision-nanodegree--nd891>\nЧисто повторить, прокачать че-нить, закрепить. Курс если слабый не хочу брать.\n\nAI Product Manager <https:\/\/www.udacity.com\/course\/ai-product-manager-nanodegree--nd088>\nЯ пока далек от этого, но интересно. Кто-нибудь проходит курс, стоит брать?\n\nЕще думал может че по хард скиллзам полезное\nData Structures and Algorithms <https:\/\/www.udacity.com\/course\/data-structures-and-algorithms-nanodegree--nd256>\nВроде тематика всегда полезная особенно для таких как я пришедших не из CS в DS.  Но возможно есть курсы заменители, вроде кто то тут советовал на плюсах алгоритмы хороший курс.\n\nВсем спасибо.",
+        "user": "U9ZU1CYUD",
+        "ts": "1606498128.181300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9ZU1CYUD",
+            "ts": "1606500975.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Здарова ребятки!\n\nТут  Udacity распродажу устроил 75%, показалось заманчиво.\nХотел совета от тех кто проходил следующие нанодегри. Стоит ли времени. На деньги пох.\n\nDeep Learning "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/deep-learning-nanodegree--nd101"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nComputer Vision "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/computer-vision-nanodegree--nd891"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЧисто повторить, прокачать че-нить, закрепить. Курс если слабый не хочу брать.\n\nAI Product Manager "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/ai-product-manager-nanodegree--nd088"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЯ пока далек от этого, но интересно. Кто-нибудь проходит курс, стоит брать?\n\nЕще думал может че по хард скиллзам полезное\nData Structures and Algorithms "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/course\/data-structures-and-algorithms-nanodegree--nd256"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nВроде тематика всегда полезная особенно для таких как я пришедших не из CS в DS.  Но возможно есть курсы заменители, вроде кто то тут советовал на плюсах алгоритмы хороший курс.\n\nВсем спасибо."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "reply_count": 10,
+        "reply_users_count": 6,
+        "latest_reply": "1606621360.195400",
+        "reply_users": [
+            "U019Y5B1ZFV",
+            "U9ZU1CYUD",
+            "U3P82LKDK",
+            "U60EETE7N",
+            "U15V81K6V",
+            "UTB85ATA5"
+        ],
+        "replies": [
+            {
+                "user": "U019Y5B1ZFV",
+                "ts": "1606500143.181600"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1606501265.182300"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1606501509.182500"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1606507017.183700"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1606597412.187800"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1606597860.188100"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1606598005.188300"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1606598101.188500"
+            },
+            {
+                "user": "UTB85ATA5",
+                "ts": "1606607769.194300"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1606621360.195400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "af6598f1-1d0f-44a2-962b-2b045081c6d7",
+        "type": "message",
+        "text": "привет, сам не проходил (пока), но слышал что AI Product Manager очень поверхностный и его не советуют на данный момент\n\nтоже решал брать его или нет месяц назад и решил что пока не стоит усилий, могу потом детальнее описать почему",
+        "user": "U019Y5B1ZFV",
+        "ts": "1606500143.181600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6283003476df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-02\/1350736010705_6283003476df315f9a5f_72.jpg",
+            "first_name": "Bohdan",
+            "real_name": "Bohdan Feniak",
+            "display_name": "Bohdan Feniak",
+            "team": "T040HKJE3",
+            "name": "sov366",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U019Y5B1ZFV",
+            "ts": "1606500175.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tp=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "привет, сам не проходил (пока), но слышал что AI Product Manager очень поверхностный и его не советуют на данный момент\n\nтоже решал брать его или нет месяц назад и решил что пока не стоит усилий, могу потом детальнее описать почему"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD"
+    },
+    {
+        "client_msg_id": "4449f449-c089-4aa3-b0d6-205b4c99c210",
+        "type": "message",
+        "text": "<@U019Y5B1ZFV> спасибо за мнение. Если поверхностно, конечно и не стоит.",
+        "user": "U9ZU1CYUD",
+        "ts": "1606501265.182300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "an4VP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019Y5B1ZFV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " спасибо за мнение. Если поверхностно, конечно и не стоит."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD"
+    },
+    {
+        "client_msg_id": "8c963874-a04c-4a32-9781-038781721132",
+        "type": "message",
+        "text": "Вот тут Андрей писал:\n<https:\/\/opendatascience.slack.com\/archives\/C8ZQSEVEF\/p1562003912097300>",
+        "user": "U3P82LKDK",
+        "ts": "1606501509.182500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3P82LKDK",
+            "ts": "1606501541.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C8ZQSEVEF\/p1562003912097300",
+                "fallback": "[July 1st, 2019 10:58 AM] artgor: Я наконец стал писать блогпосты о прохождении PyTorch Deep Learning Nanodegree.\nПока написал 2: введение и первый общий урок про нейронки.\n<https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384>\n<https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-neural-nerworks-cf44a852be59>",
+                "ts": "1562003912.097300",
+                "author_id": "U4ZRFG1V0",
+                "author_subname": "Andrey Lukyanenko",
+                "channel_id": "C8ZQSEVEF",
+                "channel_name": "pr_jerk",
+                "is_msg_unfurl": true,
+                "text": "Я наконец стал писать блогпосты о прохождении PyTorch Deep Learning Nanodegree.\nПока написал 2: введение и первый общий урок про нейронки.\n<https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384>\n<https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-neural-nerworks-cf44a852be59>",
+                "author_name": "Andrey Lukyanenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U4ZRFG1V0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C8ZQSEVEF\/p1562003912097300",
+                "footer": "Posted in #pr_jerk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZG+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот тут Андрей писал:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C8ZQSEVEF\/p1562003912097300"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f8dcad6-5921-4ea0-895f-c21a70472871",
+        "type": "message",
+        "text": "Если уже шаришь, то это будет слишком много денег за повторение базовых знаний.\nА вот если какая-то новая совершенно область знаний для тебя, то можно напрячься и за пару месяцев и пару сотен баксов пройти. Там вся ценность в живых ревьюерах, которые и правда неплохо ревьюят.",
+        "user": "U60EETE7N",
+        "ts": "1606507017.183700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если уже шаришь, то это будет слишком много денег за повторение базовых знаний.\nА вот если какая-то новая совершенно область знаний для тебя, то можно напрячься и за пару месяцев и пару сотен баксов пройти. Там вся ценность в живых ревьюерах, которые и правда неплохо ревьюят."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606498128.181300",
+        "parent_user_id": "U9ZU1CYUD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3P82LKDK",
+                    "UAL8CA2TF",
+                    "U4ZRFG1V0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f95fb7a-30ac-4982-ab10-cbab0c0c8d51",
+        "type": "message",
+        "text": "В вечных соревках типа Титаника или цифер очень много прям туториалов. Конечно вряд-ли это хорошая идея именно по ним стартовать обучение, но если очень хочется то вполне можно там чему то научиться",
+        "user": "UL95F64PP",
+        "ts": "1606541725.185200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В вечных соревках типа Титаника или цифер очень много прям туториалов. Конечно вряд-ли это хорошая идея именно по ним стартовать обучение, но если очень хочется то вполне можно там чему то научиться"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606485890.170000",
+        "parent_user_id": "URYSC76KZ"
+    }
+]

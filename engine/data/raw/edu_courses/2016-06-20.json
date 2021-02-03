@@ -1,0 +1,421 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466410991.000236",
+        "user": "U1JC03E01",
+        "text": "<@U1JC03E01> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H>: привет! Я в мюнхенский технический поступил, хотел спросить, может ты в курсе:\nСколько в среднем уходит на еду\/жильё ?\nИли Бавария -- особый случай, там не такие цены как в Берлине ?",
+        "user": "U0ZHCGY5T",
+        "ts": "1466415264.000237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040HKJE7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-de",
+                "users": [
+                    "U040HKJE7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Привет! Скорее Берлин - особый случай, тут все дешевле, чем в других крупных немецких городах. Но с жильем в Мюнхене не все просто, вот например,  <https:\/\/www.plokhov.net\/munich-apartments-first-impressions\/>",
+        "user": "U0DA4J82H",
+        "ts": "1466418322.000238",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": " История 1 — Прибытие в Германию: Впечатления от Мюнхена и сложности с арендой квартиры в столице Баварии | Plokhov.NET",
+                "title_link": "https:\/\/www.plokhov.net\/munich-apartments-first-impressions\/",
+                "text": "Наши первые впечатления от Мюнхена. Фоторепортаж с улиц города. Невероятные сложности с поиском квартиры для аренды (курьезные истории, описание процесса и советы). Краткий обзор транспорта и заметки о поразивших нас вещах.",
+                "fallback": " История 1 — Прибытие в Германию: Впечатления от Мюнхена и сложности с арендой квартиры в столице Баварии | Plokhov.NET",
+                "from_url": "https:\/\/www.plokhov.net\/munich-apartments-first-impressions\/",
+                "service_icon": "https:\/\/www.plokhov.net\/favicon.ico",
+                "service_name": "plokhov.net",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0ZHCGY5T",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Можно еще много интересного нагуглить по запросу \"поиск жилья в Мюнхене\"",
+        "user": "U0DA4J82H",
+        "ts": "1466418349.000240",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "На жилье и еду я с женой тратили чуть больше тысячи, но нам общагу дали от программы",
+        "user": "U0DA4J82H",
+        "ts": "1466418551.000241",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1466418580.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "У вас такие вкусные обсуждения обучения за рубежом, что я тоже заколебалась.  ",
+        "user": "U0Q3USC0Z",
+        "ts": "1466419629.000243",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "mortar_board",
+                "users": [
+                    "U04ELQZAU",
+                    "U0952QCHE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hotdog",
+                "users": [
+                    "U0M39M6LS",
+                    "U0DA4J82H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Правильно я понимаю, что если берут на магистерскую программу обучаться, то твоей семье тоже дают визы на проживание и работу?",
+        "user": "U0Q3USC0Z",
+        "ts": "1466419716.000244",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Или это от случая к случаю?",
+        "user": "U0Q3USC0Z",
+        "ts": "1466419730.000245",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "На проживание - да, на работу, как правило, нет. Но супруг может продать на визу для поиска работы, а не на воссоединение семьи",
+        "user": "U0DA4J82H",
+        "ts": "1466419814.000246",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Давайте уже это обсуждение переведем в <#C0KGMMCAX> , чтобы не размазывать на несколько каналов",
+        "user": "U09JEC7V0",
+        "ts": "1466419831.000247",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Но визы на поиск работы есть только в Германии, несколько мне известно",
+        "user": "U0DA4J82H",
+        "ts": "1466419882.000248",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Интересно, есть возможность перенести сообщения из одного канала в другой?",
+        "user": "U0DA4J82H",
+        "ts": "1466421154.000249",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1466421170.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466438038.000251",
+        "user": "U1JFR2PAT",
+        "text": "<@U1JFR2PAT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0ZHCGY5T> Поздры! А на какую программу? MSc\/PhD?",
+        "user": "U1J5L3NDP",
+        "ts": "1466438875.000252",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0ZHCGY5T>: не к Кноллю ли?)",
+        "user": "U040HKJE7",
+        "ts": "1466438918.000253",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www6.in.tum.de\/Main\/WebHome>",
+        "user": "U040HKJE7",
+        "ts": "1466438946.000254",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1J5L3NDP>:  Благодарю. На computational science. MSc.",
+        "user": "U0ZHCGY5T",
+        "ts": "1466441772.000255",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040HKJE7>: нет, я еще не знаю к кому, смотрю рисерч у всех. \nхочется поближе к ML, конечно, но факт того, что я не на Informatik, а на CSE может стать препятствием, наверное.",
+        "user": "U0ZHCGY5T",
+        "ts": "1466441907.000256",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466474844.000257",
+        "user": "U1JM2AQP9",
+        "text": "<@U1JM2AQP9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466484492.000258",
+        "user": "U1JME4G5A",
+        "text": "<@U1JME4G5A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466491805.000259",
+        "user": "U1JN36KAL",
+        "text": "<@U1JN36KAL> has joined the channel"
+    }
+]

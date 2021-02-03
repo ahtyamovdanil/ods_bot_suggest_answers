@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "1c11e029-4aae-4d27-a70a-1b544822a476",
+        "type": "message",
+        "text": "здравая идея для любых городов) молодцы",
+        "user": "U48B3EN87",
+        "ts": "1566979722.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c7a34914705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-27\/305499298995_3c7a34914705a4753a5a_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor",
+            "display_name": "abracadabra",
+            "team": "T040HKJE3",
+            "name": "abracadabra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566648865.060300",
+        "parent_user_id": "UGSR6FMK6"
+    },
+    {
+        "client_msg_id": "1ad34597-1a9b-48b1-837d-794f53390eed",
+        "type": "message",
+        "text": "Привет.\nИщу курсы\/статьи, которые помогут разобраться с возможностями параллелизма в Python. Интересует разбор модулей `threading, multiprocessing, concurrent.future, subprocess` и подобными, и как это интегрируется с `asyncio` (`asyncio` понимаю более-менее хорошо).\nРазрабатывая логику для Tornado столкнулся с тем, что надо некоторые вычисления производить соседнем процессе, иначе всё подвисает. Более-менее рабочее решение нашел и сделал, но понял, что сам в пайтоновском мультипроцессе не разбираюсь, а хорошей и современной информации по этому не нашел.\nБуду рад любым подсказкам, заранее спасибо.",
+        "user": "UDKNG6Z0V",
+        "ts": "1566987539.009900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "485cf2f7088d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-27\/739326348112_485cf2f7088d444fe59b_72.jpg",
+            "first_name": "Yehor",
+            "real_name": "Yehor Borkov",
+            "display_name": "yehorb",
+            "team": "T040HKJE3",
+            "name": "yehor.borkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566987539.009900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1567001587.012300",
+        "reply_users": [
+            "UDHJKLGLR",
+            "UL8LCMJAY",
+            "U8G3S156E"
+        ],
+        "replies": [
+            {
+                "user": "UDHJKLGLR",
+                "ts": "1566992260.010700"
+            },
+            {
+                "user": "UL8LCMJAY",
+                "ts": "1566994070.011200"
+            },
+            {
+                "user": "U8G3S156E",
+                "ts": "1567001587.012300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UD2NGFPHD",
+                    "UEP0QHYLR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9MAVHVEW",
+                    "UG6Q5RX0B",
+                    "U3K7PNTML"
+                ],
+                "count": 3
+            },
+            {
+                "name": "cpp",
+                "users": [
+                    "U5H0L5T98",
+                    "UC7F3KJ7P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e739cbf-1934-4c77-88c7-8892671ec793",
+        "type": "message",
+        "text": "на курсере от МФТИ что-то очень позожее видел",
+        "user": "UDHJKLGLR",
+        "ts": "1566992260.010700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHJKLGLR",
+            "ts": "1566993067.000000"
+        },
+        "thread_ts": "1566987539.009900",
+        "parent_user_id": "UDKNG6Z0V"
+    },
+    {
+        "client_msg_id": "57782d79-e2c6-47a0-a7f3-865eec5c87c7",
+        "type": "message",
+        "text": "Хорошие статьи: <https:\/\/realpython.com\/async-io-python\/>\n<https:\/\/realpython.com\/python-concurrency\/>",
+        "user": "UL8LCMJAY",
+        "ts": "1566994070.011200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d56291c1b5a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-31\/711090347300_d56291c1b5a26417ec23_72.jpg",
+            "first_name": "Serebryanskiy",
+            "real_name": "Serebryanskiy Dmitriy",
+            "display_name": "Serebryanskiy Dmitriy",
+            "team": "T040HKJE3",
+            "name": "serebryanskiy.dmitriy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL8LCMJAY",
+            "ts": "1566994089.000000"
+        },
+        "attachments": [
+            {
+                "title": "Async IO in Python: A Complete Walkthrough – Real Python",
+                "title_link": "https:\/\/realpython.com\/async-io-python\/",
+                "text": "This tutorial will give you a firm grasp of Python’s approach to async IO, which is a concurrent programming design that has received dedicated support in Python, evolving rapidly from Python 3.4 through 3.7 (and probably beyond).",
+                "fallback": "Async IO in Python: A Complete Walkthrough – Real Python",
+                "image_url": "https:\/\/files.realpython.com\/media\/A-Complete-Walkthrough-of-Pythons-Asyncio_Watermarked.5b6b9a01fdc9.jpg",
+                "from_url": "https:\/\/realpython.com\/async-io-python\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 199512,
+                "service_icon": "https:\/\/realpython.com\/favicon.ico",
+                "service_name": "realpython.com",
+                "id": 1,
+                "original_url": "https:\/\/realpython.com\/async-io-python\/"
+            }
+        ],
+        "thread_ts": "1566987539.009900",
+        "parent_user_id": "UDKNG6Z0V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6YEN210D",
+                    "UE259V12B",
+                    "U1D6DT6HE",
+                    "UD80SB65V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1641cfa0-a7a1-4e6e-b7c8-5e4d055cc576",
+        "type": "message",
+        "text": "Посмотри документацию по этим модулям, там есть вся информация. Еще стоит освежить знания чем процесс отличается от потока, википедия подойдет.\n\nЕсли кратко, то:\n* concurrent.future - высокоуровневая обертка над threading и multiprocessing\n* asyncio - стоит использовать когда много операций I\/O и у тебя есть неблокирующие версии библиотек (поддерживающие asyncio)\n* threading - в потоках можно запустить выполнение задачи, но профит будет только если задача юзает блокирующий I\/O, другие потоки в этом время смогут работать\n* multiprocessing - используешь когда твои задачи юзают CPU, если такую задачу запустить в потоке, то она будет отнимать CPU время у основного потока\n\nВ доке asyncio даже пример есть функции run_in_executor, в нем показано какие задачи запускать в потоках, а какие нет.",
+        "user": "U8G3S156E",
+        "ts": "1567001587.012300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g298b0ae7d09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e298b0ae7d09af2ab19e0d5021e3b58.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Maxim Khrisanfov",
+            "display_name": "khrisanfov",
+            "team": "T040HKJE3",
+            "name": "khrisanfov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566987539.009900",
+        "parent_user_id": "UDKNG6Z0V"
+    }
+]

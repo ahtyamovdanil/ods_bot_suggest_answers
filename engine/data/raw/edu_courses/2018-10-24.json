@@ -1,0 +1,930 @@
+[
+    {
+        "client_msg_id": "3e633d65-6881-40dc-914f-4467af2edf3e",
+        "type": "message",
+        "text": "Всем привет. Нужен совет по выбору курсов для освоения DS.\nРассматриваю 2 варианта:\n1 - Geekbrains факультет Искусственного интеллекта. Смущает обучение 1,5 года ( т.е. 18 месяцев) и, что более важно, сейчас открыт набор на самый первый поток по этому направлению. То есть программа может быть сырой. Однако в  Geekbrains говорят, что преподавать будут толковые люди с отрасли. Минусом на мой взгляд является полное отсутсвие офлайн мероприятий, совместная работа, практика или что то в этом роде. <https:\/\/geekbrains.ru\/geek_university\/data-science>\n\n2 - Нетология, обучение профессии Data Scientist.  Срок обучение на 18 месяцев, а 10, но это связано с тем, что в Нетологии часть курсов, преподаваемых в Geekbrains отсутствуют. Однако их программа обучения уже отработана на нескольких потоках.  Плюс к этому часть курсов проводятся очно в кампусе нетологии, то есть можно будет попристовать с вопросам, если возник какой-либо затык в материале. <https:\/\/netology.ru\/programs\/data-scientist#\/presentation>\n\nЦеновая политика у них почти одинакова.\nГлавное получить необходимые знания и навыки.\n\nРанее проходил обучение в Нетологии на Python-разработчика. Поэтому примерно представляю как у них проходит этот процесс. Не могу сказать, что всем доволен, но тебя, по крайней мере не бросают одного, всегда может задать вопрос и найдется кто то, кто постарается ответить.\n\nКак проводится обучение в Geekbrains я понятия не имею. Ранее с ними не сталкивался.\nПоэтому прошу совета.\n\nВозможно есть другие варианты обучиться DS и ML с нуля.\nБуду благодарен вашим рекомендации.",
+        "user": "UCT290D7A",
+        "ts": "1540383540.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9daf269aa009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462524618448_9daf269aa009b543729a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Konotop",
+            "display_name": "alekseykonotop",
+            "team": "T040HKJE3",
+            "name": "alekseykonotop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Программа обучения Data Scientist",
+                "title_link": "https:\/\/netology.ru\/programs\/data-scientist#\/presentation",
+                "text": "Научитесь строить и обучать предиктивные модели с помощью алгоритмов машинного обучения и нейросетей",
+                "fallback": "Программа обучения Data Scientist",
+                "image_url": "https:\/\/netology.ru\/content\/design\/social_457.png",
+                "from_url": "https:\/\/netology.ru\/programs\/data-scientist#\/presentation",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 182138,
+                "service_icon": "https:\/\/netology.ru\/favicon.ico",
+                "service_name": "netology.ru",
+                "id": 1,
+                "original_url": "https:\/\/netology.ru\/programs\/data-scientist#\/presentation"
+            }
+        ],
+        "thread_ts": "1540383540.000100",
+        "reply_count": 31,
+        "reply_users_count": 12,
+        "latest_reply": "1542103745.256700",
+        "reply_users": [
+            "U4ZRFG1V0",
+            "U14CTBLFJ",
+            "U7DTGC4PL",
+            "U8J9XMX3J",
+            "U44J8KC13",
+            "UDD0GQXA5",
+            "UCT290D7A",
+            "UB4AFSWP4",
+            "UC42D0YAH",
+            "UBP7JT6MS",
+            "UDSNST1A9",
+            "UBZ2ESE2K"
+        ],
+        "replies": [
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1540383612.000100"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1540383681.000100"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1540383697.000100"
+            },
+            {
+                "user": "U7DTGC4PL",
+                "ts": "1540383942.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540384046.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540384065.000100"
+            },
+            {
+                "user": "U44J8KC13",
+                "ts": "1540384162.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1540384256.000100"
+            },
+            {
+                "user": "U44J8KC13",
+                "ts": "1540384302.000100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1540384353.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540384391.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540384532.000100"
+            },
+            {
+                "user": "U44J8KC13",
+                "ts": "1540384741.000100"
+            },
+            {
+                "user": "UDD0GQXA5",
+                "ts": "1540385671.000100"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1540387134.000100"
+            },
+            {
+                "user": "U7DTGC4PL",
+                "ts": "1540387452.000100"
+            },
+            {
+                "user": "UB4AFSWP4",
+                "ts": "1540387818.000100"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1540392663.000100"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1540394686.000100"
+            },
+            {
+                "user": "UC42D0YAH",
+                "ts": "1540395877.000100"
+            },
+            {
+                "user": "UC42D0YAH",
+                "ts": "1540395924.000100"
+            },
+            {
+                "user": "UDD0GQXA5",
+                "ts": "1540396043.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540396063.000100"
+            },
+            {
+                "user": "U8J9XMX3J",
+                "ts": "1540396168.000100"
+            },
+            {
+                "user": "UBP7JT6MS",
+                "ts": "1540491581.000100"
+            },
+            {
+                "user": "UDSNST1A9",
+                "ts": "1540993120.059700"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1540996762.064600"
+            },
+            {
+                "user": "UDSNST1A9",
+                "ts": "1541054417.082100"
+            },
+            {
+                "user": "UBZ2ESE2K",
+                "ts": "1541240263.107400"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1541861506.226400"
+            },
+            {
+                "user": "UBZ2ESE2K",
+                "ts": "1542103745.256700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kaggle",
+                "users": [
+                    "U5EF4EQR1",
+                    "U7DTGC4PL",
+                    "U0H7VBQQ1",
+                    "U7DEPRKCZ",
+                    "U9W1PD5QD",
+                    "U9V48C738",
+                    "U944AS8DR",
+                    "U53E5MFNU",
+                    "U4SKDV2HF",
+                    "U6ZVBULGG",
+                    "UA6FTKAE4",
+                    "U9DLE3YHM",
+                    "U93P65UQN",
+                    "U17UDV31D",
+                    "U5F198S75",
+                    "UCK3XJ1DM",
+                    "UDSNST1A9",
+                    "U8K4F3Z7W",
+                    "UDUBG85P1",
+                    "U8BMURD4G"
+                ],
+                "count": 20
+            },
+            {
+                "name": "take-my-money",
+                "users": [
+                    "U1BMURR5G",
+                    "U6NGNDMJL",
+                    "U6QCT6YN6",
+                    "U27SUBTB9",
+                    "U60EETE7N",
+                    "U49MGP9MX",
+                    "UA6FTKAE4",
+                    "UDUBG85P1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U60EETE7N",
+                    "U48A49NRJ",
+                    "U061VJ5SB",
+                    "U4BBNMQ03",
+                    "UA6FTKAE4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "eight",
+                "users": [
+                    "U60EETE7N",
+                    "U48A49NRJ",
+                    "U061VJ5SB",
+                    "U4BBNMQ03",
+                    "U49MGP9MX",
+                    "UA6FTKAE4"
+                ],
+                "count": 6
+            },
+            {
+                "name": "zero",
+                "users": [
+                    "U60EETE7N",
+                    "U48A49NRJ",
+                    "U061VJ5SB",
+                    "U457X6HQS",
+                    "U4BBNMQ03",
+                    "UA6FTKAE4",
+                    "U4FCBEVAS",
+                    "U9T0G9W3G",
+                    "UAF1W2R3M"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d1d4f2c-557e-4874-8b41-ec547d3f129b",
+        "type": "message",
+        "text": "Если с нуля, то хороший вариант - специализация яндекса и мфти на курсере. Или <http:\/\/mlcourse.ai|mlcourse.ai>",
+        "user": "U4ZRFG1V0",
+        "ts": "1540383612.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ",
+                    "UB4BD0R6W",
+                    "U7DTGC4PL",
+                    "U1D6DT6HE",
+                    "U1NPQ2WPN",
+                    "UDK41MN5U",
+                    "U9W1PD5QD",
+                    "U9V48C738",
+                    "U1G303UTW",
+                    "U6CKPN7C5",
+                    "U90B3UTFY",
+                    "U4SKDV2HF",
+                    "U60EETE7N",
+                    "U1CMPEWPQ",
+                    "U7NT8L1M5",
+                    "U4X5MTXNC",
+                    "U2VBC4HEX",
+                    "U17UDV31D",
+                    "U0MEP6PT2",
+                    "U3CF6T134",
+                    "U9221QEV8",
+                    "UD2EX7JP9",
+                    "U97DJ94SH",
+                    "U6SHTGD5X",
+                    "U21MU5ATE"
+                ],
+                "count": 25
+            }
+        ]
+    },
+    {
+        "client_msg_id": "146d626c-c00d-4758-a7fd-1645a9d8d496",
+        "type": "message",
+        "text": "А если хочется потратить деньги, то OTUS",
+        "user": "U14CTBLFJ",
+        "ts": "1540383681.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "10a01bb7-818c-4edb-a24c-b175d0b45b4a",
+        "type": "message",
+        "text": "Все 3 платных программы етсь в Интернетах, можно сравнить",
+        "user": "U14CTBLFJ",
+        "ts": "1540383697.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "f829392f-ea9d-4fc2-b8e9-93463bd4d533",
+        "type": "message",
+        "text": "По своему опыту скажу, что спецухи Яндекс и МФТИ + ods + kaggle хватает на первых порах с головой. Если хочется offline и потратить деньги - у Skillfactory каждую неделю по 2 лекции на курсе по ML (прохожу сейчас как раз).",
+        "user": "U7DTGC4PL",
+        "ts": "1540383942.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e8021955c07d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-05\/251290688608_e8021955c07dfe481471_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Simakov",
+            "display_name": "Kirill Simakov",
+            "team": "T040HKJE3",
+            "name": "kirill.simakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "c6a2053e-c4b0-48b8-bcfb-72398c0461e6",
+        "type": "message",
+        "text": "примени аксиому эскобара здесь)",
+        "user": "U8J9XMX3J",
+        "ts": "1540384046.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "0370be4c-04fe-4d7b-9c6b-1113100ce47c",
+        "type": "message",
+        "text": "и наймись стажером лучше куда-нибудь за еду если ситуация позволяет) иначе имхо ng, cs231, cs224, абу мустафа, а там как пойдет",
+        "user": "U8J9XMX3J",
+        "ts": "1540384065.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U8J9XMX3J",
+            "ts": "1540384160.000000"
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U60EETE7N",
+                    "U44PUDVQR",
+                    "U17UDV31D",
+                    "U9221QEV8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cf634c2-c14f-456a-b5fb-ea01a1cbeaf4",
+        "type": "message",
+        "text": "объем программы на курсере от МФТИ и у гикбрайнс совершенно разный (как и цена). у гигбрайнс хорошо что там действительно курс с нуля (даже питон нужно знать только в общих чертах, потому что он включен в программу). с вопросами тоже можно обращаться и к преподам и к наставникам, как через сайт так и через телеграмм - канал (он есть на каждом курсе)",
+        "user": "U44J8KC13",
+        "ts": "1540384162.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U44J8KC13",
+            "ts": "1540384173.000000"
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "60f0a0f5-5ff3-4f9a-b9c6-ef05240d3c57",
+        "type": "message",
+        "text": "&gt;и наймись стажером лучше куда-нибудь за еду\nИзвиняюсь, но возьмут ли стажером человека, который полный 0 в ML?",
+        "user": "U4ZRFG1V0",
+        "ts": "1540384256.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UDJ4LR6TD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63779f08-ed12-40bd-bc41-540d26b45e4d",
+        "type": "message",
+        "text": "а на счет 1.5 года - на самом деле при сильном желании, теоретически, можно записываться на параллельные курсы. так что, теоретически, можно пройти быстрее. Но это уже вопрос успеваемости",
+        "user": "U44J8KC13",
+        "ts": "1540384302.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "b21b62dd-3865-4e84-a177-185c7ffbf962",
+        "type": "message",
+        "text": "&gt;объем программы на курсере от МФТИ и у гикбрайнс совершенно разный\nНу, 1.5 года vs 0.5. Понятно, что в первом случае больше времени.\nА в специализации есть и форум на курсере, и слак (правда мертвый), и телеграм.",
+        "user": "U4ZRFG1V0",
+        "ts": "1540384353.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "54d5e9ae-484c-4695-adb6-5250be660da3",
+        "type": "message",
+        "text": "стажер на то и стажер, имхо, главное чтобы в cs шарил",
+        "user": "U8J9XMX3J",
+        "ts": "1540384391.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "eea074f6-31bd-46c3-b161-81b64214df3c",
+        "type": "message",
+        "text": "что не отменяет  того, что если он уже шарит в ds то ему будет легче, для этого не стоит тратить много денег и времени на полутарогодовые программы, имхо",
+        "user": "U8J9XMX3J",
+        "ts": "1540384532.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eca20f58-a451-4ffb-9803-f9385160950b",
+        "type": "message",
+        "text": "&gt;по крайней мере не бросают одного, всегда может задать вопрос и найдется кто то, кто постарается ответить.\n\n&gt;Как проводится обучение в Geekbrains я понятия не имею. Ранее с ними не сталкивался.\n\nНа счет этого можешь не беспокоиться - (как я уже писал выше) там очень живой канал и прямой доступ к преподу и наставникам",
+        "user": "U44J8KC13",
+        "ts": "1540384741.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "3f89c7d3-2838-4c3c-be1d-61025c652018",
+        "type": "message",
+        "text": "&gt;ак проводится обучение в Geekbrains я понятия не имею\nПоступил, учусь. По сути это набор курсов, теоретически достаточный, чтобы овладеть профессией. Список курсов открытый, между собой они (пока) не связаны кроме идеи. Вебинары\/дз\/чат. Нагрузка умеренная(можно совмещать с работой)",
+        "user": "UDD0GQXA5",
+        "ts": "1540385671.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d34d989f0031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462696040993_d34d989f003103440d23_72.jpg",
+            "first_name": "Anatoly",
+            "real_name": "Anatoly Nekhamchin",
+            "display_name": "Ifl",
+            "team": "T040HKJE3",
+            "name": "6567967",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "2cf0363d-b59b-4044-ab19-8be0b05a2542",
+        "type": "message",
+        "text": "Kirill Simakov - на Skillfactory несколько коротких курсов по 4 недели и выше. Действительно ли за это время удается освоить ту программу, которая заявлена?\nВведение в Machine Learning - 4 нед.\nПрактический Machine Learning - 6 нед.\nPython для анализа данных - 6 нед.",
+        "user": "UCT290D7A",
+        "ts": "1540387134.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9daf269aa009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462524618448_9daf269aa009b543729a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Konotop",
+            "display_name": "alekseykonotop",
+            "team": "T040HKJE3",
+            "name": "alekseykonotop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "3856dc13-dee2-42f4-82ed-dbc0ecbeaa62",
+        "type": "message",
+        "text": "<@UCT290D7A> Я прохожу второй по списку. Из сложностей - за шесть недель достаточно много материала, может быть кому-то будет тяжело усвоить в короткий срок. Примеры, задачи, домашки - мне все нравится и понятно. Но у меня уже база была небольшая, ребятам кто вообще без знаний Python - тяжеловато. Если готов впахивать, то это эффективно, дёшево и сердито. :slightly_smiling_face:",
+        "user": "U7DTGC4PL",
+        "ts": "1540387452.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e8021955c07d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-05\/251290688608_e8021955c07dfe481471_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Simakov",
+            "display_name": "Kirill Simakov",
+            "team": "T040HKJE3",
+            "name": "kirill.simakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "dd444935-a642-45fe-adb8-84e3df45dfcd",
+        "type": "message",
+        "text": "Мне для того что бы начать хватило <http:\/\/digitaltech.school\/courses\/data-science-and-python> Потом ушел обучаться на kaggle",
+        "user": "UB4AFSWP4",
+        "ts": "1540387818.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d13cfb59a4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/511563019618_d13cfb59a4ba8d56359b_72.jpg",
+            "first_name": "Варюхин",
+            "real_name": "Варюхин Дмитрий",
+            "display_name": "Варюхин Дмитрий",
+            "team": "T040HKJE3",
+            "name": "dmitry823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UB4AFSWP4",
+            "ts": "1540387886.000000"
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "5827a965-3778-4db1-83c5-f9d0bc13934a",
+        "type": "message",
+        "text": "<@U7DTGC4PL> Можешь подробнее рассказать про базу. На сколько я понял из беседы с менеджером Skillfactory нужно разбираться в Python. Причем больших знаний, необходимых для полноценной работы, как например с web-ом не требуется.\nНа сколько нужна прокачка в математике, статистике и т.д.? ВУЗ по технической специальности окончил 10 лет назад, если что то там и было, до давно забыто :slightly_frowning_face:\n\nПригласили на гостевой урок, просто посидеть в стороне и послушать как проходят очные занятия. Обязательно поеду в пятницу, посмотрю.",
+        "user": "UCT290D7A",
+        "ts": "1540392663.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9daf269aa009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462524618448_9daf269aa009b543729a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Konotop",
+            "display_name": "alekseykonotop",
+            "team": "T040HKJE3",
+            "name": "alekseykonotop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "3880fd5b-7193-4049-8fa0-00c26a5030b0",
+        "type": "message",
+        "text": "<@UDD0GQXA5> обучаетесь на факультете Искусственный  интеллект в Geekbrains?",
+        "user": "UCT290D7A",
+        "ts": "1540394686.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9daf269aa009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462524618448_9daf269aa009b543729a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Konotop",
+            "display_name": "alekseykonotop",
+            "team": "T040HKJE3",
+            "name": "alekseykonotop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "96858355-8A82-41E6-814D-16BCA213957D",
+        "type": "message",
+        "text": "Я начал освоение с этого курса <https:\/\/datasciencecourse.ru>. Из базы: прошёл базовый уровень Python в специалисте и остаток знаний по матану и статистике из ВУЗа. Не могу сказать, что всем доволен. Приходиться читать дополнительную литературу и слушать дополнительные курсы.",
+        "user": "UC42D0YAH",
+        "ts": "1540395877.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f267014c2209",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-08\/413029027109_f267014c2209daab7940_72.png",
+            "first_name": "Dorofeev57kirill",
+            "real_name": "Dorofeev57kirill",
+            "display_name": "Scouser57",
+            "team": "T040HKJE3",
+            "name": "dorofeev57kirill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Специализация Yandex «Машинное обучение и анализ данных»",
+                "title": "Главная - Специализация Yandex «Машинное обучение и анализ данных»",
+                "title_link": "https:\/\/datasciencecourse.ru\/",
+                "text": "«Машинное обучение и анализ данных»",
+                "fallback": "Специализация Yandex «Машинное обучение и анализ данных»: Главная - Специализация Yandex «Машинное обучение и анализ данных»",
+                "image_url": "https:\/\/datasciencecourse.ru\/templates\/datasciencecourse\/img\/python.gif",
+                "from_url": "https:\/\/datasciencecourse.ru\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 3973,
+                "service_icon": "https:\/\/datasciencecourse.ru\/templates\/datasciencecourse\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/datasciencecourse.ru"
+            }
+        ],
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3CF6T134"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E9FA7B5-25E6-47A0-845F-E50F6627432F",
+        "type": "message",
+        "text": "+ в этом курсе всё на Python 2:slightly_frowning_face:",
+        "user": "UC42D0YAH",
+        "ts": "1540395924.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f267014c2209",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-08\/413029027109_f267014c2209daab7940_72.png",
+            "first_name": "Dorofeev57kirill",
+            "real_name": "Dorofeev57kirill",
+            "display_name": "Scouser57",
+            "team": "T040HKJE3",
+            "name": "dorofeev57kirill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "aefa41ae-4504-4f71-8b32-bfe3ae62b8a6",
+        "type": "message",
+        "text": "<@UCT290D7A> да",
+        "user": "UDD0GQXA5",
+        "ts": "1540396043.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d34d989f0031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-24\/462696040993_d34d989f003103440d23_72.jpg",
+            "first_name": "Anatoly",
+            "real_name": "Anatoly Nekhamchin",
+            "display_name": "Ifl",
+            "team": "T040HKJE3",
+            "name": "6567967",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    },
+    {
+        "client_msg_id": "ba2ca5ef-4e8a-46c0-b461-e53797fa2f2c",
+        "type": "message",
+        "text": "я в свое время вкатился c ml_course_open и andrew ng в параллели, до сих пор считаю, что это хорошая база для ml, плюс эти курсы бесплатны",
+        "user": "U8J9XMX3J",
+        "ts": "1540396063.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3CF6T134",
+                    "UD2EX7JP9",
+                    "U7KDVG6LS",
+                    "UDTJ7GNMV"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "468c699d-2b3e-488d-9f52-6141d3bf7a19",
+        "type": "message",
+        "text": "<http:\/\/mlcourse.ai|mlcourse.ai> вообще топ благодаря интерактиву в ods)",
+        "user": "U8J9XMX3J",
+        "ts": "1540396168.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    }
+]

@@ -1,0 +1,694 @@
+[
+    {
+        "type": "message",
+        "text": "Я бы не советовал джангу, сейчас так веб уже не делают. Делают api например на фласке, ноде или го и клиент на реакте (самый популярный вариант) или аналогичном фреймворке. Кстати, после питона го легко заходит",
+        "user": "U459QGLVD",
+        "ts": "1505460829.000128",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U459QGLVD",
+            "ts": "1505460848.000000"
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U4YQKKZFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> почему go, а не Rust ? есть хоть какие -то объективные причины выбора?",
+        "user": "U5R6WCSBU",
+        "ts": "1505461711.000372",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> Это все хипстерские закидоны, парни. ))\nВчера вот был популярен метеор, а сегодня его уже и с поддержки снимают.\nНет смысла гоняться за модой.\nЕсли не одноразовый прототип для стартапа пилить, а долгосрочное решение, то бизнесу нужно то, что можно годами поддерживать, и в разумные бюджеты развивать. И если главный разработчик решит внезапно уйти в Иностранный Легион - было возможно найти опытных парней знакомых с этой технологией на рынке труда. \n\nА Go... Я его щупал, хорошая штука, вот только для своих специфичных задач, пытаться делать им все подряд смысла нет.",
+        "user": "U719LFSF3",
+        "ts": "1505463250.000034",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f943165ff9a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-27\/247679514002_f943165ff9a117035b36_72.jpg",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Malukhin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "nikolay.malukhin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> го гораздо проще в плане “взять и запилить сервис“. В раст порог вхождения гораздо выше. И надо думать окупятся ли затраченные усилия. Если нет супер требований по производительности, как например в ААА играх (на garbage collection ограничения и тд) или embedded системах, то го выглядит гораздо более логичным выбором",
+        "user": "U459QGLVD",
+        "ts": "1505464505.000444",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U5R6WCSBU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U719LFSF3> посыл в том, что сейчас бизнесы не хотят website, а хотят webapp - отзывчивое приложение с хорошим UX-ом, оффлайн синхронизацией данных и тп. И джанго это не дает. Не суть, что использовать на бэкенде, фронт должен отзывчивым и быстрым. И современные UI-фреймворки на это нацелены. Без использования их не запилить вручную сложное приложение такого же уровня",
+        "user": "U459QGLVD",
+        "ts": "1505464718.000025",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> ой да ладно, недавно пилили все тупо на сервере, в качестве клиента был kendo ui. Все, что он делал, получал информацию о том, какой компонент рендерить и с какими настройками и все это через xml ))). Вообще проблем никаких, все эти реакты и логика на клиенте зло :trollface: Хотя конечно у vue есть шанс ))",
+        "user": "U5R6WCSBU",
+        "ts": "1505464886.000203",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1505464950.000000"
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> ну даже не заню, что на такой агрумент возразить. Попробуйте запилисть сейчас что-нибудь нетривиальное на kendo и посмотрите будут ли люди этим пользоваться. Недаром крупные компании тратят огромные на переписывание UI-я. Это приносит клиентов а значит деньги. Вот, например, опыт Flipkart - <https:\/\/www.youtube.com\/watch?v=StdKz32M1RM>",
+        "user": "U459QGLVD",
+        "ts": "1505465242.000117",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Building and deploying a Progressive Web App at scale with Flipkart (Chrome Dev Summit 2015)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=StdKz32M1RM",
+                "author_name": "Google Chrome Developers",
+                "author_link": "https:\/\/www.youtube.com\/user\/ChromeDevelopers",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/StdKz32M1RM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Building and deploying a Progressive Web App at scale with Flipkart (Chrome Dev Summit 2015)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/StdKz32M1RM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=StdKz32M1RM",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> “проблем никаких” это для вас как для разработчика. Но надо понимать, что оставаясь на старых технологиях Вы жертвуете удобством пользователя, которому наплевать где у вас логика и “хипстерская” технология или нет. Он просто хочет быстро решить свою задачу. И если у конкурента “быстрее” уйдет к нему.",
+        "user": "U459QGLVD",
+        "ts": "1505465373.000226",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> они тратят деньги только потому, что пробуют жить с опенсорсом, что для интерпрайза довольно сложно. тот же кендо отлично интегрируется с тем же реактом и vue, но при этом имеет поддержку 24 часа. Да сообщество делает свое дело и можно быть уверенным, что в нужное врем найдется решение и нужный человек, но это работает не для всех.",
+        "user": "U5R6WCSBU",
+        "ts": "1505465387.000321",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1505465407.000000"
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "Просто задачи бывают разные, а ПО -это всегда интеллектуальная собственность. И для меня по прежнему дико переносить логику приложения на клиент. (это при том, что я год работал чистым фронтендером, бросив это дело, когда закончил второй проект на angular 2, тогда вроде rc.6 еще был и никакого релиза, а они уже объявили о выходе 4... терпение не безгранично.)",
+        "user": "U5R6WCSBU",
+        "ts": "1505465462.000181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1505465520.000000"
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> В том случае, когда у заказчика есть необходимость в приложении и деньги на то, чтобы это все напилили ему вручную и так же поддерживали - да.\nНо таких заказчиков не очень много. Написать так что-то с реально большим функционалом (например, электронный магазин большой) будет крайне дорого, бюджет нужно будет считать в миллионах.\n\nПитон же просто хорош как универсальный язык, который \"и под воду, и под воеводу\". И джанга тут просто как удобный фреймверк общего назначения для сайтов, с низким порогом входа, который было бы полезно знать. То, что нужно реально пилить на Go - надо пилить на Go, но тут речь была не об этом, а о том, куда ещё можно применить питон, если его един хрен учить в рамках датасаенс.))",
+        "user": "U719LFSF3",
+        "ts": "1505465577.000393",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f943165ff9a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-27\/247679514002_f943165ff9a117035b36_72.jpg",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Malukhin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "nikolay.malukhin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> Если Вы втащили реакт, Вы уже очень усложнили клиент, потеряв простоту рендеринга на бэкенде. И kendo тогда уже не фреймвор, а view layer и вам придется менеджить стейт на клиенте каким-нибудь redux’ом и синхронизироваться с сервером. Т.е. уже некорректно говорить, что это просто kendo и все. У вас уже rich client со всем его ворохом проблем. Но и удобством для пользователя, если все сделать правильно.",
+        "user": "U459QGLVD",
+        "ts": "1505465704.000125",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U719LFSF3> я же написал про фласк на этот случай. Мое мнение - изучение джанго не даст хорошего ROI, так как приложение будет выглядеть как из вчерашнего дня, а джанго на порядок сложнее",
+        "user": "U459QGLVD",
+        "ts": "1505465842.000072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> так никто не говорил, что будет легко. Просто в основном это комплексное решение и подход, берем фреймворк из популярных и пилим сервис не работает. Потому часто проще взять джангу с ее админкой и основной логикой, вынести отдельно критичные сервисы, запилить лендинг на вордпрессе и вынести отдельно клиентскую часть \"кабинета\". Во фласке том же тут вообще смысла нет, поскольку его задачи покроет джанга, которая решает комплекс проблем или же это вообще проще написать на чем то более низкоуровневом.",
+        "user": "U5R6WCSBU",
+        "ts": "1505465968.000148",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U2N853RGF> Я бы посоветовал react native. Вот курс на egghead - <https:\/\/egghead.io\/courses\/react-native-fundamentals>",
+        "user": "U459QGLVD",
+        "ts": "1505466659.000264",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "React Native Fundamentals - Course by @tylermcginnis",
+                "title_link": "https:\/\/egghead.io\/courses\/react-native-fundamentals",
+                "text": "If you're a web developer who has been itching to get into native development, now is your chance. In this series we'll be talking all about React Native. React Native allows you to build native iOS and Android applications in JavaScript and React.js. Regardless of your experience with React, or even with iOS development, my hope is that this series will be beneficial to everyone who is starting out with React Native. We'll jump straight into developing with React Native by looking first at the ecosystem of building React Native apps - including Xcode, the iPhone simulator, live reload, debugging, and more. Once we get our ecosystem set up and our hello world example running using ES5, we'll jump straight into building a fully functioning iPhone app which utilizes many of the best parts of developing with React Native all while covering React.js and refactor to ES6 along the way.",
+                "fallback": "React Native Fundamentals - Course by @tylermcginnis",
+                "image_url": "https:\/\/d2eip9sf3oo6c2.cloudfront.net\/series\/covers\/000\/000\/014\/full\/course_banner.png?1496436218",
+                "from_url": "https:\/\/egghead.io\/courses\/react-native-fundamentals",
+                "image_width": 750,
+                "image_height": 250,
+                "image_bytes": 76334,
+                "service_icon": "http:\/\/d1xwtr0qwr70yv.cloudfront.net\/assets\/apple-touch-icon-870a1d89c50651b85d550143e818dfba.png",
+                "service_name": "egghead.io",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1505330560.000049",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "type": "message",
+        "text": "так сделали HBO приложуху hotdog not hotdog - <https:\/\/medium.com\/@timanglade\/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3>",
+        "user": "U459QGLVD",
+        "ts": "1505466692.000165",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras &amp; React Native",
+                "title_link": "https:\/\/medium.com\/@timanglade\/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3",
+                "text": "How we beat the state of the art to build a real-life A.I. app.",
+                "fallback": "Medium: How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras &amp; React Native",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/focal\/1200\/632\/63\/18\/1*FZSvtomVWXV6hQp1Mkdk3A.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "22 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1498480037,
+                "from_url": "https:\/\/medium.com\/@timanglade\/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3",
+                "image_width": 475,
+                "image_height": 250,
+                "image_bytes": 653614,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*W0nmth_X8nFKjn6BZ388UQ.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1505330560.000049",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "type": "message",
+        "text": "Мы на работе юзаем react native в проде, для бизнес приложений - :fire:",
+        "user": "U459QGLVD",
+        "ts": "1505466741.000077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505330560.000049",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "type": "message",
+        "text": "На его персональной странице есть список курсов. Выбери HSE2017",
+        "user": "U302AALBS",
+        "ts": "1505467070.000148",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U302AALBS",
+            "ts": "1505467207.000000"
+        },
+        "thread_ts": "1505408189.000311",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> Ничоси. На джаваскрипте. Мы от обджектив си не уйдем никак)",
+        "user": "U2N853RGF",
+        "ts": "1505473746.000064",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505330560.000049",
+        "parent_user_id": "U2N853RGF"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> а Django Rest Framework? Вроде для  API нормальная тема...",
+        "user": "U4YLW3KMY",
+        "ts": "1505477161.000291",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g52ab1450a94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c952ab1450a946c11e169e6f2efd26f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Sokoltsov",
+            "display_name": "vsokoltsov",
+            "team": "T040HKJE3",
+            "name": "vsokoltsov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U4YLW3KMY> выглядит норм, главное не пытаться рулить клиентом с бэкэнда. Это все выльется либо в плохой UX, либо в неподдерживаемую лапшу, либо в переписывание клиентской части",
+        "user": "U459QGLVD",
+        "ts": "1505482054.000032",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4YLW3KMY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> любой бекенд итак рулит клиентом. Клиент -это просто view отражающее бизнес логику, и ни при каких условиях этой логики не должно быть на клиенте. Клиент -это просто интерфейс для взаимодействия с пользователем и по сути любой api -это его конфигурирование )))",
+        "user": "U5R6WCSBU",
+        "ts": "1505484337.000367",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> REST api как раз таки пассивен. Я привел консенсус сложившийся в индустрии, не хочу продолжать спор дальше, считайте и далайте как хотите.",
+        "user": "U459QGLVD",
+        "ts": "1505484565.000658",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U459QGLVD> эм в какой такой индустрии? создании очередного шопа или новостной ленты?... как бы я говорю о том, что уже много лет вижу на рынке и более того, что десятилетия использует \"большой\" бизнес ))) Логики на клиенте нет, не было и никогда не будет, весь клиент -это просто смена порядка отображения элементов интерфейса. Что значит пассивность rest api ? клиент получая какой то запрос от пользователя не делает ничего, кроме как отправляет запрос на сервер и ждет ответа и в зависимости от него меняет свое поведение. Это прям совсем не выглядит пассивным :trollface:",
+        "user": "U5R6WCSBU",
+        "ts": "1505484888.000279",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> а что подразумевается под ‘логикой на клиенте‘?\nПостоянно слышу этот довод, но вот ни разу за время работы со SPA разного масштаба не видел, чтобы на клиенте была логика сложнее валидации формы",
+        "user": "U4YLW3KMY",
+        "ts": "1505486181.000512",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g52ab1450a94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c952ab1450a946c11e169e6f2efd26f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Sokoltsov",
+            "display_name": "vsokoltsov",
+            "team": "T040HKJE3",
+            "name": "vsokoltsov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR"
+    },
+    {
+        "type": "message",
+        "text": "<@U4YLW3KMY> я то от куда знаю, как раз и говорил, что \n&gt; Логики на клиенте нет, не было и никогда не будет\nпросто все это к тому, что \n&gt;  главное не пытаться рулить клиентом с бэкэнда\nкак бы а как иначе? Это интерфейс, а интерфейсом рулит какая -то логика. Эта как раз логика и формируется на бекенде и в каком то (тут совершенно не важно в каком и это зависит от задачи и конкретной реализации) виде командами передается на клиент, что отрисовать, что спросить, что показать и т.д.\nКак бы говорить о том, что какое то приложение хреново работает потому, что слишком пытаются контролировать клиент - странно. Весь компонентный подход как бы в этом, какая то сопрограмма приносит с собой интерфейс, который интегрируется в общую картинку.\n\np.s. да есть приложение где куда больше \"контроля\", но это только благодаря их специфики, есть как бы сферы в которых законодательно регулируется что и как должно быть реализованно.",
+        "user": "U5R6WCSBU",
+        "ts": "1505486591.000234",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1505486727.000000"
+        },
+        "thread_ts": "1505299651.000254",
+        "parent_user_id": "U0QPVMAFR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4YLW3KMY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

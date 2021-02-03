@@ -1,0 +1,564 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1493709922.648304",
+        "user": "U2MEU8490",
+        "text": "<@U2MEU8490> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493711236.866347",
+        "user": "U5835F2MC",
+        "text": "<@U5835F2MC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ребят, вопрос. Есть :dva_stula:, на одном - Jurafsky, Manning, вот здесь: <https:\/\/www.youtube.com\/playlist?list=PL6397E4B26D00A269> (датируется 2014 годом), а на другом - Manning, но посвежее (2017 год): <https:\/\/www.youtube.com\/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6> . Что лучше? Почему?",
+        "user": "U342T2PT2",
+        "ts": "1493713824.352400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6ba67505ab21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-11\/434316318327_6ba67505ab218959a347_72.jpg",
+            "first_name": "Александр",
+            "real_name": "Александр Ольферук",
+            "display_name": "olferuk",
+            "team": "T040HKJE3",
+            "name": "olferuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U342T2PT2",
+            "ts": "1493713850.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017) - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6",
+                "text": "Natural language processing (NLP) deals with the key artificial intelligence technology of understanding complex human language communication. This lecture s...",
+                "fallback": "YouTube: Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017) - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OQQ-W_63UgQ\/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Mc0ERfgjH-urs6ycBNw9UQiwk0c",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1493713824.352400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1493724151.305554",
+        "reply_users": [
+            "U4WMPCB7W",
+            "U342T2PT2"
+        ],
+        "replies": [
+            {
+                "user": "U4WMPCB7W",
+                "ts": "1493718588.327023"
+            },
+            {
+                "user": "U342T2PT2",
+                "ts": "1493724151.305554"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493716676.940639",
+        "user": "U56KSBE1E",
+        "text": "<@U56KSBE1E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "В 2017 они объединили классический NLP курс с курсом по Deep Learning for NLP. Первый (2014) больше идет по классическому NLP, а второй по последним веяниями в Deep Learning в этой области. Я слушал лекции 2017 года и там вся актуальная информация мне кажется.",
+        "user": "U4WMPCB7W",
+        "ts": "1493718588.327023",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "251a8cee80ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Vasilev",
+            "display_name": "evgenii.vasilev",
+            "team": "T040HKJE3",
+            "name": "evgenii.vasilev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493713824.352400",
+        "parent_user_id": "U342T2PT2"
+    },
+    {
+        "type": "message",
+        "text": "Понял, возьму тогда 2017, пожалуй. Спасибо, <@U4WMPCB7W> !",
+        "user": "U342T2PT2",
+        "ts": "1493724151.305554",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6ba67505ab21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-11\/434316318327_6ba67505ab218959a347_72.jpg",
+            "first_name": "Александр",
+            "real_name": "Александр Ольферук",
+            "display_name": "olferuk",
+            "team": "T040HKJE3",
+            "name": "olferuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493713824.352400",
+        "parent_user_id": "U342T2PT2"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493735436.275725",
+        "user": "U56SUCPUZ",
+        "text": "<@U56SUCPUZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493748184.005639",
+        "user": "U57GEHZ35",
+        "text": "<@U57GEHZ35> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Помимо ML\/DS курсов можно обратить внимание и на курсы гуманитарной направленности, например <https:\/\/www.edx.org\/course\/science-everyday-thinking-uqx-think101x-4>\n<@U0G29N5U4> , тут в друзьях наш любимый Daniel Kahneman: <https:\/\/courses.edx.org\/courses\/course-v1:UQx+Think101x+1T2017\/info>",
+        "user": "U0H8RU34N",
+        "ts": "1493751527.193879",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "85836cba58b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-26\/17404364916_85836cba58b8ec1221df_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lange",
+            "display_name": "lange_am",
+            "team": "T040HKJE3",
+            "name": "lange_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "The Science of Everyday Thinking",
+                "title_link": "https:\/\/www.edx.org\/course\/science-everyday-thinking-uqx-think101x-4",
+                "text": "Learn how to think better, argue better, and choose better.",
+                "fallback": "edX: The Science of Everyday Thinking",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/featured-card\/think101x-course_image-378x225.png",
+                "image_width": 378,
+                "image_height": 225,
+                "ts": 1491335322,
+                "from_url": "https:\/\/www.edx.org\/course\/science-everyday-thinking-uqx-think101x-4",
+                "image_bytes": 153445,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1493751527.193879",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1494362704.072910",
+        "reply_users": [
+            "U04725QK7",
+            "U4P5MNMRQ",
+            "U0H8RU34N"
+        ],
+        "replies": [
+            {
+                "user": "U04725QK7",
+                "ts": "1493753402.820343"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1493823877.110388"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1493823916.126744"
+            },
+            {
+                "user": "U0H8RU34N",
+                "ts": "1494362704.072910"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0G29N5U4",
+                    "U0ZHCGY5T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кто, кстати, Learning How to Learn смотрел? \n<https:\/\/www.coursera.org\/learn\/learning-how-to-learn>",
+        "user": "U4WGG2GNQ",
+        "ts": "1493752140.408898",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e55344f325c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-20\/440051842197_e55344f325c5e67fff92_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Yurchenko",
+            "display_name": "ivanyu",
+            "team": "T040HKJE3",
+            "name": "ivanyu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/learning-how-to-learn",
+                "text": "Learning How to Learn: Powerful mental tools to help you master tough subjects from University of California, San Diego. This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, ...",
+                "fallback": "Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/6e\/c02c90d08611e3bb7b4ba94dd73d39\/Learning-How-to-Learn-Logo-with-text.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/learning-how-to-learn",
+                "thumb_width": 2500,
+                "thumb_height": 1417,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1493752140.408898",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1493973141.824624",
+        "reply_users": [
+            "U2F5XFH53",
+            "U0DJEEXE1",
+            "U5455A4KY"
+        ],
+        "replies": [
+            {
+                "user": "U2F5XFH53",
+                "ts": "1493754216.087301"
+            },
+            {
+                "user": "U0DJEEXE1",
+                "ts": "1493764944.106922"
+            },
+            {
+                "user": "U2F5XFH53",
+                "ts": "1493783177.268052"
+            },
+            {
+                "user": "U5455A4KY",
+                "ts": "1493973141.824624"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U3K7PNTML",
+                    "U0DJEEXE1",
+                    "U1D4RRA7K",
+                    "U0ZJSJ12R",
+                    "U59MRBWUS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Философия от вышки на курсере годнота",
+        "user": "U04725QK7",
+        "ts": "1493753402.820343",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493751527.193879",
+        "parent_user_id": "U0H8RU34N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U09BY2N3X",
+                    "U2AML8LEB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ivanyu: я смотрел, довольно полезно, но кажется что если найти хорошую книжку то информации будет больше",
+        "user": "U2F5XFH53",
+        "ts": "1493754216.087301",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c35635697f76",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-19\/186609671703_c35635697f76cd564120_72.jpg",
+            "first_name": "Manvel",
+            "real_name": "Manvel Avetisian",
+            "display_name": "mnvl",
+            "team": "T040HKJE3",
+            "name": "mnvl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493752140.408898",
+        "parent_user_id": "U4WGG2GNQ"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1493755672.568197",
+        "thread_ts": "1493755672.568197",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1494016541.771217",
+        "reply_users": [
+            "U04ELQZAU",
+            "U10K3LXHV",
+            "U3U0AKQ0Y"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1493757544.181356"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1493757575.191116"
+            },
+            {
+                "user": "U10K3LXHV",
+                "ts": "1493757788.260930"
+            },
+            {
+                "user": "U3U0AKQ0Y",
+                "ts": "1494015831.574649"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1494016541.771217"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "orlov_alexander: <#C2XEW8C4B|edu_shad_exams>",
+        "user": "U04ELQZAU",
+        "ts": "1493757544.181356",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493755672.568197",
+        "parent_user_id": "U10K3LXHV",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U10K3LXHV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "cc <@U3U0AKQ0Y>",
+        "user": "U04ELQZAU",
+        "ts": "1493757575.191116",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493755672.568197",
+        "parent_user_id": "U10K3LXHV"
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU> спасибо!",
+        "user": "U10K3LXHV",
+        "ts": "1493757788.260930",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6ca7ce25216",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-19\/44332034917_f6ca7ce25216fb72420d_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Orlov",
+            "display_name": "orlov_alexander",
+            "team": "T040HKJE3",
+            "name": "orlov_alexander",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493755672.568197",
+        "parent_user_id": "U10K3LXHV"
+    },
+    {
+        "type": "message",
+        "text": "и такая книжка существует, ее написала автор сего курса и называется она \"думай, как математик\"",
+        "user": "U0DJEEXE1",
+        "ts": "1493764944.106922",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493752140.408898",
+        "parent_user_id": "U4WGG2GNQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2F5XFH53",
+                    "U4P5MNMRQ",
+                    "U2AML8LEB",
+                    "U45603VGE"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "спасибо, записал себе в reading list, по английски она называется A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) 1st Edition by Barbara Oakley",
+        "user": "U2F5XFH53",
+        "ts": "1493783177.268052",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c35635697f76",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-19\/186609671703_c35635697f76cd564120_72.jpg",
+            "first_name": "Manvel",
+            "real_name": "Manvel Avetisian",
+            "display_name": "mnvl",
+            "team": "T040HKJE3",
+            "name": "mnvl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1493752140.408898",
+        "parent_user_id": "U4WGG2GNQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493786115.528298",
+        "user": "U57UPNXTP",
+        "text": "<@U57UPNXTP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493789414.815103",
+        "user": "U579H53H7",
+        "text": "<@U579H53H7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493791147.961625",
+        "user": "U57SBCZJ6",
+        "text": "<@U57SBCZJ6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493791804.027057",
+        "user": "U58LJ4AMU",
+        "text": "<@U58LJ4AMU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493793033.153652",
+        "user": "U579UCHFB",
+        "text": "<@U579UCHFB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493793894.250146",
+        "user": "U57VDJMS9",
+        "text": "<@U57VDJMS9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493794193.285402",
+        "user": "U57SNBZ1Q",
+        "text": "<@U57SNBZ1Q> has joined the channel"
+    }
+]

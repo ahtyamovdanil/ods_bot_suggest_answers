@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "5e44fafa-3d54-4d79-8c3b-cbb49f0f8ac7",
+        "type": "message",
+        "text": "<@UHY5KKK6D> а Вы учились на этом курсе от Отуса?",
+        "user": "U010K7YPG4E",
+        "ts": "1589929692.026800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf824f35edb3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f824f35edb397c225b068e2cb4590835.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Z",
+            "real_name": "Z",
+            "display_name": "Z",
+            "team": "T040HKJE3",
+            "name": "prizrakoschkosti570",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQ61k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHY5KKK6D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а Вы учились на этом курсе от Отуса?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589552547.425000",
+        "parent_user_id": "UV1FDK23E"
+    },
+    {
+        "client_msg_id": "300e4171-d2c3-439e-9b0f-316132a419c1",
+        "type": "message",
+        "text": "на бесплатный месяц по условиям могут претендовать только резиденты сша, канады, еу :disappointed:",
+        "user": "U7R7F2X2B",
+        "ts": "1589952309.028100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gad9542801d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d4ad9542801d180d6dbc9f8e297d3725.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Temirgali Aimyshev",
+            "display_name": "larim",
+            "team": "T040HKJE3",
+            "name": "temirgali.aimyshev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NEBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "на бесплатный месяц по условиям могут претендовать только резиденты сша, канады, еу "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588319421.169500",
+        "parent_user_id": "U15V81K6V"
+    }
+]

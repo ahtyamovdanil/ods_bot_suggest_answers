@@ -1,0 +1,1716 @@
+[
+    {
+        "client_msg_id": "baf01b58-55cb-4cfa-a9dc-6adb34a0b140",
+        "type": "message",
+        "text": "Спасибо, то что нужно!",
+        "user": "UU6LQEZFS",
+        "ts": "1587543830.492600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9cef8b426c22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-19\/1071893303730_9cef8b426c2291aeef17_72.jpg",
+            "first_name": "Segey",
+            "real_name": "Segey Polyakov",
+            "display_name": "IamSVP",
+            "team": "T040HKJE3",
+            "name": "iamsvp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sbeg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо, то что нужно!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587490736.483200",
+        "parent_user_id": "UU6LQEZFS",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U012J37JL1W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbaadadd-7cfb-49e0-b913-75a1793d272e",
+        "type": "message",
+        "text": "Завтра в 11:00 по Москве - <https:\/\/ibmdbg.timepad.ru\/event\/1298323\/|практический DataOps с использованием сервисов IBM Cloud>. Бесплатный вебинар с практической частью от Philippe Gregoire - IBM Data Science, EcoSystem Advocacy Hub Nice\/Europe, member of <https:\/\/www.ibm.com\/blogs\/academy-of-technology\/|IBM Academy of Technology> Вебинар на английском языке.",
+        "user": "U9RE2PMEU",
+        "ts": "1587551633.496300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cbd81c0baaf3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-21\/333444370786_cbd81c0baaf3d84d0929_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Gavrin",
+            "display_name": "agavrin",
+            "team": "T040HKJE3",
+            "name": "agavrin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Практический DataOps с использованием Watson Studio AutoAI и Watson Machine Learning в IBM Cloud \/ События на TimePad.ru",
+                "title_link": "https:\/\/ibmdbg.timepad.ru\/event\/1298323\/",
+                "text": "AutoAI и Watson Machine Learning (WML) являются частью служб DataOps Watson Studio, которые автоматически развоорачиваются в конвеере сервисов Watson Machine Learning для автоматизации машинного обучения. DataOps &amp;#151; автоматизированная методология, используемая аналитическими группами и группами данных для повышения качества и сокращения времени цикла анализа данных.",
+                "fallback": "Практический DataOps с использованием Watson Studio AutoAI и Watson Machine Learning в IBM Cloud \/ События на TimePad.ru",
+                "image_url": "https:\/\/ucare.timepad.ru\/cffea91f-6e9f-45c6-b95d-adea1f4e43d7\/poster_event_1298323.jpg",
+                "from_url": "https:\/\/ibmdbg.timepad.ru\/event\/1298323\/",
+                "image_width": 402,
+                "image_height": 250,
+                "image_bytes": 140087,
+                "service_icon": "https:\/\/timepad.ru\/img\/favicon\/blue\/favicon_blue_180.png",
+                "service_name": "ibmdbg.timepad.ru",
+                "id": 1,
+                "original_url": "https:\/\/ibmdbg.timepad.ru\/event\/1298323\/"
+            },
+            {
+                "service_name": "IBM Academy of Technology",
+                "title": "IBM Academy of Technology - Fostering innovation by bridging spheres of knowledge",
+                "title_link": "https:\/\/www.ibm.com\/blogs\/academy-of-technology\/",
+                "text": "IBM Academy of Technology external blog and engage with the technical community around subjects related to IBM, the Academy and technology. Access to this blog is open the public.",
+                "fallback": "IBM Academy of Technology: IBM Academy of Technology - Fostering innovation by bridging spheres of knowledge",
+                "from_url": "https:\/\/www.ibm.com\/blogs\/academy-of-technology\/",
+                "service_icon": "https:\/\/www.ibm.com\/blogs\/academy-of-technology\/wp-content\/uploads\/2017\/09\/cropped-ibm_aot_logo-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.ibm.com\/blogs\/academy-of-technology\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OH5PB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Завтра в 11:00 по Москве - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ibmdbg.timepad.ru\/event\/1298323\/",
+                                "text": "практический DataOps с использованием сервисов IBM Cloud"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Бесплатный вебинар с практической частью от Philippe Gregoire - IBM Data Science, EcoSystem Advocacy Hub Nice\/Europe, member of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ibm.com\/blogs\/academy-of-technology\/",
+                                "text": "IBM Academy of Technology"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Вебинар на английском языке."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ibm",
+                "users": [
+                    "U7SFPUVQF",
+                    "UNFTX1XT9",
+                    "U35EN5VLG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meh",
+                "users": [
+                    "U8PMZ6397",
+                    "U049NHC4X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d27fea9-a0c0-4683-b177-af8bc890e7ab",
+        "type": "message",
+        "text": "<@UHY5KKK6D>, в итоге появилась бездедлайновая копия курса) Enjoy <https:\/\/stepik.org\/course\/70710>",
+        "user": "U2TR489RU",
+        "ts": "1587557309.496800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bccea5dc2c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-15\/155212478791_bccea5dc2c452a47f616_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Avdyushenko",
+            "display_name": "ovalur",
+            "team": "T040HKJE3",
+            "name": "ovalur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Свободное погружение в СУБД",
+                "title_link": "https:\/\/stepik.org\/course\/70710",
+                "text": "Курс для тех, кто уже имеет некоторый опыт проектирования баз данных и разработки приложений и хочет расширить свои знания. Это копия курса \"Погружение в СУБД\" 2017 года. Но без дедлайнов!",
+                "fallback": "Stepik: online education: Свободное погружение в СУБД",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/3203\/cover\/ea4748a2d17e74d340a25632a3f00d4f.jpg",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/70710",
+                "image_height": 230,
+                "image_bytes": 5654,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1586427612",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/70710"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHY5KKK6D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", в итоге появилась бездедлайновая копия курса) Enjoy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/70710"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585742076.175500",
+        "parent_user_id": "U2TR489RU",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U46NMUM5Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb11051-1c20-488f-963d-4104e63d8713",
+        "type": "message",
+        "text": "<@U2TR489RU> :fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball::fireball:",
+        "user": "UHY5KKK6D",
+        "ts": "1587557479.497100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHY5KKK6D",
+            "ts": "1587558401.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2TR489RU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585742076.175500",
+        "parent_user_id": "U2TR489RU"
+    },
+    {
+        "client_msg_id": "892be0fc-dfd2-4856-88f9-6c48298b0238",
+        "type": "message",
+        "text": "Время доделать пару заданий которые оставил на потом!",
+        "user": "UHY5KKK6D",
+        "ts": "1587558423.497400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Время доделать пару заданий которые оставил на потом!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585742076.175500",
+        "parent_user_id": "U2TR489RU"
+    },
+    {
+        "client_msg_id": "59e3096a-e394-4acd-969a-4cfbe0e65672",
+        "type": "message",
+        "text": "<https:\/\/stepik.org\/course\/70710\/syllabus> :fireball:",
+        "user": "UHY5KKK6D",
+        "ts": "1587562594.497800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Свободное погружение в СУБД",
+                "title_link": "https:\/\/stepik.org\/course\/70710\/syllabus",
+                "text": "Курс для тех, кто уже имеет некоторый опыт проектирования баз данных и разработки приложений и хочет расширить свои знания. Это копия курса \"Погружение в СУБД\" 2017 года. Но без дедлайнов!",
+                "fallback": "Stepik: online education: Свободное погружение в СУБД",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/3203\/cover\/ea4748a2d17e74d340a25632a3f00d4f.jpg",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/70710\/syllabus",
+                "image_height": 230,
+                "image_bytes": 5654,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1586427612",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/70710\/syllabus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/70710\/syllabus"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fireball"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UGRFZ1DS5",
+                    "U9221QEV8",
+                    "UDZC02ATZ",
+                    "U1YJTS97B",
+                    "UHY5KKK6D",
+                    "UDWRHJB2L",
+                    "U48AFP5RD",
+                    "UCARC91TK",
+                    "U9LKKNJHE",
+                    "UE61U6DCL",
+                    "U7SFPUVQF",
+                    "U6TFPN2CQ",
+                    "UCMAWD588"
+                ],
+                "count": 13
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "UCKTJQG9K",
+                    "U93PTKPU2",
+                    "UD0A6J75L",
+                    "U29TG6K9U",
+                    "U9LKKNJHE",
+                    "ULDAS5UUF",
+                    "UE61U6DCL",
+                    "UCMAWD588"
+                ],
+                "count": 8
+            },
+            {
+                "name": "csc",
+                "users": [
+                    "UHY5KKK6D",
+                    "U262NSHCK",
+                    "U1D6DT6HE",
+                    "UCMAWD588"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1D6DT6HE",
+                    "UCMAWD588"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdddb381-a1c9-45ab-a121-d05eff4ee35e",
+        "type": "message",
+        "text": "\"Думай как математик\"",
+        "user": "U0123QLBFPC",
+        "ts": "1587586635.001200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6b22025d477",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6b22025d477972a6e9164838e08ea5fa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Louisa Ish",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "miss.louisa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Думай как математик\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587443062.476100",
+        "parent_user_id": "UM5CF56NA"
+    },
+    {
+        "client_msg_id": "79992aa8-c1a2-4b36-b66b-3c36faa3a949",
+        "type": "message",
+        "text": "Всем привет, подскажите, пожалуйста, с чего начать изучение для того чтобы перейти в соревновательный дата саенс ? Очень хочу получить мастер на кагл",
+        "user": "UJG8Q19LG",
+        "ts": "1587586673.001900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3a0b4733679",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a43a0b4733679b66cededc700ab78219.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim",
+            "display_name": "Icebreak30",
+            "team": "T040HKJE3",
+            "name": "timur.shininow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2N5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет, подскажите, пожалуйста, с чего начать изучение для того чтобы перейти в соревновательный дата саенс ? Очень хочу получить мастер на кагл"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587586673.001900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1587596539.003700",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "UJG8Q19LG",
+            "UBA7N1YSG"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1587592175.002900"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1587592289.003200"
+            },
+            {
+                "user": "UJG8Q19LG",
+                "ts": "1587594606.003500"
+            },
+            {
+                "user": "UBA7N1YSG",
+                "ts": "1587596539.003700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "kaggle",
+                "users": [
+                    "U3W6X77FG",
+                    "UQHMD2LBZ",
+                    "U705ED0CU",
+                    "U7N4E8GBF",
+                    "U09JEC7V0",
+                    "U6DCD6XUN",
+                    "U9V48C738",
+                    "UE7FQ2EFR",
+                    "UNTCH3DMK",
+                    "U60EETE7N"
+                ],
+                "count": 10
+            },
+            {
+                "name": "ng",
+                "users": [
+                    "UA92L7ACC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7e092cd-0ebb-4600-bef1-c0ee941785f5",
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/competitive-data-science>",
+        "user": "U1UNFRQ1K",
+        "ts": "1587592175.002900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "How to Win a Data Science Competition: Learn from Top Kagglers | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/competitive-data-science",
+                "text": "Learn How to Win a Data Science Competition: Learn from Top Kagglers from National Research University Higher School of Economics. If you want to break into competitive data science, then this course is for you! Participating in predictive ...",
+                "fallback": "Coursera: How to Win a Data Science Competition: Learn from Top Kagglers | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/competitive-data-science",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/competitive-data-science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3HL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/competitive-data-science"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587586673.001900",
+        "parent_user_id": "UJG8Q19LG"
+    },
+    {
+        "client_msg_id": "32f5504c-4c39-45d9-93bc-08deb3e99923",
+        "type": "message",
+        "text": "это если таблички и наверное time series. Для CV или NLP другой план – классические курсы и собственно :kaggle:",
+        "user": "U1UNFRQ1K",
+        "ts": "1587592289.003200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "это если таблички и наверное time series. Для CV или NLP другой план – классические курсы и собственно "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kaggle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587586673.001900",
+        "parent_user_id": "UJG8Q19LG"
+    },
+    {
+        "client_msg_id": "7c785a89-ebe6-4e05-83ce-ca2049d394d0",
+        "type": "message",
+        "text": "<@U1UNFRQ1K> Спасибо за ответ! А где можно найти команду для участия в соревнованиях или лучше начинать одному?",
+        "user": "UJG8Q19LG",
+        "ts": "1587594606.003500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3a0b4733679",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a43a0b4733679b66cededc700ab78219.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim",
+            "display_name": "Icebreak30",
+            "team": "T040HKJE3",
+            "name": "timur.shininow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dH\/iF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1UNFRQ1K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Спасибо за ответ! А где можно найти команду для участия в соревнованиях или лучше начинать одному?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587586673.001900",
+        "parent_user_id": "UJG8Q19LG"
+    },
+    {
+        "client_msg_id": "13d304e1-6cdb-42aa-9683-b265e4a7f5cd",
+        "type": "message",
+        "text": "Мне кажется, что лучше начинать одному, копаться, приходить к какому-то решению, а потом писать в канал - хей, кто хочет объединиться? Такое-то место сейчас. По ходу дела можно задавать любые вопросы на понимание в соответствующий канал и\/или на кэггл - везде помогут и подскажут.",
+        "user": "UBA7N1YSG",
+        "ts": "1587596539.003700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kiF6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мне кажется, что лучше начинать одному, копаться, приходить к какому-то решению, а потом писать в канал - хей, кто хочет объединиться? Такое-то место сейчас. По ходу дела можно задавать любые вопросы на понимание в соответствующий канал и\/или на кэггл - везде помогут и подскажут."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587586673.001900",
+        "parent_user_id": "UJG8Q19LG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K",
+                    "UKQTPE877",
+                    "U9V48C738",
+                    "UNFTX1XT9",
+                    "UL958AM32",
+                    "U013PPSFYU8",
+                    "UUW9G0T41"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

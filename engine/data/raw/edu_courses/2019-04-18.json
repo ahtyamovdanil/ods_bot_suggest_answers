@@ -1,0 +1,252 @@
+[
+    {
+        "client_msg_id": "222dd7b9-2484-4358-9c5f-0e582dbe5af0",
+        "type": "message",
+        "text": "hi guys ,looking for some easy to read papers on ensemble learning.please suggests a few",
+        "user": "UGLKHNU9E",
+        "ts": "1555584071.090100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "243e99dda832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-08\/884686494290_243e99dda83252c6cb11_72.png",
+            "first_name": "",
+            "real_name": "synergy37AI",
+            "display_name": "synergy37AI",
+            "team": "T040HKJE3",
+            "name": "m.econdse",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555584071.090100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1555649824.093500",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "U97BME4Q7",
+            "U60EETE7N",
+            "UGLKHNU9E"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1555584462.090200"
+            },
+            {
+                "user": "U97BME4Q7",
+                "ts": "1555586971.090800"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1555588087.091600"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1555611163.092900"
+            },
+            {
+                "user": "UGLKHNU9E",
+                "ts": "1555649824.093500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "13b7a3d7-d299-42f9-9f3d-d28187df247a",
+        "type": "message",
+        "text": "<https:\/\/mlwave.com\/kaggle-ensembling-guide\/>",
+        "user": "U1UNFRQ1K",
+        "ts": "1555584462.090200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555584071.090100",
+        "parent_user_id": "UGLKHNU9E"
+    },
+    {
+        "client_msg_id": "55863612-81f0-41a9-a2f1-4a2cb1fdf40f",
+        "type": "message",
+        "text": "I would add this one too ( it is not a paper ):\n<https:\/\/www.youtube.com\/watch?v=9VmKYwX_U7s>",
+        "user": "U97BME4Q7",
+        "ts": "1555586971.090800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d1ca734d3ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-10\/313113763700_8d1ca734d3ce259ae569_72.jpg",
+            "first_name": "Atanas",
+            "real_name": "Atanas Atanasov",
+            "display_name": "Atanas Atanasov",
+            "team": "T040HKJE3",
+            "name": "atanas.atanasov.sf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U97BME4Q7",
+            "ts": "1555586993.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Ensemble Techniques for High Performance Machine Learning - Gilberto Titericz (Ople)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9VmKYwX_U7s",
+                "author_name": "PAPIs.io",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCHMa1aYqXIQPnQD34W-ejQg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9VmKYwX_U7s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ensemble Techniques for High Performance Machine Learning - Gilberto Titericz (Ople)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9VmKYwX_U7s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9VmKYwX_U7s",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9VmKYwX_U7s"
+            }
+        ],
+        "thread_ts": "1555584071.090100",
+        "parent_user_id": "UGLKHNU9E"
+    },
+    {
+        "client_msg_id": "f170822f-7086-4044-8c7a-14711e7c765a",
+        "type": "message",
+        "text": "then also this whole course <https:\/\/www.coursera.org\/learn\/competitive-data-science> :slightly_smiling_face:",
+        "user": "U1UNFRQ1K",
+        "ts": "1555588087.091600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "How to Win a Data Science Competition: Learn from Top Kagglers | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/competitive-data-science",
+                "text": "Learn How to Win a Data Science Competition: Learn from Top Kagglers from National Research University Higher School of Economics. If you want to break into competitive data science, then this course is for you! Participating in predictive ...",
+                "fallback": "Coursera: How to Win a Data Science Competition: Learn from Top Kagglers | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/competitive-data-science",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/competitive-data-science"
+            }
+        ],
+        "thread_ts": "1555584071.090100",
+        "parent_user_id": "UGLKHNU9E"
+    },
+    {
+        "client_msg_id": "d2c6eaed-f67c-4b5a-b19e-e3bf0cf9e7fc",
+        "type": "message",
+        "text": "<http:\/\/blog.kaggle.com\/2016\/12\/27\/a-kagglers-guide-to-model-stacking-in-practice\/>",
+        "user": "U60EETE7N",
+        "ts": "1555611163.092900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "No Free Hunch",
+                "title": "A Kaggler's Guide to Model Stacking in Practice",
+                "title_link": "http:\/\/blog.kaggle.com\/2016\/12\/27\/a-kagglers-guide-to-model-stacking-in-practice\/",
+                "text": "Stacking is a model ensembling technique used to combine information from multiple predictive models to generate a new model. Often times the stacked model [...]",
+                "fallback": "No Free Hunch: A Kaggler's Guide to Model Stacking in Practice",
+                "thumb_url": "https:\/\/i0.wp.com\/blog.kaggle.com\/wp-content\/uploads\/2016\/12\/guide-to-stacking-models.png?fit=1000%2C280",
+                "ts": 1482858804,
+                "from_url": "http:\/\/blog.kaggle.com\/2016\/12\/27\/a-kagglers-guide-to-model-stacking-in-practice\/",
+                "thumb_width": 1000,
+                "thumb_height": 280,
+                "service_icon": "http:\/\/www.kaggle.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/blog.kaggle.com\/2016\/12\/27\/a-kagglers-guide-to-model-stacking-in-practice\/"
+            }
+        ],
+        "thread_ts": "1555584071.090100",
+        "parent_user_id": "UGLKHNU9E"
+    },
+    {
+        "client_msg_id": "8686025a-b4fc-463e-b76e-9081e67313ff",
+        "type": "message",
+        "text": "Thanks for the helpful suggestion",
+        "user": "UGLKHNU9E",
+        "ts": "1555649824.093500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "243e99dda832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-08\/884686494290_243e99dda83252c6cb11_72.png",
+            "first_name": "",
+            "real_name": "synergy37AI",
+            "display_name": "synergy37AI",
+            "team": "T040HKJE3",
+            "name": "m.econdse",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555584071.090100",
+        "parent_user_id": "UGLKHNU9E"
+    },
+    {
+        "client_msg_id": "b1d5e4cf-0f42-4fe5-809f-f17d17c2e59b",
+        "type": "message",
+        "text": "плюсую Anki для spaced repetition. сам сейчас пытаюсь настроить себя на постоянную работу с карточками",
+        "user": "U6QBX8P26",
+        "ts": "1555653343.093900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1a5eab81d50",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f91a5eab81d5047b6c486a493216b87a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Leskin",
+            "display_name": "aleskin",
+            "team": "T040HKJE3",
+            "name": "aleskin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555268312.031500",
+        "parent_user_id": "UFUDG4UCS"
+    }
+]

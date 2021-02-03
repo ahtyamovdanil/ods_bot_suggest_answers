@@ -1,0 +1,432 @@
+[
+    {
+        "client_msg_id": "4f191244-e70d-4443-b5bc-6d79025ead10",
+        "type": "message",
+        "text": "Github flow. Меньше телодвижений, чем  git flow. Для версионирования можно semver попробовать, например",
+        "user": "U786EB23G",
+        "ts": "1593337138.491600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dee5186d927b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/989960295280_dee5186d927bf97b59bd_72.png",
+            "first_name": "Nodari",
+            "real_name": "Nodari Lipartiya",
+            "display_name": "Nodar",
+            "team": "T040HKJE3",
+            "name": "nodari.lipartiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github flow. Меньше телодвижений, чем  git flow. Для версионирования можно semver попробовать, например"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593182718.482900",
+        "parent_user_id": "UDHJKLGLR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7cf1305-0998-414e-a204-e9daaabb74fd",
+        "type": "message",
+        "text": "Сколтех проведет летнюю школу по машинному обучению (онлайн). Спикеры из топовых мест: CMU, NYU, MIT, Microsoft Research и все такое. Школа рассчитана на всех: от бакалавров до PhD.\n \n:pushpin:*Дедлайн*: 26 июля 2020\n:pushpin:*Когда*: 16–21 августа 2020\n:pushpin:*Стоимость:* бесплатно \n\nПодробнее: <https:\/\/smiles.skoltech.ru\/school>",
+        "user": "U0Y7U6YER",
+        "ts": "1593361502.492300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g120838295e6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c2120838295e66a5ee882f3a984ccc2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Burnaev",
+            "display_name": "burnaevevgeny",
+            "team": "T040HKJE3",
+            "name": "burnaevevgeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "SMILES: ONLINE School of Machine Learning. 2020, Moscow, Russia",
+                "title_link": "https:\/\/smiles.skoltech.ru\/school",
+                "fallback": "SMILES: ONLINE School of Machine Learning. 2020, Moscow, Russia",
+                "image_url": "https:\/\/static.tildacdn.com\/tild6132-3261-4861-b632-386461383735\/smiles-school-banner.png",
+                "from_url": "https:\/\/smiles.skoltech.ru\/school",
+                "image_width": 470,
+                "image_height": 250,
+                "image_bytes": 92509,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild3166-3331-4631-a334-383532666336\/favicon.ico",
+                "service_name": "smiles.skoltech.ru",
+                "id": 1,
+                "original_url": "https:\/\/smiles.skoltech.ru\/school"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBaMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Сколтех проведет летнюю школу по машинному обучению (онлайн). Спикеры из топовых мест: CMU, NYU, MIT, Microsoft Research и все такое. Школа рассчитана на всех: от бакалавров до PhD.\n \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Дедлайн",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 26 июля 2020\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Когда",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 16–21 августа 2020\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Стоимость:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " бесплатно \n\nПодробнее: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/smiles.skoltech.ru\/school"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593361502.492300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1593427053.004200",
+        "reply_users": [
+            "U24N3AB96",
+            "U013HVDEALE",
+            "UUQ6QQ9K7"
+        ],
+        "replies": [
+            {
+                "user": "U24N3AB96",
+                "ts": "1593361983.493100"
+            },
+            {
+                "user": "U013HVDEALE",
+                "ts": "1593362127.493400"
+            },
+            {
+                "user": "UUQ6QQ9K7",
+                "ts": "1593427053.004200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U5H0L5T98",
+                    "U013HVDEALE",
+                    "U8PMZ6397",
+                    "UC7UAHY5R",
+                    "UCMC5J36D",
+                    "U854H9KCM",
+                    "ULA9M7CM9",
+                    "U6YLFT8QP",
+                    "UDK41MN5U",
+                    "U86H4Q48G",
+                    "U0952QCHE",
+                    "U1D6DT6HE",
+                    "U0SBLSTJ4",
+                    "U015SMTHEVD",
+                    "U0167FN1DFU",
+                    "USE0TMCPJ"
+                ],
+                "count": 17
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U09JEC7V0",
+                    "U24N3AB96",
+                    "U5H0L5T98",
+                    "U452JCQ7Q",
+                    "U8PMZ6397",
+                    "USTKTE472",
+                    "U9W1PD5QD",
+                    "ULA9M7CM9",
+                    "U6SHTGD5X",
+                    "U01364G3W84",
+                    "U86H4Q48G",
+                    "UL94X4YCQ",
+                    "U3KEKR5NJ",
+                    "U0SBLSTJ4",
+                    "U7F3QC28P",
+                    "U015SMTHEVD",
+                    "UMQSP3DJM",
+                    "U7Z5MQF5E"
+                ],
+                "count": 18
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U5H0L5T98",
+                    "U8PMZ6397",
+                    "ULA9M7CM9",
+                    "U6YLFT8QP",
+                    "UBXKRV90Q"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76bb5d31-e334-4fb7-a2c7-29eac9446627",
+        "type": "message",
+        "text": "А свой постер обязательно нужен для регистрации? Или все эти доклады можно будет послушать и без регистрации?",
+        "user": "U24N3AB96",
+        "ts": "1593361983.493100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fKKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А свой постер обязательно нужен для регистрации? Или все эти доклады можно будет послушать и без регистрации?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593361502.492300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "ef57e9ec-5319-4507-ad6b-0626e7827f9d",
+        "type": "message",
+        "text": "Похоже постер все же нужен.\nI do not have a poster. Can I still participate?\nOnline lectures from our speakers will be live-streamed on YouTube, depending on the speaker's agreement. They are open to everyone. Other events are reserved for accepted participants.",
+        "user": "U013HVDEALE",
+        "ts": "1593362127.493400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2da28b38aa3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-16\/1140871451953_2da28b38aa3d45da64dd_72.png",
+            "first_name": "",
+            "real_name": "Antosha",
+            "display_name": "Antosha",
+            "team": "T040HKJE3",
+            "name": "nvelf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U013HVDEALE",
+            "ts": "1593362363.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ede",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Похоже постер все же нужен.\nI do not have a poster. Can I still participate?\nOnline lectures from our speakers will be live-streamed on YouTube, depending on the speaker's agreement. They are open to everyone. Other events are reserved for accepted participants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593361502.492300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "e9c35105-756c-4129-91da-690b12ba91cb",
+        "type": "message",
+        "text": "<@U012K713DSB> А что это за курс ? Кто автор ?( <http:\/\/openml.ai|openml.ai> не открывается )",
+        "user": "UUWNN05EK",
+        "ts": "1593372336.495200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5e08d6c50cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-28\/1481744673568_5e08d6c50cf6d48366ee_72.jpg",
+            "first_name": "UserNam",
+            "real_name": "UserNam",
+            "display_name": "UsrNam",
+            "team": "T040HKJE3",
+            "name": "raremar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012K713DSB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " А что это за курс ? Кто автор ?( "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/openml.ai",
+                                "text": "openml.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " не открывается )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590835270.224400",
+        "parent_user_id": "U014VNCM4JC"
+    },
+    {
+        "client_msg_id": "ab7f3b2f-b0b4-4489-a383-da649bb61465",
+        "type": "message",
+        "text": "<https:\/\/trunkbaseddevelopment.com\/|https:\/\/trunkbaseddevelopment.com\/>",
+        "user": "UBRK4HXQV",
+        "ts": "1593380191.495900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "17ee69770ebc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-18\/801637996631_17ee69770ebce3fe5f19_72.jpg",
+            "first_name": "Dranga",
+            "real_name": "Dranga Daniil",
+            "display_name": "dranga",
+            "team": "T040HKJE3",
+            "name": "dranga.daniil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Trunk Based Development",
+                "title_link": "https:\/\/trunkbaseddevelopment.com\/",
+                "text": "A portal on this practice",
+                "fallback": "Trunk Based Development",
+                "from_url": "https:\/\/trunkbaseddevelopment.com\/",
+                "thumb_url": "https:\/\/trunkbaseddevelopment.com\/images\/logo.png",
+                "thumb_width": 74,
+                "thumb_height": 74,
+                "service_icon": "https:\/\/trunkbaseddevelopment.com\/images\/favicon.ico",
+                "service_name": "trunkbaseddevelopment.com",
+                "id": 1,
+                "original_url": "https:\/\/trunkbaseddevelopment.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xtw7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trunkbaseddevelopment.com\/",
+                                "text": "https:\/\/trunkbaseddevelopment.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593182718.482900",
+        "parent_user_id": "UDHJKLGLR"
+    }
+]

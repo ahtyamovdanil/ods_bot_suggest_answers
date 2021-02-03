@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481803167.000253",
+        "user": "U3FSDSEKH",
+        "text": "<@U3FSDSEKH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/spie.org\/AL\/course\/data-analytics-and-machine-learning-in-semiconductor-manufacturing-applications-for-physical-design-process-and-yield-optimization#.WFLNTnnPJH8.link>\n&gt; *Data Analytics and Machine Learning in Semiconductor Manufacturing: Applications for Physical Design, Process and Yield Optimization*\n&gt; This course provides an introduction to methodologies and techniques in Data Analytics and Machine Learning, with specific applications to semiconductor manufacturing, from physical design characterization to process and yield optimization. While the growth of (Big) Data Analytics and Machine Learning continues to increase across virtually every industrial sector, the semiconductor space has seen only a modest adoption. This course aims at lowering the entry barrier, by providing both foundational and practical skills for semiconductor engineers and practitioners. Following a comprehensive survey of the state-of-the-art and current developments in Data Analytics and Machine Learning, the course describes how functional interactions and data information flows in the Design-to-Manufacturing chain can be enhanced by analytics algorithmic methodologies. Quantitative definitions of physical design space coverage and process space learning are introduced as the unifying abstraction, allowing for the construction of a computational application framework. Design-Technology-Co-Optimization (DTCO) is then extended with the novel paradigm of DFM-as-Search. Examples from this new DFM computational toolkit, are used to demonstrate how the advanced IC technology nodes (14, 10, 7 and 5nm) not only benefit from, but actually require the use of a new class of correlation extraction algorithms for heterogeneous data sets.\n&gt; Learning Outcomes\n&gt; distinguish Data Science fundamentals with a comprehensive overview of Data Analytics and Machine Learning\n&gt; explain taxonomy and relationship of the top-10 classes of algorithms and (relational and graph) database systems\n&gt; distinguish Data Analytics System Architecture Views and Data-Flow Views\n&gt; determine new Methodologies, Software Tools, Application Use Cases specifically targeted at IC Design-to-Manufacturing\n&gt; describe the relationship between EDA (functional tools and applications) and (beyond EDA) Data Analytics and Machine Learning (technology and methodologies)\n&gt; summarize technology and business risk and opportunities (for early and late adoption scenarios)",
+        "user": "U27HU84H4",
+        "ts": "1481821620.000254",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1481821665.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "355 рублей",
+        "user": "U2N853RGF",
+        "ts": "1481822573.000259",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1481825513.000260",
+        "user": "U3G28NVKQ",
+        "text": "<@U3G28NVKQ> has joined the channel"
+    }
+]

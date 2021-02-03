@@ -1,0 +1,217 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1582798343.064000",
+        "user": "UNCF6G6DV",
+        "text": "<@UNCF6G6DV> has joined the channel",
+        "inviter": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "E4962B9A-586E-4A7D-AD91-B48A84F52E7B",
+        "type": "message",
+        "text": "Совершенный код, правда он нудный местами, но вот прям очень полезный ",
+        "user": "U50EVF538",
+        "ts": "1582847846.066500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81354e7d3e9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-27\/204725676311_81354e7d3e9e7b4af4d0_72.png",
+            "first_name": "Stasian",
+            "real_name": "Stasian Prikhodko",
+            "display_name": "stasian",
+            "team": "T040HKJE3",
+            "name": "stasian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Совершенный код, правда он нудный местами, но вот прям очень полезный "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582714856.056100",
+        "parent_user_id": "UG1886P8R",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "UMM4N60K1",
+                    "U15V81K6V",
+                    "U6NG0K2BW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B435FB1F-E608-4DC3-AB30-AB59503DDB15",
+        "type": "message",
+        "text": "Возможно, :slow: , но недавно узнал про\nStanford CS330 Deep Multi-Task and Meta Learning\n<http:\/\/cs330.stanford.edu|cs330.stanford.edu>\n\nЧто довольно забавный и свежий топик среди всей этой CV\/NLP\/RL всем известной скукоты.\n\nВидео лекций, домашки - всё уже доступно. Syllabus на первый взгляд тоже интересный.\n\nЕсли кто-то хочет вместе пройти, можно было бы скооперироваться.",
+        "user": "U21MU5ATE",
+        "ts": "1582869978.068300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6ec8003478b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-27\/488503545155_6ec8003478b73a178825_72.jpg",
+            "first_name": "Vlad",
+            "real_name": "Vlad Lialin",
+            "display_name": "dropout05",
+            "team": "T040HKJE3",
+            "name": "vlyalin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U21MU5ATE",
+            "ts": "1582870025.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Возможно, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slow"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , но недавно узнал про\nStanford CS330 Deep Multi-Task and Meta Learning\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cs330.stanford.edu",
+                                "text": "cs330.stanford.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nЧто довольно забавный и свежий топик среди всей этой CV\/NLP\/RL всем известной скукоты.\n\nВидео лекций, домашки - всё уже доступно. Syllabus на первый взгляд тоже интересный.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Если кто-то хочет вместе пройти, можно было бы скооперироваться."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582869978.068300",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1583168169.155900",
+        "reply_users": [
+            "U9M4BGEL8",
+            "UCQ1YNU9M",
+            "U29TG6K9U",
+            "U3AG4B1N1",
+            "U21MU5ATE"
+        ],
+        "replies": [
+            {
+                "user": "U9M4BGEL8",
+                "ts": "1582877572.069900"
+            },
+            {
+                "user": "UCQ1YNU9M",
+                "ts": "1582883459.072300"
+            },
+            {
+                "user": "U29TG6K9U",
+                "ts": "1582889846.075500"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1583144260.132600"
+            },
+            {
+                "user": "U21MU5ATE",
+                "ts": "1583166017.155000"
+            },
+            {
+                "user": "U21MU5ATE",
+                "ts": "1583166086.155200"
+            },
+            {
+                "user": "U29TG6K9U",
+                "ts": "1583168169.155900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U049HDR2Z",
+                    "US2DY9BPH",
+                    "UAG21HMV4",
+                    "U53E5MFNU",
+                    "U9M4BGEL8",
+                    "USH5UEH35",
+                    "U06J2SBQA",
+                    "U452JCQ7Q",
+                    "U1D6DT6HE"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9V40URDY",
+                    "US2DY9BPH",
+                    "UBY2RK4KU",
+                    "U9M4BGEL8",
+                    "U927PTB1P",
+                    "U29TG6K9U",
+                    "U3AG4B1N1",
+                    "U4E5B4TAN"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UL94X4YCQ",
+                    "U9M4BGEL8",
+                    "USH5UEH35",
+                    "U74DLUWUC",
+                    "U06J2SBQA",
+                    "U4E5B4TAN"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UUHNK8LV6",
+                    "U4E5B4TAN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,640 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484904766.001058",
+        "user": "U3U854LCD",
+        "text": "<@U3U854LCD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Открылся курс по теории вероятностей с iнтерактивным задачником. <https:\/\/courses.edx.org\/courses\/course-v1:MITx+6.041x_4+1T2017\/info>",
+        "user": "U1UM6S9KN",
+        "ts": "1484904942.001059",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1484904977.000000"
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U14BPHDK6",
+                    "U1CF22N7J",
+                    "U1SJ2U4V9",
+                    "U34Q3KU8H",
+                    "U1D6DT6HE"
+                ],
+                "count": 5
+            },
+            {
+                "name": "slow",
+                "users": [
+                    "U09JEC7V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Хули :slow: всего 3 дня назад открылся и ссылки тут на него не было.",
+        "user": "U1UM6S9KN",
+        "ts": "1484905593.001061",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "epta",
+                "users": [
+                    "U14BPHDK6",
+                    "U1G303UTW",
+                    "U049HDR2Z",
+                    "U04ELQZAU",
+                    "U0DA4J82H",
+                    "U34SSE54G",
+                    "U065VP6F7",
+                    "U1CMPEWPQ",
+                    "U0J1U64FK",
+                    "U1D6DT6HE"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Да он тут в чате раз 5 упоминался и все про него знают",
+        "user": "U1CF22N7J",
+        "ts": "1484905654.001062",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Пруф.",
+        "user": "U1UM6S9KN",
+        "ts": "1484905671.001063",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484905682.001064",
+        "user": "U3TF5Q06M",
+        "text": "<@U3TF5Q06M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484905706.001065",
+        "user": "U3TF60E65",
+        "text": "<@U3TF60E65> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F3URQH07Q",
+                "created": 1484905712,
+                "timestamp": 1484905712,
+                "name": "Pasted image at 2017_01_20 17_48.png",
+                "title": "Pasted image at 2017-01-20, 17:48",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CF22N7J",
+                "editable": false,
+                "size": 27959,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F3URQH07Q\/pasted_image_at_2017_01_20_17_48.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F3URQH07Q\/download\/pasted_image_at_2017_01_20_17_48.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F3URQH07Q-7137050fbf\/pasted_image_at_2017_01_20_17_48_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F3URQH07Q-7137050fbf\/pasted_image_at_2017_01_20_17_48_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F3URQH07Q-7137050fbf\/pasted_image_at_2017_01_20_17_48_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F3URQH07Q-7137050fbf\/pasted_image_at_2017_01_20_17_48_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 272,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F3URQH07Q-7137050fbf\/pasted_image_at_2017_01_20_17_48_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "image_exif_rotation": 1,
+                "original_w": 495,
+                "original_h": 281,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U1CF22N7J\/F3URQH07Q\/pasted_image_at_2017_01_20_17_48.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F3URQH07Q-27be60be6d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U1CF22N7J",
+        "display_as_bot": false,
+        "ts": "1484905714.001066"
+    },
+    {
+        "type": "message",
+        "text": "Упоминался, да. Но тут 16 января открылась новая сессия.",
+        "user": "U1UM6S9KN",
+        "ts": "1484905729.001067",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1484905782.000000"
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Слава новой сессии. Но всё равно на три дня слоу :troll:",
+        "user": "U1CF22N7J",
+        "ts": "1484905782.001069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484906279.001070",
+        "user": "U3U83UNGL",
+        "text": "<@U3U83UNGL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "подскажите какой курс или гайд для совсем новичка по ml for computer vision.",
+        "user": "U2Y3V8JP2",
+        "ts": "1484910453.001071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "187702662a2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-05\/100160934800_187702662a2cc97e8dda_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Nahornaya",
+            "display_name": "okeyshka",
+            "team": "T040HKJE3",
+            "name": "okeyshka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Без уточнения решаемой задачи может получиться излишне много курсов или гайдов.",
+        "user": "U1Z78RL3X",
+        "ts": "1484910949.001072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g18de2496f95",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b118de2496f959f19fdd0df2f612cacc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Stromnov",
+            "display_name": "stromnov",
+            "team": "T040HKJE3",
+            "name": "stromnov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Мне курс Райгора + Шабанова в план теорвера нравится больше, чем митовский. В плане задач",
+        "user": "U1R8X3V54",
+        "ts": "1484911029.001073",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну мен курсы нужны для сравнения изображений и нахождения соответсвий",
+        "user": "U2Y3V8JP2",
+        "ts": "1484911085.001074",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "187702662a2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-05\/100160934800_187702662a2cc97e8dda_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Nahornaya",
+            "display_name": "okeyshka",
+            "team": "T040HKJE3",
+            "name": "okeyshka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "так точнее будет?",
+        "user": "U2Y3V8JP2",
+        "ts": "1484911093.001075",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "187702662a2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-05\/100160934800_187702662a2cc97e8dda_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Nahornaya",
+            "display_name": "okeyshka",
+            "team": "T040HKJE3",
+            "name": "okeyshka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Есть два варианта -- с сетями и по дедовски",
+        "user": "U1CF22N7J",
+        "ts": "1484911120.001076",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "оба?",
+        "user": "U2N853RGF",
+        "ts": "1484911468.001077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Первый cs231n, традиционное -- что-то типа <http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/>",
+        "user": "U1CF22N7J",
+        "ts": "1484911594.001078",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "или <https:\/\/www.youtube.com\/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9>",
+        "user": "U1CF22N7J",
+        "ts": "1484911600.001079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Спасибо",
+        "user": "U2Y3V8JP2",
+        "ts": "1484911858.001080",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "187702662a2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-05\/100160934800_187702662a2cc97e8dda_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Nahornaya",
+            "display_name": "okeyshka",
+            "team": "T040HKJE3",
+            "name": "okeyshka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[January 20th, 2017 1:26 PM] cepera_ang: Первый cs231n, традиционное -- что-то типа <http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/>",
+                "ts": "1484911594.001078",
+                "author_subname": "cepera_ang",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Первый cs231n, традиционное -- что-то типа <http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/>",
+                "author_name": "Sergey Mushinskiy",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/cepera_ang",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-29\/46609064901_748992f620b64bb9294c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1484911594001078",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "дедовские методы для предобработки применяются ведь еще? хотя <@U0AD1L5NC> вроде даже углы на фотках сетками искал",
+        "user": "U2N853RGF",
+        "ts": "1484920731.001081",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484922544.001082",
+        "user": "U3U8XB82W",
+        "text": "<@U3U8XB82W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484923117.001083",
+        "user": "U3UVCA1QF",
+        "text": "<@U3UVCA1QF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484923514.001084",
+        "user": "U3UBEMAFN",
+        "text": "<@U3UBEMAFN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484924304.001085",
+        "user": "U3U9CPD1Q",
+        "text": "<@U3U9CPD1Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484924502.001086",
+        "user": "U3TJV6B1P",
+        "text": "<@U3TJV6B1P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484929478.001087",
+        "user": "U3TL9R00H",
+        "text": "<@U3TL9R00H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484931777.001088",
+        "user": "U3TLZEWM7",
+        "text": "<@U3TLZEWM7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "курсера прикольную визуализашку зафигачила, жаль, только us <https:\/\/blog.coursera.org\/united-states-knowledge-courseras-12-learning-regions\/>",
+        "user": "U14BPHDK6",
+        "ts": "1484934359.001089",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera Blog",
+                "title": "United States of Knowledge: Coursera’s 12 Learning Regions | Coursera Blog",
+                "title_link": "https:\/\/blog.coursera.org\/united-states-knowledge-courseras-12-learning-regions\/",
+                "text": "Go here to see an interactive infographic of the United States of Knowledge By Kyle Shiells, Coursera Data Scientist We’re always looking for patterns in w",
+                "fallback": "Coursera Blog: United States of Knowledge: Coursera’s 12 Learning Regions | Coursera Blog",
+                "thumb_url": "https:\/\/blog.coursera.org\/wp-content\/uploads\/2017\/01\/Screen-Shot-2017-01-12-at-9.56.00-AM.png",
+                "ts": 1484185201,
+                "from_url": "https:\/\/blog.coursera.org\/united-states-knowledge-courseras-12-learning-regions\/",
+                "thumb_width": 574,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/blog.coursera.org\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Да, интересно было бы посмотреть по всему миру.",
+        "user": "U0Q3USC0Z",
+        "ts": "1484936126.001091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Был бы датасет...",
+        "user": "U3TF60E65",
+        "ts": "1484938068.001092",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4635202f1762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-24\/262052201462_4635202f1762f9a7ad39_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Zhukov",
+            "display_name": "fall_out_bug",
+            "team": "T040HKJE3",
+            "name": "a_v_zhukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484939880.001093",
+        "user": "U3UBRGNEP",
+        "text": "<@U3UBRGNEP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484946554.001094",
+        "user": "U3V6BPJMV",
+        "text": "<@U3V6BPJMV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484947236.001095",
+        "user": "U3TQ7TW3S",
+        "text": "<@U3TQ7TW3S> has joined the channel"
+    }
+]

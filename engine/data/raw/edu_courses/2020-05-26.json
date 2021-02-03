@@ -1,0 +1,887 @@
+[
+    {
+        "client_msg_id": "73645dc8-1d64-4ec3-bde6-79fbb7142769",
+        "type": "message",
+        "text": "Посоветуйте хорошие курсы\/книги по ML System Design, чтобы хватило на собес в FAANG\nНу и по обычному, но вроде для этого я нашла годные материалы: <https:\/\/github.com\/donnemartin\/system-design-primer>",
+        "user": "U62PAKHV1",
+        "ts": "1590483901.170000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4954b4a9c761",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-18\/229532937510_4954b4a9c7610490713c_72.jpg",
+            "first_name": "Anna",
+            "real_name": "Anna",
+            "display_name": "hedgehog",
+            "team": "T040HKJE3",
+            "name": "hedgehog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "donnemartin\/system-design-primer",
+                "text": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                "title": "donnemartin\/system-design-primer",
+                "footer": "<https:\/\/github.com\/donnemartin\/system-design-primer|donnemartin\/system-design-primer>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1488125728,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "96944",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/donnemartin\/system-design-primer",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JcI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Посоветуйте хорошие курсы\/книги по ML System Design, чтобы хватило на собес в FAANG\nНу и по обычному, но вроде для этого я нашла годные материалы: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/donnemartin\/system-design-primer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7FCC08AD-65A4-4127-BFA9-B229F75670DB",
+        "type": "message",
+        "text": "<@U53E5MFNU> , спасибо огромное за ссылку на книгу!",
+        "user": "UUCMUC3D1",
+        "ts": "1590492816.171900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81942cc7647f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-23\/1442253498582_81942cc7647f71f649b9_72.jpg",
+            "first_name": "",
+            "real_name": "Margarita M",
+            "display_name": "Margarita M",
+            "team": "T040HKJE3",
+            "name": "margarita.m.melnikova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bawK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U53E5MFNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , спасибо огромное за ссылку на книгу!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584642823.487100",
+        "parent_user_id": "USU8CRWFK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "564547e5-9085-47a7-9697-8c67e2603273",
+        "type": "message",
+        "text": "<@ULA9NCQM8> `Второй - агрегации` это ж как раз оконные функции: min, max, avg, sum, group by?",
+        "user": "U5S11SHM4",
+        "ts": "1590498674.172200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lpNiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULA9NCQM8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Второй - агрегации",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " это ж как раз оконные функции: min, max, avg, sum, group by?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "f1d7865d-c10a-495e-a2ce-e4c20ab5a5cb",
+        "type": "message",
+        "text": "Порекомендуйте, пожалуйста, хорошие курсы по stakeholder management.",
+        "user": "U0R55NS1M",
+        "ts": "1590503805.173500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0b029e62ab4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-04\/392278498945_0b029e62ab4ee0246507_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Kachala",
+            "display_name": "mkachala",
+            "team": "T040HKJE3",
+            "name": "mkachala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0AoWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Порекомендуйте, пожалуйста, хорошие курсы по stakeholder management."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590503805.173500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1590573186.196700",
+        "reply_users": [
+            "U6QBC2ERG",
+            "U0R55NS1M"
+        ],
+        "replies": [
+            {
+                "user": "U6QBC2ERG",
+                "ts": "1590507251.174800"
+            },
+            {
+                "user": "U0R55NS1M",
+                "ts": "1590569281.193700"
+            },
+            {
+                "user": "U6QBC2ERG",
+                "ts": "1590573186.196700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U013MT6FPDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65d0207d-4b86-416a-9a21-7bb128a898d2",
+        "type": "message",
+        "text": "Под оконными функциями обычно имеют в виду всякие lag, lead, row_number, partition by и т д",
+        "user": "U8M5Y2Z6H",
+        "ts": "1590503850.173700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "430d9ea14185",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-11\/821725632017_430d9ea14185789ff063_72.jpg",
+            "first_name": "Maksim",
+            "real_name": "Maksim Makarov",
+            "display_name": "Maksim Makarov",
+            "team": "T040HKJE3",
+            "name": "maksmakar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Под оконными функциями обычно имеют в виду всякие lag, lead, row_number, partition by и т д"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "c8a66024-6b3d-4115-888e-873c37c65d67",
+        "type": "message",
+        "text": "min. max тож могут быть оконными если partition by сделать, но не для каждой базы",
+        "user": "UHY5KKK6D",
+        "ts": "1590504589.174000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bW7HV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "min. max тож могут быть оконными если partition by сделать, но не для каждой базы"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "538c076a-ba7b-4132-b750-260cdeeb0cba",
+        "type": "message",
+        "text": "Спасибо заобьяснения)\nНе, lag, lead, row_number не были покрыты",
+        "user": "U5S11SHM4",
+        "ts": "1590504679.174200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо заобьяснения)\nНе, lag, lead, row_number не были покрыты"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "ac9121ba-49cc-43af-9f99-b30ef2f16f36",
+        "type": "message",
+        "text": "<@ULA9NCQM8>, нет. Их немного есть в sql zoo, в курсе на udacity.",
+        "user": "U973F8TLJ",
+        "ts": "1590506940.174600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4a254330cab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/624a254330cab48a618143947e1dc3b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Smart5172",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "smart5172",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULA9NCQM8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", нет. Их немного есть в sql zoo, в курсе на udacity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "ULA9NCQM8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75dc796c-30f3-447c-8ea6-ae8505e155f9",
+        "type": "message",
+        "text": "Мне лично больше всего нравится подборка курсов от SAP:\nSAP OCM100 – Mastering Organizational Change Management in SAP Projects\nSAP OCM200 – Set-Up of OCM in SAP Projects OCM Governance Communication\nSAP OCM300 – SAP BTC Training Organizational Change Management\nSAP OCM400 - Organizational Change Management in SAP Projects\n\nС одной стороны - методология заточена под большие проекты трансформации бизнеса, с другой стороны - всесторонне покрывает вопросы построения системы управления стейкхолдерами.\n\nЕсли сравнивать с подходами от Project Management Insitute (PMI) или Association of Change Management Professionals (ACMP), которые выпустили свои стандарты, то получается свод знаний глубже, шире и интереснее.",
+        "user": "U6QBC2ERG",
+        "ts": "1590507251.174800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1b5ad389948d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-04\/235973609506_1b5ad389948d658d1b98_72.jpg",
+            "first_name": "Vadeem",
+            "real_name": "Vadeem Safronov",
+            "display_name": "vadym.safronov",
+            "team": "T040HKJE3",
+            "name": "vadym.safronov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8gtY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мне лично больше всего нравится подборка курсов от SAP:\nSAP OCM100 – Mastering Organizational Change Management in SAP Projects\nSAP OCM200 – Set-Up of OCM in SAP Projects OCM Governance Communication\nSAP OCM300 – SAP BTC Training Organizational Change Management\nSAP OCM400 - Organizational Change Management in SAP Projects\n\nС одной стороны - методология заточена под большие проекты трансформации бизнеса, с другой стороны - всесторонне покрывает вопросы построения системы управления стейкхолдерами.\n\nЕсли сравнивать с подходами от Project Management Insitute (PMI) или Association of Change Management Professionals (ACMP), которые выпустили свои стандарты, то получается свод знаний глубже, шире и интереснее."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590503805.173500",
+        "parent_user_id": "U0R55NS1M"
+    },
+    {
+        "client_msg_id": "4aab665b-d1e6-43fd-bac2-d2007bd2dc02",
+        "type": "message",
+        "text": "Всем привет :sunny:\n\nВ SQL Habit покрыто всё – с нуля до Window Functions с кучей разных нюансов.\n\nСамое главное отличие SQL Habit от всех остальных курсов – это бизнес симуляция, курс рассказывает про SQL и аналитику данных в реальной компании, с кучей примеров из маркетинга, продакт менеджмента и бизнеса.\n\nЯ понимаю, что явно промахнулся с названием, потому что курс гораздо шире SQL :see_no_evil:",
+        "user": "U010WCKFS9W",
+        "ts": "1590521164.175600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge302c3320cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e302c3320cd14b02cbe237b479d7f884.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "makaroni4",
+            "display_name": "makaroni4",
+            "team": "T040HKJE3",
+            "name": "makaroni4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U010WCKFS9W",
+            "ts": "1590521284.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ByN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nВ SQL Habit покрыто всё – с нуля до Window Functions с кучей разных нюансов.\n\nСамое главное отличие SQL Habit от всех остальных курсов – это бизнес симуляция, курс рассказывает про SQL и аналитику данных в реальной компании, с кучей примеров из маркетинга, продакт менеджмента и бизнеса.\n\nЯ понимаю, что явно промахнулся с названием, потому что курс гораздо шире SQL "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "83491078-244d-4f0e-9e84-fa0636b07b3b",
+        "type": "message",
+        "text": "Раз пошла такая пьянка, с удовольствием сделаю 40% скидку на время карантина: <https:\/\/gumroad.com\/l\/kwYeT\/sqlhabit_ods>\n\nПользуйтесь на здоровье, буду рад помочь, если будут какие-то вопросы :rocket:",
+        "user": "U010WCKFS9W",
+        "ts": "1590521334.175900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge302c3320cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e302c3320cd14b02cbe237b479d7f884.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "makaroni4",
+            "display_name": "makaroni4",
+            "team": "T040HKJE3",
+            "name": "makaroni4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U010WCKFS9W",
+            "ts": "1590521343.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Gumroad",
+                "title": "SQL Habit – Complete Package",
+                "title_link": "https:\/\/gumroad.com\/l\/kwYeT\/sqlhabit_ods",
+                "text": "With SQL Habit you'll go from scratch to the advanced techniques of business, product, marketing analytics and more. SQL Habit covers enough material to run a company. The Essentials Package includes: 200+ lessons and exercises covering 250 pages of content, Unlimited access to all online lessons and exercises on SLQ Habit website, Verified LinkedIn certificate, A private Telegram group with the author and your fellow participants. Learn more at <https:\/\/www.sqlhabit.com>",
+                "fallback": "Gumroad: SQL Habit – Complete Package",
+                "image_url": "https:\/\/static-2.gumroad.com\/res\/gumroad\/764555915080\/asset_previews\/f7ebebe247656ca4b48d570384a100c2\/retina\/Gumroad_20preview_20%281%29.png",
+                "image_width": 558,
+                "image_height": 250,
+                "from_url": "https:\/\/gumroad.com\/l\/kwYeT\/sqlhabit_ods",
+                "image_bytes": 77295,
+                "service_icon": "https:\/\/gumroad.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gumroad.com\/l\/kwYeT\/sqlhabit_ods"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cica",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Раз пошла такая пьянка, с удовольствием сделаю 40% скидку на время карантина: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gumroad.com\/l\/kwYeT\/sqlhabit_ods"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nПользуйтесь на здоровье, буду рад помочь, если будут какие-то вопросы "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "0ea864f7-4cd9-482a-8316-9790b728393d",
+        "type": "message",
+        "text": "В этом семестре сделали курс в ШАДе :shad: по теме “Как делать технический MVP продукта“, что получилось в цифрах:\n* 16 преподавателей, профессионалы в своих областях: бэкенд разработка, инфраструктура, фронтенд разработка, машинное обучение. Не знаю все ли есть тут, по этому не тегаю\n* 13 лекций\n* 3 проекта\n* 5 студенческих команд (проекты дублировались)\n* 2 ментора в каждой команде\n* 18 студентов\n\nСуть была такова, что команды выбирают 1 из 5 продуктов и херачат его в продакшн весь семестр. 2 проекта отвалилось (никто не выбрал), все проекты были так или иначе с мл: анализ звука, CV, NLP. Некоторые проекты были “берем эту либу с гитхаба и делаем, чтобы работало в проде” на мой взгляд, самая рабочая в жизни стратегия.\n\n3 месяца назад практически никто из ребят не касался настоящей разработки, а сейчас все команды могут собрать живой проект на стэке Django + React + Docker + Gitlab и задеплоить это все в облако.\nСам курс тоже эксперимент и качество лекций стоит улучшать, но отзывы положительные. Как и на Физтехе, преподы — это не люди с педагогическим образованием, а просто крутые профессионалы.\n\nЯ буду рад помочь всем, кто готов взять на себя инициативу и провести такой курс в своем вузе и показать, как сильно отличается настоящая разработка от того, чему учат.\n\nСкоро программа курса будет доступна в Open Source, но с некоммерческим использованием. По этой программе можно задеплоить курс в любом универе, примерно в течение 2х недель. Напишите мне, если вам нужна помощь и вы готовы закоммититься.",
+        "user": "U17S9F6KV",
+        "ts": "1590526974.181300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bc14c9e79819",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1408645159239_bc14c9e798197f999800_72.jpg",
+            "first_name": "Vitaly",
+            "real_name": "Vitaly Davydov",
+            "display_name": "iwitaly",
+            "team": "T040HKJE3",
+            "name": "iwitaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIxk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В этом семестре сделали курс в ШАДе "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shad"
+                            },
+                            {
+                                "type": "text",
+                                "text": " по теме “Как делать технический MVP продукта“, что получилось в цифрах:\n* 16 преподавателей, профессионалы в своих областях: бэкенд разработка, инфраструктура, фронтенд разработка, машинное обучение. Не знаю все ли есть тут, по этому не тегаю\n* 13 лекций\n* 3 проекта\n* 5 студенческих команд (проекты дублировались)\n* 2 ментора в каждой команде\n* 18 студентов\n\nСуть была такова, что команды выбирают 1 из 5 продуктов и херачат его в продакшн весь семестр. 2 проекта отвалилось (никто не выбрал), все проекты были так или иначе с мл: анализ звука, CV, NLP. Некоторые проекты были “берем эту либу с гитхаба и делаем, чтобы работало в проде” на мой взгляд, самая рабочая в жизни стратегия.\n\n3 месяца назад практически никто из ребят не касался настоящей разработки, а сейчас все команды могут собрать живой проект на стэке Django + React + Docker + Gitlab и задеплоить это все в облако.\nСам курс тоже эксперимент и качество лекций стоит улучшать, но отзывы положительные. Как и на Физтехе, преподы — это не люди с педагогическим образованием, а просто крутые профессионалы.\n\nЯ буду рад помочь всем, кто готов взять на себя инициативу и провести такой курс в своем вузе и показать, как сильно отличается настоящая разработка от того, чему учат.\n\nСкоро программа курса будет доступна в Open Source, но с некоммерческим использованием. По этой программе можно задеплоить курс в любом универе, примерно в течение 2х недель. Напишите мне, если вам нужна помощь и вы готовы закоммититься."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590526974.181300",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1590690222.207700",
+        "reply_users": [
+            "U2GAEHQR1",
+            "UNSU7HRA8",
+            "U7VDWFSG3"
+        ],
+        "replies": [
+            {
+                "user": "U2GAEHQR1",
+                "ts": "1590566097.190700"
+            },
+            {
+                "user": "UNSU7HRA8",
+                "ts": "1590684371.206600"
+            },
+            {
+                "user": "U7VDWFSG3",
+                "ts": "1590689819.207500"
+            },
+            {
+                "user": "UNSU7HRA8",
+                "ts": "1590690222.207700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UK181SL1H",
+                    "U4YEK80R1",
+                    "U7VDWFSG3",
+                    "UDK41MN5U",
+                    "U6BRZBJ72",
+                    "U705ED0CU",
+                    "UB4AGRL3C",
+                    "UBXSJFA4C",
+                    "U54A89STH",
+                    "UMM4N60K1",
+                    "U6M7H8JMU",
+                    "U709XK88H",
+                    "U1UNFRQ1K",
+                    "U21MU5ATE",
+                    "U047Z85QW",
+                    "UGCC72RND",
+                    "UC7F2BVR9",
+                    "UTCLVKQD8",
+                    "U4ZRFG1V0",
+                    "U9W1PD5QD",
+                    "U6SHTGD5X",
+                    "U7166RP99",
+                    "UH1GA3UQ6",
+                    "UHSR5B6LT",
+                    "U8JCZ254Z",
+                    "UBM0JAD0B",
+                    "USSV2P8UF",
+                    "U87R75WA2",
+                    "U4N7G9RQA",
+                    "U6447V9T3",
+                    "UTPQ445BM",
+                    "U06J2SBQA",
+                    "U3L8883J8",
+                    "U8SFXRKCH",
+                    "U6TFPN2CQ",
+                    "U0SBLSTJ4",
+                    "USJDT3A0H",
+                    "UBM4B8CBU",
+                    "U013MT6FPDM",
+                    "U977SGE59",
+                    "UHGUXSJRK",
+                    "U600Q839S",
+                    "UL958AM32",
+                    "U4Z9Q18QH",
+                    "UJ2PZ7Y6M",
+                    "UU6LQEZFS",
+                    "URJ1D0ANB",
+                    "U6QBC2ERG",
+                    "UCW4TBCER",
+                    "UFKQR93QS"
+                ],
+                "count": 97
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UK181SL1H",
+                    "U4YEK80R1",
+                    "U7VDWFSG3",
+                    "UDK41MN5U",
+                    "U705ED0CU",
+                    "UACAW8UT1",
+                    "U1D6DT6HE",
+                    "UBXSJFA4C",
+                    "U54A89STH",
+                    "U0123QM5TJ6",
+                    "U6M7H8JMU",
+                    "U709XK88H",
+                    "U53E5MFNU",
+                    "UC7F2BVR9",
+                    "U4ZRFG1V0",
+                    "U6SHTGD5X",
+                    "UHSR5B6LT",
+                    "U8JCZ254Z",
+                    "U8M5Y2Z6H",
+                    "UBM0JAD0B",
+                    "U87R75WA2",
+                    "U6447V9T3",
+                    "URCGASH52",
+                    "U7DTGC4PL",
+                    "U06J2SBQA",
+                    "U3L8883J8",
+                    "U8SFXRKCH",
+                    "USJDT3A0H",
+                    "U0140LZK1V4",
+                    "U19EZ8L5D",
+                    "UBM4B8CBU",
+                    "UHGUXSJRK",
+                    "U4Z9Q18QH",
+                    "UCW4TBCER",
+                    "U1YJMBWVD",
+                    "UFKQR93QS",
+                    "U4137HBM0",
+                    "UQLFWQ4HG",
+                    "U19FSHKL2",
+                    "U6SCXUP6U",
+                    "UNFTX1XT9",
+                    "U2TR489RU",
+                    "U4X5JVCQ0",
+                    "ULMML7Z5K",
+                    "U6QCT6YN6",
+                    "UC9J53NAY",
+                    "UGFCM3B5M",
+                    "UT4DKF4DN",
+                    "U9LKKNJHE",
+                    "ULF96QF3K"
+                ],
+                "count": 58
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U5H0L5T98",
+                    "UHGUXSJRK",
+                    "U6SCXUP6U",
+                    "U62PAKHV1",
+                    "UEUF307BJ",
+                    "U24K8CCH4",
+                    "U29TG6K9U"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07c9ec31-dfe5-4599-90df-737177ebb2dd",
+        "type": "message",
+        "text": "<@U010WCKFS9W> спасибо! В одном шаге от покупки- одно только смущает. Почему курс для \"маркетологов, продактов, и си и о\"? Для обычного разраба слишком... поверхностно?",
+        "user": "UCKTJQG9K",
+        "ts": "1590531457.183600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g89a9e119a4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd89a9e119a4aeea00d90026998d6994.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Petr Kungurtsev",
+            "display_name": "corwin",
+            "team": "T040HKJE3",
+            "name": "pk456",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ZDcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010WCKFS9W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " спасибо! В одном шаге от покупки- одно только смущает. Почему курс для \"маркетологов, продактов, и си и о\"? Для обычного разраба слишком... поверхностно?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "client_msg_id": "1eac3825-0e61-4050-9e58-e7aabe7631a4",
+        "type": "message",
+        "text": "<@U010WCKFS9W>  Был бы он еще на русском языке... По крайней мере мне было бы удобнее. ",
+        "user": "ULA9NCQM8",
+        "ts": "1590556135.186200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge6f193334fc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/51e6f193334fc49ad4a7561c650c36fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Ilya",
+            "real_name": "Ilya Shaybulatov",
+            "display_name": "Ilya Shaybulatov",
+            "team": "T040HKJE3",
+            "name": "ilya.shaybulatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvE+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010WCKFS9W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Был бы он еще на русском языке... По крайней мере мне было бы удобнее. ",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590418687.160200",
+        "parent_user_id": "U5S11SHM4"
+    }
+]

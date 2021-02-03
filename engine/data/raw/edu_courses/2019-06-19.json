@@ -1,0 +1,275 @@
+[
+    {
+        "client_msg_id": "d558bb31-b91f-4c1f-95f7-e0b59698b693",
+        "type": "message",
+        "text": "<@U9QCYD1LJ> А когда можно ожидать результаты?",
+        "user": "UGWSW1Y3W",
+        "ts": "1560948548.224600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f477f0ca8276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-13\/575496476645_f477f0ca82768405b625_72.jpg",
+            "first_name": "",
+            "real_name": "Rafail Fridman",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rafailfridman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559646008.004800",
+        "parent_user_id": "U9QCYD1LJ"
+    },
+    {
+        "client_msg_id": "844758f9-3d15-4f5f-8792-e3d92b72138a",
+        "type": "message",
+        "text": "Только что заметил, что первый комментарий к видео - текстовое изложение зачитываемого материала. Это ж великолепно! Спасибо!",
+        "user": "U4WM1939Q",
+        "ts": "1560949131.224800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559657928.008500",
+        "parent_user_id": "UDRVCKGU8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2AD9CMR7",
+                    "U907S63D0",
+                    "UD4GTQTQS"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68d53f6c-288e-4c66-a6f1-2ae4a224f5de",
+        "type": "message",
+        "text": "<@UGWSW1Y3W> список участников будет сформирован к концу следующей недели. Пока проводится обработка заявок.",
+        "user": "U9QCYD1LJ",
+        "ts": "1560951547.225100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "65950e2d7f44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/603739093140_65950e2d7f440ca254d7_72.jpg",
+            "first_name": "Andrei",
+            "real_name": "Andrei Andrusenko",
+            "display_name": "andrusenko",
+            "team": "T040HKJE3",
+            "name": "andrusenkoau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559646008.004800",
+        "parent_user_id": "U9QCYD1LJ"
+    },
+    {
+        "client_msg_id": "09349eec-fa52-4076-9fe1-d000e44c76c3",
+        "type": "message",
+        "text": "ТУМовский практикум с задачками:\n<https:\/\/vision.in.tum.de\/teaching\/ss2018\/gpucourse_ss2018\/material>\n\npass: cuda18",
+        "user": "U80PM6B97",
+        "ts": "1560957828.225400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69667b089a28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-02\/1463667220886_69667b089a28bf58bb2f_72.jpg",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Petukhov",
+            "display_name": "Dmitrii Petukhov",
+            "team": "T040HKJE3",
+            "name": "dimart.sp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U80PM6B97",
+            "ts": "1560957862.000000"
+        },
+        "attachments": [
+            {
+                "title": "Computer Vision Group - Slides",
+                "title_link": "https:\/\/vision.in.tum.de\/teaching\/ss2018\/gpucourse_ss2018\/material",
+                "text": "Slides Slides Date Slides Exercises 17.09.2018 [ CUDA - Introduction] [Exercises 1][ Math - Images as Functions] 18.09.2018 [ CUDA - Memories] [Exercises 2][ Math - Structure Tensor] 19.09.2018 [ CUDA - Optimization] [Exercises 3][ Math - Diffusion] 20.09.2018 [ CUDA - Miscellaneous] [Exercises 4][ Math - Variational Methods] 21.09.2018 [ CUDA - Development Tools] [ Final Projects] Assignment # Students Assigned projects Supervisor 1 Oskar Haller, Canberk Demirsoy, Bengisu Elis Co…",
+                "fallback": "Computer Vision Group - Slides",
+                "from_url": "https:\/\/vision.in.tum.de\/teaching\/ss2018\/gpucourse_ss2018\/material",
+                "service_icon": "https:\/\/vision.in.tum.de\/lib\/tpl\/inf9v2\/portal\/apple-touch-icon-57x57.png",
+                "service_name": "vision.in.tum.de",
+                "id": 1,
+                "original_url": "https:\/\/vision.in.tum.de\/teaching\/ss2018\/gpucourse_ss2018\/material"
+            }
+        ],
+        "thread_ts": "1560870840.218800",
+        "parent_user_id": "UDZC02ATZ",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U94HE36E9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5aec680-f085-43dd-b497-c452a27cfcd0",
+        "type": "message",
+        "text": "Есть стенфордский курс cs193g\nЗадачи\n<https:\/\/github.com\/jaredhoberock\/stanford-cs193g-sp2010>\nЛекции\n<https:\/\/youtube.com\/playlist?list=PL3ZuCUakLElUfLVRoyFKl_FeeYcIOLm0p>",
+        "user": "UECG4JY3Y",
+        "ts": "1560960520.226100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gaf61fdfcf8c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/79af61fdfcf8c92cbc9ce08665134d4b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Устинов",
+            "real_name": "Устинов Иван",
+            "display_name": "juicyfruit",
+            "team": "T040HKJE3",
+            "name": "pooploorus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "jaredhoberock\/stanford-cs193g-sp2010",
+                "text": "Automatically exported from <http:\/\/code.google.com\/p\/stanford-cs193g-sp2010|code.google.com\/p\/stanford-cs193g-sp2010>",
+                "title": "jaredhoberock\/stanford-cs193g-sp2010",
+                "footer": "<https:\/\/github.com\/jaredhoberock\/stanford-cs193g-sp2010|jaredhoberock\/stanford-cs193g-sp2010>",
+                "id": 1,
+                "ts": 1426313349,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "79",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "C++",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/jaredhoberock\/stanford-cs193g-sp2010",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1560870840.218800",
+        "parent_user_id": "UDZC02ATZ"
+    },
+    {
+        "client_msg_id": "a300ba94-030a-4dc9-8721-9b2fd35176a1",
+        "type": "message",
+        "text": "Может продлите набор?)",
+        "user": "U709XK88H",
+        "ts": "1560970760.226500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560621255.180900",
+        "parent_user_id": "UC6MKGVRN"
+    },
+    {
+        "client_msg_id": "47CCA43A-CA87-4E7C-ADA1-6501EFC5AB77",
+        "type": "message",
+        "text": "Пришли письма ",
+        "user": "U80PM6B97",
+        "ts": "1560973344.226900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69667b089a28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-02\/1463667220886_69667b089a28bf58bb2f_72.jpg",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Petukhov",
+            "display_name": "Dmitrii Petukhov",
+            "team": "T040HKJE3",
+            "name": "dimart.sp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560777499.189200",
+        "parent_user_id": "U1YK4SV6W"
+    },
+    {
+        "client_msg_id": "5FA32A1D-05D6-4762-A1C8-211A41E4EC0C",
+        "type": "message",
+        "text": "По MLSS Moscow пришли результаты ",
+        "user": "U80PM6B97",
+        "ts": "1560973372.227600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69667b089a28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-02\/1463667220886_69667b089a28bf58bb2f_72.jpg",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Petukhov",
+            "display_name": "Dmitrii Petukhov",
+            "team": "T040HKJE3",
+            "name": "dimart.sp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U4BFBQHBQ",
+                    "UBA7N1YSG",
+                    "U0H7VBQQ1",
+                    "U1UC11GGN",
+                    "UC7F2BVR9",
+                    "UDJS7Q1DL",
+                    "U0ZJSC8JC",
+                    "U46T36RAA",
+                    "UFMKTJWNS",
+                    "U7Z5MQF5E",
+                    "U1SD1104E",
+                    "U80PM6B97",
+                    "UAJ7DCXSP",
+                    "U3P82LKDK",
+                    "UFUN87R0S",
+                    "U92Q22QDQ"
+                ],
+                "count": 16
+            }
+        ]
+    }
+]

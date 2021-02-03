@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "Я написал, мне вернули",
+        "user": "U8PT29MJS",
+        "ts": "1515245639.000016",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac6c9e6e42a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2ac6c9e6e42abcb4573f32bd7d68870.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Romanov",
+            "display_name": "kvr777",
+            "team": "T040HKJE3",
+            "name": "kirill.v.romanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1515096663.000313",
+        "parent_user_id": "U4U4GFDNK",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6MD6AVK2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U6MD6AVK2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кому интересно, видео второй версии выложили на ютубе Джереми Ховарда  <https:\/\/youtu.be\/IPBSB1HLNLo>. А тетрадки лежат в репозитории fastai <https:\/\/github.com\/fastai\/fastai\/tree\/master\/courses> Кстати, там же есть ещё курс по machine learning. ",
+        "user": "U8BLX5EEN",
+        "ts": "1515253932.000079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "39e8fa8532ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-28\/293049004471_39e8fa8532ca8ec902ed_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey",
+            "display_name": "skydve",
+            "team": "T040HKJE3",
+            "name": "adrobinko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Deep Learning 2: Lesson 1",
+                "title_link": "https:\/\/youtu.be\/IPBSB1HLNLo",
+                "author_name": "Jeremy Howard",
+                "author_link": "https:\/\/www.youtube.com\/user\/howardjeremyp",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IPBSB1HLNLo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Deep Learning 2: Lesson 1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/IPBSB1HLNLo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/IPBSB1HLNLo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "fastai\/fastai",
+                "title_link": "https:\/\/github.com\/fastai\/fastai\/tree\/master\/courses",
+                "text": "fastai - The <http:\/\/fast.ai|fast.ai> deep learning library, lessons, and tutorials",
+                "fallback": "GitHub: fastai\/fastai",
+                "from_url": "https:\/\/github.com\/fastai\/fastai\/tree\/master\/courses",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/20547620?s=400&v=4",
+                "thumb_width": 135,
+                "thumb_height": 135,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 2
+            }
+        ],
+        "thread_ts": "1515055039.000141",
+        "parent_user_id": "U4ZRFG1V0",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U4YQSE857"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

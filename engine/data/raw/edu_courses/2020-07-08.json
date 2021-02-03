@@ -1,0 +1,476 @@
+[
+    {
+        "client_msg_id": "cf68a08c-371d-44c0-83b9-88c1840b852f",
+        "type": "message",
+        "text": "GoPractice хороший курс. Там обучение строится через история развития продукта (мобильного приложения).\n\nМогу сказать, какой курс точно *НЕ* надо проходить. Самый ужасный (вообще из всех курсов что я проходил): <http:\/\/productuniversity.ru|productuniversity.ru>",
+        "user": "U262NSHCK",
+        "ts": "1594194326.242000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0e7da2cbd87",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e7da2cbd87e0b63ca11ea59d9c5816b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ershov",
+            "display_name": "ea",
+            "team": "T040HKJE3",
+            "name": "ea",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U262NSHCK",
+            "ts": "1594194361.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GoPractice хороший курс. Там обучение строится через история развития продукта (мобильного приложения).\n\nМогу сказать, какой курс точно "
+                            },
+                            {
+                                "type": "text",
+                                "text": "НЕ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " надо проходить. Самый ужасный (вообще из всех курсов что я проходил): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/productuniversity.ru",
+                                "text": "productuniversity.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "4efddc86-0640-4ebc-b6cc-e18781660537",
+        "type": "message",
+        "text": "Вроде тоже неплохая статья\n<https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/>",
+        "user": "U60EETE7N",
+        "ts": "1594198883.242500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "nvie.com",
+                "title": "A successful Git branching model",
+                "title_link": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/",
+                "text": "In this post I present a Git branching strategy for developing and releasing software as I’ve used it in many of my projects, and which has turned out to be very successful.",
+                "fallback": "nvie.com: A successful Git branching model",
+                "image_url": "http:\/\/nvie.com\/img\/git-model@2x.png",
+                "from_url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/",
+                "image_width": 189,
+                "image_height": 250,
+                "image_bytes": 124925,
+                "id": 1,
+                "original_url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bifdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вроде тоже неплохая статья\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593182718.482900",
+        "parent_user_id": "UDHJKLGLR"
+    },
+    {
+        "client_msg_id": "cda59bcf-2fda-4995-8f94-a59e01d321de",
+        "type": "message",
+        "text": "Это про git flow. С этой статьи все и началось, вроде.",
+        "user": "U786EB23G",
+        "ts": "1594210514.242800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "dee5186d927b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/989960295280_dee5186d927bf97b59bd_72.png",
+            "first_name": "Nodari",
+            "real_name": "Nodari Lipartiya",
+            "display_name": "Nodar",
+            "team": "T040HKJE3",
+            "name": "nodari.lipartiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xtG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Это про git flow. С этой статьи все и началось, вроде."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593182718.482900",
+        "parent_user_id": "UDHJKLGLR"
+    },
+    {
+        "client_msg_id": "565e492c-3782-4501-873a-df4384af17ac",
+        "type": "message",
+        "text": "Всем привет! Посоветуйте, пожалуйста,  мощные курсы по дс. Сам в этой теме не новичок, т.е. отучился на данной специальности, но работаю софтвер инженером. Хотелось бы серьезно заняться дата сайенсом.",
+        "user": "UDUPK0ADC",
+        "ts": "1594239931.243900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9a330912a61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3b9a330912a61cdc14baf6e4f5eafcdd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "frost",
+            "real_name": "frost",
+            "display_name": "frost",
+            "team": "T040HKJE3",
+            "name": "d.olegov99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDUPK0ADC",
+            "ts": "1594240605.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zc\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Посоветуйте, пожалуйста,  мощные курсы по дс. Сам в этой теме не новичок, т.е. отучился на данной специальности, но работаю софтвер инженером. Хотелось бы серьезно заняться дата сайенсом."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594239931.243900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1594511297.270800",
+        "reply_users": [
+            "U97RK52N6",
+            "UCH0N0M3J",
+            "UNL2LDEJF"
+        ],
+        "replies": [
+            {
+                "user": "U97RK52N6",
+                "ts": "1594278932.256400"
+            },
+            {
+                "user": "UCH0N0M3J",
+                "ts": "1594482898.270200"
+            },
+            {
+                "user": "UNL2LDEJF",
+                "ts": "1594511297.270800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "U7SFPUVQF",
+                    "UQWQH3DEU",
+                    "UB4F4DZGV",
+                    "UMM890NT1",
+                    "U93NG91QC",
+                    "U8PMZ6397",
+                    "ULF96QF3K"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DCD015FF-ADB8-41FF-98FF-4E11A4B98BE4",
+        "type": "message",
+        "text": "Go practice это не про продакт менеджмент, а про продуктовую аналитику и data driven подход к принятию решений. Но все равно его очень рекомендую для PM. \nИз чисто PM курсов У Ильи Красинского клевый курс Product Heroes. Смешанные отзывы получал про курс от SkillBox. \nИз литературы рекомендую: Lean Startup, The Mom Test, Lean Customer Development, Inspired и Personal MBA",
+        "user": "U1FLG6YR1",
+        "ts": "1594241550.253200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go practice это не про продакт менеджмент, а про продуктовую аналитику и data driven подход к принятию решений. Но все равно его очень рекомендую для PM. \nИз чисто PM курсов У Ильи Красинского клевый курс Product Heroes. Смешанные отзывы получал про курс от SkillBox. \nИз литературы рекомендую: Lean Startup, The Mom Test, Lean Customer Development, Inspired и Personal MBA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "C4F16157-616C-425D-8C08-5DA1A4C9F385",
+        "type": "message",
+        "text": "<@UCMC5J36D> он же там стоит, кажется, где то 30-40к. Это куча денег? ",
+        "user": "U1FLG6YR1",
+        "ts": "1594241676.254300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UCMC5J36D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " он же там стоит, кажется, где то 30-40к. Это куча денег? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "6355c1aa-f711-4fde-a812-f0364969e3d6",
+        "type": "message",
+        "text": "это 3-4 МРОТа как минимум",
+        "user": "U8J9XMX3J",
+        "ts": "1594242920.254700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "627429d92d1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-24\/759570075315_627429d92d1b28372d61_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Timofeev",
+            "display_name": "nomad",
+            "team": "T040HKJE3",
+            "name": "gyddone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eLYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "это 3-4 МРОТа как минимум"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N",
+        "reactions": [
+            {
+                "name": "el_resitas_shake",
+                "users": [
+                    "U1FLG6YR1",
+                    "UMY3SJF5K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1761ce7-e17c-4d95-8e93-6a848dd6ab84",
+        "type": "message",
+        "text": "@*<https:\/\/app.slack.com\/team\/U1FLG6YR1|hushpar>:* Ну начнем с того, что на главной странице они не пишут стоимость вообще. Т.е. надо регистрироваться, после чего, как я помню, цена меня неприятно удивила (смотрел где-то полгода назад, по-моему было в диапазоне 60-80т). Почему не озвучить цену до регистрации?",
+        "user": "UCMC5J36D",
+        "ts": "1594246530.254900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIW99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U1FLG6YR1",
+                                "text": "hushpar",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ну начнем с того, что на главной странице они не пишут стоимость вообще. Т.е. надо регистрироваться, после чего, как я помню, цена меня неприятно удивила (смотрел где-то полгода назад, по-моему было в диапазоне 60-80т). Почему не озвучить цену до регистрации?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "8607DCF7-C1C8-4EA7-B8BB-017299D106E7",
+        "type": "message",
+        "text": "Потому что продается так лучше",
+        "user": "U1FLG6YR1",
+        "ts": "1594272501.256100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d3kg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Потому что продается так лучше"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594132624.238000",
+        "parent_user_id": "U60EETE7N"
+    }
+]

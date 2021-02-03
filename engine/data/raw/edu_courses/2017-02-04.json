@@ -1,0 +1,442 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486198070.001709",
+        "user": "U41LXEY3Z",
+        "text": "<@U41LXEY3Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486201783.001710",
+        "user": "U4130T3T6",
+        "text": "<@U4130T3T6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "посоветуйте, пожалуйста, какой-то неплохой современный курс по computer vision. (cs231n я уже смотрел) наверное больше интересно что-то более cv специфическое или классическое. Что кстати по курсу Конушина можете сказать? на YouTube ему уже 3 года - не устарел ли он?",
+        "user": "U2M0WG6F2",
+        "ts": "1486207997.001711",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "52924ed31717",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-02\/148772720499_52924ed317177bb1e19c_72.jpg",
+            "first_name": "Obednikov",
+            "real_name": "Obednikov Alex",
+            "display_name": "obednikov.alex",
+            "team": "T040HKJE3",
+            "name": "obednikov.alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486208291.001712",
+        "user": "U413KB09K",
+        "text": "<@U413KB09K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Современное - это как раз различные нейронки. То есть cs231n + статьи. Скорее стоит выбать какую-то одну задачу, а не computer vision в целом, и уже копать в этом направлении.  Если классическое, то мне вот этот норм заходит <https:\/\/www.udacity.com\/course\/introduction-to-computer-vision--ud810> Немного почти обо всем",
+        "user": "U27HD50AX",
+        "ts": "1486209320.001713",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9c1600f513a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-05\/137121499138_9c1600f513a7d69b0acc_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Shevelev",
+            "display_name": "alshev",
+            "team": "T040HKJE3",
+            "name": "alshev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HD50AX",
+            "ts": "1486209432.000000"
+        },
+        "attachments": [
+            {
+                "title": "Introduction to Computer Vision | Udacity",
+                "title_link": "https:\/\/www.udacity.com\/course\/introduction-to-computer-vision--ud810",
+                "text": "This course provides an introduction to computer vision including fundamentals, methods for application and machine learning classification.",
+                "fallback": "Introduction to Computer Vision | Udacity",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/uWE0231t3xM35vp8r30Nd2D3mXcX8fetc_5riLYaETXj0tC1f9OD5rF1ZMIZGsODc-yf6AdLgEZg97cgN0bA",
+                "image_width": 406,
+                "image_height": 250,
+                "from_url": "https:\/\/www.udacity.com\/course\/introduction-to-computer-vision--ud810",
+                "image_bytes": 74053,
+                "service_icon": "https:\/\/d125fmws0bore1.cloudfront.net\/assets\/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png",
+                "service_name": "Udacity",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U19EZ8L5D",
+                    "U24FHECDD",
+                    "U2AML8LEB",
+                    "U2M0WG6F2",
+                    "U83TP7V7W"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Это и следующее сообщение в канале могут подойти",
+        "user": "U1CF22N7J",
+        "ts": "1486210149.001719",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[January 20th, 2017 7:26 PM] cepera_ang: Первый cs231n, традиционное -- что-то типа <http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/>",
+                "ts": "1484911594.001078",
+                "author_subname": "cepera_ang",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Первый cs231n, традиционное -- что-то типа <http:\/\/vision.princeton.edu\/courses\/COS429\/2014fa\/>",
+                "author_name": "Sergey Mushinskiy",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/cepera_ang",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-29\/46609064901_748992f620b64bb9294c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1484911594001078",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486214512.001720",
+        "user": "U40A46R40",
+        "text": "<@U40A46R40> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486215006.001721",
+        "user": "U411HBPEE",
+        "text": "<@U411HBPEE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486217179.001722",
+        "user": "U411LPH0A",
+        "text": "<@U411LPH0A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486218886.001723",
+        "user": "U411PKASW",
+        "text": "<@U411PKASW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486220171.001724",
+        "user": "U414C3CTF",
+        "text": "<@U414C3CTF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486224421.001725",
+        "user": "U4120DR34",
+        "text": "<@U4120DR34> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486225189.001726",
+        "user": "U4101CNP5",
+        "text": "<@U4101CNP5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486225201.001727",
+        "user": "U412250BU",
+        "text": "<@U412250BU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486227762.001728",
+        "user": "U414U1GDT",
+        "text": "<@U414U1GDT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486229263.001729",
+        "user": "U414XDBTP",
+        "text": "<@U414XDBTP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486231764.001730",
+        "user": "U41539JBX",
+        "text": "<@U41539JBX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486233437.001731",
+        "user": "U41NLDV7Y",
+        "text": "<@U41NLDV7Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486233858.001732",
+        "user": "U412MTY3C",
+        "text": "<@U412MTY3C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486235480.001733",
+        "user": "U41P2NRE3",
+        "text": "<@U41P2NRE3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486237108.001734",
+        "user": "U41NUMTC6",
+        "text": "<@U41NUMTC6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486237847.001735",
+        "user": "U41NWAHBQ",
+        "text": "<@U41NWAHBQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486239763.001736",
+        "user": "U41311QKU",
+        "text": "<@U41311QKU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486241081.001737",
+        "user": "U415Q0P61",
+        "text": "<@U415Q0P61> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486242036.001738",
+        "user": "U41P56BNJ",
+        "text": "<@U41P56BNJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486242969.001739",
+        "user": "U4137HBM0",
+        "text": "<@U4137HBM0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486243353.001740",
+        "user": "U41389U4A",
+        "text": "<@U41389U4A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486243940.001741",
+        "user": "U41P8TZQW",
+        "text": "<@U41P8TZQW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486244248.001742",
+        "user": "U413A2HTL",
+        "text": "<@U413A2HTL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486244259.001743",
+        "user": "U415WA6MB",
+        "text": "<@U415WA6MB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486249355.001744",
+        "user": "U411JNXHR",
+        "text": "<@U411JNXHR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F40DE53FA",
+                "created": 1486279965,
+                "timestamp": 1486279965,
+                "name": "cs.png",
+                "title": "cs.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U040M0W0S",
+                "editable": false,
+                "size": 1013248,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F40DE53FA\/cs.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F40DE53FA\/download\/cs.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 70,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 94,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 141,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 188,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F40DE53FA-06c277fb06\/cs_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 200,
+                "image_exif_rotation": 1,
+                "original_w": 6519,
+                "original_h": 1274,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U040M0W0S\/F40DE53FA\/cs.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F40DE53FA-4fbdcc08e6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U040M0W0S",
+        "display_as_bot": false,
+        "ts": "1486279969.001745"
+    },
+    {
+        "type": "message",
+        "text": "друзья, вас тут много и вы учитесь в разных вузах. подскажи, пожалуйста, как в ваших вузах (или хотя бы в вашем факультете) можно посмотреть каталоги курсов. вот, например, Стенфорд <https:\/\/explorecourses.stanford.edu\/> и ВШЭ <https:\/\/www.hse.ru\/edu\/courses>.\nинтересуюсь, потому что строю для своего удовольствия диаграммы зависимостей курсов друг от друга.  и еще хочется в текст майнинг их. но это другая тема. \nи любой вариант вообще подойдет. например, у тех же ВШЭ пдфки лежат - я их паршу. а у Стенфорда только короткие абстракты.\nи так как тема слегка офтоповая и возможно флеймовая, думаю, что лучше тредиком ее облагородить :slightly_smiling_face:. \nспасибо!",
+        "user": "U040M0W0S",
+        "ts": "1486280066.001747",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U040M0W0S",
+            "ts": "1486280223.000000"
+        },
+        "thread_ts": "1486280066.001747",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1486372758.001783",
+        "reply_users": [
+            "U3VBQLKPU",
+            "U27HU84H4",
+            "U040M0W0S"
+        ],
+        "replies": [
+            {
+                "user": "U3VBQLKPU",
+                "ts": "1486285638.001753"
+            },
+            {
+                "user": "U3VBQLKPU",
+                "ts": "1486285658.001756"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1486289932.001758"
+            },
+            {
+                "user": "U040M0W0S",
+                "ts": "1486372334.001780"
+            },
+            {
+                "user": "U040M0W0S",
+                "ts": "1486372758.001783"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0JHK9001",
+                    "U3172NP4Y",
+                    "U24FHECDD",
+                    "U27H0D18B",
+                    "U041P485A",
+                    "U1D4RRA7K",
+                    "U3UBRGNEP",
+                    "U1CF1BZ1A",
+                    "U31S67ZC5"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

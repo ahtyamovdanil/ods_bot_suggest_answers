@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "text": "У меня не принимало там написание добавления чего-то к переменной через +=, надо было явно писать в виде var = var + 1.",
+        "user": "U27SUBTB9",
+        "ts": "1521366550.000032",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f8af4d64c68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-24\/885377665328_1f8af4d64c68171d34d9_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Surovikov",
+            "display_name": "quadraaa",
+            "team": "T040HKJE3",
+            "name": "quadraaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8C4E49E3",
+                    "U53E5MFNU",
+                    "U4G0TN0GP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U5S11SHM4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

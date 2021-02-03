@@ -1,0 +1,247 @@
+[
+    {
+        "client_msg_id": "65b2a204-265d-44a7-9d04-d9108fa15c57",
+        "type": "message",
+        "text": "Всем привет. Провел воркшоп для компании Taxify (сейчас переименовались в Bolt) по вступлению в ML. На очень простом примере объяснил линейную регрессию, деревья решений и train\/test разделение. В этой группе хотел выложить слайды: <https:\/\/www.slideshare.net\/DimaFishman\/introduction-to-machine-learning-for-taxifybolt-142217447>, вдруг кому-то будет полезно. Буду признателен за фидбек. Кроме слайдов я приготовил Google Collaboratory в качестве практики (<http:\/\/tinyurl.com\/yxb5k5jl|tinyurl.com\/yxb5k5jl>). Этот ноутбук доступен для всех, но без права редактирования. Если хотите его редактировать, сделайте копию к себе на гугл диск.\nПри создании слайдов и примера вдохновлялся этим видео: <https:\/\/youtu.be\/zPG4NjIkCjc>.",
+        "user": "U1TQW3DRT",
+        "ts": "1556543981.089900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ebed6346c62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-21\/61928474896_7ebed6346c625490f1a5_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Fishman",
+            "display_name": "skyfallen",
+            "team": "T040HKJE3",
+            "name": "skyfallen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Introduction to Machine Learning for Taxify\/Bolt",
+                "title_link": "https:\/\/www.slideshare.net\/DimaFishman\/introduction-to-machine-learning-for-taxifybolt-142217447",
+                "text": "Lecture slides that explain basics of Machine Learning using Linear Regression and Decision Tree algorithms as examples.",
+                "fallback": "Introduction to Machine Learning for Taxify\/Bolt",
+                "thumb_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/taxifyml-190425193835-thumbnail-4.jpg?cb=1556221174",
+                "from_url": "https:\/\/www.slideshare.net\/DimaFishman\/introduction-to-machine-learning-for-taxifybolt-142217447",
+                "thumb_width": 768,
+                "thumb_height": 576,
+                "service_icon": "https:\/\/public.slidesharecdn.com\/favicon.ico?d8e2a4ed15",
+                "service_name": "slideshare.net",
+                "id": 1,
+                "original_url": "https:\/\/www.slideshare.net\/DimaFishman\/introduction-to-machine-learning-for-taxifybolt-142217447"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "An Introduction to Linear Regression Analysis",
+                "title_link": "https:\/\/youtu.be\/zPG4NjIkCjc",
+                "author_name": "statisticsfun",
+                "author_link": "https:\/\/www.youtube.com\/user\/statisticsfun",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zPG4NjIkCjc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: An Introduction to Linear Regression Analysis",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zPG4NjIkCjc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/zPG4NjIkCjc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/zPG4NjIkCjc"
+            }
+        ],
+        "thread_ts": "1556543981.089900",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1556564795.096000",
+        "reply_users": [
+            "U3SKM61F0",
+            "U1BMURR5G",
+            "UA3CE186N",
+            "U1TQW3DRT"
+        ],
+        "replies": [
+            {
+                "user": "U3SKM61F0",
+                "ts": "1556550576.092000"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1556558071.094900"
+            },
+            {
+                "user": "UA3CE186N",
+                "ts": "1556562950.095400"
+            },
+            {
+                "user": "U1TQW3DRT",
+                "ts": "1556564782.095800"
+            },
+            {
+                "user": "U1TQW3DRT",
+                "ts": "1556564795.096000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UEP0QHYLR",
+                    "U3SKM61F0",
+                    "U6SHTGD5X",
+                    "U1BMURR5G",
+                    "UDD345XLG",
+                    "UH1GA3UQ6",
+                    "U5QBU8SUR",
+                    "UHGJK5P52",
+                    "U040M0W0S",
+                    "U0SDR70LC",
+                    "UGG0GCU9M"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69e867ac-934c-4171-9b4f-242f4a4e02bd",
+        "type": "message",
+        "text": "для вводного уровня подача линейной регрессии и деревьев регрессионных по мне так великолепна.",
+        "user": "U3SKM61F0",
+        "ts": "1556550576.092000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "630eff5ef5c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-26\/218003784290_630eff5ef5c4114945c0_72.jpg",
+            "first_name": "Anvar",
+            "real_name": "Anvar Kurmukov",
+            "display_name": "anvar",
+            "team": "T040HKJE3",
+            "name": "anvar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556543981.089900",
+        "parent_user_id": "U1TQW3DRT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1TQW3DRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "830027d4-1f54-456b-9e72-2e0bf4c0ded6",
+        "type": "message",
+        "text": "а у них что ли нет своего дс отдела?",
+        "user": "U1BMURR5G",
+        "ts": "1556558071.094900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556543981.089900",
+        "parent_user_id": "U1TQW3DRT"
+    },
+    {
+        "client_msg_id": "63def4bc-456d-4e04-b0b4-07d9f78d9ea7",
+        "type": "message",
+        "text": "Они постоянно на митапах рассказывают о своём ДС. Любопытно, зачем им такой воркшоп?",
+        "user": "UA3CE186N",
+        "ts": "1556562950.095400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1e15d226fec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/801e15d226fec05847e3893c8a7b83c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Senilov",
+            "display_name": "isnlv",
+            "team": "T040HKJE3",
+            "name": "isenilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556543981.089900",
+        "parent_user_id": "U1TQW3DRT"
+    },
+    {
+        "client_msg_id": "92d1630e-5ee4-4b3d-98fc-91b525be9618",
+        "type": "message",
+        "text": "воркшоп был не для ДС команды, а для инженеров, которые данные собирают",
+        "user": "U1TQW3DRT",
+        "ts": "1556564782.095800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ebed6346c62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-21\/61928474896_7ebed6346c625490f1a5_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Fishman",
+            "display_name": "skyfallen",
+            "team": "T040HKJE3",
+            "name": "skyfallen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556543981.089900",
+        "parent_user_id": "U1TQW3DRT"
+    },
+    {
+        "client_msg_id": "059387d0-037c-4214-9d1d-dd23acae6758",
+        "type": "message",
+        "text": "ДС у них действительно достаточно продвинутые.",
+        "user": "U1TQW3DRT",
+        "ts": "1556564795.096000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ebed6346c62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-21\/61928474896_7ebed6346c625490f1a5_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Fishman",
+            "display_name": "skyfallen",
+            "team": "T040HKJE3",
+            "name": "skyfallen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1TQW3DRT",
+            "ts": "1556564817.000000"
+        },
+        "thread_ts": "1556543981.089900",
+        "parent_user_id": "U1TQW3DRT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1BMURR5G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

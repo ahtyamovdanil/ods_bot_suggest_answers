@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "2219eadd-653b-4331-8c95-db6eb1152354",
+        "type": "message",
+        "text": "Greeting to the community members, does anyone know where I can find some good courses of Data science for researchers : anything related to MIT for example ...",
+        "user": "ULFAWBXGR",
+        "ts": "1574175156.213600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "177ce191d6fc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-27\/810988791685_177ce191d6fc26a78f27_72.jpg",
+            "first_name": "Ajax",
+            "real_name": "Ajax",
+            "display_name": "ayjax",
+            "team": "T040HKJE3",
+            "name": "ajarra.ayoub",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574175156.213600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1574237620.217700",
+        "reply_users": [
+            "UCMC5J36D",
+            "ULFAWBXGR"
+        ],
+        "replies": [
+            {
+                "user": "UCMC5J36D",
+                "ts": "1574177485.214400"
+            },
+            {
+                "user": "ULFAWBXGR",
+                "ts": "1574237620.217700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "datagym",
+                "users": [
+                    "U0ZHCGY5T",
+                    "U04422XJL",
+                    "UJUAF8HC0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64a3f22a-4ab9-4edc-af95-5428f8bd93d5",
+        "type": "message",
+        "text": "Hi, not sure that this is for reserchers but from MIT  --  <https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science>",
+        "user": "UCMC5J36D",
+        "ts": "1574177485.214400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCMC5J36D",
+            "ts": "1574177490.000000"
+        },
+        "thread_ts": "1574175156.213600",
+        "parent_user_id": "ULFAWBXGR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULFAWBXGR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7cd53e0-b22b-4dea-be48-52158d2de78f",
+        "type": "message",
+        "text": "<@U0TRC9F1R> Модель - не линейка, а xgboost. На датасете она даёт значение метрики adjusted r2  - 0.075. Это ничтожно мало. Поэтому и сделал одно из предположений, что причиной такой низкой эффективности может быть и мультиколлинеарность в том числе.\nP.S. И кстати - как справляется с этой проблемой способ отброса фич из датасета на основе значений variance Inflation Factor ?",
+        "user": "UG5LLQMR9",
+        "ts": "1574188243.215700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdcdf80771d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7dcdf80771d667ae5f424e744e9191c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Mityaev",
+            "real_name": "Mityaev Maxim",
+            "display_name": "MMityaev",
+            "team": "T040HKJE3",
+            "name": "mityaev.maxim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573984770.191900",
+        "parent_user_id": "UG5LLQMR9"
+    },
+    {
+        "client_msg_id": "d1bcc7ad-5b05-4b95-a526-9e5b8419f970",
+        "type": "message",
+        "text": "Для логических методов это тоже не должно быть большой проблемой. Если r2 близок к нулю, думаю всё-таки проблема в том, что в первую очередь нет значимых фичей для предсказания.",
+        "user": "U0TRC9F1R",
+        "ts": "1574190698.216000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d6963b1ec9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-11\/89967300738_45d6963b1ec91fdac84e_72.jpg",
+            "first_name": "Anatoly",
+            "real_name": "Anatoly Karpov",
+            "display_name": "anatolykarpov",
+            "team": "T040HKJE3",
+            "name": "anatolykarpov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573984770.191900",
+        "parent_user_id": "UG5LLQMR9"
+    },
+    {
+        "client_msg_id": "eb3d4f67-6db0-420f-a09b-10a9993b98d4",
+        "type": "message",
+        "text": "<@UG5LLQMR9> R2 очень сильно чувствителен к масштабу, так как оперирует дисперсиями. Даже если модель ошибётся редко но метко пару раз это уже может разогнать дисперсию. Вопрос нет ли выбросов, вопрос нет ли лютого оверфита и тд. Другие метрики (например, MAPE) также плохи?",
+        "user": "U7SFPUVQF",
+        "ts": "1574195782.216800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573984770.191900",
+        "parent_user_id": "UG5LLQMR9"
+    }
+]

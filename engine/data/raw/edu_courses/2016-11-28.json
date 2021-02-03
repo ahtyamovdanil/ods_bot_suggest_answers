@@ -1,0 +1,1063 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480329084.002436",
+        "user": "U37MPBR8D",
+        "text": "<@U37MPBR8D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480329657.002437",
+        "user": "U36TUUCGG",
+        "text": "<@U36TUUCGG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480301624002417>\nОткрой для себя волшебный мир <http:\/\/gen.lib.rus.ec|gen.lib.rus.ec> где этого добра сотни книг. Бесплатно. Без SMS. Без ожидания.",
+        "user": "U1UM6S9KN",
+        "ts": "1480330365.002438",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480301624002417",
+                "fallback": "[November 27th, 2016 6:53 PM] anton.leonidovich: Друзья, привет. Наткнулся на книги товарища Jason Brownlee: <http:\/\/machinelearningmastery.com\/products> \nПо сайту трудно сказать, насколько выгодное вложение его книги ($37 USD) :confused: но сейчас их можно купить по скидке 40%. Например, меня привлекла вот эта про обучение азам ML простым Python кодом (без библиотек, то есть в теории показана вся механика шаг за шагом) <https:\/\/machinelearningmastery.com\/machine-learning-algorithms-from-scratch>. Может быть кто-то хочет эту или другие, а может и все сразу купить вскладчину и зашарить? Там и скрипты ко всем прилагаются",
+                "ts": "1480301624.002417",
+                "author_subname": "anton.leonidovich",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Друзья, привет. Наткнулся на книги товарища Jason Brownlee: <http:\/\/machinelearningmastery.com\/products> \nПо сайту трудно сказать, насколько выгодное вложение его книги ($37 USD) :confused: но сейчас их можно купить по скидке 40%. Например, меня привлекла вот эта про обучение азам ML простым Python кодом (без библиотек, то есть в теории показана вся механика шаг за шагом) <https:\/\/machinelearningmastery.com\/machine-learning-algorithms-from-scratch>. Может быть кто-то хочет эту или другие, а может и все сразу купить вскладчину и зашарить? Там и скрипты ко всем прилагаются",
+                "author_name": "Anton Prokopyev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/anton.leonidovich",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-11-27\/110189108183_b2f987870b40f8d2ba96_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pirate",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;No Math. No Libraries. No Hidden Details.\n  For humanitarians. For dummy humanitarians. For idiots.",
+        "user": "U1UM6S9KN",
+        "ts": "1480330515.002440",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "nabros",
+                "users": [
+                    "U14BPHDK6",
+                    "U04ELQZAU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "goberserk",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN> а вы, батенька, не гуманитарий ли, часом?",
+        "user": "U14BPHDK6",
+        "ts": "1480330864.002442",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480330863002441>\nинфопродуктов нет, а вот книги, к которым можно скачать репозитории с гитхаба есть. Например, Grus, Raschka. <https:\/\/github.com\/rasbt\/python-machine-learning-book>\n<https:\/\/github.com\/joelgrus\/data-science-from-scratch>",
+        "user": "U1UM6S9KN",
+        "ts": "1480330980.002443",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1480331578.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480330863002441",
+                "fallback": "[November 28th, 2016 3:01 AM] rushter: и давно инфопродукты на genlib есть? :thinking_face:",
+                "ts": "1480330863.002441",
+                "author_subname": "rushter",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "и давно инфопродукты на genlib есть? :thinking_face:",
+                "author_name": "Artem Golubin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/rushter",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/be0a3e382cb31da48f7b828cbd4782e6.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вот CART <https:\/\/www.amazon.com\/Classification-Regression-Wadsworth-Statistics-Probability\/dp\/0412048418> я бы вскладчину купил, если бы набралось 30 человек по 3 бакса с носа. :nose::three::dollar:",
+        "user": "U1UM6S9KN",
+        "ts": "1480331859.002446",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1480331937.000000"
+        },
+        "attachments": [
+            {
+                "title": "Classification and Regression Trees (Wadsworth Statistics\/Probability): Leo Breiman, Jerome Friedman, Charles J. Stone, R.A. Olshen: 9780412048418: Amazon.com: Books",
+                "title_link": "https:\/\/www.amazon.com\/Classification-Regression-Wadsworth-Statistics-Probability\/dp\/0412048418",
+                "text": "Buy Classification and Regression Trees (Wadsworth Statistics\/Probability) on <http:\/\/Amazon.com|Amazon.com> ✓ FREE SHIPPING on qualified orders",
+                "fallback": "Classification and Regression Trees (Wadsworth Statistics\/Probability): Leo Breiman, Jerome Friedman, Charles J. Stone, R.A. Olshen: 9780412048418: Amazon.com: Books",
+                "from_url": "https:\/\/www.amazon.com\/Classification-Regression-Wadsworth-Statistics-Probability\/dp\/0412048418",
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt; Publisher: Chapman and Hall\/CRC; 1 edition (January 1, 1984)\nНахуа?",
+        "user": "U1CF22N7J",
+        "ts": "1480338061.002449",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U1BMURR5G",
+                    "U04ELQZAU",
+                    "U0JHK9001",
+                    "U1CF22N7J",
+                    "U19EZ8L5D",
+                    "U1D6DT6HE",
+                    "U1GMCNV3M"
+                ],
+                "count": 9
+            },
+            {
+                "name": "nine",
+                "users": [
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U1BMURR5G",
+                    "U04ELQZAU",
+                    "U0JHK9001",
+                    "U1CF22N7J",
+                    "U19EZ8L5D",
+                    "U1D6DT6HE",
+                    "U1GMCNV3M"
+                ],
+                "count": 9
+            },
+            {
+                "name": "eight",
+                "users": [
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U1BMURR5G",
+                    "U04ELQZAU",
+                    "U0JHK9001",
+                    "U1CF22N7J",
+                    "U19EZ8L5D",
+                    "U1D6DT6HE",
+                    "U1GMCNV3M"
+                ],
+                "count": 9
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U1BMURR5G",
+                    "U04ELQZAU",
+                    "U0JHK9001",
+                    "U1CF22N7J",
+                    "U19EZ8L5D",
+                    "U1D6DT6HE",
+                    "U1GMCNV3M"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "оруэлл же",
+        "user": "U1BMURR5G",
+        "ts": "1480339251.002450",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Книга Оруэлла в 1949 издана, насколько я помню. \n<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480338061002449>\nА ты никогда не ломал в детстве роботов и машинки, чтобы посмотреть что внутри? Если нет, ты - не исследователь.",
+        "user": "U1UM6S9KN",
+        "ts": "1480339460.002451",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480338061002449",
+                "fallback": "[November 28th, 2016 5:01 AM] cepera_ang: &gt; Publisher: Chapman and Hall\/CRC; 1 edition (January 1, 1984)\nНахуа?",
+                "ts": "1480338061.002449",
+                "author_subname": "cepera_ang",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "&gt; Publisher: Chapman and Hall\/CRC; 1 edition (January 1, 1984)\nНахуа?",
+                "author_name": "Sergey Mushinskiy",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/cepera_ang",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-29\/46609064901_748992f620b64bb9294c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U04ELQZAU",
+                    "U14BPHDK6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "levenchuk",
+                "users": [
+                    "U0JHK9001",
+                    "U0443L8TU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "psyduck",
+                "users": [
+                    "U09JEC7V0",
+                    "U14BPHDK6",
+                    "U1CF22N7J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt; Книга Оруэлла в 1949\nкакая книга? правильно 1984. ну, не важно",
+        "user": "U1BMURR5G",
+        "ts": "1480339623.002453",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1480339633.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "идите-ка вы в <#C16CCPQCS|edu_books>",
+        "user": "U09JEC7V0",
+        "ts": "1480339681.002455",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/ru.wikipedia.org\/wiki\/1984_(роман)>",
+        "user": "U1UM6S9KN",
+        "ts": "1480339716.002456",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1480339883.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Взял год написания 1948 и поменял местами цифры.",
+        "user": "U1UM6S9KN",
+        "ts": "1480339771.002458",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN> именно так это и было",
+        "user": "U14BPHDK6",
+        "ts": "1480339903.002460",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U14BPHDK6> как сейчас помнишь?",
+        "user": "U09JEC7V0",
+        "ts": "1480339933.002461",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U14BPHDK6",
+                    "U1FLG6YR1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Конечно, я ж инженер, я собирал машинки.",
+        "user": "U1CF22N7J",
+        "ts": "1480340570.002462",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[November 28th, 2016 9:24 PM] notabene: Книга Оруэлла в 1949 издана, насколько я помню. \n<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480338061002449>\nА ты никогда не ломал в детстве роботов и машинки, чтобы посмотреть что внутри? Если нет, ты - не исследователь.",
+                "ts": "1480339460.002451",
+                "author_subname": "notabene",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Книга Оруэлла в 1949 издана, насколько я помню. \n<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480338061002449>\nА ты никогда не ломал в детстве роботов и машинки, чтобы посмотреть что внутри? Если нет, ты - не исследователь.",
+                "author_name": "Nick",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/notabene",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1480339460002451",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U09JEC7V0",
+                    "U14BPHDK6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "стиральные? :joke:",
+        "user": "U14BPHDK6",
+        "ts": "1480340591.002463",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14BPHDK6",
+            "ts": "1480340596.000000"
+        },
+        "reactions": [
+            {
+                "name": "joke",
+                "users": [
+                    "U09JEC7V0",
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U1FLG6YR1",
+                    "U06J1LG1M",
+                    "U049HDR2Z",
+                    "U040HKJE7",
+                    "U1GMCNV3M"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06J1LG1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot",
+                "users": [
+                    "U06J1LG1M",
+                    "U35GH0DDH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Швейные",
+        "user": "U1CF22N7J",
+        "ts": "1480340625.002465",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joke",
+                "users": [
+                    "U14BPHDK6",
+                    "U15UZGX9A",
+                    "U06J1LG1M",
+                    "U09JEC7V0",
+                    "U040HKJE7"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1480341879.002466",
+        "user": "U2DHZTJCV",
+        "text": "<@U2DHZTJCV> has left the channel",
+        "reactions": [
+            {
+                "name": "ragequit",
+                "users": [
+                    "U14BPHDK6",
+                    "U04ELQZAU",
+                    "U1D6DT6HE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480347503.002467",
+        "user": "U37RBCFJR",
+        "text": "<@U37RBCFJR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480348153.002468",
+        "user": "U37NYSJJW",
+        "text": "<@U37NYSJJW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "",
+        "user": "U19HATM25",
+        "item_type": "C",
+        "ts": "1480350293.002469",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480353156.002470",
+        "user": "U37SY3085",
+        "text": "<@U37SY3085> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480355827.002471",
+        "user": "U374A94V6",
+        "text": "<@U374A94V6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480364763.002472",
+        "user": "U380JA1BP",
+        "text": "<@U380JA1BP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "друзья, давайте флудить в известном месте, пожалуйста.",
+        "user": "U040M0W0S",
+        "ts": "1480369667.002473",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U040M0W0S",
+            "ts": "1480369679.000000"
+        },
+        "reactions": [
+            {
+                "name": "parrotcop",
+                "users": [
+                    "U04ELQZAU",
+                    "U14BPHDK6",
+                    "U0Q3USC0Z",
+                    "U1DB7AMAT",
+                    "U1Z40FGQ6"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "на юдеми скидки 90% в честь cyber monday <https:\/\/www.udemy.com\/courses\/>",
+        "user": "U2Z0GB3BL",
+        "ts": "1480374270.002475",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "df2a38af45e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-06\/100310330848_df2a38af45e895a0f0a7_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Vovchenko",
+            "display_name": "shaman",
+            "team": "T040HKJE3",
+            "name": "shaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Online Courses - Anytime, Anywhere | Udemy",
+                "title_link": "https:\/\/www.udemy.com\/courses\/",
+                "text": "Udemy is the world's largest destination for online courses. Discover an online course on <http:\/\/Udemy.com|Udemy.com> and start learning a new skill today.",
+                "fallback": "Udemy: Online Courses - Anytime, Anywhere | Udemy",
+                "thumb_url": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v4\/logo.jpg",
+                "from_url": "https:\/\/www.udemy.com\/courses\/",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "правда в их качестве не уверен)",
+        "user": "U2Z0GB3BL",
+        "ts": "1480374286.002477",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "df2a38af45e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-06\/100310330848_df2a38af45e895a0f0a7_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Vovchenko",
+            "display_name": "shaman",
+            "team": "T040HKJE3",
+            "name": "shaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вот например за $19 - <https:\/\/www.udemy.com\/python-for-data-science-and-machine-learning-bootcamp\/learn\/v4\/overview>",
+        "user": "U2Z0GB3BL",
+        "ts": "1480374359.002478",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "df2a38af45e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-06\/100310330848_df2a38af45e895a0f0a7_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Vovchenko",
+            "display_name": "shaman",
+            "team": "T040HKJE3",
+            "name": "shaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Z0GB3BL",
+            "ts": "1480374375.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Python for Data Science and Machine Learning Bootcamp",
+                "title_link": "https:\/\/www.udemy.com\/python-for-data-science-and-machine-learning-bootcamp\/learn\/v4\/overview",
+                "text": "Become a Data Scientist with Python!",
+                "fallback": "Udemy: Python for Data Science and Machine Learning Bootcamp",
+                "thumb_url": "https:\/\/udemy-images.udemy.com\/course\/480x270\/903744_8eb2.jpg",
+                "from_url": "https:\/\/www.udemy.com\/python-for-data-science-and-machine-learning-bootcamp\/learn\/v4\/overview",
+                "thumb_width": 480,
+                "thumb_height": 270,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "на udemy курсы не очень, имхо. кто-нибудь там наталкивался на годноту?",
+        "user": "U14BPHDK6",
+        "ts": "1480374724.002481",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а чем не очень? Сам только наткнулся, думаю брать-небрать",
+        "user": "U2Z0GB3BL",
+        "ts": "1480374803.002482",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "df2a38af45e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-06\/100310330848_df2a38af45e895a0f0a7_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Vovchenko",
+            "display_name": "shaman",
+            "team": "T040HKJE3",
+            "name": "shaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "так на udemy многие курсы самопальные",
+        "user": "U1DB7AMAT",
+        "ts": "1480393944.002483",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "665de784094f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-27\/843600494417_665de784094fd89a0d58_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Leonidovich",
+            "display_name": "anton.leonidovich",
+            "team": "T040HKJE3",
+            "name": "anton.leonidovich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "любой может разместиться",
+        "user": "U1DB7AMAT",
+        "ts": "1480393957.002484",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "665de784094f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-27\/843600494417_665de784094fd89a0d58_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Leonidovich",
+            "display_name": "anton.leonidovich",
+            "team": "T040HKJE3",
+            "name": "anton.leonidovich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Что-то пробовал оттуда смотреть - все было не очень",
+        "user": "U0DA4J82H",
+        "ts": "1480399415.002485",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "udacity другое дело",
+        "user": "U1DB7AMAT",
+        "ts": "1480401877.002486",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "665de784094f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-27\/843600494417_665de784094fd89a0d58_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Leonidovich",
+            "display_name": "anton.leonidovich",
+            "team": "T040HKJE3",
+            "name": "anton.leonidovich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14BPHDK6",
+                    "U0546DHDK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "на udacity хорошие курсы от компаний, на edx – от вузиков. зачем еще udemy?)",
+        "user": "U14BPHDK6",
+        "ts": "1480405751.002487",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "money_mouth_face",
+                "users": [
+                    "U09JEC7V0",
+                    "U369BTPP1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "idk",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Типа курсы от простых людей",
+        "user": "U0DA4J82H",
+        "ts": "1480405854.002488",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

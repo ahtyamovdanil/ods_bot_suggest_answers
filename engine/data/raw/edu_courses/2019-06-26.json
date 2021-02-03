@@ -1,0 +1,965 @@
+[
+    {
+        "client_msg_id": "23c72a20-aad4-4990-ac94-a9c9e824af61",
+        "type": "message",
+        "text": "<@U9BDT48M8> речь шла о курсе уровня intermediate ( т.е без тем аля 'intro to ds', 'базовые структуры python' итд) продолжительстью &lt; 1мес, а не о курсе который забустит вас до intermediate за 1 месяц",
+        "user": "UKJPCUBST",
+        "ts": "1561533453.385000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "33fbc027b740",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-28\/681487925814_33fbc027b740d04657ee_72.jpg",
+            "first_name": "Andreys42",
+            "real_name": "Andreys42",
+            "display_name": "drew",
+            "team": "T040HKJE3",
+            "name": "andreysss290494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561468628.367900",
+        "parent_user_id": "U5CGDLVA5"
+    },
+    {
+        "client_msg_id": "ed4ee651-5f6e-493f-b3a3-55e4726eaa49",
+        "type": "message",
+        "text": "Hi all, Can anyone help me provide simpler resource on single class object detection including codes on github??",
+        "user": "UEE9QGVMH",
+        "ts": "1561535105.385400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1561537881.388900",
+        "reply_users": [
+            "UAG21HMV4",
+            "UEE9QGVMH"
+        ],
+        "replies": [
+            {
+                "user": "UAG21HMV4",
+                "ts": "1561535933.385500"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561536258.385700"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561536287.386000"
+            },
+            {
+                "user": "UAG21HMV4",
+                "ts": "1561536769.386200"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561536821.386400"
+            },
+            {
+                "user": "UAG21HMV4",
+                "ts": "1561536962.386600"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537027.386800"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537028.387000"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537115.387300"
+            },
+            {
+                "user": "UAG21HMV4",
+                "ts": "1561537147.387500"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537436.387800"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537437.388000"
+            },
+            {
+                "user": "UAG21HMV4",
+                "ts": "1561537791.388200"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537839.388500"
+            },
+            {
+                "user": "UEE9QGVMH",
+                "ts": "1561537881.388900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "google",
+                "users": [
+                    "U8PMZ6397",
+                    "UFGE5EYEL",
+                    "U3HM4KY14",
+                    "U53E5MFNU",
+                    "U126TCE79",
+                    "U6YEN210D",
+                    "UAL8CA2TF",
+                    "U30LWK54N"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a10e1b0-7914-43fb-875b-f4650208e4fd",
+        "type": "message",
+        "text": "What have you tried so far?",
+        "user": "UAG21HMV4",
+        "ts": "1561535933.385500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "6239ffed-40a3-4b73-88ba-ef261021c167",
+        "type": "message",
+        "text": "fastai course on object detection",
+        "user": "UEE9QGVMH",
+        "ts": "1561536258.385700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "e47ae45a-9137-421a-8f3b-3fa32799355c",
+        "type": "message",
+        "text": "but I am looking for single class multiple object detection on images",
+        "user": "UEE9QGVMH",
+        "ts": "1561536287.386000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "9771f280-7cf0-4224-87ce-af3c8e10f1b1",
+        "type": "message",
+        "text": "An image may have any number of classes, including none at all.",
+        "user": "UAG21HMV4",
+        "ts": "1561536769.386200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "623ed454-8e5f-4533-b733-38a132e65a75",
+        "type": "message",
+        "text": "yeah, but i have csv file containing single class bounding boxes coordinates",
+        "user": "UEE9QGVMH",
+        "ts": "1561536821.386400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "99e999a8-bd80-45a7-9d8b-f4128de5c70b",
+        "type": "message",
+        "text": "I don't see a problem here.",
+        "user": "UAG21HMV4",
+        "ts": "1561536962.386600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "f46faa40-8264-4491-9583-2f5a4e40fd6a",
+        "type": "message",
+        "text": "I need to predict that:",
+        "user": "UEE9QGVMH",
+        "ts": "1561537027.386800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "ec28ebee-49ce-4e9c-b52f-5b602b31d415",
+        "type": "message",
+        "text": "<https:\/\/doc-04-a0-docs.googleusercontent.com\/docs\/securesc\/035r11cge54f61vkg6q5351jddbf1r9g\/lm51q9vhkushicqjld11o0fratgqoe3m\/1561536000000\/13027055862216922394\/09663297046543970124\/1fWW_JFEeObat2gdEPr9VZp84V8eqwPeB>",
+        "user": "UEE9QGVMH",
+        "ts": "1561537028.387000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Meet Google Drive – One place for all your files",
+                "title_link": "https:\/\/doc-04-a0-docs.googleusercontent.com\/docs\/securesc\/035r11cge54f61vkg6q5351jddbf1r9g\/lm51q9vhkushicqjld11o0fratgqoe3m\/1561536000000\/13027055862216922394\/09663297046543970124\/1fWW_JFEeObat2gdEPr9VZp84V8eqwPeB",
+                "text": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
+                "fallback": "Meet Google Drive – One place for all your files",
+                "from_url": "https:\/\/doc-04-a0-docs.googleusercontent.com\/docs\/securesc\/035r11cge54f61vkg6q5351jddbf1r9g\/lm51q9vhkushicqjld11o0fratgqoe3m\/1561536000000\/13027055862216922394\/09663297046543970124\/1fWW_JFEeObat2gdEPr9VZp84V8eqwPeB",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/doc-04-a0-docs.googleusercontent.com\/docs\/securesc\/035r11cge54f61vkg6q5351jddbf1r9g\/lm51q9vhkushicqjld11o0fratgqoe3m\/1561536000000\/13027055862216922394\/09663297046543970124\/1fWW_JFEeObat2gdEPr9VZp84V8eqwPeB"
+            }
+        ],
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "20056f8f-a305-447b-a0b7-0c0d6bc2f061",
+        "type": "message",
+        "text": "I have tried fastai lesson on single and multiclass object detection but architecture and loss function is not usable in this case can you help with a simpler code ??",
+        "user": "UEE9QGVMH",
+        "ts": "1561537115.387300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "e7084f7c-88d3-4cc8-8fca-b3aa381b2721",
+        "type": "message",
+        "text": "I need a permission to view the page.",
+        "user": "UAG21HMV4",
+        "ts": "1561537147.387500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "2cf70734-7da0-4c7f-8d2d-0bfe10394d65",
+        "type": "message",
+        "text": "try this:",
+        "user": "UEE9QGVMH",
+        "ts": "1561537436.387800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "760de200-aea0-4915-b095-2af1b16fd855",
+        "type": "message",
+        "text": "<https:\/\/github.com\/gauravchopracg\/bots\/blob\/master\/Comp_pic.png>",
+        "user": "UEE9QGVMH",
+        "ts": "1561537437.388000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "bd008736-746d-486d-8fbe-b32b3703e1ff",
+        "type": "message",
+        "text": "Your image is fine. You can try this implementation. It's quite simple.\n<https:\/\/github.com\/fizyr\/keras-retinanet>",
+        "user": "UAG21HMV4",
+        "ts": "1561537791.388200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UAG21HMV4",
+            "ts": "1561537842.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "fizyr\/keras-retinanet",
+                "text": "Keras implementation of RetinaNet object detection.",
+                "title": "fizyr\/keras-retinanet",
+                "footer": "<https:\/\/github.com\/fizyr\/keras-retinanet|fizyr\/keras-retinanet>",
+                "id": 1,
+                "ts": 1502702069,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "2806",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/fizyr\/keras-retinanet",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "ab9e9744-3169-4937-aebf-27f9192dfe9f",
+        "type": "message",
+        "text": "can you suggest some pytorch code too?",
+        "user": "UEE9QGVMH",
+        "ts": "1561537839.388500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "UAG21HMV4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "362215f9-963e-4c8d-8761-d5a59e2a74a3",
+        "type": "message",
+        "text": "thanks it's really helpful!!!!",
+        "user": "UEE9QGVMH",
+        "ts": "1561537881.388900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab8ce4eecb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8ab8ce4eecb1f51d47d4b1e086a3173.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Gaurav Chopra",
+            "display_name": "Gaurav Chopra",
+            "team": "T040HKJE3",
+            "name": "gauravchopracg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561535105.385400",
+        "parent_user_id": "UEE9QGVMH"
+    },
+    {
+        "client_msg_id": "cb74666a-46a5-4c4b-9d38-0b9f747efe78",
+        "type": "message",
+        "text": "Проходил тер. вер. , статистику и сейчас ml. Мне оченно нравится, это все-таки МИТ. С другими сравнить не могу, ибо ничего кроме не видел.",
+        "user": "UCMC5J36D",
+        "ts": "1561538903.389600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93"
+    },
+    {
+        "client_msg_id": "58ebbfd9-55bb-4077-8f62-abc585eb2a5c",
+        "type": "message",
+        "text": "Если кто все же проходил курсы по статистике и от MIT, и на Степике - где вам больше понравилось (и почему)?",
+        "user": "UGF8L176H",
+        "ts": "1561539501.390200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93"
+    },
+    {
+        "client_msg_id": "5faebc68-b392-4249-acd3-88292de53281",
+        "type": "message",
+        "text": "<@UGF8L176H> На Степике  не прходил, но митовский курс был для меня очень сложным, были очень жесткие дедлайны и много материала. Основная сложность была в этом.",
+        "user": "UCMC5J36D",
+        "ts": "1561541168.390800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8PMZ6397",
+                    "U6SCXUP6U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32af4731-a107-4bea-893f-a10b65f2e88b",
+        "type": "message",
+        "text": "И да, плюсую, что сложно и много времени нужно выделять. Особенно на домашние работы и проекты, которые, казалось бы, не сложные совсем на первый взгляд.",
+        "user": "U8PMZ6397",
+        "ts": "1561541866.391000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93"
+    },
+    {
+        "client_msg_id": "8fbe4c2c-0b3d-43ae-89d8-2d4bf143f3fb",
+        "type": "message",
+        "text": "На степике два курса по статистике, MIT по объему материала и качеству изложение превосходит их, имхо\nMIT топчик корочи",
+        "user": "U6SCXUP6U",
+        "ts": "1561543263.391500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1561543299.000000"
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U1BMURR5G",
+                    "UE259V12B",
+                    "U4YEK80R1",
+                    "U927PTB1P"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d6341ec-6f0e-40f4-8eb6-5ef626fcd208",
+        "type": "message",
+        "text": "Там по желанию можно купить сертификат за 300$. В статистике это давало возможность сдавать 2 дополнительных экзамена и неограниченный доступ к курсы. Что это дает для ml кроме доступа к курсы после его окончания я не знаю. Также полученные сертификаты нужны для их программы micromasters, чтобы сдавать финальный итоговый экзамен. <https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science>",
+        "user": "UCMC5J36D",
+        "ts": "1561558746.394500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Statistics and Data Science",
+                "title_link": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "text": "From probability and statistics to data analysis and machine learning, master the skills needed to solve complex challenges with data.",
+                "fallback": "edX: Statistics and Data Science",
+                "thumb_url": "https:\/\/www.edx.org\/images\/subject\/data_science.png",
+                "from_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science"
+            }
+        ],
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UFVDU2FJP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "091220a0-037d-4335-adef-fec3969b4ce7",
+        "type": "message",
+        "text": "тут какие-то персептроны впаривают по ml ... поэтому и спросил.",
+        "user": "UHPSEES93",
+        "ts": "1561564078.394900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHPSEES93",
+            "ts": "1561564099.000000"
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93"
+    },
+    {
+        "client_msg_id": "b013a337-1c4b-414c-86fa-21748a5fa193",
+        "type": "message",
+        "text": "и лекции по ml читают какие-то старые мудаки из европы, с сильным акцентом и хреновыми презентациями. по статам неприятный мудило теоретик математик француз, еле вытерпел. совок европейского разлива одним словом в mit местами. контент от американцев там же на порядок качественнее. ИМХО.",
+        "user": "UHPSEES93",
+        "ts": "1561564231.395200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHPSEES93",
+            "ts": "1561564361.000000"
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCMC5J36D",
+                    "UBXSJFA4C",
+                    "U5UDP9FPU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U4YEK80R1",
+                    "U97RK52N6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U6SCXUP6U",
+                    "U27SUBTB9",
+                    "U6SHTGD5X",
+                    "UK17YM5HQ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "U09NC5XLN",
+                    "U27SUBTB9",
+                    "U35EN5VLG",
+                    "UBS35ME6S",
+                    "U97RK52N6"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c513f3de-62a2-4432-b59c-83e10ce963a2",
+        "type": "message",
+        "text": "зачем терпел 3 месяца мудака, рассказывающего про совкую статистику Колмогорова-Смирнова, мне не понять)",
+        "user": "U6SCXUP6U",
+        "ts": "1561565295.396100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1561565379.000000"
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U6SHTGD5X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16b9f01b-fc54-4043-a525-6e50077a1693",
+        "type": "message",
+        "text": "да, там было на каждом слайде про колмогорова-смирнова и :ussr: на каждом слайде вместо точек :trollface_peeking:",
+        "user": "UHPSEES93",
+        "ts": "1561565925.397000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHPSEES93",
+            "ts": "1561565951.000000"
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UK17YM5HQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcb74969-b089-4e32-81fd-2597bbafe4ca",
+        "type": "message",
+        "text": "кто имел дело с академией тот поймет про совок. это понятие международное\/нарицательное ...",
+        "user": "UHPSEES93",
+        "ts": "1561578096.398000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561526613.382800",
+        "parent_user_id": "UHPSEES93"
+    },
+    {
+        "client_msg_id": "dff7d9ec-cfa3-44b1-b41a-e0eb964f0f4a",
+        "type": "message",
+        "text": "Друзья, всем привет!\nПосоветуйте, пожалуйста,  учебные материалы по time series (курсы, книги, статьи) для начинающего уровня. Кому что зашло?",
+        "user": "UCK3QJABH",
+        "ts": "1561617711.401000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0bb137da4e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/890bb137da4e8afd187222dfa11d19e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Ulogov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "ulogov.d",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561617711.401000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1561639919.415700",
+        "reply_users": [
+            "U60EETE7N",
+            "U6ZVBULGG",
+            "U5H0L5T98",
+            "U92Q22QDQ"
+        ],
+        "replies": [
+            {
+                "user": "U60EETE7N",
+                "ts": "1561620451.401200"
+            },
+            {
+                "user": "U6ZVBULGG",
+                "ts": "1561622386.402100"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1561638630.414300"
+            },
+            {
+                "user": "U92Q22QDQ",
+                "ts": "1561639919.415700"
+            }
+        ],
+        "subscribed": false
+    }
+]

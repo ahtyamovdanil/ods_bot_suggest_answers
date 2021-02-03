@@ -1,0 +1,1255 @@
+[
+    {
+        "client_msg_id": "81121a77-c07e-4187-9307-73c7a8ed5f04",
+        "type": "message",
+        "text": "Привет! Кто-нибудь проходил курс по python в OTUS? <https:\/\/otus.ru\/lessons\/razrabotchik-python\/>\nКак вообще там по загрузу и знаниям?",
+        "user": "U71L6NBV5",
+        "ts": "1551691957.069000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Otus",
+                "title": "Курс Python, обучение Python course онлайн, курсы Python, программист Python — курсы | OTUS",
+                "title_link": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/",
+                "text": "Как стать программистом на python? Пройдя курсы в Otus ты научишься делать классные вещи на Пайтоне",
+                "fallback": "Otus: Курс Python, обучение Python course онлайн, курсы Python, программист Python — курсы | OTUS",
+                "image_url": "https:\/\/otus.ru\/media\/7a\/65\/7a65376024244b6d96a2657a4b218d5c.png?nocache",
+                "from_url": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/",
+                "image_width": 537,
+                "image_height": 240,
+                "image_bytes": 22641,
+                "service_icon": "https:\/\/otus.ru\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/otus.ru\/lessons\/razrabotchik-python\/"
+            }
+        ],
+        "thread_ts": "1551691957.069000",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1551779035.100400",
+        "reply_users": [
+            "U35B82XT6",
+            "U71L6NBV5",
+            "U14CTBLFJ",
+            "U6ZVBULGG",
+            "UEDUXJXGA"
+        ],
+        "replies": [
+            {
+                "user": "U35B82XT6",
+                "ts": "1551692073.070500"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1551692160.070800"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1551692487.071400"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1551694037.071700"
+            },
+            {
+                "user": "U6ZVBULGG",
+                "ts": "1551698838.072100"
+            },
+            {
+                "user": "U35B82XT6",
+                "ts": "1551702046.075100"
+            },
+            {
+                "user": "UEDUXJXGA",
+                "ts": "1551702909.075700"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1551730988.086800"
+            },
+            {
+                "user": "U35B82XT6",
+                "ts": "1551733645.087700"
+            },
+            {
+                "user": "U71L6NBV5",
+                "ts": "1551779035.100400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "40B275EA-0BC5-43A0-AD91-2F818ED84E49",
+        "type": "message",
+        "text": "Курс серьезный, заставляют копаться в cpython, можно свой питон сделать. Вообщем не для начинающих",
+        "user": "U35B82XT6",
+        "ts": "1551692073.070500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U35B82XT6",
+            "ts": "1551692095.000000"
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "550ee522-b1c1-4bdd-8731-c91d4fe6c38c",
+        "type": "message",
+        "text": "Ага, это как раз и привлекло. А сколько времени в неделю уходило примерно?",
+        "user": "U71L6NBV5",
+        "ts": "1551692160.070800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "6dc8b8dc-bca1-4117-a729-2214272a2f0b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=o9pEzgHorH0> :kekeke:",
+        "user": "U0QB98BB9",
+        "ts": "1551692281.071000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Stop Writing Classes",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=o9pEzgHorH0",
+                "author_name": "Next Day Video",
+                "author_link": "https:\/\/www.youtube.com\/user\/NextDayVideo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/o9pEzgHorH0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Stop Writing Classes",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/o9pEzgHorH0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=o9pEzgHorH0",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=o9pEzgHorH0"
+            }
+        ],
+        "thread_ts": "1551423946.031100",
+        "parent_user_id": "U732YJ7FA",
+        "reactions": [
+            {
+                "name": "nabros",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cool",
+                "users": [
+                    "U09NJCK3K",
+                    "U732YJ7FA",
+                    "U2N853RGF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "youtube",
+                "users": [
+                    "U6YT3HHML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74434b82-2e49-4171-89f1-f5a1478d44c8",
+        "type": "message",
+        "text": "Я подписывался давно на первый запуск. В итоге забросил— там нет ничего для тех, кто способен учиться самостоятельно. Просто пересказ всего, что есть в Интернетах\/Ютубе.",
+        "user": "U14CTBLFJ",
+        "ts": "1551692487.071400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "484ff420-4a78-4ce5-b674-af02b7ac1900",
+        "type": "message",
+        "text": "Ну ценность всех курсов как раз не в материалах а проработке заданий и менторстве.",
+        "user": "U71L6NBV5",
+        "ts": "1551694037.071700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "d9395c3e-e0e6-428e-86bc-78ad0891b3e4",
+        "type": "message",
+        "text": "Мнение с дивана, но мне кажется, что 2 препода едва ли смогут затащить менторство целого потока студентов (а в погоне за :moneybag: они там явно по-максимуму набирают).",
+        "user": "U6ZVBULGG",
+        "ts": "1551698838.072100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e64fca2e02f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-08\/544883382688_e64fca2e02f64afb2695_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Marchevskiy",
+            "display_name": "comratvlad",
+            "team": "T040HKJE3",
+            "name": "comratvlad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UAT62FNQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55304E8F-7F47-4AF7-8968-BB24BD6B2F78",
+        "type": "message",
+        "text": "Мнения это одно, а реальный опыт это другое. Мне понравилось, было сложно, я в средине слетел. Перезаписался на другую группу. По временным затратам зависит от опыта. Задания просматриваются менторами, даются комментарии как писать в прод и т.д.",
+        "user": "U35B82XT6",
+        "ts": "1551702046.075100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U35B82XT6",
+            "ts": "1551702140.000000"
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4X5JVCQ0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f1d7c98-1c7e-4617-aeb4-1c171ba1910c",
+        "type": "message",
+        "text": "Проходил прошлой осенью. Было сложно с учётом того, что базовые знания Python уже имелись. Из 15 заданий успел сделать только 10. Комментарии к отправленным решениям давались быстро. Сдать дз быстрее, чем за три итерации редко когда удавалось",
+        "user": "UEDUXJXGA",
+        "ts": "1551702909.075700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8594a2aef311",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-03\/599200670565_8594a2aef311a05e31d5_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Sapachev",
+            "display_name": "nordream",
+            "team": "T040HKJE3",
+            "name": "nordream.py",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U35B82XT6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5244AED5-83D5-48DD-A1AE-A6F8D2E896E5",
+        "type": "message",
+        "text": "Всем привет! Не подскажете хорошие курсы по C++?",
+        "user": "UCT3DMNAC",
+        "ts": "1551709915.077300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "468f13b6a816",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-03\/470572460721_468f13b6a816b1167c5d_72.jpg",
+            "first_name": "Nickpliev",
+            "real_name": "Nickpliev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "nickpliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "reply_count": 12,
+        "reply_users_count": 8,
+        "latest_reply": "1551773653.099100",
+        "reply_users": [
+            "U11AUS3DF",
+            "UAT560BK4",
+            "U6CKPN7C5",
+            "U2N853RGF",
+            "UG324B7FB",
+            "UGGCGHL22",
+            "U126TCE79",
+            "UGDUJ6RMJ"
+        ],
+        "replies": [
+            {
+                "user": "U11AUS3DF",
+                "ts": "1551710138.077400"
+            },
+            {
+                "user": "UAT560BK4",
+                "ts": "1551710344.077700"
+            },
+            {
+                "user": "U6CKPN7C5",
+                "ts": "1551712336.078500"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1551712391.079100"
+            },
+            {
+                "user": "UG324B7FB",
+                "ts": "1551712652.079400"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1551714288.080600"
+            },
+            {
+                "user": "UGGCGHL22",
+                "ts": "1551717861.081700"
+            },
+            {
+                "user": "UG324B7FB",
+                "ts": "1551718055.081900"
+            },
+            {
+                "user": "UG324B7FB",
+                "ts": "1551718057.082100"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1551719307.084400"
+            },
+            {
+                "user": "U126TCE79",
+                "ts": "1551721642.085500"
+            },
+            {
+                "user": "UGDUJ6RMJ",
+                "ts": "1551773653.099100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4b7c5062-a5c2-4daa-bd71-52be53fa2470",
+        "type": "message",
+        "text": "специализация на курсере от Яндекса и на степике хорошие курсы, там где лектор Александр Смаль",
+        "user": "U11AUS3DF",
+        "ts": "1551710138.077400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd310d158cca",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2d310d158cca882a0925029965fdbe0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Maksimov",
+            "display_name": "dowsurfer",
+            "team": "T040HKJE3",
+            "name": "dowsurfer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UAVJFD37T",
+                    "U04ELQZAU",
+                    "UB4F4DZGV",
+                    "U0AS1QEJF",
+                    "U126TCE79",
+                    "U1D6DT6HE",
+                    "U9M4BGEL8"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3d3a77e-5de4-4c5c-90af-c2cece449487",
+        "type": "message",
+        "text": "Плюс к Степику и Александру Смалю, клевые два курса",
+        "user": "UAT560BK4",
+        "ts": "1551710344.077700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c0ff402d0a52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473660322916_c0ff402d0a5273fe7e77_72.jpg",
+            "first_name": "Boris",
+            "real_name": "Boris Zimka",
+            "display_name": "zimka",
+            "team": "T040HKJE3",
+            "name": "zimka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU",
+                    "U6CKPN7C5",
+                    "U0AS1QEJF",
+                    "U1D6DT6HE",
+                    "U91RDJA81",
+                    "U9M4BGEL8"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d5468bc-50ea-4464-b884-884992fe1026",
+        "type": "message",
+        "text": "Курсы Смаля отличные. Тут первый - <https:\/\/stepik.org\/course\/7\/> , тут второй - <https:\/\/stepik.org\/course\/3206\/> .",
+        "user": "U6CKPN7C5",
+        "ts": "1551712336.078500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e1b65c9cbf2c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-12\/500732947328_e1b65c9cbf2cc9c0b950_72.png",
+            "first_name": "Kudin",
+            "real_name": "Kudin Stepan",
+            "display_name": "kalimdor",
+            "team": "T040HKJE3",
+            "name": "kalimdor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Программирование на языке C++",
+                "title_link": "https:\/\/stepik.org\/course\/7\/",
+                "text": "Данный базовый курс повествует об основных средствах языка C++. Особое внимание уделяется обсуждению базовых принципов работы программ, а также процессу их компиляции. Курс далеко не исчерпывающий и покрывает лишь небольшую часть стандарта языка C++, однако мы постарались рассказать о наиболее важных возможностях этого языка.",
+                "fallback": "Stepik: online education: Программирование на языке C++",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/7\/cover\/d8851c5645ff85265fab55e0261653f6.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/7\/",
+                "image_height": 230,
+                "image_bytes": 3560,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1551456827",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/7\/"
+            },
+            {
+                "service_name": "Stepik: online education",
+                "title": "Программирование на языке C++ (продолжение)",
+                "title_link": "https:\/\/stepik.org\/course\/3206\/",
+                "text": "Мы продолжаем изучать язык программирования C++. В курсе будет рассмотрено множество различных возможностей языка, и в том числе мы поговорим о нововведениях стандартов C++11 и C++14, стандартной библиотеке шаблонов и обработке ошибок.",
+                "fallback": "Stepik: online education: Программирование на языке C++ (продолжение)",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/None\/cover\/aee9d4e27d71e2780826f5c2fc4ed962.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/3206\/",
+                "image_height": 230,
+                "image_bytes": 3560,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1551456827",
+                "id": 2,
+                "original_url": "https:\/\/stepik.org\/course\/3206\/"
+            }
+        ],
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "12EACDF6-8A77-486C-BBD2-D5D1F064D951",
+        "type": "message",
+        "text": "<@UG324B7FB> должен знать",
+        "user": "U2N853RGF",
+        "ts": "1551712391.079100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "189d8534-2021-4474-a152-8f9ef87df96b",
+        "type": "message",
+        "text": "Я тысячу лет ничего профессионально на C++ не писал, но уверен, что курсы Саши Смаля на Стэпике отличные. Кучу хороших отзывов слышал и о специализации на Курсере от Ильи Шишкова и ко (МФТИ\/Яндекс). На сайте CS центра были ещё видеозаписи базовых курсов от Валеры Лесина и Жени Линского. Валера недавно ещё в CS клубе рассказывал о каких-то сравнительно недавних добавках в стандарт.",
+        "user": "UG324B7FB",
+        "ts": "1551712652.079400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ad5a46c69d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-11\/549144022006_7ad5a46c69d4d5f7b40a_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander S. Kulikov",
+            "display_name": "Alexander S. Kulikov",
+            "team": "T040HKJE3",
+            "name": "alexander.s.kulikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1D6DT6HE",
+                    "U5K3FP3RQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D2FA5FF-6CC4-4E85-9623-2EA0041D3624",
+        "type": "message",
+        "text": "Мне нравилось как Линский рассказывает, суперпонятно. Жаль, это записи от 2011 года, то есть может и устарели",
+        "user": "U2N853RGF",
+        "ts": "1551714288.080600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "7F602856-401E-4336-B7FB-F02625E778DD",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/Programming-Principles-Practice-Using-C\/dp\/0321543726>, любимая книга. Особенно полезна людям без знания программирования. ",
+        "user": "UGGCGHL22",
+        "ts": "1551717861.081700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "30a39d67415e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/991340958469_30a39d67415e7a63abc1_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Fedoskin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "afedoskin3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "1a0eb233-da67-4382-89df-c4dcde81d232",
+        "type": "message",
+        "text": "Вот курс, который Женя Линский прямо в этом году читает :smiley:",
+        "user": "UG324B7FB",
+        "ts": "1551718055.081900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ad5a46c69d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-11\/549144022006_7ad5a46c69d4d5f7b40a_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander S. Kulikov",
+            "display_name": "Alexander S. Kulikov",
+            "team": "T040HKJE3",
+            "name": "alexander.s.kulikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "82632839-9771-4c17-b409-ed9d3c210e82",
+        "type": "message",
+        "text": "<https:\/\/bsse.compscicenter.ru\/wiki\/index.php?title=%D0%A1%2B%2B_1MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_1_2018>",
+        "user": "UG324B7FB",
+        "ts": "1551718057.082100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ad5a46c69d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-11\/549144022006_7ad5a46c69d4d5f7b40a_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander S. Kulikov",
+            "display_name": "Alexander S. Kulikov",
+            "team": "T040HKJE3",
+            "name": "alexander.s.kulikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC"
+    },
+    {
+        "client_msg_id": "750ef99c-5e40-4fe1-a17b-e3171dab32dd",
+        "type": "message",
+        "text": "Всем привет, посоветуйте дельные курсы по SQL и литературу\nСпасибо)",
+        "user": "UG02AACEM",
+        "ts": "1551718426.083400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1b46d9916f3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-24\/1154850714833_1b46d9916f3d3549b39e_72.jpg",
+            "first_name": "Obidin",
+            "real_name": "Obidin Andrey",
+            "display_name": "obivan",
+            "team": "T040HKJE3",
+            "name": "andr140999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551718426.083400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1551721468.085300",
+        "reply_users": [
+            "U93P65UQN",
+            "U34SSE54G",
+            "U71BFU50Q"
+        ],
+        "replies": [
+            {
+                "user": "U93P65UQN",
+                "ts": "1551718679.083500"
+            },
+            {
+                "user": "U34SSE54G",
+                "ts": "1551721427.085100"
+            },
+            {
+                "user": "U71BFU50Q",
+                "ts": "1551721468.085300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDD345XLG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c190baae-1c34-4672-8d5f-9a6fa6cc32e2",
+        "type": "message",
+        "text": "<http:\/\/www.sql-ex.ru\/>",
+        "user": "U93P65UQN",
+        "ts": "1551718679.083500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c4f5e2dddea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-03\/734811878546_8c4f5e2dddea7d37c9e9_72.jpg",
+            "first_name": "Marko",
+            "real_name": "Marko Herkaliuk",
+            "display_name": "mherkaliuk",
+            "team": "T040HKJE3",
+            "name": "b1de0sdr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "SQL exercises",
+                "title_link": "http:\/\/www.sql-ex.ru\/",
+                "text": "SQL remote education. Interactive exercises on SQL statements: SELECT,INSERT,UPDATE,DELETE",
+                "fallback": "SQL exercises",
+                "from_url": "http:\/\/www.sql-ex.ru\/",
+                "service_icon": "http:\/\/www.sql-ex.ru\/favicon.ico",
+                "service_name": "sql-ex.ru",
+                "id": 1,
+                "original_url": "http:\/\/www.sql-ex.ru\/"
+            }
+        ],
+        "thread_ts": "1551718426.083400",
+        "parent_user_id": "UG02AACEM",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7CAU0GMU",
+                    "U8112KESY",
+                    "U7HAARZEC",
+                    "U6QB5849G",
+                    "U5TGT5SQ2",
+                    "UCKGAQKE0",
+                    "U9E4NRPST",
+                    "U9M4BGEL8"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9BFF163F-A36D-4A3E-8EA8-ED0D8B18480B",
+        "type": "message",
+        "text": "Ну пдфок одних мало, конечно",
+        "user": "U2N853RGF",
+        "ts": "1551719307.084400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U302AALBS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0768774-41c4-4aa4-aa3b-3c7e11363bf5",
+        "type": "message",
+        "text": "если по t-sql, то рекомендую почитать книжки Ben-Gan'а",
+        "user": "U34SSE54G",
+        "ts": "1551721427.085100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e298efa409ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-21\/962642099012_e298efa409babb53036c_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Boyadzhi",
+            "display_name": "madjuice",
+            "team": "T040HKJE3",
+            "name": "madjuice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551718426.083400",
+        "parent_user_id": "UG02AACEM"
+    },
+    {
+        "client_msg_id": "312b418e-9402-47f3-a66e-9fafaa8cdc88",
+        "type": "message",
+        "text": "Martin Gruber «Understanding SQL», есть на русском.",
+        "user": "U71BFU50Q",
+        "ts": "1551721468.085300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2008fb75b50",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/778721664560_b2008fb75b509c29c24f_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Veliсodnii",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vadim.velikodniy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551718426.083400",
+        "parent_user_id": "UG02AACEM",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9E4NRPST"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ecd8a46-da84-4c8b-a1d6-ff03462e0451",
+        "type": "message",
+        "text": "Прохожу <https:\/\/www.coursera.org\/specializations\/c-plus-plus-modern-development>, поэтому вставлю свои пять копеек.\n— Прекрасно структурирован, отлично записан, есть конспекты (как и в их специализации по анализу данных).\n— Упор на практические задания, их дофига, некоторые с наскоку не решить, сложность растёт.\n— Свежак, адаптирован под C++14, C++17.\n— Предполагают, что на чём-то ещё уже пишешь и CS знаешь, материал идёт быстро.\n\nКороче, очень рекомендую.",
+        "user": "U126TCE79",
+        "ts": "1551721642.085500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U126TCE79",
+            "ts": "1551721663.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Искусство разработки на современном C++ | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/c-plus-plus-modern-development",
+                "text": "Искусство разработки на современном C++ from Moscow Institute of Physics and Technology, Yandex. В специализации преподаватели делятся своим многолетним опытом создания больших проектов на языке C++. Они не пересказывают учебник, а учат решать ...",
+                "fallback": "Coursera: Искусство разработки на современном C++ | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/c-plus-plus-modern-development",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/c-plus-plus-modern-development"
+            }
+        ],
+        "thread_ts": "1551709915.077300",
+        "parent_user_id": "UCT3DMNAC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1D6DT6HE",
+                    "U5K3FP3RQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8cb0404-52a2-41b7-8e48-d63bced52358",
+        "type": "message",
+        "text": "А там можно перезайти на другую сессию, если вдруг со временем сложно станет?",
+        "user": "U71L6NBV5",
+        "ts": "1551730988.086800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "329011c1a83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-25\/278231353574_329011c1a83cd693be15_72.jpg",
+            "first_name": "Danya",
+            "real_name": "Danya Chepenko",
+            "display_name": "zkid18",
+            "team": "T040HKJE3",
+            "name": "daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "0D7EB68F-4600-4F11-B687-CB3B5B8E350D",
+        "type": "message",
+        "text": "Разрешается делать один раз, посылается email. Поэтому так как курс недешевый заходить на него надо с четкой целью",
+        "user": "U35B82XT6",
+        "ts": "1551733645.087700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g53296a021e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e853296a021e378c6fbdeac90551214a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "romann",
+            "team": "T040HKJE3",
+            "name": "romann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U35B82XT6",
+            "ts": "1551733725.000000"
+        },
+        "thread_ts": "1551691957.069000",
+        "parent_user_id": "U71L6NBV5"
+    },
+    {
+        "client_msg_id": "39202122-eb1d-4fbd-849d-d7b27f6f6c28",
+        "type": "message",
+        "text": "А есть здесь те, кто в прошлом году ездили на <http:\/\/deephack.me\/ciss2>, или может слышали отзывы? Программа выглядит насыщенно и интересно, но полностью сфокусирована на NLP.\nЯ вот думаю, стоит ли ехать туда с целью прокачать общие практические навыки работы с сетками? Как бы покодить неделю под чутким руководством профессионалов это здорово, но все же.\nА то второй вариант есть в Гданьск на <http:\/\/2019.dl-lab.eu> Я бы на оба мероприятия съездил, но они слишком близко по времени :dva_stula:",
+        "user": "U0546DHDK",
+        "ts": "1551735540.093800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd7a101fb771",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4243d8cf74c27fd2b3a6295478bfc63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "intsco",
+            "real_name": "intsco",
+            "display_name": "Vitaly",
+            "team": "T040HKJE3",
+            "name": "intsco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "2nd CISS",
+                "title_link": "http:\/\/deephack.me\/ciss2",
+                "text": "2nd Conversational Intelligence Summer School",
+                "fallback": "2nd CISS",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3538-3533-4563-a338-373333623766\/CISS_sm_logo.jpg",
+                "from_url": "http:\/\/deephack.me\/ciss2",
+                "image_width": 261,
+                "image_height": 250,
+                "image_bytes": 26239,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild6330-3733-4136-b632-373536313738\/favicon.ico",
+                "service_name": "deephack.me",
+                "id": 1,
+                "original_url": "http:\/\/deephack.me\/ciss2"
+            }
+        ],
+        "thread_ts": "1551735540.093800",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1551913597.174900",
+        "reply_users": [
+            "U44A57Q1G",
+            "U0546DHDK",
+            "UAHNFEJQ3",
+            "U3PLVL3RD"
+        ],
+        "replies": [
+            {
+                "user": "U44A57Q1G",
+                "ts": "1551737986.094700"
+            },
+            {
+                "user": "U44A57Q1G",
+                "ts": "1551738023.095100"
+            },
+            {
+                "user": "U0546DHDK",
+                "ts": "1551738035.095300"
+            },
+            {
+                "user": "U44A57Q1G",
+                "ts": "1551738214.096200"
+            },
+            {
+                "user": "U44A57Q1G",
+                "ts": "1551738280.097300"
+            },
+            {
+                "user": "UAHNFEJQ3",
+                "ts": "1551782255.101000"
+            },
+            {
+                "user": "U0546DHDK",
+                "ts": "1551817532.143600"
+            },
+            {
+                "user": "U0546DHDK",
+                "ts": "1551817644.143800"
+            },
+            {
+                "user": "U3PLVL3RD",
+                "ts": "1551913597.174900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D6576F0C-984B-4F25-B37E-65BE74099A89",
+        "type": "message",
+        "text": "В Гданьск ты уже опоздал: там регистрация закрылась уже",
+        "user": "U44A57Q1G",
+        "ts": "1551737986.094700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "25e660ad630f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/779477052823_25e660ad630fa39b6f48_72.png",
+            "first_name": "Repushko",
+            "real_name": "Repushko Anton",
+            "display_name": "repushko",
+            "team": "T040HKJE3",
+            "name": "grisme",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551735540.093800",
+        "parent_user_id": "U0546DHDK"
+    },
+    {
+        "client_msg_id": "242CC295-9D63-4DB2-86AA-34C6EF9DE90C",
+        "type": "message",
+        "text": "UPD: видимо продлили ",
+        "user": "U44A57Q1G",
+        "ts": "1551738023.095100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "25e660ad630f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/779477052823_25e660ad630fa39b6f48_72.png",
+            "first_name": "Repushko",
+            "real_name": "Repushko Anton",
+            "display_name": "repushko",
+            "team": "T040HKJE3",
+            "name": "grisme",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551735540.093800",
+        "parent_user_id": "U0546DHDK"
+    },
+    {
+        "client_msg_id": "03d412fa-dd0a-4153-b9ec-c0a49c03bcfb",
+        "type": "message",
+        "text": "Я туда уже зарегистрировался, но еще не оплатил :slightly_smiling_face:",
+        "user": "U0546DHDK",
+        "ts": "1551738035.095300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd7a101fb771",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4243d8cf74c27fd2b3a6295478bfc63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "intsco",
+            "real_name": "intsco",
+            "display_name": "Vitaly",
+            "team": "T040HKJE3",
+            "name": "intsco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551735540.093800",
+        "parent_user_id": "U0546DHDK"
+    },
+    {
+        "client_msg_id": "76D8A270-8BE8-4DC7-8AAB-64710EA3DAA5",
+        "type": "message",
+        "text": "Если что - я там был в прошлом году один из России) и мне понравилось. Очень уютно и атмосферно.",
+        "user": "U44A57Q1G",
+        "ts": "1551738214.096200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "25e660ad630f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/779477052823_25e660ad630fa39b6f48_72.png",
+            "first_name": "Repushko",
+            "real_name": "Repushko Anton",
+            "display_name": "repushko",
+            "team": "T040HKJE3",
+            "name": "grisme",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1551735540.093800",
+        "parent_user_id": "U0546DHDK"
+    },
+    {
+        "client_msg_id": "5A851DA7-8206-4235-9AD4-6171261A5046",
+        "type": "message",
+        "text": "А ещё тут один парень собрал все летние школы по ML, чтобы выбрать можно было :trollface_peeking: \n<https:\/\/repushko.com\/all\/ml-ss-2019\/>",
+        "user": "U44A57Q1G",
+        "ts": "1551738280.097300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "25e660ad630f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-30\/779477052823_25e660ad630fa39b6f48_72.png",
+            "first_name": "Repushko",
+            "real_name": "Repushko Anton",
+            "display_name": "repushko",
+            "team": "T040HKJE3",
+            "name": "grisme",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Летние школы по машинному обучению 2019",
+                "title_link": "https:\/\/repushko.com\/all\/ml-ss-2019\/",
+                "text": "Собрал список летних школ, все проходят в Европе.",
+                "fallback": "Летние школы по машинному обучению 2019",
+                "thumb_url": "https:\/\/repushko.com\/user\/userpic@2x.jpg",
+                "from_url": "https:\/\/repushko.com\/all\/ml-ss-2019\/",
+                "thumb_width": 80,
+                "thumb_height": 80,
+                "service_icon": "https:\/\/repushko.com\/favicon.ico",
+                "service_name": "repushko.com",
+                "id": 1,
+                "original_url": "https:\/\/repushko.com\/all\/ml-ss-2019\/"
+            }
+        ],
+        "thread_ts": "1551735540.093800",
+        "parent_user_id": "U0546DHDK",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBA7N1YSG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UBA7N1YSG",
+                    "UB4AGRL3C",
+                    "U0546DHDK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

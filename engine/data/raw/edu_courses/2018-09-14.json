@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "7d49dc1a-e0da-48b5-b084-ff4142f0cd61",
+        "type": "message",
+        "text": "Я начинал Хирьянова смотреть по Python. Очень толково объясняет. И задания даже где-то у него есть.",
+        "user": "U6XCTTGUB",
+        "ts": "1536934021.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b08f39422b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-24\/245986594740_b08f39422b5243bb4659_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Канашов",
+            "display_name": "scientist",
+            "team": "T040HKJE3",
+            "name": "scientist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1536591309.000100",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "client_msg_id": "08D31C10-60AE-48FE-A1AE-3184E7420E3D",
+        "type": "message",
+        "text": "Сертификаты есть, можно потом скачать.\nЕсли вообще не знаешь ни одного инструмента для работы в DS, то здесь сможешь освоить азы. Python, R, немного SQL и библиотечки для работы типа pandas. Ну и подходы к решению задач - чаще всего просто EDA, не более.\nЯ по скидке взял полный доступ на этот год, почти закрыл Data scientist Track и забил, потому что на работе начал делать гораздо более серьезные вещи, чем задания в курсах. Не уверен, что это может быть полезным, если ты уже хоть немного знаешь инструменты.\nРискну посоветовать - пройди бесплатные курсы на нем. По структуре они не сильно отличаются, так что сможешь понять, зайдет тебе или нет. Плюс у всех курсов первая глава бесплатная - тоже можно оценить\nПрофиль тоже скину) \n<https:\/\/www.datacamp.com\/profile\/fedorpesyak>",
+        "user": "U72AUDL4T",
+        "ts": "1536949821.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "344cfb27e65b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-09\/313577311255_344cfb27e65b5db1403f_72.jpg",
+            "first_name": "Fedor",
+            "real_name": "Fedor Pesyak",
+            "display_name": "fedd",
+            "team": "T040HKJE3",
+            "name": "fedorpesyak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U72AUDL4T",
+            "ts": "1536949836.000000"
+        },
+        "thread_ts": "1536867552.000100",
+        "parent_user_id": "UC750178C",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UC750178C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c61a7f18-00df-4637-8934-ab99a5f69a74",
+        "type": "message",
+        "text": "Тут переводят cheatsheets для CS 229 <https:\/\/twitter.com\/afshinea\/status\/1040130014178492416>. Я добавил русский в список, но ничего не переводил еще.",
+        "user": "U1DB7AMAT",
+        "ts": "1536953603.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "665de784094f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-27\/843600494417_665de784094fd89a0d58_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Leonidovich",
+            "display_name": "anton.leonidovich",
+            "team": "T040HKJE3",
+            "name": "anton.leonidovich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/afshinea|@afshinea>: We are trying to get these Machine Learning cheatsheets accessible to more people around the world. \nIf you want to help us with the translation into your own native language, you can contribute in this dedicated repo: <https:\/\/github.com\/shervinea\/cheatsheet-translation> <https:\/\/pbs.twimg.com\/media\/Dm9ITYLUUAAxpXH.jpg>",
+                "ts": 1536821294,
+                "author_name": "Afshine Amidi",
+                "author_link": "https:\/\/twitter.com\/afshinea\/status\/1040130014178492416",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/871577601206177792\/ON3bKVLt_normal.jpg",
+                "author_subname": "@afshinea",
+                "text": "We are trying to get these Machine Learning cheatsheets accessible to more people around the world. \nIf you want to help us with the translation into your own native language, you can contribute in this dedicated repo: <https:\/\/github.com\/shervinea\/cheatsheet-translation> <https:\/\/pbs.twimg.com\/media\/Dm9ITYLUUAAxpXH.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/afshinea\/status\/1040130014178492416",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Dm9ITYLUUAAxpXH.jpg",
+                "image_width": 1200,
+                "image_height": 914,
+                "image_bytes": 133170,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/afshinea\/status\/1040130014178492416",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meh",
+                "users": [
+                    "U60EETE7N",
+                    "U9HSZRDP1",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U14CTBLFJ",
+                    "U9S44F4RG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UBP7JT6MS",
+                    "U6G7WBLJU",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

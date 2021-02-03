@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467112708.000301",
+        "user": "U1LU5T6LD",
+        "text": "<@U1LU5T6LD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467118025.000302",
+        "user": "U1LUSTTQD",
+        "text": "<@U1LUSTTQD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Запустился self-paced курс <https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about>",
+        "user": "U1CF95PP1",
+        "ts": "1467136490.000303",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Statistical Learning",
+                "title_link": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "text": "Learn some of the main tools used in statistical modeling and data science. We cover both traditional as well as exciting new methods, and how to use them in R.",
+                "fallback": "Statistical Learning",
+                "from_url": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "service_icon": "https:\/\/lagunita.stanford.edu\/static\/themes\/lagunita\/images\/favicon.6ddd1b867f66.ico",
+                "service_name": "lagunita.stanford.edu",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U041LH06L",
+                    "U0SK8K8CV",
+                    "U1D6DT6HE",
+                    "U0T7BA7FZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "От создателей ESL, рекомендую.",
+        "user": "U1CF95PP1",
+        "ts": "1467136513.000305",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bajan",
+                "users": [
+                    "U09JEC7V0",
+                    "U0E21LW49",
+                    "U0FL6RNHM",
+                    "U1GMCNV3M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467140043.000306",
+        "user": "U1M3T2E2V",
+        "text": "<@U1M3T2E2V> has joined the channel"
+    }
+]

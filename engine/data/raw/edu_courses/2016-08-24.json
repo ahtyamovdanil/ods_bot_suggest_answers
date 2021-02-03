@@ -1,0 +1,471 @@
+[
+    {
+        "type": "message",
+        "text": "это совсем про другое, чем предыдущие ссылки",
+        "user": "U0SBLSTJ4",
+        "ts": "1472023220.000694",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[August 23rd, 2016 5:08 PM] mephistopheies: <https:\/\/www.coursera.org\/learn\/probabilistic-graphical-models>\n\nвот по байесу курс,  остальное так себе )",
+                "ts": "1471961301.000661",
+                "author_subname": "mephistopheies",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/www.coursera.org\/learn\/probabilistic-graphical-models>\n\nвот по байесу курс,  остальное так себе )",
+                "author_name": "Pavel Nesterov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/mephistopheies",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1471961301000661",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а в чем отличие?",
+        "user": "U06J1LG1M",
+        "ts": "1472023424.000695",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Графические модели - это вероятностные распределения на графах. Курс про то, как оценивать параметры, если задана структура графа и т.п. \n\nБайесовская статистика - это про то как оценивать параметры, строить доверительные интервалы и т.п. в ситуации, когда у тебя есть априорные предположения (распределение) на параметры.\n\nУ топиков вообще говоря пересечение есть, курсы скорее всего вообще не пересекаются по содержанию.",
+        "user": "U0SBLSTJ4",
+        "ts": "1472023686.000696",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "&gt; Байесовская статистика - это про то как оценивать параметры, строить доверительные интервалы и т.п. в ситуации, когда у тебя есть априорные предположения (распределение) на параметры.\n\nкак по мне так это подмножество пгм, и курс так и организован был, что сначала дается представление о том как делается вывод, и все такое, затем простые модели расширяются",
+        "user": "U06J1LG1M",
+        "ts": "1472023850.000697",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "то что было в предыдущих ссылках растянуто на 4 недели, у Келлер дается за 2",
+        "user": "U06J1LG1M",
+        "ts": "1472023879.000698",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а есть раскладка по лекциям по курсу Келлер? Я что-то не вижу",
+        "user": "U0SBLSTJ4",
+        "ts": "1472024052.000699",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[August 24th, 2016 10:31 AM] mephistopheies: то что было в предыдущих ссылках растянуто на 4 недели, у Келлер дается за 2",
+                "ts": "1472023879.000698",
+                "author_subname": "mephistopheies",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "то что было в предыдущих ссылках растянуто на 4 недели, у Келлер дается за 2",
+                "author_name": "Pavel Nesterov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/mephistopheies",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1472023879000698",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ну я помню прост что там было",
+        "user": "U06J1LG1M",
+        "ts": "1472024086.000700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "у нее есть кстати одноименная с курсом книжка",
+        "user": "U06J1LG1M",
+        "ts": "1472024147.000701",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06J1LG1M",
+            "ts": "1472024160.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "там конечно больше сильно, но можно представить что за курс в целом",
+        "user": "U06J1LG1M",
+        "ts": "1472024181.000703",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Principles and techniques которая?",
+        "user": "U041P485A",
+        "ts": "1472024253.000704",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "*Коллер",
+        "user": "U0QB98BB9",
+        "ts": "1472024265.000705",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U041P485A> ога",
+        "user": "U06J1LG1M",
+        "ts": "1472024365.000706",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я где-то половину его прошел в свое время. Запомнились больше всякие фишки с условной независимостью, чем роль априорных вещей в этом анализе.\n\nДва других курса совсем примитивные, в этом смысле конечно лучше Дафну слушать. Курс реально тяжелый и интересный, чем выгодно отличается от большинства курсов на курсэре",
+        "user": "U0SBLSTJ4",
+        "ts": "1472024502.000707",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[August 24th, 2016 10:36 AM] mephistopheies: там конечно больше сильно, но можно представить что за курс в целом",
+                "ts": "1472024181.000703",
+                "author_subname": "mephistopheies",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "там конечно больше сильно, но можно представить что за курс в целом",
+                "author_name": "Pavel Nesterov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/mephistopheies",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1472024181000703",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472046657.000708",
+        "user": "U24F2JHCN",
+        "text": "<@U24F2JHCN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472046662.000709",
+        "user": "U24F2KDT8",
+        "text": "<@U24F2KDT8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472046760.000710",
+        "user": "U24FDDCG7",
+        "text": "<@U24FDDCG7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472046792.000711",
+        "user": "U24DPS319",
+        "text": "<@U24DPS319> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472046954.000712",
+        "user": "U24DR1FUK",
+        "text": "<@U24DR1FUK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472047319.000713",
+        "user": "U24F7SA0Y",
+        "text": "<@U24F7SA0Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472047325.000714",
+        "user": "U24FHECDD",
+        "text": "<@U24FHECDD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472047359.000715",
+        "user": "U24FFAC1K",
+        "text": "<@U24FFAC1K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472047643.000716",
+        "user": "U24FTDU0J",
+        "text": "<@U24FTDU0J> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472048258.000717",
+        "user": "U24FQ67C7",
+        "text": "<@U24FQ67C7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472049851.000718",
+        "user": "U24G9CYF4",
+        "text": "<@U24G9CYF4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472052776.000719",
+        "user": "U24GRPP41",
+        "text": "<@U24GRPP41> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472058325.000720",
+        "user": "U24HWJG93",
+        "text": "<@U24HWJG93> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472066157.000721",
+        "user": "U24K8CCH4",
+        "text": "<@U24K8CCH4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067676.000722",
+        "user": "U24KJP1UN",
+        "text": "<@U24KJP1UN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472077787.000723",
+        "user": "U24MQAZ9P",
+        "text": "<@U24MQAZ9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472083649.000724",
+        "user": "U24N3AB96",
+        "text": "<@U24N3AB96> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472103480.000725",
+        "user": "U24QAAZBL",
+        "text": "<@U24QAAZBL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472106832.000726",
+        "user": "U24QCRH25",
+        "text": "<@U24QCRH25> has joined the channel"
+    }
+]

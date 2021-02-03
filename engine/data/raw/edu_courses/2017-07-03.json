@@ -1,0 +1,327 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499075977.804589",
+        "user": "U62VC70R1",
+        "text": "<@U62VC70R1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499076945.138042",
+        "user": "U63054CHH",
+        "text": "<@U63054CHH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "кто-нибудь слышал об этом?  <http:\/\/msk.edu-netcracker.com> Зарегался, даже взяли бесплатно учить Java, думаю стоящее мероприятие или нет.",
+        "user": "U57UPNXTP",
+        "ts": "1499110456.073626",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "355e4934c5cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-14\/478645992608_355e4934c5cbd2eb0490_72.png",
+            "first_name": "Roman",
+            "real_name": "Roman Degtyarev",
+            "display_name": "black_bear",
+            "team": "T040HKJE3",
+            "name": "black_bear",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Учебный центр Netcracker в Москве",
+                "title_link": "http:\/\/msk.edu-netcracker.com",
+                "text": "Учебный центр Netcracker в Москве приглашает студентов на бесплатные курсы по Java, Java EE, базам данных и SQL, Web-технологиям, сетевым технологиям",
+                "fallback": "Учебный центр Netcracker в Москве",
+                "from_url": "http:\/\/msk.edu-netcracker.com",
+                "service_icon": "http:\/\/msk.edu-netcracker.com\/images\/ico\/favicon-72.png",
+                "service_name": "msk.edu-netcracker.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1499110456.073626",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1499770537.144969",
+        "reply_users": [
+            "U0DA4J82H",
+            "U57UPNXTP",
+            "U1BMURR5G",
+            "U35EN5VLG",
+            "U15V81K6V",
+            "U14DWNVNJ"
+        ],
+        "replies": [
+            {
+                "user": "U0DA4J82H",
+                "ts": "1499110488.081409"
+            },
+            {
+                "user": "U57UPNXTP",
+                "ts": "1499110513.087565"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1499110545.095338"
+            },
+            {
+                "user": "U57UPNXTP",
+                "ts": "1499110635.118072"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1499111711.387740"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1499111809.411942"
+            },
+            {
+                "user": "U57UPNXTP",
+                "ts": "1499117370.729566"
+            },
+            {
+                "user": "U35EN5VLG",
+                "ts": "1499126062.025744"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1499162546.728028"
+            },
+            {
+                "user": "U14DWNVNJ",
+                "ts": "1499769790.916129"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1499770537.144969"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "слышал, говорят, норм учат",
+        "user": "U0DA4J82H",
+        "ts": "1499110488.081409",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "а дальнейшее развитие есть?",
+        "user": "U57UPNXTP",
+        "ts": "1499110513.087565",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "355e4934c5cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-14\/478645992608_355e4934c5cbd2eb0490_72.png",
+            "first_name": "Roman",
+            "real_name": "Roman Degtyarev",
+            "display_name": "black_bear",
+            "team": "T040HKJE3",
+            "name": "black_bear",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "ну конечно, не прикуют же к вечному багфиксу в неткрекер до конца дней",
+        "user": "U0DA4J82H",
+        "ts": "1499110545.095338",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1499110555.000000"
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "это хорошо, спасибо:)",
+        "user": "U57UPNXTP",
+        "ts": "1499110635.118072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "355e4934c5cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-14\/478645992608_355e4934c5cbd2eb0490_72.png",
+            "first_name": "Roman",
+            "real_name": "Roman Degtyarev",
+            "display_name": "black_bear",
+            "team": "T040HKJE3",
+            "name": "black_bear",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "я работал в неткрекере и проходил их курсы. как первая работа норм) но долго не стоит задерживаться, может полгода - год, а может и свалить сразу после курсов. ну и когда я работал datascience'ом там и не пахло",
+        "user": "U1BMURR5G",
+        "ts": "1499111711.387740",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1499111731.000000"
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "по поводу самих курсов: прикольно, в плане что командная работа и ты учишь в принципе создание веб приложений (хоть и на устарелом стеке) и эти навыки можно сконвертировать в деньги. хотя опять-таки, ml\/ds очень далеко от этого",
+        "user": "U1BMURR5G",
+        "ts": "1499111809.411942",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "Естественнонаучный английский очень простой. Выговор нормальный только найти",
+        "user": "U4B4HJX9A",
+        "ts": "1499112336.547903",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498735488.541320",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "спасибо)",
+        "user": "U57UPNXTP",
+        "ts": "1499117370.729566",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "355e4934c5cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-14\/478645992608_355e4934c5cbd2eb0490_72.png",
+            "first_name": "Roman",
+            "real_name": "Roman Degtyarev",
+            "display_name": "black_bear",
+            "team": "T040HKJE3",
+            "name": "black_bear",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "text": "В Спб на подобном курсе от NetCracker давали достаточно хорошую базу, было 2 уровня - начальный, а потом проекты в компании(что-то типа практики) ",
+        "user": "U35EN5VLG",
+        "ts": "1499126062.025744",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "637777992c39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/354816243777_637777992c39586ca22d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Salynskii",
+            "display_name": "asalynskii",
+            "team": "T040HKJE3",
+            "name": "asalynskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499110456.073626",
+        "parent_user_id": "U57UPNXTP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499148940.349666",
+        "user": "U63H9DFBP",
+        "text": "<@U63H9DFBP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1499151120.817831",
+        "user": "U5JK8BHB8",
+        "text": "<@U5JK8BHB8> has left the channel"
+    }
+]

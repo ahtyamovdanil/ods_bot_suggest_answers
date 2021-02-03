@@ -1,0 +1,1497 @@
+[
+    {
+        "client_msg_id": "bc917ed8-9ccb-4057-a744-f05243023be6",
+        "type": "message",
+        "text": "Как-то пропустил анонс вот такого курса. Может, кому-то пригодится:\n<https:\/\/www.kaggle.com\/learn\/geospatial-analysis>",
+        "user": "UMQSP3DJM",
+        "ts": "1578645815.025700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "db6d79d40e8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_72.jpg",
+            "first_name": "",
+            "real_name": "Alexander Prokofyev",
+            "display_name": "Alexander Prokofyev",
+            "team": "T040HKJE3",
+            "name": "alexander-prokofyev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Geospatial Analysis",
+                "title_link": "https:\/\/www.kaggle.com\/learn\/geospatial-analysis",
+                "text": "Create interactive maps, and discover patterns in geospatial data.",
+                "fallback": "Geospatial Analysis",
+                "from_url": "https:\/\/www.kaggle.com\/learn\/geospatial-analysis",
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/learn\/geospatial-analysis"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5FI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Как-то пропустил анонс вот такого курса. Может, кому-то пригодится:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/learn\/geospatial-analysis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578645815.025700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1578676581.034800",
+        "reply_users": [
+            "U1HHX1QS3"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1578676581.034800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U33G91CMV",
+                    "ULRRFCUR0",
+                    "U6SHTGD5X",
+                    "U1HHX1QS3",
+                    "U8PMZ6397",
+                    "U53E5MFNU",
+                    "U60EETE7N",
+                    "UNFTX1XT9",
+                    "UM7QV9Z50",
+                    "U95DS33U6"
+                ],
+                "count": 10
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "UFTJXL2FJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "614c1850-231f-42c7-8475-a11f67d3753c",
+        "type": "message",
+        "text": "Основы дискретного гармонического анализа, Малоземов, Машарский. В книге также есть практические задачки с разобранными решениями.\n\nВероятностная робототехника: перевод книги Себастьяна Труна на русский язык – <https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica|https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica>. Там можно про фильтр Калмана почитать.\n\nЕщё тут можно много чего полезного найти, кмк: <http:\/\/dha.spb.ru|http:\/\/dha.spb.ru>",
+        "user": "ULRRFCUR0",
+        "ts": "1578658212.026100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a981afc6f626",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/725316316599_a981afc6f62656ab256a_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Dorofeev",
+            "display_name": "dorikdor",
+            "team": "T040HKJE3",
+            "name": "dorikdor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "ULRRFCUR0",
+            "ts": "1578658758.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "literator1996\/veroyatnostnaya_robototehnica",
+                "text": "Перевод книги Себастьяна Труна на русский язык",
+                "title": "literator1996\/veroyatnostnaya_robototehnica",
+                "footer": "<https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica|literator1996\/veroyatnostnaya_robototehnica>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1560137952,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "80",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "TeX",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "11Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Основы дискретного гармонического анализа, Малоземов, Машарский. В книге также есть практические задачки с разобранными решениями.\n\nВероятностная робототехника: перевод книги Себастьяна Труна на русский язык – "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica",
+                                "text": "https:\/\/github.com\/literator1996\/veroyatnostnaya_robototehnica"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Там можно про фильтр Калмана почитать.\n\nЕщё тут можно много чего полезного найти, кмк: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dha.spb.ru",
+                                "text": "http:\/\/dha.spb.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578584177.019400",
+        "parent_user_id": "UE1B5L2Q0",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UE1B5L2Q0",
+                    "UKQTGB400",
+                    "ULRSB7W2W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c04a7f42-d582-4a6e-af53-7f38c06bc157",
+        "type": "message",
+        "text": "я уверен что это полезно, но все же грусто что GIS часто преподается как 1. нарисуй кружок 2. нарисуй чертову сову - те все хреначат карты. а про метрики\/модельки “скрывают” на потом",
+        "user": "U1HHX1QS3",
+        "ts": "1578676581.034800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R0Kt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "я уверен что это полезно, но все же грусто что GIS часто преподается как 1. нарисуй кружок 2. нарисуй чертову сову - те все хреначат карты. а про метрики\/модельки “скрывают” на потом"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578645815.025700",
+        "parent_user_id": "UMQSP3DJM",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4WM1939Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15d06f9b-8716-442c-a3e5-45a46d976d37",
+        "type": "message",
+        "text": "Как насчет <https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/index.htm>? Есть видео семинаров и решения задач.",
+        "user": "UGF8L176H",
+        "ts": "1578681368.035200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MIT OpenCourseWare",
+                "title": "Introduction to Algorithms",
+                "title_link": "https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/index.htm",
+                "text": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+                "fallback": "MIT OpenCourseWare: Introduction to Algorithms",
+                "image_url": "https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/6-006f11.jpg",
+                "from_url": "https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/index.htm",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 27661,
+                "service_icon": "https:\/\/ocw.mit.edu\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/index.htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vEaot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Как насчет "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-006-introduction-to-algorithms-fall-2011\/index.htm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Есть видео семинаров и решения задач."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578333078.231500",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "49355c21-38f7-435a-bbef-18d9bb51edb6",
+        "type": "message",
+        "text": "Что-то я под огромным впечатлением от :bimorf:\nПокидайте pls курсов по критическому мышлению, рациональности и вообще способам проверить, что ты не несёшь :hankey:",
+        "user": "U6HFSNFQR",
+        "ts": "1578688572.038400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6HFSNFQR",
+            "ts": "1578688584.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zme1L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Что-то я под огромным впечатлением от "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bimorf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПокидайте pls курсов по критическому мышлению, рациональности и вообще способам проверить, что ты не несёшь "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hankey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "reply_count": 20,
+        "reply_users_count": 12,
+        "latest_reply": "1578871161.058100",
+        "reply_users": [
+            "U1HHX1QS3",
+            "U6HFSNFQR",
+            "URJ5P92N5",
+            "ULRRFCUR0",
+            "UGYDVDTUN",
+            "U04ELQZAU",
+            "U6X5YAFU3",
+            "U4WGFD012",
+            "UEK109PNC",
+            "U930VKGMC",
+            "UPL1JA796",
+            "UQRRC9GCD"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1578688617.038600"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578688636.038800"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578688681.039000"
+            },
+            {
+                "user": "URJ5P92N5",
+                "ts": "1578688698.039200"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578688792.039400"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1578689152.040000"
+            },
+            {
+                "user": "ULRRFCUR0",
+                "ts": "1578689501.040400"
+            },
+            {
+                "user": "UGYDVDTUN",
+                "ts": "1578690069.041200"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578690279.041800"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1578691009.042400"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1578691265.042700"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1578691468.043500"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578691582.043800"
+            },
+            {
+                "user": "U4WGFD012",
+                "ts": "1578720443.047000"
+            },
+            {
+                "user": "UEK109PNC",
+                "ts": "1578727478.047200"
+            },
+            {
+                "user": "U930VKGMC",
+                "ts": "1578734547.048300"
+            },
+            {
+                "user": "UPL1JA796",
+                "ts": "1578735673.048800"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1578778154.054600"
+            },
+            {
+                "user": "U6HFSNFQR",
+                "ts": "1578779024.054900"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1578871161.058100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "durka",
+                "users": [
+                    "U7CAU0GMU",
+                    "UPS7RJXUK",
+                    "ULRRFCUR0",
+                    "U8PMZ6397",
+                    "U7GFT92PN",
+                    "U4WGFD012",
+                    "U677CBGH2",
+                    "U5QBU8SUR",
+                    "UQRRC9GCD",
+                    "UCAEKNA4V",
+                    "UM5DXE4LE",
+                    "UDK41MN5U",
+                    "UBRK4HXQV"
+                ],
+                "count": 13
+            },
+            {
+                "name": "pill",
+                "users": [
+                    "U7CAU0GMU",
+                    "U1HHX1QS3",
+                    "U8U4PFM88",
+                    "U8DRB30SX",
+                    "U6DCD6XUN",
+                    "U8PMZ6397",
+                    "U7GFT92PN",
+                    "U5QBU8SUR",
+                    "UCAEKNA4V",
+                    "UM5DXE4LE",
+                    "UC7DFDJUA",
+                    "UEUF307BJ"
+                ],
+                "count": 12
+            },
+            {
+                "name": "bimorf",
+                "users": [
+                    "UDZC02ATZ",
+                    "URCJSA98W",
+                    "U6GB0TS03",
+                    "ULA9M7CM9",
+                    "U7GFT92PN",
+                    "U4WGFD012",
+                    "UCM3C939U",
+                    "U677CBGH2",
+                    "UQRRC9GCD",
+                    "UBQJYBVPC",
+                    "UCAEKNA4V",
+                    "UM5DXE4LE",
+                    "UEJC6QMJT",
+                    "U129L113M",
+                    "UC7DFDJUA",
+                    "ULPRYQNS2",
+                    "USMGTU9AS",
+                    "UNEK3A52N"
+                ],
+                "count": 18
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31c55aa8-2e0a-4178-961d-cb672fe8e990",
+        "type": "message",
+        "text": "bimorf?",
+        "user": "U1HHX1QS3",
+        "ts": "1578688617.038600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUH=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bimorf?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "bimorf",
+                "users": [
+                    "U6GB0TS03",
+                    "U4WGFD012",
+                    "U677CBGH2",
+                    "U832HJCUV",
+                    "UCAEKNA4V",
+                    "UM5DXE4LE",
+                    "UC7DFDJUA",
+                    "UBN4W9VTM"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48154c97-e434-466c-80a3-3265b24c798d",
+        "type": "message",
+        "text": "ох",
+        "user": "U6HFSNFQR",
+        "ts": "1578688636.038800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q51NY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ох"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "51c2cacb-ba71-4bd4-8044-fe918ae021d1",
+        "type": "message",
+        "text": "Там в <#C047H3N8L|deep_learning> дичь уже третий день",
+        "user": "U6HFSNFQR",
+        "ts": "1578688681.039000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MX2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там в "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C047H3N8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " дичь уже третий день"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "a92d14a1-993f-4ff7-a8c6-3697a415dc0e",
+        "type": "message",
+        "text": "Да что это за чувак такой и почему его форсят, скиньте этот мем",
+        "user": "URJ5P92N5",
+        "ts": "1578688698.039200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga1b1a393d8e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1b1a393d8e87568b7d07b9b2f779105.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Veriga",
+            "display_name": "Ivan Veriga",
+            "team": "T040HKJE3",
+            "name": "ivanveriga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qfgy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да что это за чувак такой и почему его форсят, скиньте этот мем"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "7d817a66-ad2a-4274-a0a3-7f65e9217630",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C047H3N8L\/p1578378408105600>\nСсылка на первый тред, но про курсы я не пошутил",
+        "user": "U6HFSNFQR",
+        "ts": "1578688792.039400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C047H3N8L\/p1578378408105600",
+                "fallback": "[January 6th, 2020 10:26 PM] ods.ai007: Привет сообщество. Я разработчик алгоритма машинного обучения и хотел бы предложить потестировать разработку второй его версии. Особенность алгоритма состоит в саморасширяемости. По мере поступления новых данных сеть растет с нуля и до бесконечности повышая свою собственную обучающую способность. На странице загрузки есть пример данных для обучения и исполняемый двоичный файл для linux с примером комманды для запуска обучения. Буду рад обсудить полученные результаты и обсудить ваши предложения. Алгоритм называется \"биморф\". Страница для скачивания алгоритма <http:\/\/биморф.рф>",
+                "ts": "1578378408.105600",
+                "author_id": "UQRRC9GCD",
+                "author_subname": "Кривошлыков",
+                "channel_id": "C047H3N8L",
+                "channel_name": "deep_learning",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Привет сообщество. Я разработчик алгоритма машинного обучения и хотел бы предложить потестировать разработку второй его версии. Особенность алгоритма состоит в саморасширяемости. По мере поступления новых данных сеть растет с нуля и до бесконечности повышая свою собственную обучающую способность. На странице загрузки есть пример данных для обучения и исполняемый двоичный файл для linux с примером комманды для запуска обучения. Буду рад обсудить полученные результаты и обсудить ваши предложения. Алгоритм называется \"биморф\". Страница для скачивания алгоритма <http:\/\/биморф.рф>",
+                "author_name": "Кривошлыков",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UQRRC9GCD",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-01-06\/883599724339_1dba0cdaecd19cb524ec_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C047H3N8L\/p1578378408105600",
+                "footer": "Thread in #deep_learning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C047H3N8L\/p1578378408105600"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nСсылка на первый тред, но про курсы я не пошутил"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "7a53c7b4-bf36-4b26-bef3-46c5f14b4ac2",
+        "type": "message",
+        "text": "спасибо, мне хватит",
+        "user": "U1HHX1QS3",
+        "ts": "1578689152.040000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWtM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "спасибо, мне хватит"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U6Z21KSBC",
+                    "U9K9L5615"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9329c049-c2c4-40b7-b57c-ae1c350fa859",
+        "type": "message",
+        "text": "Тут ещё вопрос: по критическому мышлению накидывать или по черному пиару? :pepe_thinking:",
+        "user": "ULRRFCUR0",
+        "ts": "1578689501.040400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a981afc6f626",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/725316316599_a981afc6f62656ab256a_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Dorofeev",
+            "display_name": "dorikdor",
+            "team": "T040HKJE3",
+            "name": "dorikdor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g=9zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тут ещё вопрос: по критическому мышлению накидывать или по черному пиару? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pepe_thinking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "33e24f56-31d0-400e-bc56-9258f60ada6b",
+        "type": "message",
+        "text": "<https:\/\/hpmor.ru\/>",
+        "user": "UGYDVDTUN",
+        "ts": "1578690069.041200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "497547679a4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-04\/771034928146_497547679a4c2b3aa520_72.jpg",
+            "first_name": "",
+            "real_name": "Stanislav Poryadnyi",
+            "display_name": "Stanislav Poryadnyi",
+            "team": "T040HKJE3",
+            "name": "sporyadnyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Гарри Поттер и методы рационального мышления ",
+                "title_link": "https:\/\/hpmor.ru\/",
+                "text": "Элиезер Юдковский (Less Wrong)",
+                "fallback": "Гарри Поттер и методы рационального мышления ",
+                "from_url": "https:\/\/hpmor.ru\/",
+                "service_icon": "https:\/\/hpmor.ru\/img\/favicon.ico",
+                "service_name": "hpmor.ru",
+                "id": 1,
+                "original_url": "https:\/\/hpmor.ru\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YlBfB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hpmor.ru\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1HHX1QS3",
+                    "U6HFSNFQR",
+                    "U04ELQZAU",
+                    "U6QDM862G",
+                    "ULA9M7CM9",
+                    "UB4BD0R6W",
+                    "U9SBJGAS1",
+                    "U411PKASW",
+                    "U930VKGMC",
+                    "U677CBGH2",
+                    "U7R68P22C",
+                    "U90B3UTFY",
+                    "UM39TF93J",
+                    "U1LGHMGPM",
+                    "UG151NR40",
+                    "UBM3U5TGQ",
+                    "UDK41MN5U"
+                ],
+                "count": 17
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U6HFSNFQR",
+                    "U71JWLAC8",
+                    "UB4BD0R6W",
+                    "U9SBJGAS1",
+                    "U3PETUSSE",
+                    "U677CBGH2",
+                    "UGRFZ1DS5",
+                    "UDK41MN5U",
+                    "UTGUQU99U"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U62N1NJUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "818e5f85-2088-47ed-b83d-74f881994bd4",
+        "type": "message",
+        "text": "Да, спасибо, огненная вещь, но уже прочитана =)",
+        "user": "U6HFSNFQR",
+        "ts": "1578690279.041800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHIe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, спасибо, огненная вещь, но уже прочитана =)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "230bb258-41a1-45e4-b508-5655605d3451",
+        "type": "message",
+        "text": "Тогда <https:\/\/www.goodreads.com\/book\/show\/29241766-significant-digits>",
+        "user": "U04ELQZAU",
+        "ts": "1578691009.042400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Significant Digits",
+                "title_link": "https:\/\/www.goodreads.com\/book\/show\/29241766-significant-digits",
+                "text": "A continuation of Harry Potter and the Methods of Rationality (HPMOR). It's easy to make big plans and ask big questions, but a lot hard...",
+                "fallback": "Significant Digits",
+                "thumb_url": "https:\/\/i.gr-assets.com\/images\/S\/compressed.photo.goodreads.com\/books\/1456117945i\/29241766._UY630_SR1200,630_.jpg",
+                "from_url": "https:\/\/www.goodreads.com\/book\/show\/29241766-significant-digits",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.goodreads.com\/favicon.ico",
+                "service_name": "goodreads.com",
+                "id": 1,
+                "original_url": "https:\/\/www.goodreads.com\/book\/show\/29241766-significant-digits"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7acI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тогда "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goodreads.com\/book\/show\/29241766-significant-digits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "omgtnx",
+                "users": [
+                    "U6HFSNFQR",
+                    "UDK41MN5U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee06d162-49ef-4d8f-a169-340ccd5f1eca",
+        "type": "message",
+        "text": "<https:\/\/kocherga-club.ru\/|https:\/\/kocherga-club.ru\/>\n<http:\/\/t-do.ru\/ontologics|t-do.ru\/ontologics>\n<http:\/\/t-do.ru\/yaroslavpsychology|t-do.ru\/yaroslavpsychology> про КПТ\n<https:\/\/lesswrong.ru\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B|https:\/\/lesswrong.ru\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B> список литературы по рациональности",
+        "user": "U6X5YAFU3",
+        "ts": "1578691265.042700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b9e632c3cf3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-08\/885672284979_b9e632c3cf3e84f1776c_72.jpg",
+            "first_name": "Ekaterina",
+            "real_name": "Ekaterina Karpova",
+            "display_name": "ekatkarp",
+            "team": "T040HKJE3",
+            "name": "ekatkuz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6X5YAFU3",
+            "ts": "1578691367.000000"
+        },
+        "attachments": [
+            {
+                "title": "Центр рациональности Кочерга",
+                "title_link": "https:\/\/kocherga-club.ru\/",
+                "text": "Открытое пространство с мероприятиями по рациональности и науке в формате тайм-клуба. Воркшопы и курсы по прикладной рациональности.",
+                "fallback": "Центр рациональности Кочерга",
+                "image_url": "https:\/\/static.tildacdn.com\/9e2f9ed6-0538-4b0e-ab81-03ade8f70d71\/44270",
+                "from_url": "https:\/\/kocherga-club.ru\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 243854,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild6232-6232-4339-b935-663265643738\/favicon.ico",
+                "service_name": "kocherga-club.ru",
+                "id": 1,
+                "original_url": "https:\/\/kocherga-club.ru\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=z0w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kocherga-club.ru\/",
+                                "text": "https:\/\/kocherga-club.ru\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/t-do.ru\/ontologics",
+                                "text": "t-do.ru\/ontologics"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/t-do.ru\/yaroslavpsychology",
+                                "text": "t-do.ru\/yaroslavpsychology"
+                            },
+                            {
+                                "type": "text",
+                                "text": " про КПТ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lesswrong.ru\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B",
+                                "text": "https:\/\/lesswrong.ru\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " список литературы по рациональности"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6HFSNFQR",
+                    "UGRFZ1DS5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UPL1JA796",
+                    "UQRRC9GCD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e05fdc9-8b8c-4ee2-87ae-481dae424333",
+        "type": "message",
+        "text": "От себя бы добавила все, что находится по запросу \"поведенческая экономика\", и учебник по когнитивистике \"Мозг, познание, разум\"",
+        "user": "U6X5YAFU3",
+        "ts": "1578691468.043500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b9e632c3cf3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-08\/885672284979_b9e632c3cf3e84f1776c_72.jpg",
+            "first_name": "Ekaterina",
+            "real_name": "Ekaterina Karpova",
+            "display_name": "ekatkarp",
+            "team": "T040HKJE3",
+            "name": "ekatkuz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5UbH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "От себя бы добавила все, что находится по запросу \"поведенческая экономика\", и учебник по когнитивистике \"Мозг, познание, разум\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR"
+    },
+    {
+        "client_msg_id": "c9ab4a5d-bb32-4a8b-ac96-fbafef9a3176",
+        "type": "message",
+        "text": "<@U6X5YAFU3> секунд 10 пытался понять как связаны \"ПиТон на каждый день\" с запросом\nКажется, это уже тоже :durka:\n\nСпасибо! =)",
+        "user": "U6HFSNFQR",
+        "ts": "1578691582.043800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29f3b824c381",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-08\/864524559344_29f3b824c381246605a2_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Andrienko",
+            "display_name": "AprendizEterno",
+            "team": "T040HKJE3",
+            "name": "as",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDSWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6X5YAFU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " секунд 10 пытался понять как связаны \"ПиТон на каждый день\" с запросом\nКажется, это уже тоже "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "durka"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nСпасибо! =)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "snake",
+                "users": [
+                    "U6X5YAFU3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee71930f-f81e-40a3-aaa7-e14b6d61aaf5",
+        "type": "message",
+        "text": "Не вижу там prerequisites, но обычно для курсов по алгоритмам уже надо немного уметь прогать. А нужен курс с нуля в программировании",
+        "user": "U60EETE7N",
+        "ts": "1578692058.044100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U60EETE7N",
+            "ts": "1578692092.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZ5A+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не вижу там prerequisites, но обычно для курсов по алгоритмам уже надо немного уметь прогать. А нужен курс с нуля в программировании"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578333078.231500",
+        "parent_user_id": "U60EETE7N"
+    },
+    {
+        "client_msg_id": "115117cf-742e-425a-8f21-80f092e326cf",
+        "type": "message",
+        "text": "Можно просто что-нибудь по методологии науки почитать вроде поппера или куна",
+        "user": "U4WGFD012",
+        "ts": "1578720443.047000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYvj0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Можно просто что-нибудь по методологии науки почитать вроде поппера или куна"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UMQSP3DJM",
+                    "U0952QCHE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U6HFSNFQR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18f4d999-ccf9-4b23-a6de-ed7a565a38f0",
+        "type": "message",
+        "text": "Треды про :bimorf: читать желания нет, но думаю вот этот плейлист в тему будет. Критическое мышление по вопросам морали :thinking_face::filosoraptor:\n<https:\/\/www.youtube.com\/playlist?list=PL30C13C91CFFEFEA6>",
+        "user": "UEK109PNC",
+        "ts": "1578727478.047200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4e55feae32a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e4e55feae32a4a24863e0e63828b89a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Mukabenov",
+            "display_name": "Spurius",
+            "team": "T040HKJE3",
+            "name": "bot1412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEK109PNC",
+            "ts": "1578727960.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Justice with Michael Sandel - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PL30C13C91CFFEFEA6",
+                "text": "Instructor Michael Sandel JUSTICE is the first Harvard course to be made freely available online and on public television. Nearly a thousand students pack Ha...",
+                "fallback": "YouTube: Justice with Michael Sandel - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kBdfcR-8hEY\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDBUu57DLImBE_OAE7opb20nWJ4AQ",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PL30C13C91CFFEFEA6",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PL30C13C91CFFEFEA6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7lSP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Треды про "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bimorf"
+                            },
+                            {
+                                "type": "text",
+                                "text": " читать желания нет, но думаю вот этот плейлист в тему будет. Критическое мышление по вопросам морали "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "filosoraptor"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PL30C13C91CFFEFEA6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578688572.038400",
+        "parent_user_id": "U6HFSNFQR",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6HFSNFQR",
+                    "U1HHX1QS3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

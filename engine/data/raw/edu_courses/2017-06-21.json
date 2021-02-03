@@ -1,0 +1,918 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498028804.104462",
+        "user": "U5XRAG6CW",
+        "text": "<@U5XRAG6CW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498034539.420830",
+        "user": "U4HEN7UJG",
+        "text": "<@U4HEN7UJG> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498040221.890340",
+        "user": "U5XTSBZHU",
+        "text": "<@U5XTSBZHU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Такая ситуация: если я получал доступ к специализации на курсере и ~просрал все сроки~ не хватило времени на ее прохождение, я могу написать слезливое письмо в финансовую помощь и попросить доступ? Или готовить кошелек",
+        "user": "U04725QK7",
+        "ts": "1498040385.927305",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "reply_count": 17,
+        "reply_users_count": 8,
+        "latest_reply": "1498076308.542652",
+        "reply_users": [
+            "U5R6WCSBU",
+            "U04725QK7",
+            "U0AS548A1",
+            "U3P82LKDK",
+            "U1YJTS97B",
+            "U1BMURR5G",
+            "U0XQJK3NJ",
+            "U5QLG41NG"
+        ],
+        "replies": [
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1498040495.952835"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498040555.966232"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1498040569.969503"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498040589.973804"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1498040777.015890"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1498040816.024597"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498040842.030432"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1498040993.064035"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498041041.075627"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1498041116.092361"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498041825.244025"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1498041922.264736"
+            },
+            {
+                "user": "U1YJTS97B",
+                "ts": "1498042713.429586"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1498044284.766985"
+            },
+            {
+                "user": "U0XQJK3NJ",
+                "ts": "1498048769.822447"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1498049622.062663"
+            },
+            {
+                "user": "U5QLG41NG",
+                "ts": "1498076308.542652"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "gleb_filatov: зависит от причины, но сомневаюсь.",
+        "user": "U5R6WCSBU",
+        "ts": "1498040495.952835",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "А в чем именно сомневаешься? Что мне снова его дадут?",
+        "user": "U04725QK7",
+        "ts": "1498040555.966232",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "switch session кнопка",
+        "user": "U0AS548A1",
+        "ts": "1498040569.969503",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Кончилось полгода, за которые я должен был ее пройти",
+        "user": "U04725QK7",
+        "ts": "1498040589.973804",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7",
+        "reactions": [
+            {
+                "name": "eww",
+                "users": [
+                    "U0AS548A1",
+                    "U5R6G5JQK",
+                    "U3SKM61F0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "если вышел срок -это оговорено в условиях, потому только начинать с начала и повторять все шаги по получению доступа. Если был форс мажор вроде \"сломал палец и пролежал пол года в больнице\" -можно попытаться выпросить халяву.",
+        "user": "U5R6WCSBU",
+        "ts": "1498040777.015890",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Это, случайно, не курс  по нейросетям от университета Торонто?",
+        "user": "U3P82LKDK",
+        "ts": "1498040816.024597",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Неа, это специализация вышки и яндекса по алгоритмам",
+        "user": "U04725QK7",
+        "ts": "1498040842.030432",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "это типо деревья и всякая фигня? а нафига она датасаентисту то? вроде паралельное же направление :slightly_smiling_face:",
+        "user": "U5R6WCSBU",
+        "ts": "1498040993.064035",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Ну я когда прошел первый кусок по алгоритмам и структурам данных, код стал выполняться быстрее",
+        "user": "U04725QK7",
+        "ts": "1498041041.075627",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "круто конечно, но в сутках всего 24 часа :slightly_smiling_face: а вообще попроси халяву, может дадут, скажи все потратил, пол года работал и не заработал",
+        "user": "U5R6WCSBU",
+        "ts": "1498041116.092361",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": " А причем тут 24 часа? Лучше на условного бишопа время потратить чтоли?",
+        "user": "U04725QK7",
+        "ts": "1498041825.244025",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "я бы выбрал goodfellow :slightly_smiling_face:",
+        "user": "U5R6WCSBU",
+        "ts": "1498041922.264736",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Мне ещё раз дали финансовую помощь к специализации PGM ровно с тем же текстом письма. Считаю, что их по-прежнему никто не читает.",
+        "user": "U1YJTS97B",
+        "ts": "1498042713.429586",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5767f4eb3fde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-05\/66629456976_5767f4eb3fdeaf3f092a_72.jpg",
+            "first_name": "Григорий",
+            "real_name": "Григорий Охотников",
+            "display_name": "arithmometer",
+            "team": "T040HKJE3",
+            "name": "arithmometer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "мне дали когда я просрал сроки без проблем. объяснил ситуацию, через 2 недели был аппрув",
+        "user": "U1BMURR5G",
+        "ts": "1498044284.766985",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498047782.557922",
+        "user": "U5X5PDC4S",
+        "text": "<@U5X5PDC4S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498047943.599530",
+        "user": "U5X5QMYFL",
+        "text": "<@U5X5QMYFL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498048034.623234",
+        "user": "U5X5REHS6",
+        "text": "<@U5X5REHS6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498048094.639862",
+        "user": "U5WJS696D",
+        "text": "<@U5WJS696D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498048259.686232",
+        "user": "U5WFLM4N4",
+        "text": "<@U5WFLM4N4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498048286.693579",
+        "user": "U5X5TJHPU",
+        "text": "<@U5X5TJHPU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498048556.765034",
+        "user": "U5Y0DLZL6",
+        "text": "<@U5Y0DLZL6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "я спрашивал будут ли санкции если я не прошел в сроки и дадут ли мне еще раз финансовую помощь. Ответили, что проблем не будет и я more than welcome. Но я с тех пор так и не попросил.",
+        "user": "U0XQJK3NJ",
+        "ts": "1498048769.822447",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "67b610f3140b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-14\/50912578966_67b610f3140bf2cfdb11_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Popov",
+            "display_name": "zelcookie",
+            "team": "T040HKJE3",
+            "name": "zelcookie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Отлично, пойду напишу",
+        "user": "U04725QK7",
+        "ts": "1498049622.062663",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498040385.927305",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498050516.353732",
+        "user": "U5X46S03D",
+        "text": "<@U5X46S03D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498051558.718213",
+        "user": "U5Y1SQMC7",
+        "text": "<@U5Y1SQMC7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498051571.722451",
+        "user": "U5WGJAVTJ",
+        "text": "<@U5WGJAVTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498051725.778767",
+        "user": "U5X4KJKH9",
+        "text": "<@U5X4KJKH9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498052776.181210",
+        "user": "U5X4XNCF5",
+        "text": "<@U5X4XNCF5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498052865.216160",
+        "user": "U5Y27PYET",
+        "text": "<@U5Y27PYET> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498054392.855369",
+        "user": "U5X7R0Z6E",
+        "text": "<@U5X7R0Z6E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1498055187.193167",
+        "thread_ts": "1498055187.193167",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1498055828.475452",
+        "reply_users": [
+            "U09BY2N3X"
+        ],
+        "replies": [
+            {
+                "user": "U09BY2N3X",
+                "ts": "1498055562.359843"
+            },
+            {
+                "user": "U09BY2N3X",
+                "ts": "1498055828.475452"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "iamtodor: Было тут\n<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1496393743058346>",
+        "user": "U09BY2N3X",
+        "ts": "1498055562.359843",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6fa92c4d29b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/185152750597_6fa92c4d29b6e84e3603_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Manokhina",
+            "display_name": "manokhina",
+            "team": "T040HKJE3",
+            "name": "bauchgefuhl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1496393743058346",
+                "fallback": "[June 2nd, 2017 1:55 AM] leonid.danilchenko: <http:\/\/spark-in.me\/post\/learn-data-science>\nИ при этом не заплатив 150,000 рублей",
+                "ts": "1496393743.058346",
+                "author_subname": "leonid.danilchenko",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<http:\/\/spark-in.me\/post\/learn-data-science>\nИ при этом не заплатив 150,000 рублей",
+                "author_name": "Leonid Danilchenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/leonid.danilchenko",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1498055187.193167",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "Да ладно, зачем уже удалять)",
+        "user": "U09BY2N3X",
+        "ts": "1498055828.475452",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6fa92c4d29b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/185152750597_6fa92c4d29b6e84e3603_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Manokhina",
+            "display_name": "manokhina",
+            "team": "T040HKJE3",
+            "name": "bauchgefuhl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498055187.193167",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498056688.846001",
+        "user": "U5X8M7V0A",
+        "text": "<@U5X8M7V0A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498058286.561755",
+        "user": "U5WK2A388",
+        "text": "<@U5WK2A388> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498059268.995684",
+        "user": "U5XCKDLG5",
+        "text": "<@U5XCKDLG5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "было бы хорошо во многих курсах, особенно базовых\/общих уходить от специфического языка в задачах. А то ладно R, но матлаб совершенно нет желания учить (в связи с чем я и застрял на середине курса от Ng)     --- мысль вслух",
+        "user": "U1HHX1QS3",
+        "ts": "1498059549.114560",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1HHX1QS3",
+            "ts": "1498059566.000000"
+        },
+        "thread_ts": "1498059549.114560",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1498060478.514048",
+        "reply_users": [
+            "U1UNFRQ1K"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1498060419.488551"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1498060478.514048"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U1B2L9G58"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "cityfish: в целом согласен, но от матлаба там толком ничего не надо, просто за часок познакомиться с синтаксисом – и вперед!",
+        "user": "U1UNFRQ1K",
+        "ts": "1498060419.488551",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498059549.114560",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "а вообще жаль, что стэнфордский курс никак не развивается. Ему бы на питон перейти и добавить хотя бы деревья, лес и бустинг…",
+        "user": "U1UNFRQ1K",
+        "ts": "1498060478.514048",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498059549.114560",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498066742.992403",
+        "user": "U5WN6205N",
+        "text": "<@U5WN6205N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498072769.298040",
+        "user": "U5XEFVADQ",
+        "text": "<@U5XEFVADQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "а кроме курсеры кто-то еще просил фин. помощь, только например на нанодигрис на юдасити?",
+        "user": "U5QLG41NG",
+        "ts": "1498076308.542652",
+        "thread_ts": "1498040385.927305",
+        "root": {
+            "type": "message",
+            "text": "Такая ситуация: если я получал доступ к специализации на курсере и ~просрал все сроки~ не хватило времени на ее прохождение, я могу написать слезливое письмо в финансовую помощь и попросить доступ? Или готовить кошелек",
+            "user": "U04725QK7",
+            "ts": "1498040385.927305",
+            "team": "T040HKJE3",
+            "thread_ts": "1498040385.927305",
+            "reply_count": 17,
+            "reply_users_count": 8,
+            "latest_reply": "1498076308.542652",
+            "reply_users": [
+                "U5R6WCSBU",
+                "U04725QK7",
+                "U0AS548A1",
+                "U3P82LKDK",
+                "U1YJTS97B",
+                "U1BMURR5G",
+                "U0XQJK3NJ",
+                "U5QLG41NG"
+            ],
+            "subscribed": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U5QLG41NG",
+        "ts": "1498076308.542695",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1498040385927305",
+                "fallback": "[June 21st, 2017 3:19 AM] gleb_filatov: Такая ситуация: если я получал доступ к специализации на курсере и ~просрал все сроки~ не хватило времени на ее прохождение, я могу написать слезливое письмо в финансовую помощь и попросить доступ? Или готовить кошелек",
+                "ts": "1498040385.927305",
+                "author_subname": "gleb_filatov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Такая ситуация: если я получал доступ к специализации на курсере и ~просрал все сроки~ не хватило времени на ее прохождение, я могу написать слезливое письмо в финансовую помощь и попросить доступ? Или готовить кошелек",
+                "author_name": "Gleb Filatov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/gleb_filatov",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "17 replies"
+            },
+            {
+                "fallback": "а кроме курсеры кто-то еще просил фин. помощь, только например на нанодигрис на юдасити?",
+                "author_name": "pasternak",
+                "author_subname": "pasternak",
+                "text": "а кроме курсеры кто-то еще просил фин. помощь, только например на нанодигрис на юдасити?",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/pasternak",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1498076308542652?thread_ts=1498040385927305&cid=C04DP7BUY",
+                "ts": "1498076308.542652",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/827aee55e4c2592e0a42344661120896.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-48.png",
+                "id": 2
+            }
+        ],
+        "new_broadcast": true
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498077453.953704",
+        "user": "U5YAL4C94",
+        "text": "<@U5YAL4C94> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498081799.332025",
+        "user": "U5XHCH69Y",
+        "text": "<@U5XHCH69Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498109017.287355",
+        "user": "U5YGAQSMV",
+        "text": "<@U5YGAQSMV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498111297.560450",
+        "user": "U537TD0MQ",
+        "text": "<@U537TD0MQ> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498114267.000026",
+        "user": "U5X5GPEEM",
+        "text": "<@U5X5GPEEM> has joined the channel"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "text": "смотрел его выступления на PyData - вроде толковый парень. у него еще книжка есть, но пока не читал\n<http:\/\/shop.oreilly.com\/product\/0636920030515.do>",
+        "user": "U6Z21KSBC",
+        "ts": "1524830267.000048",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83c208ecba22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-05\/429449118643_83c208ecba22effb0557_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Zavgorodnii",
+            "display_name": "nj",
+            "team": "T040HKJE3",
+            "name": "nikitaj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Introduction to Machine Learning with Python",
+                "title_link": "http:\/\/shop.oreilly.com\/product\/0636920030515.do",
+                "text": "Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Pyth...",
+                "fallback": "Introduction to Machine Learning with Python",
+                "thumb_url": "http:\/\/covers.oreilly.com\/images\/0636920030515\/bkt.gif",
+                "from_url": "http:\/\/shop.oreilly.com\/product\/0636920030515.do",
+                "thumb_width": 85,
+                "thumb_height": 107,
+                "service_name": "shop.oreilly.com",
+                "id": 1,
+                "original_url": "http:\/\/shop.oreilly.com\/product\/0636920030515.do"
+            }
+        ],
+        "thread_ts": "1524758854.000942",
+        "parent_user_id": "U53E5MFNU",
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0AS548A1> привет, расскажи про epfl. Он платный? Я посмотрел, там онлайн курс за 500 баксов в месяц. Чет жестко, если это так. Стоит ли это того?",
+        "user": "U41539JBX",
+        "ts": "1524854062.000220",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g38bdabff740",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab38bdabff74008333ff600ad84417a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Igor",
+            "real_name": "Igor Kim",
+            "display_name": "igoo",
+            "team": "T040HKJE3",
+            "name": "igoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524440292.000002",
+        "parent_user_id": "U7VDWFSG3"
+    },
+    {
+        "type": "message",
+        "text": "<@U41539JBX> <https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/>",
+        "user": "U53E5MFNU",
+        "ts": "1524854252.000293",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning Course",
+                "title_link": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/",
+                "text": "Slides, handouts, voice-overs and virtual machine for François Fleuret's EPFL EE-559 deep learning course",
+                "fallback": "Deep Learning Course",
+                "from_url": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/",
+                "service_name": "documents.epfl.ch",
+                "id": 1,
+                "original_url": "https:\/\/documents.epfl.ch\/users\/f\/fl\/fleuret\/www\/dlc\/"
+            }
+        ],
+        "thread_ts": "1524440292.000002",
+        "parent_user_id": "U7VDWFSG3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U41539JBX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

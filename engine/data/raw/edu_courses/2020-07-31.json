@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "917fc86d-b9c8-434e-b2c0-efadc9e7d1cf",
+        "type": "message",
+        "text": "забавно, что открывая ссылку, первое что видишь - Data Science 4 All. а берут только девушек=) можешь чуть по-подробней рассказать что оно из себя представляет? может порекомендую знакомым.",
+        "user": "U9CR1MU9K",
+        "ts": "1596192560.043900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "15e235a009fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-24\/1259801509093_15e235a009fe1c09ae22_72.jpg",
+            "first_name": "",
+            "real_name": "Lytvynenko Maksym",
+            "display_name": "Maksim",
+            "team": "T040HKJE3",
+            "name": "lytvynenkomaksim96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "забавно, что открывая ссылку, первое что видишь - Data Science 4 All. а берут только девушек=) можешь чуть по-подробней рассказать что оно из себя представляет? может порекомендую знакомым."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596130688.032500",
+        "parent_user_id": "UV8J1K05U",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "URV3BA571"
+                ],
+                "count": 1
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U5FCA4F8X",
+                    "UNSU7HRA8",
+                    "U0U2ENJ4U",
+                    "U9ZU1CYUD",
+                    "UE4CX9345"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3360506c-f607-4c26-b2d2-bda7878dc533",
+        "type": "message",
+        "text": "есть еще <https:\/\/www.youtube.com\/watch?v=ZGfv_yRLBiY&amp;list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8>. Хоть и не курс с практикой, но может полезно будет.",
+        "user": "UHSBA8F35",
+        "ts": "1596210277.046200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4e6b00712c7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a4e6b00712c72d0bebc5560397227fc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Anatolijrubanov",
+            "display_name": "Anatolijrubanov",
+            "team": "T040HKJE3",
+            "name": "anatolijrubanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHSBA8F35",
+            "ts": "1596210319.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Основы асинхронности в Python #1: Введение",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZGfv_yRLBiY",
+                "author_name": "Олег Молчанов",
+                "author_link": "https:\/\/www.youtube.com\/user\/zaemiel",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZGfv_yRLBiY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Основы асинхронности в Python #1: Введение",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZGfv_yRLBiY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZGfv_yRLBiY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ZGfv_yRLBiY&amp;list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GlNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "есть еще "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Хоть и не курс с практикой, но может полезно будет."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595681373.426300",
+        "parent_user_id": "UBPSWEPG8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UBPSWEPG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b9f424b-f9ae-4058-9f29-05dcf11b8781",
+        "type": "message",
+        "text": "=",
+        "user": "U15V81K6V",
+        "ts": "1596215553.046700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1596215677.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JGlSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595967781.005600",
+        "parent_user_id": "UNMTRMDE0"
+    },
+    {
+        "client_msg_id": "806EE1AB-A7CB-444C-99F8-718DDF14CA0B",
+        "type": "message",
+        "text": "То, что выше - единственная норм книга вроде",
+        "user": "UTA0FH53P",
+        "ts": "1596228853.048400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d30688ad1a5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-12\/1067408242369_d30688ad1a5bb5f0a781_72.png",
+            "first_name": "Arseny",
+            "real_name": "Arseny Protsenko",
+            "display_name": "ProtsenkoAI",
+            "team": "T040HKJE3",
+            "name": "procenko_0303",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7I+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "То, что выше - единственная норм книга вроде"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595801521.436300",
+        "parent_user_id": "U016L3YNE0Z",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8PMZ6397"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

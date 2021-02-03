@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "fb856fe7-1d86-4c57-b46a-56f8094d0617",
+        "type": "message",
+        "text": "Посоветуйте, плз, курс для начинающего DevOps.\nМожет что-то по AWS, или GC, желательно, чтобы была ещё и практика.",
+        "user": "U5FUU47GA",
+        "ts": "1540480393.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540480393.000100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1540485089.000100",
+        "reply_users": [
+            "U53E5MFNU",
+            "U5FUU47GA",
+            "UAEJ6EU7K",
+            "U14CTBLFJ"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1540480728.000100"
+            },
+            {
+                "user": "U5FUU47GA",
+                "ts": "1540480752.000100"
+            },
+            {
+                "user": "UAEJ6EU7K",
+                "ts": "1540483419.000100"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1540485012.000100"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1540485089.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1HHX1QS3",
+                    "U1H5CMTU0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bc90885-b75d-40e7-964c-9dbef9a0ce65",
+        "type": "message",
+        "text": "на днях увидел курсы от амазона по AWS, сам  пока не проходил но может будет кому полезно <https:\/\/www.edx.org\/school\/aws> - здесь три курса",
+        "user": "U53E5MFNU",
+        "ts": "1540480728.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1540480803.000000"
+        },
+        "thread_ts": "1540480393.000100",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "client_msg_id": "71a8fa11-b45e-4b50-983a-c14e057ac2bb",
+        "type": "message",
+        "text": "Я на Udemi видел. Ща это гляну.",
+        "user": "U5FUU47GA",
+        "ts": "1540480752.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540480393.000100",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "client_msg_id": "b8953c64-a0e4-4ca6-905f-1e7615f86137",
+        "type": "message",
+        "text": "<https:\/\/www.pluralsight.com\/paths\/aws-certified-devops-engineer>\n\nза десятидневный триал период можно успеть еще кучу всего",
+        "user": "UAEJ6EU7K",
+        "ts": "1540483419.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "241b01fbba44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-19\/701830008855_241b01fbba44ca484212_72.jpg",
+            "first_name": "Yehor",
+            "real_name": "Yehor Sikachov",
+            "display_name": "Yehor Sikachov",
+            "team": "T040HKJE3",
+            "name": "yehor.sikachov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "AWS Certified DevOps Engineer",
+                "title_link": "https:\/\/www.pluralsight.com\/paths\/aws-certified-devops-engineer",
+                "text": "The Pluralsight AWS Certified Devops Engineer - Professional learning path is the AWS training needed to get certified. Prepare for your AWS certification today!",
+                "fallback": "AWS Certified DevOps Engineer",
+                "image_url": "https:\/\/pluralsight.imgix.net\/paths\/path-icons\/aws-certified-devops-engineer-25d912e3da.png",
+                "from_url": "https:\/\/www.pluralsight.com\/paths\/aws-certified-devops-engineer",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 5753,
+                "service_icon": "https:\/\/www.pluralsight.com\/etc\/clientlibs\/pluralsight\/main\/images\/favicons\/xapple-touch-icon-57x57.png.pagespeed.ic.OnDIMe0Omi.png",
+                "service_name": "pluralsight.com",
+                "id": 1,
+                "original_url": "https:\/\/www.pluralsight.com\/paths\/aws-certified-devops-engineer"
+            }
+        ],
+        "thread_ts": "1540480393.000100",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "client_msg_id": "2919CB14-8017-43F4-B329-44DB1FC15F63",
+        "type": "message",
+        "text": "На coursehunters поищи devops от otus :pirateparrot: ",
+        "user": "U14CTBLFJ",
+        "ts": "1540485012.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540480393.000100",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1H5CMTU0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F8929D3D-3E64-438D-BABF-EEB2673ACE43",
+        "type": "message",
+        "text": "DevOps это практики CD, IaaC и мониторинг. Инструменты не так уж и важны",
+        "user": "U14CTBLFJ",
+        "ts": "1540485089.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540480393.000100",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "client_msg_id": "86e5da76-7f7b-42c3-8c36-2b206bef5784",
+        "type": "message",
+        "text": "<@U8J9XMX3J>  никто не возьмет его стажером, даже со знаниями ds это тяжело осуществимо ",
+        "user": "UBP7JT6MS",
+        "ts": "1540491581.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "270fcb451d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-19\/959109478448_270fcb451d9f765cd06d_72.jpg",
+            "first_name": "Vi",
+            "real_name": "Vi Colby",
+            "display_name": "gimmefear",
+            "team": "T040HKJE3",
+            "name": "tvinkoo174",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540383540.000100",
+        "parent_user_id": "UCT290D7A"
+    }
+]

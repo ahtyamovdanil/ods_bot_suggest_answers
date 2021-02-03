@@ -1,0 +1,460 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498634056.944359",
+        "user": "U60112UN4",
+        "text": "<@U60112UN4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498634691.065085",
+        "user": "U604CDX17",
+        "text": "<@U604CDX17> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498641309.642968",
+        "user": "U605QUTU1",
+        "text": "<@U605QUTU1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Не уверен, что сюда спрашивать, но спрошу.\nКакие  в Москве по теме аспирантуры есть? И какой смысл\/какие плюшки в защите диссертации, на ваш взгляд? ",
+        "user": "U4U4GFDNK",
+        "ts": "1498654136.590223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498654136.590223",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1498654425.672163",
+        "reply_users": [
+            "U09NC5XLN",
+            "U4U4GFDNK"
+        ],
+        "replies": [
+            {
+                "user": "U09NC5XLN",
+                "ts": "1498654408.667218"
+            },
+            {
+                "user": "U4U4GFDNK",
+                "ts": "1498654425.672163"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "chains",
+                "users": [
+                    "U0DA4J82H",
+                    "U1HHX1QS3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "belskikh: <#C0KGMMCAX|edu_academy> ?",
+        "user": "U09NC5XLN",
+        "ts": "1498654408.667218",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4a9260442eb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-30\/111464257030_4a9260442eb1866af67c_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Smolyakov",
+            "display_name": "sklef",
+            "team": "T040HKJE3",
+            "name": "sklef",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498654136.590223",
+        "parent_user_id": "U4U4GFDNK"
+    },
+    {
+        "type": "message",
+        "text": "Спасибо! ",
+        "user": "U4U4GFDNK",
+        "ts": "1498654425.672163",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498654136.590223",
+        "parent_user_id": "U4U4GFDNK"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=snEo-Ukv_6Y> Никак не могу отыскать листочки+конспект от этих лекций. Может быть есть у кого? Как я понял, там где он раньше был — сейчас ссылки мертвые.",
+        "user": "U1R8X3V54",
+        "ts": "1498674675.862693",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "В.Г.Спокойный. Современная параметрическая статистика. Лекция 1. 10 февраля 2014",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=snEo-Ukv_6Y",
+                "author_name": "PreMoLab",
+                "author_link": "https:\/\/www.youtube.com\/user\/PreMoLab",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/snEo-Ukv_6Y\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: В.Г.Спокойный. Современная параметрическая статистика. Лекция 1. 10 февраля 2014",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/snEo-Ukv_6Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=snEo-Ukv_6Y",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498674675.862693",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1498675793.292467",
+        "reply_users": [
+            "U1UM6S9KN",
+            "U1R8X3V54",
+            "U04ELQZAU"
+        ],
+        "replies": [
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1498675158.048729"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1498675193.062175"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1498675226.075311"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1498675478.171347"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1498675560.202841"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1498675793.292467"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "amsirion: книги есть. <http:\/\/gen.lib.rus.ec\/search.php?req=spokoin&amp;lg_topic=libgen&amp;open=0&amp;view=simple&amp;res=25&amp;phrase=1&amp;column=def>",
+        "user": "U1UM6S9KN",
+        "ts": "1498675158.048729",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Library Genesis",
+                "title_link": "http:\/\/gen.lib.rus.ec\/search.php?req=spokoin&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def",
+                "text": "Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.",
+                "fallback": "Library Genesis",
+                "from_url": "http:\/\/gen.lib.rus.ec\/search.php?req=spokoin&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def",
+                "service_icon": "http:\/\/gen.lib.rus.ec\/favicon.ico",
+                "service_name": "gen.lib.rus.ec",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "листочки бы, книги я нашел, да",
+        "user": "U1R8X3V54",
+        "ts": "1498675193.062175",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "обычно на сайте НМУ есть, но тут я не нашел",
+        "user": "U1R8X3V54",
+        "ts": "1498675226.075311",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "Думаю, в листочках задачки – просто ссылки на упражнения из книги\nсм <http:\/\/premolab.ru\/c_files\/c53\/1U6dNBfgy3.pdf>",
+        "user": "U04ELQZAU",
+        "ts": "1498675478.171347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "А, стоп, это курс по параметрической статистике",
+        "user": "U04ELQZAU",
+        "ts": "1498675560.202841",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "Впринципе в той книжке, что на лигбене — есть упражнения, наверное это оно и есть. Мне просто листочке удобнее и плане того, что лишнего не хватанешь, но их уже не найти похоже",
+        "user": "U1R8X3V54",
+        "ts": "1498675793.292467",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1498674675.862693",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498683922.220009",
+        "user": "U6194DJ85",
+        "text": "<@U6194DJ85> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498712074.836884",
+        "user": "U625QE2S3",
+        "text": "<@U625QE2S3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498714124.068437",
+        "user": "U60LN8JCQ",
+        "text": "<@U60LN8JCQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498714374.099080",
+        "user": "U60LP5VL0",
+        "text": "<@U60LP5VL0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498714594.125267",
+        "user": "U60PXGBCZ",
+        "text": "<@U60PXGBCZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498715449.226812",
+        "user": "U6262B77Z",
+        "text": "<@U6262B77Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498715736.262901",
+        "user": "U6263EZ8X",
+        "text": "<@U6263EZ8X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "кто-нибудь смотрел <https:\/\/www.youtube.com\/watch?v=fYyARMqiaag&amp;list=PLF797E961509B4EB5> ? как оно?",
+        "user": "U4YQKKZFA",
+        "ts": "1498716381.349300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3559575ac103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-20\/243703554387_3559575ac103eef72c34_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Rukhlov",
+            "display_name": "mrukhlov",
+            "team": "T040HKJE3",
+            "name": "mrukhlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Calculus 1 Lecture 0.1:  Lines, Angle of Inclination, and the Distance Formula",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fYyARMqiaag",
+                "author_name": "Professor Leonard",
+                "author_link": "https:\/\/www.youtube.com\/user\/professorleonard57",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fYyARMqiaag\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Calculus 1 Lecture 0.1:  Lines, Angle of Inclination, and the Distance Formula",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/fYyARMqiaag?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fYyARMqiaag",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498717942.573384",
+        "user": "U61B9SVLJ",
+        "text": "<@U61B9SVLJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498718036.587959",
+        "user": "U625V2J3G",
+        "text": "<@U625V2J3G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498718124.601492",
+        "user": "U6193L2TV",
+        "text": "<@U6193L2TV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498718902.720202",
+        "user": "U61CVRGJY",
+        "text": "<@U61CVRGJY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498719086.750170",
+        "user": "U626054DU",
+        "text": "<@U626054DU> has joined the channel"
+    }
+]

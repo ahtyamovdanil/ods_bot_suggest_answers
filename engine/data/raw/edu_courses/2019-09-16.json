@@ -1,0 +1,302 @@
+[
+    {
+        "client_msg_id": "5c8abbda-d52c-40a7-a7d1-680ea9e4ce2c",
+        "type": "message",
+        "text": "Чистый After Effects",
+        "user": "UA1NHGL74",
+        "ts": "1568630458.060100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3e314e45db0e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-10\/944338959764_3e314e45db0e76aeea2d_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Korobchenko",
+            "display_name": "Dmitry Korobchenko",
+            "team": "T040HKJE3",
+            "name": "dkorobchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568561276.051400",
+        "parent_user_id": "UA1NHGL74",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U8GGBPGR3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0dbbfc3-563c-4bef-9686-4620432ffeac",
+        "type": "message",
+        "text": "Всю жизнь мечтал научиться делать такие презентации!",
+        "user": "U0TRC9F1R",
+        "ts": "1568640032.060700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d6963b1ec9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-11\/89967300738_45d6963b1ec91fdac84e_72.jpg",
+            "first_name": "Anatoly",
+            "real_name": "Anatoly Karpov",
+            "display_name": "anatolykarpov",
+            "team": "T040HKJE3",
+            "name": "anatolykarpov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568561276.051400",
+        "parent_user_id": "UA1NHGL74"
+    },
+    {
+        "client_msg_id": "a6b28cac-889e-4633-b6a5-fc1c2454372a",
+        "type": "message",
+        "text": "онлайн книга. визуализация данных на R    <https:\/\/socviz.co\/index.html#preface>",
+        "user": "UHJET3UPQ",
+        "ts": "1568650374.062700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd32b51b8d02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d32b51b8d028ee27f3ae9b556d271f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "danen",
+            "real_name": "danen",
+            "display_name": "danen",
+            "team": "T040HKJE3",
+            "name": "danen.dossaibek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHJET3UPQ",
+            "ts": "1568650432.000000"
+        },
+        "attachments": [
+            {
+                "title": "Data Visualization",
+                "title_link": "https:\/\/socviz.co\/index.html#preface",
+                "text": "A practical introduction.",
+                "fallback": "Data Visualization",
+                "from_url": "https:\/\/socviz.co\/index.html#preface",
+                "service_name": "socviz.co",
+                "id": 1,
+                "original_url": "https:\/\/socviz.co\/index.html#preface"
+            }
+        ],
+        "thread_ts": "1568122648.339900",
+        "parent_user_id": "UBN4W9VTM"
+    },
+    {
+        "client_msg_id": "6a0ce6e5-4fe3-471a-bb0f-76f3b562f932",
+        "type": "message",
+        "text": "Обнаружил что обновили тестовые данные - изменилось число строк. Может есть канал где сообщают об обновлениях?",
+        "user": "U47L1QVUJ",
+        "ts": "1568651506.063100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge298e88ed5a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbe298e88ed5ad5d642bcccac6665184.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "ded42",
+            "real_name": "ded42",
+            "display_name": "ded42",
+            "team": "T040HKJE3",
+            "name": "ded42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568273135.358200",
+        "parent_user_id": "UFTJXL2FJ",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "UDDCJ9L84"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5F93BA3E-000E-464A-8BA7-F9E963DA626F",
+        "type": "message",
+        "text": "@ded вроде так и было 1.317М строк",
+        "user": "UFTJXL2FJ",
+        "ts": "1568652533.064200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568273135.358200",
+        "parent_user_id": "UFTJXL2FJ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDDCJ9L84"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "861817cc-b443-4a9d-a150-79107fe634db",
+        "type": "message",
+        "text": "изменения ровно на одну строку. Было : 1 317 221 стало : 1 317 220.\nвот и спросил",
+        "user": "U47L1QVUJ",
+        "ts": "1568652855.064400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge298e88ed5a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbe298e88ed5ad5d642bcccac6665184.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "ded42",
+            "real_name": "ded42",
+            "display_name": "ded42",
+            "team": "T040HKJE3",
+            "name": "ded42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568273135.358200",
+        "parent_user_id": "UFTJXL2FJ"
+    },
+    {
+        "client_msg_id": "f488bfb1-b6c0-4e0b-b55a-7e62d169c5bd",
+        "type": "message",
+        "text": "Может, по-разному импортировал? :kekeke:",
+        "user": "U8PMZ6397",
+        "ts": "1568653122.064600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568273135.358200",
+        "parent_user_id": "UFTJXL2FJ"
+    },
+    {
+        "client_msg_id": "0b0f1979-598f-4168-ba92-4a3773dc99e7",
+        "type": "message",
+        "text": "Всем привет! Недавно начал интересоваться NLP, не подскажете хорошие курсы похожие на курс в `class_dl_cmu`. Заранее спасибо!",
+        "user": "U9V40URDY",
+        "ts": "1568698108.081000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f15ffee2a9cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-18\/506556165745_f15ffee2a9cd00e2c953_72.jpg",
+            "first_name": "Ivanyuk",
+            "real_name": "Ivanyuk Bogdan",
+            "display_name": "Bogdan",
+            "team": "T040HKJE3",
+            "name": "ivanyuk.bogdan1999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9V40URDY",
+            "ts": "1568698123.000000"
+        },
+        "thread_ts": "1568698108.081000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1568708923.085200",
+        "reply_users": [
+            "UAHMQJA92",
+            "U3P82LKDK",
+            "U57JJAVLN",
+            "U9V40URDY"
+        ],
+        "replies": [
+            {
+                "user": "UAHMQJA92",
+                "ts": "1568704320.083000"
+            },
+            {
+                "user": "UAHMQJA92",
+                "ts": "1568704453.084300"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1568706931.084500"
+            },
+            {
+                "user": "U57JJAVLN",
+                "ts": "1568708153.084700"
+            },
+            {
+                "user": "U9V40URDY",
+                "ts": "1568708923.085200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKXNU796X",
+                    "UMCSWP8JV",
+                    "UFE14BN0M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c99250a-a4d8-4de1-8096-f054a8dae2b0",
+        "type": "message",
+        "text": "Сейчас идет набор до 22 сентября в Школу глубокого обучения при ФПМИ МФТИ. В этом есть базовый набор и профи. В базовом обучают нужным разделам математики для Data Science",
+        "user": "UNFTX1XT9",
+        "ts": "1568701686.081900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8435edf49e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8435edf49e9b9d3734c100b4f32dc51.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Iakov",
+            "real_name": "Iakov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "yack.jivov2013",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNFTX1XT9",
+            "ts": "1568701727.000000"
+        },
+        "thread_ts": "1567514812.158200",
+        "parent_user_id": "UDE93F477"
+    }
+]

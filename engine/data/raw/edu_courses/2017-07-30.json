@@ -1,0 +1,736 @@
+[
+    {
+        "type": "message",
+        "text": "Я к тому, что лекция отсутствует в принципе\n<@U3K7PNTML> зачем мне конвертация?",
+        "user": "U5S11SHM4",
+        "ts": "1501404168.543839",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U5S11SHM4> это курс по основам МL от вышки на курсере. А временные ряды для начала отлично рассмотрены на 1 неделе 5-ого курса спецухи от Яндекса и МФТИ и есть хорошая лекция на <http:\/\/datamininginaction.ru|datamininginaction.ru> от Евгения. (<https:\/\/youtu.be\/u433nrxdf5k>)",
+        "user": "U5R6WCSBU",
+        "ts": "1501404795.576925",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1501404849.000000"
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> я 5ый курс не проходил от яндекса. За ссылку спасибо. Мне все таки кажется, что одно другое не исключает :slightly_smiling_face:",
+        "user": "U5S11SHM4",
+        "ts": "1501404913.582911",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "можно почитать что -то по эконометрике, это их тема. Но там простые линейные модели и проблема в подборе параметров. Я бы сказал, что во временных рядах решает не знание ML и каких то методологий современных, а математика.\n\nТут есть много коротких видео и довольно грамотно <https:\/\/www.youtube.com\/playlist?list=PLu5flfwrnSD6wzkzgs4TocGL5GOXmEjZE>",
+        "user": "U5R6WCSBU",
+        "ts": "1501405292.605222",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1501405412.000000"
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5S11SHM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> спасибо за лекции! Не видел их. Здесь же нашел и основы эконометрики. Восхитительно!",
+        "user": "U5S11SHM4",
+        "ts": "1501405665.626262",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "Они на academictorrents еще есть",
+        "user": "U45603VGE",
+        "ts": "1501417533.292467",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbe2fbc05896",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4bbe2fbc058967d77a4d955bc011daf1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Susin",
+            "display_name": "isusin",
+            "team": "T040HKJE3",
+            "name": "isusin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500843100.443233",
+        "parent_user_id": "U1R8X3V54"
+    },
+    {
+        "type": "message",
+        "text": "этот сервис может не только конвертировать, но и просто скачивать",
+        "user": "U3K7PNTML",
+        "ts": "1501417948.318603",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Хотя я сильно рекомендую Файрфокс с плагином video download helper. Он даже с <https:\/\/www.safaribooksonline.com> скачивает",
+        "user": "U1UM6S9KN",
+        "ts": "1501418153.330771",
+        "thread_ts": "1501359113.875244",
+        "root": {
+            "type": "message",
+            "text": "Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+            "user": "U5S11SHM4",
+            "ts": "1501359113.875244",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "title": "Machine Learning. Курс от Яндекса для тех, кто хочет провести новогодние каникулы с пользой",
+                    "title_link": "https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/",
+                    "text": "Новогодние каникулы – хорошее время не только для отдыха, но и для самообразования. Можно отвлечься от повседневных задач и посвятить несколько дней тому, чтобы...",
+                    "fallback": "Machine Learning. Курс от Яндекса для тех, кто хочет провести новогодние каникулы с пользой",
+                    "thumb_url": "https:\/\/habrahabr.ru\/images\/habr.png",
+                    "from_url": "https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/",
+                    "thumb_width": 1200,
+                    "thumb_height": 628,
+                    "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                    "service_name": "Хабрахабр",
+                    "id": 1
+                }
+            ],
+            "thread_ts": "1501359113.875244",
+            "reply_count": 18,
+            "reply_users_count": 7,
+            "latest_reply": "1501431830.364772",
+            "reply_users": [
+                "U09JEC7V0",
+                "U1UM6S9KN",
+                "U3K7PNTML",
+                "U5S11SHM4",
+                "U5R6WCSBU",
+                "U6BS23P47",
+                "U34SSE54G"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "service_name": "Safari",
+                "title": "Safari, the world's most comprehensive tech &amp; business learning platform",
+                "title_link": "https:\/\/www.safaribooksonline.com",
+                "text": "With Safari, you learn the way you learn best. Get unlimited access to videos, live online training, learning paths, books, tutorials, and more.",
+                "fallback": "Safari: Safari, the world's most comprehensive tech &amp; business learning platform",
+                "image_url": "https:\/\/www.safaribooksonline.com\/static\/corp\/img\/safari-og.png",
+                "from_url": "https:\/\/www.safaribooksonline.com",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 10724,
+                "service_icon": "https:\/\/www.safaribooksonline.com\/static\/corp\/img\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U1UM6S9KN",
+        "ts": "1501418153.330778",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1501359113875244",
+                "fallback": "[July 29th, 2017 1:11 PM] iamtodor: Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+                "ts": "1501359113.875244",
+                "author_subname": "iamtodor",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+                "author_name": "iamtodor",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/iamtodor",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-07-04\/207809217442_d88b37a4f5bbb7b18135_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "10 replies"
+            },
+            {
+                "fallback": "Хотя я сильно рекомендую Файрфокс с плагином video download helper. Он даже с <https:\/\/www.safaribooksonline.com> скачивает",
+                "author_name": "Nick",
+                "author_subname": "notabene",
+                "text": "Хотя я сильно рекомендую Файрфокс с плагином video download helper. Он даже с <https:\/\/www.safaribooksonline.com> скачивает",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/notabene",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1501418153330771?thread_ts=1501359113875244&cid=C04DP7BUY",
+                "ts": "1501418153.330771",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "id": 2
+            }
+        ],
+        "new_broadcast": true
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN> - смотрел недавно на Сафари - сколько он стоит в месяц и оправдывает он себя? Он позволяет в частности имея сафари сгружать книжни O'Reily или только аренда книжек?",
+        "user": "U6BS23P47",
+        "ts": "1501420559.487648",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "Большинство книг на Сафари можно спустя некоторое время скачать и так. Видео тоже спустя некоторое время появляется на Рутрекере. Я не подписывался на Сафари, а только пару раз, когда была нужны книги, брал триальный период и сохранял вебстраницы, из которых состояли книги в pdf",
+        "user": "U1UM6S9KN",
+        "ts": "1501421195.530918",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U3K7PNTML> я что-то не пойму. Видео нет. Что мне скачивать твоим сервисом? :slightly_smiling_face:",
+        "user": "U5S11SHM4",
+        "ts": "1501423136.667391",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "Дык там вверху говорили, что, мол, вот если будет видео с ютуба -- то вот чем его скачивать. Тут я свои 5 копеек и вставил",
+        "user": "U3K7PNTML",
+        "ts": "1501423305.682881",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U3K7PNTML> таких сервисов вагон и маленькая тележка)",
+        "user": "U5S11SHM4",
+        "ts": "1501423383.689184",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U5S11SHM4> ну поиском воспользуйся <https:\/\/www.youtube.com\/watch?v=RdTxLXmbvjY>",
+        "user": "U09JEC7V0",
+        "ts": "1501424272.756263",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "008. Прогнозирование временных рядов - К.В. Воронцов",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RdTxLXmbvjY",
+                "author_name": "Компьютерные науки",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCKFojzto0n4Ab3CRQRZ2zYA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RdTxLXmbvjY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 008. Прогнозирование временных рядов - К.В. Воронцов",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RdTxLXmbvjY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RdTxLXmbvjY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5S11SHM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U09JEC7V0> вот так просто можно было..? :thinking_face:",
+        "user": "U5S11SHM4",
+        "ts": "1501424580.778848",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501359113.875244",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "по поводу  <https:\/\/www.safaribooksonline.com>\nтам можно триальный период брать даже на несуществующий емейл (не нужно никаких верификаций) + в хроме есть плагин(Safari books download) который по циклу проходит по всем страничкам и скачивает их (обычно одна страница = одна глава)",
+        "user": "U34SSE54G",
+        "ts": "1501431830.364772",
+        "thread_ts": "1501359113.875244",
+        "root": {
+            "type": "message",
+            "text": "Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+            "user": "U5S11SHM4",
+            "ts": "1501359113.875244",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "title": "Machine Learning. Курс от Яндекса для тех, кто хочет провести новогодние каникулы с пользой",
+                    "title_link": "https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/",
+                    "text": "Новогодние каникулы – хорошее время не только для отдыха, но и для самообразования. Можно отвлечься от повседневных задач и посвятить несколько дней тому, чтобы...",
+                    "fallback": "Machine Learning. Курс от Яндекса для тех, кто хочет провести новогодние каникулы с пользой",
+                    "thumb_url": "https:\/\/habrahabr.ru\/images\/habr.png",
+                    "from_url": "https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/",
+                    "thumb_width": 1200,
+                    "thumb_height": 628,
+                    "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                    "service_name": "Хабрахабр",
+                    "id": 1
+                }
+            ],
+            "thread_ts": "1501359113.875244",
+            "reply_count": 18,
+            "reply_users_count": 7,
+            "latest_reply": "1501431830.364772",
+            "reply_users": [
+                "U09JEC7V0",
+                "U1UM6S9KN",
+                "U3K7PNTML",
+                "U5S11SHM4",
+                "U5R6WCSBU",
+                "U6BS23P47",
+                "U34SSE54G"
+            ],
+            "subscribed": false
+        },
+        "edited": {
+            "user": "U34SSE54G",
+            "ts": "1501431837.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U34SSE54G",
+        "ts": "1501431831.364786",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1501359113875244",
+                "fallback": "[July 29th, 2017 1:11 PM] iamtodor: Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+                "ts": "1501359113.875244",
+                "author_subname": "iamtodor",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Не смог выбрать более подходящий канал. Кто здесь из яндекса, можно вас попросить вылить 10 лекцию по прогнозированию временных рядов <https:\/\/habrahabr.ru\/company\/yandex\/blog\/208034\/>?\nНа яндекс диске ее нет :disappointed:",
+                "author_name": "iamtodor",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/iamtodor",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-07-04\/207809217442_d88b37a4f5bbb7b18135_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "18 replies"
+            },
+            {
+                "fallback": "по поводу  <https:\/\/www.safaribooksonline.com>\nтам можно триальный период брать даже на несуществующий емейл (не нужно никаких верификаций) + в хроме есть плагин(Safari books download) который по циклу проходит по всем страничкам и скачивает их (обычно одна страница = одна глава)",
+                "author_name": "Vladislav Boyadzhi",
+                "author_subname": "madjuice",
+                "text": "по поводу  <https:\/\/www.safaribooksonline.com>\nтам можно триальный период брать даже на несуществующий емейл (не нужно никаких верификаций) + в хроме есть плагин(Safari books download) который по циклу проходит по всем страничкам и скачивает их (обычно одна страница = одна глава)",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/madjuice",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1501431830364772?thread_ts=1501359113875244&cid=C04DP7BUY",
+                "ts": "1501431830.364772",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-01-12\/127388884422_9b3d50ff646c2110c5a2_48.jpg",
+                "id": 2
+            }
+        ],
+        "new_broadcast": true
+    },
+    {
+        "type": "message",
+        "text": "Теперь для всех. <http:\/\/Fast.ai|Fast.ai>, Cutting Edge Deep Learning for Coders, Part 2 - <http:\/\/course.fast.ai\/part2.html> . cc <@U2N853RGF>",
+        "user": "U049HDR2Z",
+        "ts": "1501449698.858192",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning For Coders—36 hours of lessons for free",
+                "title_link": "http:\/\/course.fast.ai\/part2.html",
+                "text": "<http:\/\/fast.ai|fast.ai>'s practical deep learning MOOC for coders. Learn CNNs, RNNs, computer vision, NLP, recommendation systems, keras, theano, and much more!",
+                "fallback": "Deep Learning For Coders—36 hours of lessons for free",
+                "from_url": "http:\/\/course.fast.ai\/part2.html",
+                "service_icon": "http:\/\/course.fast.ai\/favicon.ico",
+                "service_name": "course.fast.ai",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3P82LKDK",
+                    "U2N853RGF",
+                    "U3CJPQ4HX",
+                    "U53E5MFNU",
+                    "U4WMPCB7W",
+                    "U1H5CMTU0",
+                    "U1BMURR5G",
+                    "U5JR89DNF",
+                    "U6BNXMZT9",
+                    "U4BU5BR6X",
+                    "U4D3FH3A7",
+                    "U1CMPEWPQ"
+                ],
+                "count": 12
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U3P82LKDK",
+                    "U2N853RGF",
+                    "U3CJPQ4HX",
+                    "U53E5MFNU",
+                    "U1H5CMTU0",
+                    "U1CMPEWPQ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U2N853RGF",
+                    "U302AALBS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501451452.995809",
+        "user": "U3CJPQ4HX",
+        "text": "<@U3CJPQ4HX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Финальный проект тоже доступен. Ну или как вариант - зависит от конкретной специализации. Прошел специализацию из 4 курсов и финального проекта за 5 дней - за всё дали по сертификату. Единственный вопрос, который появился - в linkedIn кидать каждый сертификат или только сертификат на специализацию. Просто последний получается дублирует все остальные. Но при этом никак не выделяется на их фоне на linkedIn :unamused:",
+        "user": "U1ULFPM0U",
+        "ts": "1501471616.330644",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd7042e61b14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-24\/62713814673_fd7042e61b148c316df3_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Golubev",
+            "display_name": "k.golubev",
+            "team": "T040HKJE3",
+            "name": "k.golubev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ULFPM0U",
+            "ts": "1501471658.000000"
+        },
+        "thread_ts": "1501330171.410212",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "ссылка с параллельного слака, думаю стоит тут сохранить. <http:\/\/www.datasciencecentral.com\/profiles\/blogs\/21-great-articles-and-tutorials-on-time-series?utm_content=bufferfc0a4&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer>",
+        "user": "U5R6WCSBU",
+        "ts": "1501479940.560140",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "21 Great Articles and Tutorials on Time Series",
+                "title_link": "http:\/\/www.datasciencecentral.com\/profiles\/blogs\/21-great-articles-and-tutorials-on-time-series?utm_content=bufferfc0a4&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer",
+                "text": "This resource is part of a series on specific topics related to data science: regression, clustering, neural networks, deep learning, Hadoop, decision trees, e…",
+                "fallback": "21 Great Articles and Tutorials on Time Series",
+                "from_url": "http:\/\/www.datasciencecentral.com\/profiles\/blogs\/21-great-articles-and-tutorials-on-time-series?utm_content=bufferfc0a4&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer",
+                "service_icon": "http:\/\/www.datasciencecentral.com\/favicon.ico",
+                "service_name": "datasciencecentral.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501479940.560140",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1501494217.798709",
+        "reply_users": [
+            "U1BMURR5G",
+            "U5R6WCSBU"
+        ],
+        "replies": [
+            {
+                "user": "U1BMURR5G",
+                "ts": "1501493452.523933"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1501494217.798709"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1BMURR5G",
+                    "U5E9F39EC",
+                    "U53E5MFNU",
+                    "U6BS23P47",
+                    "U24FHECDD",
+                    "U1D6DT6HE"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501480954.735190",
+        "user": "U6F6EBBGR",
+        "text": "<@U6F6EBBGR> has joined the channel"
+    }
+]

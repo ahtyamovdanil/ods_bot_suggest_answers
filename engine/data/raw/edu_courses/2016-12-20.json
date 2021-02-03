@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1482222612.000291",
+        "user": "U3GRYQX2P",
+        "text": "<@U3GRYQX2P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[December 19th, 2016 8:49 AM] sovcharenko: есть курс лекций от David Silver: <https:\/\/www.youtube.com\/watch?v=2pWv7GOvuf0&amp;list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9->",
+                "ts": "1482166195.000279",
+                "author_id": "U041P485A",
+                "author_subname": "Sergey Ovcharenko",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "есть курс лекций от David Silver: <https:\/\/www.youtube.com\/watch?v=2pWv7GOvuf0&amp;list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9->",
+                "author_name": "Sergey Ovcharenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U041P485A",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1482233705.000292"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1482235839.000293",
+        "user": "U3G9C9S1W",
+        "text": "<@U3G9C9S1W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1482238112.000294",
+        "user": "U3HM4KY14",
+        "text": "<@U3HM4KY14> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1482247439.000295",
+        "user": "U3H12QDAP",
+        "text": "<@U3H12QDAP> has joined the channel"
+    }
+]

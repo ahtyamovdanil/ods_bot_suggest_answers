@@ -1,0 +1,280 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470732744.000433",
+        "user": "U1ZFJNSF5",
+        "text": "<@U1ZFJNSF5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/mathematics-and-python\/>",
+        "user": "U040M0W0S",
+        "ts": "1470741137.000434",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Математика и Python для анализа данных - Moscow Institute of Physics and Technology | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/mathematics-and-python\/",
+                "text": "Математика и Python для анализа данных from Moscow Institute of Physics and Technology. Анализ данных и машинное обучение существенно опираются на результаты из математического анализа, линейной алгебры, методов оптимизации, теории вероятностей. Без фундаментальных знаний по этим наукам невозможно понимать, как устроены методы анализа данных. Данный курс направлен на то, чтобы сформировать этот фундамент. Мы обойдёмся без сложных формул и доказательств и сделаем упор на интерпретации и понимании смысла математических понятий и объектов. Для успешного применения методов анализа данных нужно уметь программировать. Фактическим стандартом для этого в наши дни является язык Python. В данном курсе мы предлагаем познакомиться с его синтаксисом, а также научиться работать с его основными библиотеками, полезными для анализа данных. В этом курсе вы познакомитесь с фундаментальными математическими понятиями, необходимыми для анализа данных, и получите начальный навык программирования на Python. Курс состоит из двух больших частей. Первая часть курса – практическая, она посвящена языку программирования Python. Вы познакомитесь с синтаксисом и идеологией языка, научитесь писать простые программы. Также вы узнаете о библиотеках, которые часто применяются на практике для анализе данных, например, NumPy, SciPy, Matplotlib и Pandas. Вторая часть курса посвящена таким разделам математики как линейная алгебра, математический анализ, методы оптимизации и теория вероятностей. При этом, упор делается на разъяснение математических понятий и их применение на практике, а не на вывод сложных формул и доказательство теорем. Take free online classes from 140+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Математика и Python для анализа данных - Moscow Institute of Physics and Technology | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/d7\/c45bf0b0d911e5965623dd71776f15\/800x800-01.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/mathematics-and-python\/",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0AS548A1",
+                    "U1R8X3V54",
+                    "U0M39M6LS",
+                    "U1ZFMRMBJ",
+                    "U1KV54E4C"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U0AS548A1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0AS548A1>:  а идея по-моему хорошая :slightly_smiling_face:",
+        "user": "U040M0W0S",
+        "ts": "1470742026.000436",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040M0W0S> курс тоже хороший. Просто хотелось по-менее intro в нем ",
+        "user": "U0AS548A1",
+        "ts": "1470742363.000437",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Так это только первый курс в специализации, дальше огонь",
+        "user": "U0M39M6LS",
+        "ts": "1470744213.000438",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Особенно 3 мне понравился ",
+        "user": "U0M39M6LS",
+        "ts": "1470744220.000439",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там второй самый потный",
+        "user": "U1R8X3V54",
+        "ts": "1470746148.000440",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а курсы клёвые",
+        "user": "U1R8X3V54",
+        "ts": "1470746195.000441",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Так или иначе в тему, отличное введение в биотех <https:\/\/courses.edx.org\/courses\/course-v1:MITx+7.00x_4+2T2016\/courseware\/Week_1\/Introduction\/> \nИ лектор огонь.",
+        "user": "U14CTBLFJ",
+        "ts": "1470747065.000442",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я думаю, так лучше ссылка <https:\/\/www.edx.org\/course\/introduction-biology-secret-life-mitx-7-00x-3>",
+        "user": "U1ULNASSV",
+        "ts": "1470747439.000443",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7a2640dcab86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-05\/342948563735_7a2640dcab863f406b63_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Peshekhonov",
+            "display_name": "alexeyp",
+            "team": "T040HKJE3",
+            "name": "alexeyp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Introduction to Biology - The Secret of Life",
+                "title_link": "https:\/\/www.edx.org\/course\/introduction-biology-secret-life-mitx-7-00x-3",
+                "text": "Explore the secret of life through the basics of biochemistry, genetics, molecular biology, recombinant DNA, genomics and rational medicine.",
+                "fallback": "edX: Introduction to Biology - The Secret of Life",
+                "image_url": "https:\/\/www.edx.org\/sites\/default\/files\/course\/image\/promoted\/700_helix_378x225.jpg",
+                "ts": 1469481754,
+                "from_url": "https:\/\/www.edx.org\/course\/introduction-biology-secret-life-mitx-7-00x-3",
+                "image_width": 378,
+                "image_height": 225,
+                "image_bytes": 21354,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1YK50QSJ",
+                    "U0952QCHE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S",
+                    "U0952QCHE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470758401.000445",
+        "user": "U1ZM8QQ3Z",
+        "text": "<@U1ZM8QQ3Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470775617.000446",
+        "user": "U1ZQRD4BX",
+        "text": "<@U1ZQRD4BX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470786314.000447",
+        "user": "U1ZSB7AAK",
+        "text": "<@U1ZSB7AAK> has joined the channel"
+    }
+]

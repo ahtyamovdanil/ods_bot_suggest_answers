@@ -1,0 +1,393 @@
+[
+    {
+        "type": "message",
+        "text": "У udacity с их новыми nanodegrees реально всё разлетелось нафиг :confused: Уже почти месяц выписывают меня с их ML nanodegree (программу закончил, а ни сертификата, ни поздравлений, зато прислали ссылку на заказ бесплатной футболки). Саппорт вначале что-то вяло мне отвечал, а теперь совсем забил. В общем, странное впечатление от них",
+        "user": "U126TCE79",
+        "ts": "1482320262.000296",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U126TCE79",
+            "ts": "1482320267.000000"
+        },
+        "thread_ts": "1482320262.000296",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1487172494.002437",
+        "reply_users": [
+            "U44H5N3C1",
+            "U126TCE79"
+        ],
+        "replies": [
+            {
+                "user": "U44H5N3C1",
+                "ts": "1487157791.002416"
+            },
+            {
+                "user": "U126TCE79",
+                "ts": "1487158092.002418"
+            },
+            {
+                "user": "U126TCE79",
+                "ts": "1487158155.002420"
+            },
+            {
+                "user": "U44H5N3C1",
+                "ts": "1487159303.002424"
+            },
+            {
+                "user": "U126TCE79",
+                "ts": "1487172494.002437"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "запустился курс от Jeremy Howard: <http:\/\/course.fast.ai>",
+        "user": "U3G9C9S1W",
+        "ts": "1482332182.000298",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "126557e25860",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118348308209_126557e25860e8ec75e6_72.jpg",
+            "first_name": "Алексей",
+            "real_name": "Алексей Залесов",
+            "display_name": "lexsys",
+            "team": "T040HKJE3",
+            "name": "lexsys",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Practical Deep Learning For Coders—18 hours of lessons for free",
+                "title_link": "http:\/\/course.fast.ai",
+                "text": "<http:\/\/fast.ai|fast.ai>'s practical deep learning MOOC for coders. Learn CNNs, RNNs, computer vision, NLP, recommendation systems, keras, theano, and much more! neural networks!",
+                "fallback": "Practical Deep Learning For Coders—18 hours of lessons for free",
+                "from_url": "http:\/\/course.fast.ai",
+                "service_icon": "http:\/\/course.fast.ai\/favicon.ico",
+                "service_name": "course.fast.ai",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1BMURR5G",
+                    "U0MEP6PT2",
+                    "U2AML8LEB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U1BMURR5G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "oh-yeah",
+                "users": [
+                    "U1BMURR5G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/news.ycombinator.com\/item?id=13224588>",
+        "user": "U040M0W0S",
+        "ts": "1482334812.000300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В камментах ругают за tmux и т.п",
+        "user": "U040M0W0S",
+        "ts": "1482334838.000301",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "бывает. без tmux ругались бы на несохраненные сессии при обрыве связи",
+        "user": "U3G9C9S1W",
+        "ts": "1482335947.000302",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "126557e25860",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118348308209_126557e25860e8ec75e6_72.jpg",
+            "first_name": "Алексей",
+            "real_name": "Алексей Залесов",
+            "display_name": "lexsys",
+            "team": "T040HKJE3",
+            "name": "lexsys",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а screen сильно хуже чем-то?\nПосмотрел ноутбуки, выглядит интересно, есть даже разбор каггла про рыбок",
+        "user": "U049NHC4X",
+        "ts": "1482336033.000303",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbbc21f7d520",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ceaa144a71b6e7f9d0a8880aadbf3ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "nonaryr",
+            "real_name": "nonaryr",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rustam.gilaztdinov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "про screen не знаю. думаю, дело привычки",
+        "user": "U3G9C9S1W",
+        "ts": "1482336195.000304",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "126557e25860",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118348308209_126557e25860e8ec75e6_72.jpg",
+            "first_name": "Алексей",
+            "real_name": "Алексей Залесов",
+            "display_name": "lexsys",
+            "team": "T040HKJE3",
+            "name": "lexsys",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ух, кул",
+        "user": "U1BMURR5G",
+        "ts": "1482340028.000305",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "это бесплатный?",
+        "user": "U1BMURR5G",
+        "ts": "1482340031.000306",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "похоже на то. выглядит круто. спасибо",
+        "user": "U1BMURR5G",
+        "ts": "1482340069.000307",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Бесплатный",
+        "user": "U19VD9AQH",
+        "ts": "1482340233.000308",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я не нашел практических заданий. В ноутбуках уже всё закожено.",
+        "user": "U19VD9AQH",
+        "ts": "1482340287.000309",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "мм, тогда странно",
+        "user": "U1BMURR5G",
+        "ts": "1482340407.000310",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Посмотрел две первые лекции - что-то не впечатлило",
+        "user": "U0DA4J82H",
+        "ts": "1482340478.000311",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1482390930.000312",
+        "user": "U042UQC96",
+        "text": "<@U042UQC96> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Задания в курсе от Jeremy Howard оказывается есть в wiki (пример <http:\/\/wiki.fast.ai\/index.php\/Lesson_3>). \nСоставлены в стиле Get a result in the top 50% of Dogs v Cats(<https:\/\/www.kaggle.com\/c\/dogs-vs-cats-redux-kernels-edition>), if you haven't already   :slightly_smiling_face:",
+        "user": "U19VD9AQH",
+        "ts": "1482392994.000313",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Dogs vs. Cats Redux: Kernels Edition | Kaggle",
+                "title_link": "https:\/\/www.kaggle.com\/c\/dogs-vs-cats-redux-kernels-edition",
+                "text": "Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world-class machine learning challenges.",
+                "fallback": "Dogs vs. Cats Redux: Kernels Edition | Kaggle",
+                "from_url": "https:\/\/www.kaggle.com\/c\/dogs-vs-cats-redux-kernels-edition",
+                "service_icon": "https:\/\/www.kaggle.com\/content\/v\/1e4cdaa83f46\/kaggle\/img\/apple-touch-icon.png",
+                "service_name": "kaggle.com",
+                "id": 1
+            }
+        ]
+    }
+]

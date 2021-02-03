@@ -1,0 +1,579 @@
+[
+    {
+        "type": "message",
+        "text": "Подскажите, а кто-то 5й курс из <http:\/\/deeplearning.ai|deeplearning.ai> специализации смог пройти? А то я вроде морально готов, жму \"enroll now\", а мне выдает \"This course isn't available yet\". Его просто на сайт повесили, но проходить его еще никому не давали?",
+        "user": "U6MD6AVK2",
+        "ts": "1513584193.000205",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6d6ebccb3a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-14\/226028985411_6d6ebccb3a789bc03443_72.png",
+            "first_name": "",
+            "real_name": "dr_no",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dr_no",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6MD6AVK2",
+            "ts": "1513584869.000000"
+        },
+        "thread_ts": "1513584193.000205",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1513776811.000090",
+        "reply_users": [
+            "U5R7NF98S",
+            "U7L3B6HGW",
+            "U6MD6AVK2"
+        ],
+        "replies": [
+            {
+                "user": "U5R7NF98S",
+                "ts": "1513584616.000020"
+            },
+            {
+                "user": "U7L3B6HGW",
+                "ts": "1513588991.000369"
+            },
+            {
+                "user": "U6MD6AVK2",
+                "ts": "1513666596.000024"
+            },
+            {
+                "user": "U6MD6AVK2",
+                "ts": "1513776811.000090"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Всё именно так как пишет сайт.",
+        "user": "U5R7NF98S",
+        "ts": "1513584616.000020",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3241cf2276c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289366714609_f3241cf2276c14f63732_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan",
+            "display_name": "expert",
+            "team": "T040HKJE3",
+            "name": "expert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513584193.000205",
+        "parent_user_id": "U6MD6AVK2"
+    },
+    {
+        "type": "message",
+        "text": "а работа с bigquery как-нибудь освещена?",
+        "user": "U8FC75E6R",
+        "ts": "1513585320.000030",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d04a8d159dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/287274319618_d04a8d159dacdf515d7b_72.jpg",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Dumchenko",
+            "display_name": "Alexandra Dumchenko",
+            "team": "T040HKJE3",
+            "name": "aa.dumchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513497631.000101",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "type": "message",
+        "text": "Есть немного. Но это небольшой обзор меньше чем на полчаса. Впрочем, практика есть.",
+        "user": "U4ZRFG1V0",
+        "ts": "1513585695.000227",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513497631.000101",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "type": "message",
+        "text": "написано с 19 декабря доступен будет",
+        "user": "U7L3B6HGW",
+        "ts": "1513588991.000369",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g740b9270a20",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43740b9270a206c2d0a9061b4c906be3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Nico",
+            "real_name": "Nico Belov",
+            "display_name": "Nico",
+            "team": "T040HKJE3",
+            "name": "travelerspb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513584193.000205",
+        "parent_user_id": "U6MD6AVK2"
+    },
+    {
+        "type": "message",
+        "text": "т.е с опытом его использования, не стоит тратить на курс время?",
+        "user": "U8FC75E6R",
+        "ts": "1513590956.000240",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d04a8d159dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/287274319618_d04a8d159dacdf515d7b_72.jpg",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Dumchenko",
+            "display_name": "Alexandra Dumchenko",
+            "team": "T040HKJE3",
+            "name": "aa.dumchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513497631.000101",
+        "parent_user_id": "U4ZRFG1V0"
+    },
+    {
+        "type": "message",
+        "text": "Мэйл тут выкатил новую версию лекций по нейронкам <https:\/\/habrahabr.ru\/company\/mailru\/blog\/344982\/>",
+        "user": "U1UNFRQ1K",
+        "ts": "1513604924.000410",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Лекции Техносферы. Нейронные сети в машинном обучении",
+                "title_link": "https:\/\/habrahabr.ru\/company\/mailru\/blog\/344982\/",
+                "text": "Представляем вашему вниманию очередную порцию лекций Техносферы. На курсе изучается использование нейросетевых алгоритмов в различных отраслях, а также...",
+                "fallback": "Лекции Техносферы. Нейронные сети в машинном обучении",
+                "image_url": "https:\/\/habrastorage.org\/webt\/qa\/u6\/24\/qau624dsrmkmrtrkn0bnapuap5q.png",
+                "from_url": "https:\/\/habrahabr.ru\/company\/mailru\/blog\/344982\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 239662,
+                "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Хабрахабр",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1513604924.000410",
+        "reply_count": 13,
+        "reply_users_count": 8,
+        "latest_reply": "1514807791.000064",
+        "reply_users": [
+            "U6XCTTGUB",
+            "U1UNFRQ1K",
+            "U459QGLVD",
+            "U0DA4J82H",
+            "U59MRBWUS",
+            "U2ADMH4H0",
+            "U1XQ7EP1T",
+            "U6WMC1ZS5"
+        ],
+        "replies": [
+            {
+                "user": "U6XCTTGUB",
+                "ts": "1513605143.000269"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1513606643.000292"
+            },
+            {
+                "user": "U459QGLVD",
+                "ts": "1513606968.000080"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1513613651.000182"
+            },
+            {
+                "user": "U59MRBWUS",
+                "ts": "1513614350.000501"
+            },
+            {
+                "user": "U6XCTTGUB",
+                "ts": "1513676046.000295"
+            },
+            {
+                "user": "U2ADMH4H0",
+                "ts": "1513793241.000213"
+            },
+            {
+                "user": "U1XQ7EP1T",
+                "ts": "1513793369.000395"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1513798281.000185"
+            },
+            {
+                "user": "U1XQ7EP1T",
+                "ts": "1513799172.000246"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1513799514.000122"
+            },
+            {
+                "user": "U6WMC1ZS5",
+                "ts": "1514807663.000021"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1514807791.000064"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U436BP343",
+                    "U6ZCYJFJS",
+                    "U7HAARZEC",
+                    "U8G173RS7",
+                    "U6CKPN7C5",
+                    "U1Z40FGQ6",
+                    "U725H11M3",
+                    "U1D6DT6HE"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Стоит посмотреть?",
+        "user": "U6XCTTGUB",
+        "ts": "1513605143.000269",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b08f39422b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-24\/245986594740_b08f39422b5243bb4659_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Канашов",
+            "display_name": "scientist",
+            "team": "T040HKJE3",
+            "name": "scientist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513604924.000410",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U4U2X7UBA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "После cs231 нет, пожалуй",
+        "user": "U1UNFRQ1K",
+        "ts": "1513606643.000292",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513604924.000410",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U27SUBTB9",
+                    "U5R7NF98S",
+                    "U1GMCNV3M",
+                    "U7QC6KXJP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4X6DG29F",
+                    "U5DTP08LX",
+                    "U7N4E8GBF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U1SF54RUG",
+                    "U7N4E8GBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U2ADMH4H0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "сурово)",
+        "user": "U459QGLVD",
+        "ts": "1513606968.000080",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513604924.000410",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "так cs231 вроде бы все темы, которые по ссылке, не покрывает, типа NLP и RL",
+        "user": "U0DA4J82H",
+        "ts": "1513613651.000182",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513604924.000410",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "Мне кажется для NLP стоит смотреть cs224",
+        "user": "U59MRBWUS",
+        "ts": "1513614350.000501",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "200bb2e3a13e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/268294112098_200bb2e3a13ea8351607_72.jpg",
+            "first_name": "Alexey",
+            "real_name": "Alexey Demyanchuk",
+            "display_name": "ademyanchuk",
+            "team": "T040HKJE3",
+            "name": "ademyanchuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513604924.000410",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кто-нибудь проходил на Coursera  курс Bitcoin and Cryptocurrency Technologies? <https:\/\/www.coursera.org\/learn\/cryptocurrency\/home\/welcome>",
+        "user": "U6B2015B4",
+        "ts": "1513623838.000326",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "98b1510b4521",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-02\/308842124499_98b1510b4521fd2fbc81_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Edukov",
+            "display_name": "mikeedi",
+            "team": "T040HKJE3",
+            "name": "mikhail_e",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Coursera | Online Courses From Top Universities. Join for Free",
+                "title_link": "https:\/\/www.coursera.org\/learn\/cryptocurrency\/home\/welcome",
+                "text": "1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                "fallback": "Coursera: Coursera | Online Courses From Top Universities. Join for Free",
+                "image_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/cryptocurrency\/home\/welcome",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 166866,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1513623838.000326",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1513676514.000446",
+        "reply_users": [
+            "U1BMURR5G"
+        ],
+        "replies": [
+            {
+                "user": "U1BMURR5G",
+                "ts": "1513676514.000446"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bitcoin",
+                "users": [
+                    "U2F68DB26",
+                    "U60EETE7N",
+                    "U6B2015B4",
+                    "U27SUBTB9",
+                    "U5D5GLFAQ",
+                    "U7QC6KXJP",
+                    "U1BMURR5G",
+                    "U5QEMRZDH",
+                    "U1D6DT6HE",
+                    "U2LF67NRH"
+                ],
+                "count": 10
+            },
+            {
+                "name": "ethereum",
+                "users": [
+                    "U2F68DB26",
+                    "U6B2015B4",
+                    "U5D5GLFAQ",
+                    "U47HG8U9E"
+                ],
+                "count": 4
+            },
+            {
+                "name": "antihype",
+                "users": [
+                    "U625V2J3G",
+                    "U60EETE7N",
+                    "U6QD48HHS",
+                    "U6B2015B4",
+                    "U049HDR2Z",
+                    "U1BMURR5G",
+                    "U677CBGH2",
+                    "U0L4KM9R9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "buterin",
+                "users": [
+                    "U6B2015B4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "уже пишут с 29го",
+        "user": "U6MD6AVK2",
+        "ts": "1513666596.000024",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6d6ebccb3a78",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-14\/226028985411_6d6ebccb3a789bc03443_72.png",
+            "first_name": "",
+            "real_name": "dr_no",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "dr_no",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1513584193.000205",
+        "parent_user_id": "U6MD6AVK2"
+    }
+]

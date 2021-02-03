@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "text": "Хотелось бы поделиться своими шпаргалками, составленными в процессе прохождения ML-курса от Ына, может кому-нибудь пригодится. Стоит, однако, учитывать, что они отражают лишь мое понимание данного курса и, вероятно, изобилуют разнообразными фактическими ошибками и криво переведенными терминами. Буду рад, если кто поможет их доработать.",
+        "files": [
+            {
+                "id": "FF2AG8GJ0",
+                "created": 1545924765,
+                "timestamp": 1545924765,
+                "name": "Coursera. Machine Learning. Cheatsheets.docx",
+                "title": "Coursera. Machine Learning. Cheatsheets.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UDA1RU43Y",
+                "editable": false,
+                "size": 1241386,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FF2AG8GJ0\/coursera._machine_learning._cheatsheets.docx?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FF2AG8GJ0\/download\/coursera._machine_learning._cheatsheets.docx?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UDA1RU43Y\/FF2AG8GJ0\/coursera._machine_learning._cheatsheets.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FF2AG8GJ0-41b673e64a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UDA1RU43Y",
+        "display_as_bot": false,
+        "ts": "1545924766.078800",
+        "thread_ts": "1545924766.078800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1545930010.080700",
+        "reply_users": [
+            "U2N853RGF",
+            "U302AALBS"
+        ],
+        "replies": [
+            {
+                "user": "U2N853RGF",
+                "ts": "1545924881.079700"
+            },
+            {
+                "user": "U302AALBS",
+                "ts": "1545930010.080700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U48B3EN87",
+                    "UDK41MN5U",
+                    "UF2Q1CLUS",
+                    "UC42D0YAH",
+                    "UE61U6DCL",
+                    "UF2CGVAE5",
+                    "UA6V8S97S",
+                    "U6YT3HHML",
+                    "U6U41VDQF",
+                    "UCFQNLN4V",
+                    "UDD345XLG"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B86F8C96-A3E5-422E-AE1F-235D18A2121D",
+        "type": "message",
+        "text": "У тебя есть сильный компетитор. В инете есть получше шпаргалки",
+        "user": "U2N853RGF",
+        "ts": "1545924881.079700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1545924766.078800",
+        "parent_user_id": "UDA1RU43Y"
+    },
+    {
+        "client_msg_id": "9373B85E-3E79-4B17-B3C5-3F155ED4AB84",
+        "type": "message",
+        "text": "Можно еще вот сюда посмотреть \n<https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/98wrkw\/illustrated_machine_learning_cheatsheets_covering\/?st=JQ6USMYW&amp;sh=7606697b>",
+        "user": "U302AALBS",
+        "ts": "1545930010.080700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/MachineLearning - Illustrated Machine Learning cheatsheets covering Stanford's CS 229 class",
+                "title_link": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/98wrkw\/illustrated_machine_learning_cheatsheets_covering\/?st=JQ6USMYW&sh=7606697b",
+                "text": "544 votes and 17 comments so far on Reddit",
+                "fallback": "reddit: r\/MachineLearning - Illustrated Machine Learning cheatsheets covering Stanford's CS 229 class",
+                "thumb_url": "https:\/\/external-preview.redd.it\/uFzqevaELtcgsJt5gXsuHXTG_IJ-xo_poIL5POUroN4.jpg?auto=webp&s=3e74f657f5817b3a524703a11536aeeb19283a33",
+                "from_url": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/98wrkw\/illustrated_machine_learning_cheatsheets_covering\/?st=JQ6USMYW&sh=7606697b",
+                "thumb_width": 1280,
+                "thumb_height": 662,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/98wrkw\/illustrated_machine_learning_cheatsheets_covering\/?st=JQ6USMYW&amp;sh=7606697b"
+            }
+        ],
+        "thread_ts": "1545924766.078800",
+        "parent_user_id": "UDA1RU43Y",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UDTFQJN1M",
+                    "UE61U6DCL",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UG384RRLH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

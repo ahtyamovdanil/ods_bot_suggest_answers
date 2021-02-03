@@ -1,0 +1,323 @@
+[
+    {
+        "client_msg_id": "b20c2aac-8484-4525-b3e6-deca4d7e921f",
+        "type": "message",
+        "text": "\"Учеба рассчитана на специалистов с опытом работы от года до трех лет.\" (c)\nЯсно понятно. Будем учить млу тех, кто уже умеет в мл.",
+        "user": "U013HVDEALE",
+        "ts": "1590135469.081100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2da28b38aa3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-16\/1140871451953_2da28b38aa3d45da64dd_72.png",
+            "first_name": "",
+            "real_name": "Antosha",
+            "display_name": "Antosha",
+            "team": "T040HKJE3",
+            "name": "nvelf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Учеба рассчитана на специалистов с опытом работы от года до трех лет.\" (c)\nЯсно понятно. Будем учить млу тех, кто уже умеет в мл."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990868.032500",
+        "parent_user_id": "U013MPF80TD",
+        "reactions": [
+            {
+                "name": "no-junior",
+                "users": [
+                    "U8PMZ6397"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4ba9854-955d-4ce6-bb4d-582222a30ede",
+        "type": "message",
+        "text": "\"Учеба рассчитана на специалистов с опытом работы от года до трех лет.\" - ну написать можно всё, что угодно, вступительные не связаны с опытом работы.",
+        "user": "U709XK88H",
+        "ts": "1590145113.081700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Учеба рассчитана на специалистов с опытом работы от года до трех лет.\" - ну написать можно всё, что угодно, вступительные не связаны с опытом работы."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990868.032500",
+        "parent_user_id": "U013MPF80TD",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U8PMZ6397"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U013C9MNFK5",
+                    "UG6TAGUAZ",
+                    "UKQTHKEPJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9237e0d-92d1-45b6-b95c-6e9d17868bac",
+        "type": "message",
+        "text": "<https:\/\/habr.com\/ru\/company\/skillfactory\/blog\/503196\/#CS>",
+        "user": "UHY5KKK6D",
+        "ts": "1590173472.083400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "450 бесплатных курсов от Лиги Плюща",
+                "title_link": "https:\/\/habr.com\/ru\/company\/skillfactory\/blog\/503196\/#CS",
+                "text": "Информационные технологии позволяют получить невероятно крутые образовательные ресурсы в один клик. Бесплатно. Я сейчас решаю задачу, как из огромной массы...",
+                "fallback": "450 бесплатных курсов от Лиги Плюща",
+                "image_url": "https:\/\/habr.com\/share\/publication\/503196\/acfa048ab05275519c4158009d09934d\/?v=1",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/habr.com\/ru\/company\/skillfactory\/blog\/503196\/#CS",
+                "image_bytes": 34511,
+                "service_icon": "https:\/\/habr.com\/images\/apple-touch-icon.png",
+                "service_name": "Хабр",
+                "id": 1,
+                "original_url": "https:\/\/habr.com\/ru\/company\/skillfactory\/blog\/503196\/#CS"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3ziv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/habr.com\/ru\/company\/skillfactory\/blog\/503196\/#CS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590173472.083400",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1590344505.137900",
+        "reply_users": [
+            "UDZC02ATZ",
+            "U15V81K6V"
+        ],
+        "replies": [
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1590183685.083800"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1590225685.087500"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1590228947.087900"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1590270037.112100"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1590280429.112600"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1590344505.137900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2b2473cd-5376-4017-b9db-729d12e0bc4f",
+        "type": "message",
+        "text": "А на едХ бесплатно но без сертификата?",
+        "user": "UDZC02ATZ",
+        "ts": "1590183685.083800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "22547df9a9c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/776745782336_22547df9a9c74d840578_72.png",
+            "first_name": "",
+            "real_name": "Marvelsh",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marvelsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А на едХ бесплатно но без сертификата?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590173472.083400",
+        "parent_user_id": "UHY5KKK6D"
+    },
+    {
+        "client_msg_id": "7ccf5178-bc2a-4072-b966-237ad13134c4",
+        "type": "message",
+        "text": "Раз уж зашла речь про Udemy, то делюсь ссылками на свои курсы - по Python и по SQL:\n<https:\/\/www.udemy.com\/course\/complete-python-bootcamp-russian\/?couponCode=ODS_MAY2020>\n<https:\/\/www.udemy.com\/course\/sql-essentials-ru\/?couponCode=ODS_MAY2020>",
+        "user": "U010ED2JGR5",
+        "ts": "1590216419.084000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5117eb93033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5117eb93033c01554cb42a6fe7d38337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Vlad",
+            "real_name": "Vlad Burmistrov",
+            "display_name": "Vlad Burmistrov",
+            "team": "T040HKJE3",
+            "name": "vladislavburmistrov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Complete Python Bootcamp: Learn Python Programming and Code",
+                "title_link": "https:\/\/www.udemy.com\/course\/complete-python-bootcamp-russian\/?couponCode=ODS_MAY2020",
+                "text": "Для начинающих и не только! Базовый + Продвинутый Курс Python. Начните с нуля и пройдите путь до специалиста по Python.",
+                "fallback": "Udemy: Complete Python Bootcamp: Learn Python Programming and Code",
+                "image_url": "https:\/\/img-a.udemycdn.com\/course\/480x270\/2202822_670a.jpg",
+                "from_url": "https:\/\/www.udemy.com\/course\/complete-python-bootcamp-russian\/?couponCode=ODS_MAY2020",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 21028,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.udemy.com\/course\/complete-python-bootcamp-russian\/?couponCode=ODS_MAY2020"
+            },
+            {
+                "service_name": "Udemy",
+                "title": "Начальный курс SQL",
+                "title_link": "https:\/\/www.udemy.com\/course\/sql-essentials-ru\/?couponCode=ODS_MAY2020",
+                "text": "Уверенно пишите SQL запросы к базам данных: Oracle, MySQL, PostgreSQL, Microsoft SQL Server, Teradata, и т.д.",
+                "fallback": "Udemy: Начальный курс SQL",
+                "image_url": "https:\/\/img-a.udemycdn.com\/course\/480x270\/1720706_cddc.jpg",
+                "from_url": "https:\/\/www.udemy.com\/course\/sql-essentials-ru\/?couponCode=ODS_MAY2020",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 35005,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.udemy.com\/course\/sql-essentials-ru\/?couponCode=ODS_MAY2020"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Раз уж зашла речь про Udemy, то делюсь ссылками на свои курсы - по Python и по SQL:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/complete-python-bootcamp-russian\/?couponCode=ODS_MAY2020"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/sql-essentials-ru\/?couponCode=ODS_MAY2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0"
+    }
+]

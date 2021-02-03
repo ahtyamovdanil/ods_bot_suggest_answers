@@ -1,0 +1,612 @@
+[
+    {
+        "type": "message",
+        "text": "Похоже появился первый внятный курс про XGBoosting <https:\/\/www.datacamp.com\/courses\/extreme-gradient-boosting-with-xgboost>",
+        "user": "U6BS23P47",
+        "ts": "1512645344.000006",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Extreme Gradient Boosting with XGBoost",
+                "title_link": "https:\/\/www.datacamp.com\/courses\/extreme-gradient-boosting-with-xgboost",
+                "text": "Learn the fundamentals of gradient boosting and build state-of-the-art machine learning models using XGBoost to solve classification and regression problems.",
+                "fallback": "Extreme Gradient Boosting with XGBoost",
+                "thumb_url": "https:\/\/assets.datacamp.com\/production\/course_3679\/shields\/original\/shield_image_course_3679_20171206-209-1w0mj8x?1512569453",
+                "from_url": "https:\/\/www.datacamp.com\/courses\/extreme-gradient-boosting-with-xgboost",
+                "thumb_width": 464,
+                "thumb_height": 482,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "service_name": "datacamp.com",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1512645344.000006",
+        "reply_count": 17,
+        "reply_users_count": 9,
+        "latest_reply": "1512754463.000331",
+        "reply_users": [
+            "U2N853RGF",
+            "U0NAHR9C5",
+            "U5PU8U90Q",
+            "U6BS23P47",
+            "U5R6G5JQK",
+            "U5H055U0J",
+            "U1HHX1QS3",
+            "U4B4HJX9A",
+            "U7HDR789E"
+        ],
+        "replies": [
+            {
+                "user": "U2N853RGF",
+                "ts": "1512645794.000142"
+            },
+            {
+                "user": "U0NAHR9C5",
+                "ts": "1512646322.000259"
+            },
+            {
+                "user": "U5PU8U90Q",
+                "ts": "1512647257.000069"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1512647451.000277"
+            },
+            {
+                "user": "U5R6G5JQK",
+                "ts": "1512647591.000376"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1512647700.000007"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1512647932.000165"
+            },
+            {
+                "user": "U5H055U0J",
+                "ts": "1512655072.000409"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1512655400.000440"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1512656175.000070"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1512657223.000601"
+            },
+            {
+                "user": "U4B4HJX9A",
+                "ts": "1512662306.000305"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1512662504.000148"
+            },
+            {
+                "user": "U4B4HJX9A",
+                "ts": "1512662531.000137"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1512662545.000085"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1512662687.000376"
+            },
+            {
+                "user": "U7HDR789E",
+                "ts": "1512754463.000331"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U3K7PNTML",
+                    "U126TCE79",
+                    "U3P82LKDK",
+                    "U53E5MFNU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U0JHK9001",
+                    "U562KSN69",
+                    "U7GFT92PN",
+                    "U53E5MFNU",
+                    "U30LWK54N"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U3P82LKDK",
+                    "U1HHX1QS3",
+                    "U7HAARZEC",
+                    "U6HFLJK7H"
+                ],
+                "count": 4
+            },
+            {
+                "name": "wat",
+                "users": [
+                    "U5H0L5T98",
+                    "U30LWK54N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/machinelearningmastery.com\/xgboost-with-python\/>",
+        "user": "U2N853RGF",
+        "ts": "1512645794.000142",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2N853RGF",
+            "ts": "1512662492.000000"
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "А зачем отдельный курс?",
+        "user": "U0NAHR9C5",
+        "ts": "1512646322.000259",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6a40f96cc8a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-08\/270216416439_6a40f96cc8a82567e4f2_72.png",
+            "first_name": "Артур",
+            "real_name": "Артур Чахвадзе",
+            "display_name": "norpadon",
+            "team": "T040HKJE3",
+            "name": "norpadon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5PU8U90Q",
+                    "U3PETUSSE",
+                    "U0AS1QEJF",
+                    "U7GFT92PN",
+                    "U4ZRFG1V0",
+                    "U71L6NBV5",
+                    "U1GMCNV3M",
+                    "U5N3YLGSU"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Это же в одну презентацию укладываются и саму статью про xgb",
+        "user": "U5PU8U90Q",
+        "ts": "1512647257.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4468b1982aab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-20\/402112430226_4468b1982aabbbd02aa3_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Sozykin",
+            "display_name": "gogolgrind",
+            "team": "T040HKJE3",
+            "name": "gogolgrind",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "Скорее мини\/курс (4 часа), чтобы можно было нормально обьяснить и поделать упражнения. Курс для начинающих и линк тоже, не забываем что канал это сбор для инфо по курсам в одном месте. DataCamp кстати выглядит неплохо \/ курсу в основном базовые но сделаны качественно, рекомендую обратить внимание на список преподавателей - там есть ряд известных товарищей в частности звезда R. ",
+        "user": "U6BS23P47",
+        "ts": "1512647451.000277",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512647614.000000"
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "nor",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "r",
+                "users": [
+                    "U3N69U80G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "тебе бабулек-геймеров мало? )) <http:\/\/xgboost.readthedocs.io\/en\/latest\/model.html>",
+        "user": "U5R6G5JQK",
+        "ts": "1512647591.000376",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1fd955e62a15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/704980203508_1fd955e62a155e7b5a0a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Kazantsev",
+            "display_name": "kaapex",
+            "team": "T040HKJE3",
+            "name": "kaapex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "Мне не мало, просто был приятно удивлен что кто то сделал нормальный мини-курс для начинающих. До этого кроме каких то мутных материалов ничего не было",
+        "user": "U6BS23P47",
+        "ts": "1512647700.000007",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U2N853RGF> есть у меня, спасибо что напомнил. Отличные книжки кстати пишет, знаю его достаточно давно когда он только начинал. Классный бизнес сделал Джейсон.",
+        "user": "U6BS23P47",
+        "ts": "1512647932.000165",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512648341.000000"
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "датакэмп вообще активизировались последнее время, очень много новых курсов, и полноценные projects запилили.",
+        "user": "U5H055U0J",
+        "ts": "1512655072.000409",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "92594c36f444",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1377360707762_92594c36f444f81c2153_72.png",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6BS23P47",
+                    "U53E5MFNU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Там и одна звезда sklearn",
+        "user": "U1HHX1QS3",
+        "ts": "1512655400.000440",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U6BS23P47> думаешь, норм заколачивает? Я ему заслал немного за книжку по диплернингу)",
+        "user": "U2N853RGF",
+        "ts": "1512656175.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U2N853RGF> думаю да, всего лишь пару лет назад он начинал вообще с нуля а сейчас у нет достаточно много клиентов. Я особо не читал книжки пока (несколько есть), но материалы его регулярно всплывают в поиске по разным темам (что говорить о том, что у него правильный search optimization и в принципе у него 1) прагматичный подход и нормальные материалы (теории там особо нет, зато есть рецепты как быстро что то сделать) что нравится покупателям этих книжек 2) правильно организованный бизнес с точки зрения сервиса\/качества и тд. ",
+        "user": "U6BS23P47",
+        "ts": "1512657223.000601",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1512657349.000000"
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "pdf есть?",
+        "user": "U4B4HJX9A",
+        "ts": "1512662306.000305",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U4B4HJX9A> поиском поищи, выкладывали уже. Если ты про machinelearningmastery",
+        "user": "U2N853RGF",
+        "ts": "1512662504.000148",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<@U2N853RGF> да вот блиа не ищется что-то",
+        "user": "U4B4HJX9A",
+        "ts": "1512662531.000137",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "сек",
+        "user": "U2N853RGF",
+        "ts": "1512662545.000085",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/yadi.sk\/d\/UTRH4Xck3QQhMP>",
+        "user": "U2N853RGF",
+        "ts": "1512662687.000376",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Yandex.Disk",
+                "title": "MachineLearningMastery",
+                "title_link": "https:\/\/yadi.sk\/d\/UTRH4Xck3QQhMP",
+                "text": "View and download from Yandex.Disk",
+                "fallback": "Yandex.Disk: MachineLearningMastery",
+                "thumb_url": "https:\/\/yastatic.net\/\/disk\/_\/YYY_2nN9ySaow12SueQBNBKQ_v0.jpg",
+                "from_url": "https:\/\/yadi.sk\/d\/UTRH4Xck3QQhMP",
+                "thumb_width": 158,
+                "thumb_height": 158,
+                "service_icon": "https:\/\/yadi.sk\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1512645344.000006",
+        "parent_user_id": "U6BS23P47",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U4B4HJX9A",
+                    "U2N853RGF",
+                    "U4X5JVCQ0",
+                    "U562KSN69",
+                    "U72FFBP4Z",
+                    "U6U6CSYG4"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U4B4HJX9A",
+                    "U2N853RGF",
+                    "U562KSN69"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

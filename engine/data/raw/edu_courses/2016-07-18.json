@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468836191.000014",
+        "user": "U1SHE5J5R",
+        "text": "<@U1SHE5J5R> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468836294.000015",
+        "user": "U1SJSB014",
+        "text": "<@U1SJSB014> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468842799.000016",
+        "user": "U1SJ2U4V9",
+        "text": "<@U1SJ2U4V9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468844745.000017",
+        "user": "U1SKLBA68",
+        "text": "<@U1SKLBA68> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1468846390.000018",
+        "user": "U1SJSB014",
+        "text": "<@U1SJSB014> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "продублирую сюда тоже. нервана запилила мини-курс по неону <https:\/\/www.nervanasys.com\/deep-learning-tutorials\/>",
+        "user": "U0952QCHE",
+        "ts": "1468876554.000019",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8b5d68e25c4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8b5d68e25c49854cd8230f0bab8c61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Kalinin",
+            "display_name": "alxndrkalinin",
+            "team": "T040HKJE3",
+            "name": "alxndrkalinin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Nervana",
+                "title": "Nervana's Deep Learning Course - Nervana",
+                "title_link": "https:\/\/www.nervanasys.com\/deep-learning-tutorials\/",
+                "text": "Nervana is excited to share a series of short videos and accompanying exercises to learn how to build deep learning models with neon, our deep learning framework. We start with a basic introduction into deep learning concepts, provide an overview of the neon framework, and discuss key neon concepts such …",
+                "fallback": "Nervana: Nervana's Deep Learning Course - Nervana",
+                "thumb_url": "https:\/\/www.nervanasys.com\/wp-content\/uploads\/2016\/07\/Screen-Shot-2016-07-15-at-8.28.49-PM.png",
+                "ts": 1468639642,
+                "from_url": "https:\/\/www.nervanasys.com\/deep-learning-tutorials\/",
+                "thumb_width": 618,
+                "thumb_height": 364,
+                "service_icon": "https:\/\/www.nervanasys.com\/wp-content\/uploads\/2016\/05\/APPLE-IPHONE-ICON.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "b832b0a5-8936-432c-839e-5d10ec0a4046",
+        "type": "message",
+        "text": "кто хочет реально мозг взорвать, почитайте его вторую книгу - homo deus, там очень много про AI",
+        "user": "U2LF67NRH",
+        "ts": "1538819901.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "087122207b96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-06\/150135983251_087122207b966be41b0b_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Pleskov",
+            "display_name": "ppleskov",
+            "team": "T040HKJE3",
+            "name": "ppleskov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538560898.000100",
+        "parent_user_id": "U625V2J3G"
+    },
+    {
+        "client_msg_id": "573a0b4d-988a-4f98-a7f3-b106e5f166bb",
+        "type": "message",
+        "text": "\n<https:\/\/stepik.org\/course\/Адаптивный-тренажер-Python-431\/>",
+        "user": "U9W1PD5QD",
+        "ts": "1538824167.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b4331f571aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-02\/448256824742_b4331f571aefb8eb0653_72.jpg",
+            "first_name": "ezhova-darja",
+            "real_name": "ezhova-darja",
+            "display_name": "ezhdi",
+            "team": "T040HKJE3",
+            "name": "ezhova-darja",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9W1PD5QD",
+            "ts": "1538837419.000000"
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U95EDL3H8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9b9913f-b7e0-42d6-93a9-fbb4e164c086",
+        "type": "message",
+        "text": "<@U44J8KC13> если ты готов потратить полтора года и 200 тысяч, то почему бы за эти полтора года не поступить в шад и на любую стажировку\/джуниорскую позицию в тот же мейл? За год почти с любого уровня можно узнать новейшие библиотеки иксджибуст, пайторч, пандас и матплотлиб",
+        "user": "U4WGFD012",
+        "ts": "1538848404.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538514163.000100",
+        "parent_user_id": "U5UTBE287"
+    },
+    {
+        "client_msg_id": "ca845ae2-5519-4ed6-8283-6f955d3718d5",
+        "type": "message",
+        "text": "<@U4WGFD012> потому что на данный момент я работаю бэкендером причем давно уже не джуниором (поэтому для меня это не такая уж серьезная сумма). и идти на джуниорскую зп это уже совсем не очень. А вот если к бэку добавить скиллы DS то это уже повышение зп. Кроме того, надо еще и совмещать работу и повышение квалификации. А кроме DS есть еще куча технологий за которыми нужно следить и изучать",
+        "user": "U44J8KC13",
+        "ts": "1538853821.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538514163.000100",
+        "parent_user_id": "U5UTBE287"
+    },
+    {
+        "client_msg_id": "ca6379e3-207c-459b-9085-f3ecba65e766",
+        "type": "message",
+        "text": "<@U44J8KC13> ну смотря что такое `скиллы DS`. тут уж либо уметь хорошо выкатывать модели в прод, либо глубоко понимать математику, либо отчеты красиво рисовать (но не думаю, что ты про отчеты). вот собственно не уверен, что там расскажут на серьезном уровне что-то из первых двух пунктов, потому что `Для учебы достаточно школьных знаний`\nсо стороны выглядит так, что за два месяца базовых курсов типа cs231n и интернета с кегглом можно освоить примерно такой же объем знаний\nну и полтора года можно полезнее потратить",
+        "user": "U4WGFD012",
+        "ts": "1538856325.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee23eb74f66b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-03\/207321406997_ee23eb74f66bafdb963e_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Sterkin",
+            "display_name": "gleb.sterkin",
+            "team": "T040HKJE3",
+            "name": "gleb.sterkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4WGFD012",
+            "ts": "1538856515.000000"
+        },
+        "thread_ts": "1538514163.000100",
+        "parent_user_id": "U5UTBE287"
+    }
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "client_msg_id": "f5fc9c2d-f811-4921-b3b7-c4c6e2da847b",
+        "type": "message",
+        "text": "Всем привет. Кто-то проходил эти курсы (<https:\/\/ru.coursera.org\/specializations\/analiz-dannykh>)? Какие ваши впечатления?",
+        "user": "UFTJXL2FJ",
+        "ts": "1592046417.387600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73259bbb3aec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-31\/537780886417_73259bbb3aec61fff008_72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Marin",
+            "display_name": "Mikhail Marin",
+            "team": "T040HKJE3",
+            "name": "muxaul.marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Анализ данных | Coursera",
+                "title_link": "https:\/\/ru.coursera.org\/specializations\/analiz-dannykh",
+                "text": "Learn Анализ данных from Новосибирский государственный университет . В рамках специализации вы освоите основные методы работы с количественными данными, в том числе основы теории вероятностей и математической статистики, инструменты исследования ...",
+                "fallback": "Coursera: Анализ данных | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/ru.coursera.org\/specializations\/analiz-dannykh",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/ru.coursera.org\/specializations\/analiz-dannykh"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+luGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет. Кто-то проходил эти курсы ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.coursera.org\/specializations\/analiz-dannykh"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")? Какие ваши впечатления?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592046417.387600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1592236232.398400",
+        "reply_users": [
+            "U709XK88H",
+            "U15V81K6V",
+            "UCNEN5XEZ"
+        ],
+        "replies": [
+            {
+                "user": "U709XK88H",
+                "ts": "1592049128.388000"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1592051963.388300"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1592052122.388500"
+            },
+            {
+                "user": "UCNEN5XEZ",
+                "ts": "1592236232.398400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "04a675ba-1724-4808-a571-44e2b2a7f172",
+        "type": "message",
+        "text": "\"В практической части курса мы научимся строить графики в SPSS и в R.\" - когда была подписка на курсеру думал глянуть, но увидел только эти варианты и отложил в сторону.",
+        "user": "U709XK88H",
+        "ts": "1592049128.388000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U709XK88H",
+            "ts": "1592049155.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WusPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"В практической части курса мы научимся строить графики в SPSS и в R.\" - когда была подписка на курсеру думал глянуть, но увидел только эти варианты и отложил в сторону."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592046417.387600",
+        "parent_user_id": "UFTJXL2FJ"
+    },
+    {
+        "client_msg_id": "4edb0406-1470-4505-96fd-50b2e57d0d5e",
+        "type": "message",
+        "text": "проходил...\nвпечатления двоякие - с одной стороны довольно не плохой курс по статистике.\nПримеры, правда, на R или SPSS. В чем-то напоминает курс от МФТИ по построению выводов по данным (где были так же теория, и  ноутбуки с кодом - но теория была более поверхностная)....\nКак по мне курс несколько в отрыве от практики - много теории, и пару модельных случаев с тестами на R и SPSS...\nВсе курсы по специализации, по сути,  единый курс по статистике в универе (примерно с той же и глубиной)",
+        "user": "U15V81K6V",
+        "ts": "1592051963.388300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KfZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "проходил...\nвпечатления двоякие - с одной стороны довольно не плохой курс по статистике.\nПримеры, правда, на R или SPSS. В чем-то напоминает курс от МФТИ по построению выводов по данным (где были так же теория, и  ноутбуки с кодом - но теория была более поверхностная)....\nКак по мне курс несколько в отрыве от практики - много теории, и пару модельных случаев с тестами на R и SPSS...\nВсе курсы по специализации, по сути,  единый курс по статистике в универе (примерно с той же и глубиной)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592046417.387600",
+        "parent_user_id": "UFTJXL2FJ"
+    },
+    {
+        "client_msg_id": "b3ed4094-c479-4087-909c-d07125967cd8",
+        "type": "message",
+        "text": "Если не нужно прямо глубоко копаться в статистике, то я бы рекомендовал курс от спецуху МФТИ по построению выводов по данным",
+        "user": "U15V81K6V",
+        "ts": "1592052122.388500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uImB2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если не нужно прямо глубоко копаться в статистике, то я бы рекомендовал курс от спецуху МФТИ по построению выводов по данным"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592046417.387600",
+        "parent_user_id": "UFTJXL2FJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULF96QF3K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

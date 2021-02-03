@@ -1,0 +1,339 @@
+[
+    {
+        "client_msg_id": "646a6e3f-0019-4597-be91-19ab78689d14",
+        "type": "message",
+        "text": "Привет, подскажите что посмотреть (почитать) по рекомендательным системах",
+        "user": "UBH5BK4AF",
+        "ts": "1552217453.206900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga7ad6744299",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/30a7ad67442991106b34a32798e535b5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Andriy",
+            "real_name": "Andriy Rizhiy",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "rizhiy99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552217453.206900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1552542435.259300",
+        "reply_users": [
+            "U85PN3HFY",
+            "UF9K51HU6"
+        ],
+        "replies": [
+            {
+                "user": "U85PN3HFY",
+                "ts": "1552218769.207000"
+            },
+            {
+                "user": "UF9K51HU6",
+                "ts": "1552542435.259300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b100531c-c171-422b-952c-0bd356c14438",
+        "type": "message",
+        "text": "<#C2GKW3KGU|recommender_systems>",
+        "user": "U85PN3HFY",
+        "ts": "1552218769.207000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6190d97083e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-02\/493211679971_6190d97083e425f756e4_72.jpg",
+            "first_name": "Lyashko",
+            "real_name": "Lyashko Kirill",
+            "display_name": "klyashko",
+            "team": "T040HKJE3",
+            "name": "kipill_90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552217453.206900",
+        "parent_user_id": "UBH5BK4AF"
+    },
+    {
+        "type": "message",
+        "text": "Привет. Подскажите что можно посмотреть или почитать  про стратегии валидации. Вот что-то типа того, что на картинке ниже. Типы кросс валидации и так далее все знаю. Самую базу что такое валидация, timeseries валидация, stritified и т д. не интересно уже слушать. ",
+        "files": [
+            {
+                "id": "FGVJJU46A",
+                "created": 1552239660,
+                "timestamp": 1552239660,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U7N4E8GBF",
+                "editable": false,
+                "size": 1225440,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FGVJJU46A\/image_from_ios.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FGVJJU46A\/download\/image_from_ios.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_800.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FGVJJU46A-b26acecced\/image_from_ios_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 2048,
+                "original_h": 1536,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U7N4E8GBF\/FGVJJU46A\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FGVJJU46A-a315952699",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U7N4E8GBF",
+        "display_as_bot": false,
+        "ts": "1552239660.209900",
+        "client_msg_id": "257F690F-75A7-4F60-8CBA-EA5F5B329121",
+        "thread_ts": "1552239660.209900",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1552295523.215800",
+        "reply_users": [
+            "UEWF6GGMN",
+            "U7N4E8GBF",
+            "UD2NGFPHD",
+            "U7CAU0GMU",
+            "U91DVVDT9"
+        ],
+        "replies": [
+            {
+                "user": "UEWF6GGMN",
+                "ts": "1552240295.210200"
+            },
+            {
+                "user": "U7N4E8GBF",
+                "ts": "1552244022.211300"
+            },
+            {
+                "user": "UD2NGFPHD",
+                "ts": "1552244360.211600"
+            },
+            {
+                "user": "UD2NGFPHD",
+                "ts": "1552244497.212000"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1552247566.212600"
+            },
+            {
+                "user": "U7N4E8GBF",
+                "ts": "1552248699.213700"
+            },
+            {
+                "user": "U91DVVDT9",
+                "ts": "1552295523.215800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "95c9524d-d680-49b4-9dd8-3c329bad4962",
+        "type": "message",
+        "text": "Почитать решения топов в кагле в конкурсах с нестабильной метрикой \/ дизбалансом классов \/ дата ликами.",
+        "user": "UEWF6GGMN",
+        "ts": "1552240295.210200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a997f0bb0a7a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/648242653909_a997f0bb0a7ab6fdf9f2_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Panchenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "panchenkodmytry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "2C14A4F0-E566-4F01-AFF9-9817EACFE281",
+        "type": "message",
+        "text": "Так и делаю :( \nДумал может кто обобщил опыт где-нибудь ",
+        "user": "U7N4E8GBF",
+        "ts": "1552244022.211300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "5F1BF3EF-CC52-4BA4-8AC4-7B66B3BDBD89",
+        "type": "message",
+        "text": "<https:\/\/arxiv.org\/abs\/1811.12808>",
+        "user": "UD2NGFPHD",
+        "ts": "1552244360.211600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5cb92be852ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-22\/509787451296_5cb92be852ad612fe80f_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Sidorenko",
+            "display_name": "smikhai1",
+            "team": "T040HKJE3",
+            "name": "sidorenko.mikhail94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "arXiv.org",
+                "title": "Model Evaluation, Model Selection, and Algorithm Selection in...",
+                "title_link": "https:\/\/arxiv.org\/abs\/1811.12808",
+                "text": "The correct use of model evaluation, model selection, and algorithm selection techniques is vital in academic machine learning research as well as in many industrial settings. This article reviews...",
+                "fallback": "arXiv.org: Model Evaluation, Model Selection, and Algorithm Selection in...",
+                "from_url": "https:\/\/arxiv.org\/abs\/1811.12808",
+                "service_icon": "https:\/\/arxiv.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/1811.12808"
+            }
+        ],
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "DAEA8E06-A2EF-4AFF-84D1-346120529587",
+        "type": "message",
+        "text": "<https:\/\/www.deeplearning.ai\/machine-learning-yearning\/>",
+        "user": "UD2NGFPHD",
+        "ts": "1552244497.212000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5cb92be852ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-22\/509787451296_5cb92be852ad612fe80f_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Sidorenko",
+            "display_name": "smikhai1",
+            "team": "T040HKJE3",
+            "name": "sidorenko.mikhail94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "deeplearning.ai",
+                "title": "Machine Learning Yearning - deeplearning.ai",
+                "title_link": "https:\/\/www.deeplearning.ai\/machine-learning-yearning\/",
+                "fallback": "deeplearning.ai: Machine Learning Yearning - deeplearning.ai",
+                "image_url": "https:\/\/d2wvfoqc9gyqzf.cloudfront.net\/content\/uploads\/2018\/09\/deeplearning-logo-fb.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.deeplearning.ai\/machine-learning-yearning\/",
+                "image_bytes": 61277,
+                "service_icon": "https:\/\/d2wvfoqc9gyqzf.cloudfront.net\/content\/uploads\/2018\/09\/cropped-deeplearning-ai-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.deeplearning.ai\/machine-learning-yearning\/"
+            }
+        ],
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "deb80e91-907a-4a1d-9628-ee1daa45ee20",
+        "type": "message",
+        "text": "В этом курсе попадаются интересные хаки: <https:\/\/www.coursera.org\/learn\/competitive-data-science\/home\/welcome>",
+        "user": "U7CAU0GMU",
+        "ts": "1552247566.212600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7CAU0GMU",
+            "ts": "1552247582.000000"
+        },
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    },
+    {
+        "client_msg_id": "51DAF97F-DA2C-491A-A9D5-2CA34D6544FB",
+        "type": "message",
+        "text": "<@U7CAU0GMU> видел. Спасибо. ",
+        "user": "U7N4E8GBF",
+        "ts": "1552248699.213700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g17bb7fdff98",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dc17bb7fdff986927b364954f7880c46.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "akogay",
+            "real_name": "akogay",
+            "display_name": "Лёша",
+            "team": "T040HKJE3",
+            "name": "akogay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552239660.209900",
+        "parent_user_id": "U7N4E8GBF"
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478774863.001925",
+        "user": "U30U7BQMA",
+        "text": "<@U30U7BQMA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478777096.001926",
+        "user": "U30UKJ1FE",
+        "text": "<@U30UKJ1FE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478789834.001927",
+        "user": "U30UZBMQS",
+        "text": "<@U30UZBMQS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478790662.001928",
+        "user": "U309BJC0Z",
+        "text": "<@U309BJC0Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478793638.001929",
+        "user": "U30A6KZLH",
+        "text": "<@U30A6KZLH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U2Y3V8JP2> Learning From Data - отличый курс, from zero to hero за 8 недель в смысле понимания, где там че дифференцировать надо… и почему обучение вообще возможно… ну и Ng тоже возьмите, он с интуитивной точки зрения хорошо поясняет… а LFD - с математической. Так что смотрите, какой подход больше нравится",
+        "user": "U1UV86WJU",
+        "ts": "1478801163.001930",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478801968.001931",
+        "user": "U31NWCR1C",
+        "text": "<@U31NWCR1C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U1UV86WJU> <https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1478725624001915>",
+        "user": "U1B2L9G58",
+        "ts": "1478808830.001932",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1478725624001915",
+                "fallback": "[November 9th, 2016 1:07 PM] alisazhila: Кстати, кто-нибудь курс по Neural Networks проходит на Курсере?",
+                "ts": "1478725624.001915",
+                "author_subname": "alisazhila",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Кстати, кто-нибудь курс по Neural Networks проходит на Курсере?",
+                "author_name": "Alisa Zhila",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/alisazhila",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-09-11\/78504086727_16db52c20e98b0c42ff2_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я прохожу вяло но постоянно борюсь с желанием бросить",
+        "user": "U1B2L9G58",
+        "ts": "1478808848.001934",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а что, скучный?",
+        "user": "U0DA4J82H",
+        "ts": "1478808876.001935",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "так еще только вторая неделя, не?  Ну да,  демитивирует, когда лектор скучный",
+        "user": "U1UV86WJU",
+        "ts": "1478808886.001936",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он какой то странный",
+        "user": "U1B2L9G58",
+        "ts": "1478808891.001937",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "курс",
+        "user": "U1B2L9G58",
+        "ts": "1478808894.001938",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А до домашки я еще не добралась…",
+        "user": "U1UV86WJU",
+        "ts": "1478808896.001939",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "есть диссонанс между детальностью лекций и заданиями",
+        "user": "U1B2L9G58",
+        "ts": "1478808915.001940",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "лекции очень поверхностные а задания довольно детальные, на понимание математики",
+        "user": "U1B2L9G58",
+        "ts": "1478808940.001941",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "видимо предполагается что в дополнение к лекциям надо еще что то читать",
+        "user": "U1B2L9G58",
+        "ts": "1478808965.001942",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а, тогда лекции можно не смотреть :slightly_smiling_face:",
+        "user": "U1UV86WJU",
+        "ts": "1478808983.001943",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Интересно было бы пообщаться с теми, кто его прошел….",
+        "user": "U1UV86WJU",
+        "ts": "1478809008.001944",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "и да, лектор уныло набубнивает лекции, может он и отец нейронок но нам слушателям от этого не легче",
+        "user": "U1B2L9G58",
+        "ts": "1478809014.001945",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я помню от джефа улмана было такое же ощущение",
+        "user": "U1B2L9G58",
+        "ts": "1478809042.001946",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Этот курс ведет очень крутой научный исследователь, но вот как преподаватель он так себе…",
+        "user": "U1UV86WJU",
+        "ts": "1478809053.001947",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он конечно столп науки но бубнила тот еще",
+        "user": "U1B2L9G58",
+        "ts": "1478809067.001948",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а что \"Jeff” Ullman вел",
+        "user": "U1UV86WJU",
+        "ts": "1478809104.001949",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U1UV86WJU",
+        "ts": "1478809107.001950",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mining massive datasets",
+        "user": "U1B2L9G58",
+        "ts": "1478809117.001951",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а, да не, тот нормальный курс был, там 2 студента его освежали  :blush:",
+        "user": "U1UV86WJU",
+        "ts": "1478809140.001952",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он по-моему тоже идет сейчас",
+        "user": "U1B2L9G58",
+        "ts": "1478809141.001953",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "да, остальные 2 читали ок, но на Улмане я бился щщами в стол стабильно",
+        "user": "U1B2L9G58",
+        "ts": "1478809187.001954",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "но мне тот не по теме щас…",
+        "user": "U1UV86WJU",
+        "ts": "1478809205.001955",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вот я видела выше, специализацию от UW рекомендуют…  там вроде темы хорошо охвачены…  надо сравнительный анализ курсов написать… кстати, и вправду хорошо бы начать где-то..",
+        "user": "U1UV86WJU",
+        "ts": "1478809295.001956",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bf2427f929d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341278170610_2bf2427f929dac2ebe0a_72.jpg",
+            "first_name": "Alisa",
+            "real_name": "Alisa Zhila",
+            "display_name": "alisazhila",
+            "team": "T040HKJE3",
+            "name": "alisazhila",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "можно еще почитать отзывы на coursetalk, там по делу пишут обычно",
+        "user": "U1BMURR5G",
+        "ts": "1478812827.001957",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,1236 @@
+[
+    {
+        "client_msg_id": "3e312806-142d-40a1-98a8-4bac6b7e0fea",
+        "type": "message",
+        "text": "P.S. Так же ссылки на ноутбуки с интересными проектами оттуда: <https:\/\/github.com\/OzmundSedler\/Deep-Learning-Coursera>",
+        "user": "URCGASH52",
+        "ts": "1590048331.047500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef09007fa5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-26\/1110797126480_7ef09007fa5b4a8fc0f5_72.jpg",
+            "first_name": "Saddler",
+            "real_name": "Saddler",
+            "display_name": "Saddler",
+            "team": "T040HKJE3",
+            "name": "nenagrigori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "OzmundSedler\/Deep-Learning-Coursera",
+                "title": "OzmundSedler\/Deep-Learning-Coursera",
+                "footer": "<https:\/\/github.com\/OzmundSedler\/Deep-Learning-Coursera|OzmundSedler\/Deep-Learning-Coursera>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1584031545,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "3 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/OzmundSedler\/Deep-Learning-Coursera",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gf7Yv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P.S. Так же ссылки на ноутбуки с интересными проектами оттуда: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/OzmundSedler\/Deep-Learning-Coursera"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590037635.045700",
+        "parent_user_id": "URCGASH52",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US3C4AYTS",
+                    "USTKTE472",
+                    "UHGUXSJRK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "US3C4AYTS",
+                    "USTKTE472"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1590048965.048000",
+        "user": "UG4A35TNG",
+        "text": "<@UG4A35TNG> has joined the channel",
+        "inviter": "U1G303UTW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1590050396.048400",
+        "user": "UG3K1023C",
+        "text": "<@UG3K1023C> has joined the channel",
+        "inviter": "U04423D74"
+    },
+    {
+        "client_msg_id": "7862422c-87f5-4c0d-a395-997f1708fce4",
+        "type": "message",
+        "text": "Всем спасибо. По поводу того, что платить за информацию в 2020 - это странно, так я послушал этот курс и понял, что там большое количество ответов на мои вопросы собраны воедино, к тому же дают очень понятные методички для дальнейшего. Начало мне нравится. Учитывая то, что это стоит 1000 руб, то это вообще замечательно.\nЗаплатить за то, чтобы не возиться в огромном потоке информации, выгребая весь мусор самому - это не плохая вещь, поэффективнее идёт учеба и мотивация.",
+        "user": "UAC7ZT3F0",
+        "ts": "1590059973.050600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем спасибо. По поводу того, что платить за информацию в 2020 - это странно, так я послушал этот курс и понял, что там большое количество ответов на мои вопросы собраны воедино, к тому же дают очень понятные методички для дальнейшего. Начало мне нравится. Учитывая то, что это стоит 1000 руб, то это вообще замечательно.\nЗаплатить за то, чтобы не возиться в огромном потоке информации, выгребая весь мусор самому - это не плохая вещь, поэффективнее идёт учеба и мотивация."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDSJKKTJ8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDRVCKGU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c98ff9e-7224-46bd-bad0-d23f08c84e67",
+        "type": "message",
+        "text": "<@UAC7ZT3F0> my way подходит не всем, с этим согласен, но я тем не менее стараюсь топить за то чтобы знания всегда и для всех были бесплатными :slightly_smiling_face:",
+        "user": "UHY5KKK6D",
+        "ts": "1590060859.051300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmv9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UAC7ZT3F0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my way подходит не всем, с этим согласен, но я тем не менее стараюсь топить за то чтобы знания всегда и для всех были бесплатными "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "8F95B2CA-307B-43F5-9F6B-2FA803508117",
+        "type": "message",
+        "text": "Так запили что нить сам. И убедишься что это тяжёлый труд, и отдавать его забесплатно сложно. А все эти курсы, что ты смотришь на ютубе, авторы за них получили зарплату в своих универах внезапно",
+        "user": "U2N853RGF",
+        "ts": "1590062289.053600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cO3r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Так запили что нить сам. И убедишься что это тяжёлый труд, и отдавать его забесплатно сложно. А все эти курсы, что ты смотришь на ютубе, авторы за них получили зарплату в своих универах внезапно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1590069380.054900",
+        "user": "UD0JNB1MY",
+        "text": "<@UD0JNB1MY> has joined the channel",
+        "inviter": "U7MHQLM1N"
+    },
+    {
+        "client_msg_id": "e16a65bd-141b-49b0-b9c0-f1d618a673d8",
+        "type": "message",
+        "text": "<@UAC7ZT3F0> Напишешь потом отзыв про курс?",
+        "user": "UGF8L176H",
+        "ts": "1590070452.055000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCqBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UAC7ZT3F0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Напишешь потом отзыв про курс?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "fd7dd87a-16c9-4de8-948e-e731e5d89a72",
+        "type": "message",
+        "text": "<@UGF8L176H> Да, напишу, как пройду",
+        "user": "UAC7ZT3F0",
+        "ts": "1590074712.055700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UGF8L176H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Да, напишу, как пройду"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589960010.029300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UGF8L176H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d610333d-a645-4153-8ecf-a803f1b135e6",
+        "type": "message",
+        "text": "Можно еще сделать карточки в <https:\/\/apps.ankiweb.net\/|anki>, где на одной стороне вопрос, а на другой ответ\nВот тут еще один варинат очень подробного саммари\n<https:\/\/github.com\/mbadry1\/DeepLearning.ai-Summary>",
+        "user": "UCFQNLN4V",
+        "ts": "1590079939.056300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7e50dbba6ce5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-17\/839514619367_7e50dbba6ce583710e23_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lukoshko",
+            "display_name": "Robert",
+            "team": "T040HKJE3",
+            "name": "robert.lukoshko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCFQNLN4V",
+            "ts": "1590079979.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "mbadry1\/DeepLearning.ai-Summary",
+                "text": "This repository contains my personal notes and summaries on <http:\/\/DeepLearning.ai|DeepLearning.ai> specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.",
+                "title": "mbadry1\/DeepLearning.ai-Summary",
+                "footer": "<https:\/\/github.com\/mbadry1\/DeepLearning.ai-Summary|mbadry1\/DeepLearning.ai-Summary>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1510499314,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3440",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/mbadry1\/DeepLearning.ai-Summary",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1sg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Можно еще сделать карточки в "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apps.ankiweb.net\/",
+                                "text": "anki"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", где на одной стороне вопрос, а на другой ответ\nВот тут еще один варинат очень подробного саммари\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mbadry1\/DeepLearning.ai-Summary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590037635.045700",
+        "parent_user_id": "URCGASH52",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URCGASH52",
+                    "UHLKEBC1J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28db46c9-e59c-4160-9405-b0de45a7c34c",
+        "type": "message",
+        "text": "Народ, привет еще раз! Подскажите, пожалуйста, годные курсы по математике с практикой (бесплатные или до 5тыс.руб.). В связи с тем, что многие темы в универе я пропускал, мне нужно восполнить все пробелы для того, чтобы повысить свои знания в ML, разобраться в устройстве моделей лучше.\nСам с книгами сижу, но эти знания сложно систематизировать и найти себе подходящую практику тоже затруднительно, а иногда и лень :slightly_smiling_face:",
+        "user": "UAC7ZT3F0",
+        "ts": "1590081021.060300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Народ, привет еще раз! Подскажите, пожалуйста, годные курсы по математике с практикой (бесплатные или до 5тыс.руб.). В связи с тем, что многие темы в универе я пропускал, мне нужно восполнить все пробелы для того, чтобы повысить свои знания в ML, разобраться в устройстве моделей лучше.\nСам с книгами сижу, но эти знания сложно систематизировать и найти себе подходящую практику тоже затруднительно, а иногда и лень "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1590282969.112900",
+        "reply_users": [
+            "UHY5KKK6D",
+            "UCMC5J36D",
+            "U29TG6K9U",
+            "UAC7ZT3F0",
+            "U6SCXUP6U"
+        ],
+        "replies": [
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1590081726.060500"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1590082870.074700"
+            },
+            {
+                "user": "U29TG6K9U",
+                "ts": "1590083882.075200"
+            },
+            {
+                "user": "UAC7ZT3F0",
+                "ts": "1590084266.075400"
+            },
+            {
+                "user": "UAC7ZT3F0",
+                "ts": "1590084278.075600"
+            },
+            {
+                "user": "U29TG6K9U",
+                "ts": "1590085016.076900"
+            },
+            {
+                "user": "UAC7ZT3F0",
+                "ts": "1590085509.077300"
+            },
+            {
+                "user": "U29TG6K9U",
+                "ts": "1590085703.077500"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1590282969.112900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "google",
+                "users": [
+                    "UAG21HMV4",
+                    "UTB85ATA5",
+                    "U012K62CDQT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62a66ca0-aec2-4934-8208-c9755752428f",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1589030141312000?thread_ts=1588929079.287800&amp;cid=C04DP7BUY>",
+        "user": "UHY5KKK6D",
+        "ts": "1590081726.060500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1589030141312000?thread_ts=1588929079.287800&amp;cid=C04DP7BUY",
+                "fallback": "[May 9th, 2020 6:15 AM] nov.dm.konst: Если фундаментально то вот подборка курсов:\n\n*Алгебра:*\n\nКниги:\n• Тартышников (как база)\n• Головина (как доп материалы)\nДля более глубоко понимания геометрии алгебры:\n• <https:\/\/www.youtube.com\/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2>\n• <https:\/\/www.youtube.com\/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf>\nКурсы для закрепления:\n• <https:\/\/www.coursera.org\/learn\/algebra-lineynaya> (начальный уровень но все таки)\n• <https:\/\/stepik.org\/course\/2461\/syllabus>\n• <https:\/\/stepik.org\/course\/4940\/syllabus>\n• <https:\/\/stepik.org\/course\/79\/syllabus> (англ но стоит того)\n• <https:\/\/openedu.ru\/course\/mipt\/HIGHMATH2\/> (сильно авторский курс, но очень стоящий, рекомендуется в последнюю очередь)\n• <https:\/\/openedu.ru\/course\/spbu\/MATGR\/> (теория групп, но опять таки если будет желание, хотя курс слабый, как и все у спбгу)\n*Матан:*\n• Фихтенгольц (если много времени)\n• Бугров Никольский (если побыстрее)\nКурсы:\n• <https:\/\/stepik.org\/course\/716\/syllabus>\n• <https:\/\/stepik.org\/course\/711\/syllabus>\n• <https:\/\/openedu.ru\/course\/mipt\/MATAN\/> (авторский курс по матану в последнюю очередь)\n• <https:\/\/openedu.ru\/course\/urfu\/CALC\/> (сам не проходил но беглый осмотр вроде норм)\n• <https:\/\/openedu.ru\/course\/msu\/MATHAN\/> (мало где видел курсы по матану &gt; 1 курса, так что выбирать не приходится)\n*Тер вер и статистика:*\n• Феллер по тер веру\n• Лагутин по статистике\n• Если туго идет то Кремер Тер вер и матстат в одной книге (есть и по алгебре и матану, но там очень слабо)\nКурсы:\n• <https:\/\/openedu.ru\/course\/tgu\/THEORY\/>\n• <https:\/\/openedu.ru\/course\/mipt\/PROBTH\/>\n• <https:\/\/stepik.org\/course\/3089\/syllabus>\n• <https:\/\/stepik.org\/course\/326\/syllabus>\n• <https:\/\/openedu.ru\/course\/hse\/METRIX\/>\n• <https:\/\/openedu.ru\/course\/urfu\/METHODS\/>\n• <https:\/\/openedu.ru\/course\/mipt\/STOCH\/> (hight level, это наверн если будет желание после всего остального)\n*Дополнительные материалы:*\n\nСовершенно замечательные видеоуроки по матану и алгебре, и тер веру! must have!\n• <https:\/\/www.youtube.com\/user\/VideoMatan\/playlists>\n• <https:\/\/stepik.org\/course\/91\/syllabus> курс по общим мат темам для CS\n• <https:\/\/stepik.org\/course\/126\/syllabus>\n• <https:\/\/stepik.org\/course\/125\/syllabus>\n• <https:\/\/openedu.ru\/course\/msu\/ANGEOM\/> \nРяд весьма полезный курсов для DS\/CS\n• <https:\/\/openedu.ru\/course\/hse\/AGBASE\/>\n• <https:\/\/openedu.ru\/course\/hse\/TIGR\/>\n• <https:\/\/openedu.ru\/course\/spbstu\/NUMMETH\/>\n• <https:\/\/openedu.ru\/course\/hse\/MODSYS\/>\n• <https:\/\/www.coursera.org\/learn\/complex-variable>\nПосле всего этого можно просто открыть данный <https:\/\/www.youtube.com\/user\/OpenLektorium\/playlists|плейлист> и смотреть все подряд.\nМогу в целом упомянуть про otus и их курс по математике, он платный, но беглый осмотр показал что можно, даже купил себе честн гвооря.\n\nP.S тут кто то рекомендует НМУ или другая крайность Статистика и Котики, если жалко свое время то не читайте ни то и ни другое :slightly_smiling_face:\n\nВсе курсы записаны в рекомендуемом порядке их прохождения! Для некоторых курсоd есть двойники на coursera! Если не хочется ждать старта сесии..",
+                "ts": "1589030141.312000",
+                "author_id": "UHY5KKK6D",
+                "author_subname": "Dmitriy Novikov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Если фундаментально то вот подборка курсов:\n\n*Алгебра:*\n\nКниги:\n• Тартышников (как база)\n• Головина (как доп материалы)\nДля более глубоко понимания геометрии алгебры:\n• <https:\/\/www.youtube.com\/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2>\n• <https:\/\/www.youtube.com\/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf>\nКурсы для закрепления:\n• <https:\/\/www.coursera.org\/learn\/algebra-lineynaya> (начальный уровень но все таки)\n• <https:\/\/stepik.org\/course\/2461\/syllabus>\n• <https:\/\/stepik.org\/course\/4940\/syllabus>\n• <https:\/\/stepik.org\/course\/79\/syllabus> (англ но стоит того)\n• <https:\/\/openedu.ru\/course\/mipt\/HIGHMATH2\/> (сильно авторский курс, но очень стоящий, рекомендуется в последнюю очередь)\n• <https:\/\/openedu.ru\/course\/spbu\/MATGR\/> (теория групп, но опять таки если будет желание, хотя курс слабый, как и все у спбгу)\n*Матан:*\n• Фихтенгольц (если много времени)\n• Бугров Никольский (если побыстрее)\nКурсы:\n• <https:\/\/stepik.org\/course\/716\/syllabus>\n• <https:\/\/stepik.org\/course\/711\/syllabus>\n• <https:\/\/openedu.ru\/course\/mipt\/MATAN\/> (авторский курс по матану в последнюю очередь)\n• <https:\/\/openedu.ru\/course\/urfu\/CALC\/> (сам не проходил но беглый осмотр вроде норм)\n• <https:\/\/openedu.ru\/course\/msu\/MATHAN\/> (мало где видел курсы по матану &gt; 1 курса, так что выбирать не приходится)\n*Тер вер и статистика:*\n• Феллер по тер веру\n• Лагутин по статистике\n• Если туго идет то Кремер Тер вер и матстат в одной книге (есть и по алгебре и матану, но там очень слабо)\nКурсы:\n• <https:\/\/openedu.ru\/course\/tgu\/THEORY\/>\n• <https:\/\/openedu.ru\/course\/mipt\/PROBTH\/>\n• <https:\/\/stepik.org\/course\/3089\/syllabus>\n• <https:\/\/stepik.org\/course\/326\/syllabus>\n• <https:\/\/openedu.ru\/course\/hse\/METRIX\/>\n• <https:\/\/openedu.ru\/course\/urfu\/METHODS\/>\n• <https:\/\/openedu.ru\/course\/mipt\/STOCH\/> (hight level, это наверн если будет желание после всего остального)\n*Дополнительные материалы:*\n\nСовершенно замечательные видеоуроки по матану и алгебре, и тер веру! must have!\n• <https:\/\/www.youtube.com\/user\/VideoMatan\/playlists>\n• <https:\/\/stepik.org\/course\/91\/syllabus> курс по общим мат темам для CS\n• <https:\/\/stepik.org\/course\/126\/syllabus>\n• <https:\/\/stepik.org\/course\/125\/syllabus>\n• <https:\/\/openedu.ru\/course\/msu\/ANGEOM\/> \nРяд весьма полезный курсов для DS\/CS\n• <https:\/\/openedu.ru\/course\/hse\/AGBASE\/>\n• <https:\/\/openedu.ru\/course\/hse\/TIGR\/>\n• <https:\/\/openedu.ru\/course\/spbstu\/NUMMETH\/>\n• <https:\/\/openedu.ru\/course\/hse\/MODSYS\/>\n• <https:\/\/www.coursera.org\/learn\/complex-variable>\nПосле всего этого можно просто открыть данный <https:\/\/www.youtube.com\/user\/OpenLektorium\/playlists|плейлист> и смотреть все подряд.\nМогу в целом упомянуть про otus и их курс по математике, он платный, но беглый осмотр показал что можно, даже купил себе честн гвооря.\n\nP.S тут кто то рекомендует НМУ или другая крайность Статистика и Котики, если жалко свое время то не читайте ни то и ни другое :slightly_smiling_face:\n\nВсе курсы записаны в рекомендуемом порядке их прохождения! Для некоторых курсоd есть двойники на coursera! Если не хочется ждать старта сесии..",
+                "author_name": "Dmitriy Novikov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UHY5KKK6D",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-02-09\/943451570432_a8f64ef98beffcfef751_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1589030141312000?thread_ts=1588929079.287800&amp;cid=C04DP7BUY",
+                "footer": "From a thread in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1589030141312000?thread_ts=1588929079.287800&cid=C04DP7BUY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UHY5KKK6D",
+                    "USTKTE472",
+                    "UFL313W1G",
+                    "U2BA0SHMF",
+                    "U0140LZK1V4",
+                    "U013CHGMP41",
+                    "U012D71R38X"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85631fc5-a6fa-47a4-9ae5-aaeef897438f",
+        "type": "message",
+        "text": "<https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science>\nНо там сертификат одного курса стоит 300$, зато мотивация появится и базу поставит. И платить за каждый курс можно раз в 3-6 месяцев.",
+        "user": "UCMC5J36D",
+        "ts": "1590082870.074700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Statistics and Data Science",
+                "title_link": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "text": "From probability and statistics to data analysis and machine learning, master the skills needed to solve complex challenges with data.",
+                "fallback": "edX: Statistics and Data Science",
+                "thumb_url": "https:\/\/www.edx.org\/sites\/default\/files\/program_image_coursecard.jpg",
+                "from_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "thumb_width": 378,
+                "thumb_height": 226,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3E=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nНо там сертификат одного курса стоит 300$, зато мотивация появится и базу поставит. И платить за каждый курс можно раз в 3-6 месяцев."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U6SCXUP6U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d91b7feb-fea9-4701-b1dd-75d1abadc51a",
+        "type": "message",
+        "text": "На английском подойдёт?",
+        "user": "U29TG6K9U",
+        "ts": "1590083882.075200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "68385214f600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-18\/80908841361_68385214f600a51b153c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Finaev",
+            "display_name": "ivn_finaev",
+            "team": "T040HKJE3",
+            "name": "finaevim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sTTw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На английском подойдёт?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "bf475174-d21e-4913-8f19-a64d2f090997",
+        "type": "message",
+        "text": "<@U29TG6K9U> На английском подойдет, если будет сразу на бумажке решаться, потому что налету как лекцию в универе я английский не сильно воспринимаю.",
+        "user": "UAC7ZT3F0",
+        "ts": "1590084266.075400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1QGP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U29TG6K9U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " На английском подойдет, если будет сразу на бумажке решаться, потому что налету как лекцию в универе я английский не сильно воспринимаю."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "669d030f-74a1-4ce7-bf3d-49b7b23b49bf",
+        "type": "message",
+        "text": "Благодарю, ребят. Курсы гляну!",
+        "user": "UAC7ZT3F0",
+        "ts": "1590084278.075600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Благодарю, ребят. Курсы гляну!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "59604F75-B5B0-4EB8-BBBD-A916A2448F1E",
+        "type": "message",
+        "text": "Практики маловато. Заданий на программирование с чекером и оценками нет вообще",
+        "user": "UKCLBKA8G",
+        "ts": "1590084690.076600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g83a90381258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c83a90381258d6c333fd236aa470077.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Egor Konyagin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ekserviceek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Практики маловато. Заданий на программирование с чекером и оценками нет вообще"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589472719.398400",
+        "parent_user_id": "UGDUCRYJ0"
+    },
+    {
+        "client_msg_id": "233d4c4c-98f6-4568-b536-11f66ff9aac6",
+        "type": "message",
+        "text": "18.01.1x Calculus 1A: Differentiation\n<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about|https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about>\n18.01.2x Calculus 1B: Integration\n<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.2x+3T2019\/about|https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.2x+3T2019\/about>\n18.06SC Linear Algebra\n<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about|https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about>\n6.042J Mathematics for Computer Science\n<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about|https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about>\n6.036 Introduction to Machine Learning\n<https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about|https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about>\n\nЗаписи лекции на видео, увы. Первые две ссылки -- это две трети одного полноценного семестрового курса по матану. Все остальное -- семестровые курсы с большим количеством практических упражнений (все не смотрел, но у MIT обычно так)",
+        "user": "U29TG6K9U",
+        "ts": "1590085016.076900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "68385214f600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-18\/80908841361_68385214f600a51b153c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Finaev",
+            "display_name": "ivn_finaev",
+            "team": "T040HKJE3",
+            "name": "finaevim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Calculus 1A: Differentiation",
+                "title_link": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about",
+                "text": "At the end of this course, you should have a good sense of the course materials. This is a short description.",
+                "fallback": "Calculus 1A: Differentiation",
+                "from_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about",
+                "service_icon": "https:\/\/openlearninglibrary.mit.edu\/static\/mitx\/images\/favicon.527bc038240e.ico",
+                "service_name": "openlearninglibrary.mit.edu",
+                "id": 1,
+                "original_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about"
+            },
+            {
+                "title": "Linear Algebra",
+                "title_link": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about",
+                "text": "This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering.",
+                "fallback": "Linear Algebra",
+                "from_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about",
+                "service_icon": "https:\/\/openlearninglibrary.mit.edu\/static\/mitx\/images\/favicon.527bc038240e.ico",
+                "service_name": "openlearninglibrary.mit.edu",
+                "id": 2,
+                "original_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about"
+            },
+            {
+                "title": "Mathematics for Computer Science",
+                "title_link": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about",
+                "text": "This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering.",
+                "fallback": "Mathematics for Computer Science",
+                "from_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about",
+                "service_icon": "https:\/\/openlearninglibrary.mit.edu\/static\/mitx\/images\/favicon.527bc038240e.ico",
+                "service_name": "openlearninglibrary.mit.edu",
+                "id": 3,
+                "original_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about"
+            },
+            {
+                "title": "Introduction to Machine Learning",
+                "title_link": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about",
+                "text": "6.036: Introduction to Machine Learning",
+                "fallback": "Introduction to Machine Learning",
+                "from_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about",
+                "service_icon": "https:\/\/openlearninglibrary.mit.edu\/static\/mitx\/images\/favicon.527bc038240e.ico",
+                "service_name": "openlearninglibrary.mit.edu",
+                "id": 4,
+                "original_url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqLsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18.01.1x Calculus 1A: Differentiation\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about",
+                                "text": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.1x+2T2019\/about"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n18.01.2x Calculus 1B: Integration\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.2x+3T2019\/about",
+                                "text": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+18.01.2x+3T2019\/about"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n18.06SC Linear Algebra\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about",
+                                "text": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+18.06SC+2T2019\/about"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n6.042J Mathematics for Computer Science\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about",
+                                "text": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:OCW+6.042J+2T2019\/about"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n6.036 Introduction to Machine Learning\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about",
+                                "text": "https:\/\/openlearninglibrary.mit.edu\/courses\/course-v1:MITx+6.036+1T2019\/about"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nЗаписи лекции на видео, увы. Первые две ссылки -- это две трети одного полноценного семестрового курса по матану. Все остальное -- семестровые курсы с большим количеством практических упражнений (все не смотрел, но у MIT обычно так)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SCXUP6U",
+                    "U014DJGL1C4",
+                    "U012C7Q0M7G",
+                    "U014Q1QGDEG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d735ff8-194f-43d4-a17a-7bc2002cc5f7",
+        "type": "message",
+        "text": "Как я понял из названий, дифференцирование, интегрирование. То, что нужно :slightly_smiling_face:\nИнтересно будет узнать, как это рассказывают на иностранных курсах. Спасибо !",
+        "user": "UAC7ZT3F0",
+        "ts": "1590085509.077300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "97e8286880d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-18\/1130882453154_97e8286880d2ad75f973_72.jpg",
+            "first_name": "Danila",
+            "real_name": "Danila Santiev",
+            "display_name": "Danila Santiev",
+            "team": "T040HKJE3",
+            "name": "codinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Как я понял из названий, дифференцирование, интегрирование. То, что нужно "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nИнтересно будет узнать, как это рассказывают на иностранных курсах. Спасибо !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0"
+    },
+    {
+        "client_msg_id": "3f24312c-bfa2-4d10-a767-7061777645f4",
+        "type": "message",
+        "text": "Хо-хо, я проходил некоторые из них. По сравнению с большинством физтеховских продвигаются по материалу или медленнее или опускают некоторые продвинутые вещи, но объясняют супер подробно, после каждого юнита внутри темы следует гигантское количество упражнений. Знания буквально вдалбливаются в мозг",
+        "user": "U29TG6K9U",
+        "ts": "1590085703.077500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "68385214f600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-09-18\/80908841361_68385214f600a51b153c_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Finaev",
+            "display_name": "ivn_finaev",
+            "team": "T040HKJE3",
+            "name": "finaevim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U29TG6K9U",
+            "ts": "1590085731.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tslly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хо-хо, я проходил некоторые из них. По сравнению с большинством физтеховских продвигаются по материалу или медленнее или опускают некоторые продвинутые вещи, но объясняют супер подробно, после каждого юнита внутри темы следует гигантское количество упражнений. Знания буквально вдалбливаются в мозг"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590081021.060300",
+        "parent_user_id": "UAC7ZT3F0",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UAC7ZT3F0",
+                    "U013MPF80TD",
+                    "UNE08HYLX",
+                    "U6SCXUP6U"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U62PAKHV1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "175fbe42-6b6e-4f19-945f-3c1831193d3d",
+        "type": "message",
+        "text": "<@UPD47KCSZ> на сайте MADE в разделе FAQ есть демонстрационный вариант по математике <https:\/\/data.mail.ru\/static\/core\/pub\/bigdata\/docs\/2020_MADE_demo_Math.pdf>",
+        "user": "UD66T1P96",
+        "ts": "1590088677.078200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g12ade6debc4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d912ade6debc48a7ae0171d5f13fbee4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Khasykov",
+            "display_name": "mkhasykov",
+            "team": "T040HKJE3",
+            "name": "mkhasykov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UD66T1P96",
+            "ts": "1590088690.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqbKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPD47KCSZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " на сайте MADE в разделе FAQ есть демонстрационный вариант по математике "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/data.mail.ru\/static\/core\/pub\/bigdata\/docs\/2020_MADE_demo_Math.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990868.032500",
+        "parent_user_id": "U013MPF80TD"
+    },
+    {
+        "client_msg_id": "f2deb538-409c-4d67-be68-ff7fd926ab00",
+        "type": "message",
+        "text": "и программа для экзаменов <https:\/\/data.mail.ru\/static\/core\/pub\/bigdata\/docs\/2020_MADE_Syllabus.pdf>",
+        "user": "UD66T1P96",
+        "ts": "1590088744.078500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g12ade6debc4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d912ade6debc48a7ae0171d5f13fbee4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Khasykov",
+            "display_name": "mkhasykov",
+            "team": "T040HKJE3",
+            "name": "mkhasykov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UD66T1P96",
+            "ts": "1590088961.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FWHTp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "и программа для экзаменов "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/data.mail.ru\/static\/core\/pub\/bigdata\/docs\/2020_MADE_Syllabus.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990868.032500",
+        "parent_user_id": "U013MPF80TD"
+    }
+]

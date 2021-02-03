@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "1b24c70c-9ec4-4ef1-9e59-28f918cf018c",
+        "type": "message",
+        "text": "если есть много времени, я бы взял эту программу:\n<https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science>\n\nтолько там не хватает линала (",
+        "user": "U6SCXUP6U",
+        "ts": "1580549089.190100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1580549189.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Statistics and Data Science",
+                "title_link": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "text": "From probability and statistics to data analysis and machine learning, master the skills needed to solve complex challenges with data.",
+                "fallback": "edX: Statistics and Data Science",
+                "thumb_url": "https:\/\/www.edx.org\/sites\/default\/files\/program_image_coursecard.jpg",
+                "from_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science",
+                "thumb_width": 378,
+                "thumb_height": 226,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zro+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "если есть много времени, я бы взял эту программу:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/micromasters\/mitx-statistics-and-data-science"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nтолько там не хватает линала ("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580405077.165900",
+        "parent_user_id": "US2Q6MCPQ"
+    }
+]

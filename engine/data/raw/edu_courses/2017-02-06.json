@@ -1,0 +1,1658 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486368427.001771",
+        "user": "U418P52KV",
+        "text": "<@U418P52KV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U040M0W0S> лучче смотреть учебные планы, там надежнее инфа, и она вероятнее будет на сайте, чем няшный список курсов",
+        "user": "U09BY2N3X",
+        "ts": "1486369895.001772",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6fa92c4d29b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/185152750597_6fa92c4d29b6e84e3603_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Manokhina",
+            "display_name": "manokhina",
+            "team": "T040HKJE3",
+            "name": "bauchgefuhl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486369895.001772",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1486374610.001788",
+        "reply_users": [
+            "U040M0W0S",
+            "U09BY2N3X"
+        ],
+        "replies": [
+            {
+                "user": "U040M0W0S",
+                "ts": "1486371488.001775"
+            },
+            {
+                "user": "U09BY2N3X",
+                "ts": "1486371648.001777"
+            },
+            {
+                "user": "U040M0W0S",
+                "ts": "1486374610.001788"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sparkling_heart",
+                "users": [
+                    "U040M0W0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486370823.001773",
+        "user": "U41909F0T",
+        "text": "<@U41909F0T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486371109.001774",
+        "user": "U421N138W",
+        "text": "<@U421N138W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "bauchgefuhl: спасибо. но не до конца уверен, что понимается под учебным планом. сначала подумал про ФГОС, но погуглив, пришел к выводу, что это разные сущности. взаимодополняющие друг друга в тоже время. \nтак план -- это такая типа табличка большая? вот как, например, эта <https:\/\/mipt.ru\/upload\/iblock\/c56\/up-dlya-sayta-2016-fivt-bakalavriat-pmf.pdf>\nпока гуглил, выяснил, что у МФТИ тоже хорошая страничка со списков. вот только пререквизитов не могу увидеть в описаниях :but_why:",
+        "user": "U040M0W0S",
+        "ts": "1486371488.001775",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486369895.001772",
+        "parent_user_id": "U09BY2N3X"
+    },
+    {
+        "type": "message",
+        "text": "или вот <https:\/\/www.hse.ru\/ma\/datasci\/learn_plans\/>",
+        "user": "U09BY2N3X",
+        "ts": "1486371648.001777",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6fa92c4d29b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/185152750597_6fa92c4d29b6e84e3603_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Manokhina",
+            "display_name": "manokhina",
+            "team": "T040HKJE3",
+            "name": "bauchgefuhl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Магистерская программа \"Науки о данных (Data Science)\"",
+                "title_link": "https:\/\/www.hse.ru\/ma\/datasci\/learn_plans\/",
+                "fallback": "Магистерская программа \"Науки о данных (Data Science)\"",
+                "image_url": "https:\/\/www.hse.ru\/images\/fb\/hse_ru_thumb.jpg",
+                "from_url": "https:\/\/www.hse.ru\/ma\/datasci\/learn_plans\/",
+                "image_width": 470,
+                "image_height": 246,
+                "image_bytes": 35573,
+                "service_icon": "https:\/\/www.hse.ru\/favicon.ico",
+                "service_name": "hse.ru",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1486369895.001772",
+        "parent_user_id": "U09BY2N3X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U3VBQLKPU> вот мне тоже очень интересно :slightly_smiling_face:. я все опубликую. спасибо за ссылку",
+        "user": "U040M0W0S",
+        "ts": "1486372334.001780",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U040M0W0S",
+            "ts": "1486372349.000000"
+        },
+        "thread_ts": "1486280066.001747",
+        "parent_user_id": "U040M0W0S",
+        "reactions": [
+            {
+                "name": "woohoo",
+                "users": [
+                    "U3VBQLKPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U27HU84H4> ну я юзаю питон и стремлюсь использовать то, что с ним хорошо работает. для питона достаточно много вариантов -- часть их них это обертки. некоторые не заработали с юникодом. что-то под 3 не работает. \nв итоге остановился на пакете `textract`. это такая метаоболочка для разных форматов. для пдф по дефолту используется pdftotext: <https:\/\/github.com\/deanmalmgren\/textract\/blob\/master\/textract\/parsers\/pdf_parser.py>\nно может и tesseract, например.\nну мне главное, что сходу завелось и текст без мусора выплевывается. пока достаточно. \nно если есть рекомендации -- i will appreciate it",
+        "user": "U040M0W0S",
+        "ts": "1486372758.001783",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "deanmalmgren\/textract",
+                "title_link": "https:\/\/github.com\/deanmalmgren\/textract\/blob\/master\/textract\/parsers\/pdf_parser.py",
+                "text": "textract - extract text from any document. no muss. no fuss.",
+                "fallback": "GitHub: deanmalmgren\/textract",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/255672?v=3&s=400",
+                "from_url": "https:\/\/github.com\/deanmalmgren\/textract\/blob\/master\/textract\/parsers\/pdf_parser.py",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1486280066.001747",
+        "parent_user_id": "U040M0W0S"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486373334.001786",
+        "user": "U40LVQYTB",
+        "text": "<@U40LVQYTB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486374065.001787",
+        "user": "U419K2NCB",
+        "text": "<@U419K2NCB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "спасибо. такие таблицы цены своими часами. в тоже врмя из них нельзя извлечь тот факт, что один курс явно полагает на другой. впрочем, часы тоже хочется как-то проанализировать.  может получиться весьма любопытная визуализация. хорошо, что эти таблице кто-то выкладывает в экселе.",
+        "user": "U040M0W0S",
+        "ts": "1486374610.001788",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf94d3badfe5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bf94d3badfe56d3a3f556d132479557.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "i",
+            "real_name": "i",
+            "display_name": "i",
+            "team": "T040HKJE3",
+            "name": "i",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486369895.001772",
+        "parent_user_id": "U09BY2N3X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486377588.001790",
+        "user": "U41A6G23D",
+        "text": "<@U41A6G23D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486378029.001791",
+        "user": "U40MQ60KB",
+        "text": "<@U40MQ60KB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486380610.001792",
+        "user": "U423M2L79",
+        "text": "<@U423M2L79> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486386340.001793",
+        "user": "U40PA9ULR",
+        "text": "<@U40PA9ULR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486395731.001794",
+        "user": "U40QSHHT2",
+        "text": "<@U40QSHHT2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486395994.001795",
+        "user": "U41JTV3C5",
+        "text": "<@U41JTV3C5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486402304.001796",
+        "user": "U40STR66L",
+        "text": "<@U40STR66L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486407150.001797",
+        "user": "U40U79LQ0",
+        "text": "<@U40U79LQ0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486410988.001799",
+        "user": "U41P9HX5K",
+        "text": "<@U41P9HX5K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Друзья, кто нибудь проходил курс от `Udacity` по `self-driving cars` ? Можете рассказать о плюсах\/минусах программы?",
+        "user": "U3P28DQ5T",
+        "ts": "1486411548.001800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U32J3CRP1> можно попросить",
+        "user": "U14CTBLFJ",
+        "ts": "1486411739.001801",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U14CTBLFJ> как именно?",
+        "user": "U32J3CRP1",
+        "ts": "1486411802.001803",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "попробую найти почту его на видео",
+        "user": "U32J3CRP1",
+        "ts": "1486411832.001804",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В смысле рассказать про SDC программу Udacity",
+        "user": "U14CTBLFJ",
+        "ts": "1486411866.001805",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а, извиняюсь) не понял вопроса) да, я не против рассказать)",
+        "user": "U32J3CRP1",
+        "ts": "1486411924.001807",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "просто там параллельно еще спросили в другом канале)",
+        "user": "U32J3CRP1",
+        "ts": "1486411938.001809",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Возможно кто-то из вас друзья проходил этот курс. Мне очень интересно стоит он чтобы на него тратить время",
+        "user": "U3P28DQ5T",
+        "ts": "1486411968.001812",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вот я сейчас term 1  прохожу",
+        "user": "U32J3CRP1",
+        "ts": "1486411999.001814",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U32J3CRP1> нужен большой пост, чтобы его потом можно было запинить в этом канале (наверняка народ будет интересоваться и впредь)",
+        "user": "U14BPHDK6",
+        "ts": "1486412004.001815",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412004.001815",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1486412783.001842",
+        "reply_users": [
+            "U14BPHDK6"
+        ],
+        "replies": [
+            {
+                "user": "U14BPHDK6",
+                "ts": "1486412783.001842"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U040M0W0S",
+                    "U04ELQZAU",
+                    "U1D4RRA7K",
+                    "U1G303UTW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "есть планы сделать обзор третьего проекта с этого круса на хабре",
+        "user": "U32J3CRP1",
+        "ts": "1486412050.001816",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3P28DQ5T",
+                    "U14BPHDK6",
+                    "U14CTBLFJ",
+                    "U1D4RRA7K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "можете потренироваться на нас",
+        "user": "U14BPHDK6",
+        "ts": "1486412067.001820",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U040M0W0S",
+                    "U1D4RRA7K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ну и параллельно могу про сами курсы что-то написать там",
+        "user": "U32J3CRP1",
+        "ts": "1486412068.001821",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а какие именно вопросы интересуют?",
+        "user": "U32J3CRP1",
+        "ts": "1486412091.001822",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "чтобы более прицельно ответить",
+        "user": "U32J3CRP1",
+        "ts": "1486412168.001823",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я щас принимаю решение оплачивать их или нет :slightly_smiling_face: хочу научиться создавать архитектуры нейронок, вообще понять их получше. у меня только теоретические знания по книгам. хочется практики, тензор фло стоит но я так и не начала его использовать)))",
+        "user": "U3P28DQ5T",
+        "ts": "1486412182.001824",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "+ есть опыт программирования на с. вобщем, я хотела бы развиваться в SDС.",
+        "user": "U3P28DQ5T",
+        "ts": "1486412275.001825",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "В таком случае однозначно оно того стоит, другое дело что на этих курсах еще будет много всего не из дип лернинга\/нейросетей, компьютерное зрение, SVM, C++, SLAM, sensor fusion, если есть желание погрузиться именно в нейросетки, то они сейчас запустили крусы по AI. И там вроде бы даже есть Reinforcement learning",
+        "user": "U32J3CRP1",
+        "ts": "1486412289.001826",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну и есть у них еще ML курс",
+        "user": "U32J3CRP1",
+        "ts": "1486412315.001827",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "просто  курсов сейчас полно. стоят они не дорого. но я ценю свое время и хочется хорошего качества",
+        "user": "U3P28DQ5T",
+        "ts": "1486412360.001828",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "сами курсы по идее сильно не напрягут, но и дадут базовое понимание, есть плюс, что в проектах (их 5 в первой части) в каждом надо подумать, чтобы добиться хорошего результата, ну или иметь хороший опыт заранее в этой области",
+        "user": "U32J3CRP1",
+        "ts": "1486412392.001830",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1486412948.001851",
+        "reply_users": [
+            "U3P28DQ5T",
+            "U32J3CRP1"
+        ],
+        "replies": [
+            {
+                "user": "U3P28DQ5T",
+                "ts": "1486412634.001834"
+            },
+            {
+                "user": "U32J3CRP1",
+                "ts": "1486412745.001838"
+            },
+            {
+                "user": "U32J3CRP1",
+                "ts": "1486412776.001840"
+            },
+            {
+                "user": "U3P28DQ5T",
+                "ts": "1486412874.001848"
+            },
+            {
+                "user": "U32J3CRP1",
+                "ts": "1486412948.001851"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "еще один плюс, что все по SDC в одном месте собрано, в итоге, как я понимаю по окончании курса у тебя будет свой вариант ИИ для машины.",
+        "user": "U32J3CRP1",
+        "ts": "1486412479.001832",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Но скажу сразу, глубоких знаний тут не будет, скорее средние, но дальше самостоятельно можно добрать просто из статей или каких-то других источников",
+        "user": "U32J3CRP1",
+        "ts": "1486412546.001833",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "parilo: а на сколько хорошо разжевывают материал? есть курсы где просто дают скрипт работающий с библеотекой TF в питоне и говорят - \"ок, запустите его\" - теперь вы знаете ТФ)))",
+        "user": "U3P28DQ5T",
+        "ts": "1486412634.001834",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "parent_user_id": "U32J3CRP1"
+    },
+    {
+        "type": "message",
+        "text": "Есть плюс, что их эйчары тебя будут, как я понял, продвигать среди хайринг партнеров, там есть внутренний профиль и галочка, что хочу чтобы эйчары меня продвигали",
+        "user": "U32J3CRP1",
+        "ts": "1486412640.001836",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "За дополнительную плату продвигают? :grinning:",
+        "user": "U1UM6S9KN",
+        "ts": "1486412702.001837",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "есть такой момент местами, но объяснения и разжовывания тоже есть",
+        "user": "U32J3CRP1",
+        "ts": "1486412745.001838",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "parent_user_id": "U32J3CRP1"
+    },
+    {
+        "type": "message",
+        "text": "вообще мне трудно судить, так как многое знал до курсов, объяснения просто какие-то небольшие места закрыли, которых не знал",
+        "user": "U32J3CRP1",
+        "ts": "1486412776.001840",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "parent_user_id": "U32J3CRP1"
+    },
+    {
+        "type": "message",
+        "text": "tfw не знаешь, как запинить пачку коротких постов \n:pepe_sad:",
+        "user": "U14BPHDK6",
+        "ts": "1486412783.001842",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412004.001815",
+        "parent_user_id": "U14BPHDK6"
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U14BPHDK6",
+        "ts": "1486412783.001844",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412004001815",
+                "fallback": "[February 6th, 2017 12:13 PM] katya: <@U32J3CRP1> нужен большой пост, чтобы его потом можно было запинить в этом канале (наверняка народ будет интересоваться и впредь)",
+                "ts": "1486412004.001815",
+                "author_subname": "katya",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<@U32J3CRP1> нужен большой пост, чтобы его потом можно было запинить в этом канале (наверняка народ будет интересоваться и впредь)",
+                "author_name": "Katya Demidova",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/katya",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-31\/75026918695_d5fd6ace8a79052ff708_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "tfw не знаешь, как запинить пачку коротких постов \n:pepe_sad:",
+                "author_name": "Katya Demidova",
+                "author_subname": "katya",
+                "text": "tfw не знаешь, как запинить пачку коротких постов \n:pepe_sad:",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/katya",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412783001842?thread_ts=1486412004001815&cid=C04DP7BUY",
+                "ts": "1486412783.001842",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-31\/75026918695_d5fd6ace8a79052ff708_48.png",
+                "id": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "нет, это входит в оплату, но надо уложиться в дедлайны по проектам",
+        "user": "U32J3CRP1",
+        "ts": "1486412787.001845",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U32J3CRP1",
+            "ts": "1486412837.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "А эта опция точно для всех работает или только для жителей США?",
+        "user": "U1UM6S9KN",
+        "ts": "1486412870.001847",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А на курсе вы обучали нейроники? дома или давали доступ например к AWS?",
+        "user": "U3P28DQ5T",
+        "ts": "1486412874.001848",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "faa791711dac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1171125096438_faa791711dac2ddc4f94_72.png",
+            "first_name": "Dinar",
+            "real_name": "Dinar Mingaliev",
+            "display_name": "dinar",
+            "team": "T040HKJE3",
+            "name": "dinar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "parent_user_id": "U32J3CRP1"
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U3P28DQ5T",
+        "ts": "1486412874.001850",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412392001830",
+                "fallback": "[February 6th, 2017 12:19 PM] parilo: сами курсы по идее сильно не напрягут, но и дадут базовое понимание, есть плюс, что в проектах (их 5 в первой части) в каждом надо подумать, чтобы добиться хорошего результата, ну или иметь хороший опыт заранее в этой области",
+                "ts": "1486412392.001830",
+                "author_subname": "parilo",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "сами курсы по идее сильно не напрягут, но и дадут базовое понимание, есть плюс, что в проектах (их 5 в первой части) в каждом надо подумать, чтобы добиться хорошего результата, ну или иметь хороший опыт заранее в этой области",
+                "author_name": "Anton Pechenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/parilo",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "4 replies"
+            },
+            {
+                "fallback": "А на курсе вы обучали нейроники? дома или давали доступ например к AWS?",
+                "author_name": "Dinar Mingaliev",
+                "author_subname": "dinar",
+                "text": "А на курсе вы обучали нейроники? дома или давали доступ например к AWS?",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/dinar",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412874001848?thread_ts=1486412392001830&cid=C04DP7BUY",
+                "ts": "1486412874.001848",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-06\/137797524853_9cba49fcb4731a25fece_48.jpg",
+                "id": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "у меня есть хороший GPU, я им пользуюсь, AWS тоже дают на $50 или $100 я не помню точно, но как по мне так маловато",
+        "user": "U32J3CRP1",
+        "ts": "1486412948.001851",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1486412392.001830",
+        "parent_user_id": "U32J3CRP1"
+    },
+    {
+        "type": "message",
+        "text": "говорят, что опция для всех, типа некоторые хайринг партнеры не против оформить визы",
+        "user": "U32J3CRP1",
+        "ts": "1486412989.001853",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну тогда дело стоящее.",
+        "user": "U1UM6S9KN",
+        "ts": "1486413027.001854",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там есть еще куча всяких внутренних движняков в которых можно участвовать и таким образом обзавестись контактами",
+        "user": "U32J3CRP1",
+        "ts": "1486413167.001857",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/ossdc.org\/> вот напимер можно сюда контрибутить",
+        "user": "U32J3CRP1",
+        "ts": "1486413277.001858",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "плюс там сейчас еще проводится соревнование реальных машин и вроде как можно даже удаленно поучаствовать при желании",
+        "user": "U32J3CRP1",
+        "ts": "1486413411.001859",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U19EZ8L5D",
+                    "U31S67ZC5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U14BPHDK6> Стоит переформатировать все мои ответы в один большой пост?",
+        "user": "U32J3CRP1",
+        "ts": "1486415064.001862",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "good-enough",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я правда не совсем понимаю как это сделать...",
+        "user": "U32J3CRP1",
+        "ts": "1486415168.001864",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "да вроде и так збс",
+        "user": "U14BPHDK6",
+        "ts": "1486415268.001866",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "начиная с этого сообщения — рассказ про курс self-driving cars от udacity\n<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412289001826>",
+        "user": "U14BPHDK6",
+        "ts": "1486415336.001867",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1486412289001826",
+                "fallback": "[February 6th, 2017 12:18 PM] parilo: В таком случае однозначно оно того стоит, другое дело что на этих курсах еще будет много всего не из дип лернинга\/нейросетей, компьютерное зрение, SVM, C++, SLAM, sensor fusion, если есть желание погрузиться именно в нейросетки, то они сейчас запустили крусы по AI. И там вроде бы даже есть Reinforcement learning",
+                "ts": "1486412289.001826",
+                "author_subname": "parilo",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "В таком случае однозначно оно того стоит, другое дело что на этих курсах еще будет много всего не из дип лернинга\/нейросетей, компьютерное зрение, SVM, C++, SLAM, sensor fusion, если есть желание погрузиться именно в нейросетки, то они сейчас запустили крусы по AI. И там вроде бы даже есть Reinforcement learning",
+                "author_name": "Anton Pechenko",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/parilo",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":good-enough: ",
+        "user": "U14BPHDK6",
+        "ts": "1486415359.001871",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F41QK3YP7",
+                "created": 1486415755,
+                "timestamp": 1486415755,
+                "name": "Q_A_po_Udacity_SDC.txt",
+                "title": "Q&amp;A по Udacity SDC",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U32J3CRP1",
+                "editable": true,
+                "size": 4174,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/download\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F41QK3YP7-bfa2d29725",
+                "edit_link": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U32J3CRP1",
+        "display_as_bot": false,
+        "ts": "1486415755.001872",
+        "edited": {
+            "user": "U32J3CRP1",
+            "ts": "1486416706.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Скомпилил)",
+        "user": "U32J3CRP1",
+        "ts": "1486415773.001873",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3P28DQ5T",
+                    "U14BPHDK6",
+                    "U3U0AKQ0Y",
+                    "U1D4RRA7K",
+                    "U1UC11GGN",
+                    "U04ELQZAU",
+                    "U31S67ZC5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3P28DQ5T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U3P28DQ5T> commented on <@U32J3CRP1>’s file <https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt|Q&amp;A по Udacity SDC>: добавь еще плиз как вы обучали нейронки: на домашних компах или AWS или еще как-то",
+        "file": {
+            "id": "F41QK3YP7",
+            "created": 1486415755,
+            "timestamp": 1486415755,
+            "name": "Q_A_po_Udacity_SDC.txt",
+            "title": "Q&amp;A по Udacity SDC",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U32J3CRP1",
+            "editable": true,
+            "size": 4174,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/download\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+            "permalink": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F41QK3YP7-bfa2d29725",
+            "edit_link": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt\/edit",
+            "is_starred": false,
+            "has_rich_preview": false
+        },
+        "files": [
+            {
+                "id": "F41QK3YP7",
+                "created": 1486415755,
+                "timestamp": 1486415755,
+                "name": "Q_A_po_Udacity_SDC.txt",
+                "title": "Q&amp;A по Udacity SDC",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U32J3CRP1",
+                "editable": true,
+                "size": 4174,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F41QK3YP7\/download\/Q_A_po_Udacity_SDC.txt?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F41QK3YP7-bfa2d29725",
+                "edit_link": "https:\/\/opendatascience.slack.com\/files\/U32J3CRP1\/F41QK3YP7\/Q_A_po_Udacity_SDC.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "comment": {
+            "id": "Fc4117HZEU",
+            "created": 1486415898,
+            "timestamp": 1486415898,
+            "user": "U3P28DQ5T",
+            "is_intro": false,
+            "comment": "добавь еще плиз как вы обучали нейронки: на домашних компах или AWS или еще как-то"
+        },
+        "is_intro": false,
+        "ts": "1486415898.001876"
+    },
+    {
+        "type": "message",
+        "text": "добавил",
+        "user": "U32J3CRP1",
+        "ts": "1486416741.001882",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "83aa028c3c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/104604552534_83aa028c3c81809d6215_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Pechenko",
+            "display_name": "parilo",
+            "team": "T040HKJE3",
+            "name": "parilo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486446823.001889",
+        "user": "U42H7QU14",
+        "text": "<@U42H7QU14> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486448650.001890",
+        "user": "U42HDF2BG",
+        "text": "<@U42HDF2BG> has joined the channel"
+    }
+]

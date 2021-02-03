@@ -1,0 +1,1025 @@
+[
+    {
+        "client_msg_id": "1C5BCF37-708E-488A-BBF2-421F121AA646",
+        "type": "message",
+        "text": "У меня была подобная штука - помог рестарт кернела и запуск всего с нуля",
+        "user": "UHCRLF0G3",
+        "ts": "1555673257.095500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2eecef29e09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/332eecef29e0926295f59ce7121bf520.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "WLMike",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "wlmike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555449197.080300",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "b5145e1d-fcd1-430b-833e-dbe24506b411",
+        "type": "message",
+        "text": "но зачем тратить время на то, чтобы в нем разбираться, если то же самое можно было бы делать в Python?",
+        "user": "UEWF6GGMN",
+        "ts": "1555675384.095700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a997f0bb0a7a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/648242653909_a997f0bb0a7ab6fdf9f2_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Panchenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "panchenkodmytry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEWF6GGMN",
+            "ts": "1555675390.000000"
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H055U0J",
+                    "U9HSZRDP1",
+                    "UHK3KLF3N",
+                    "U4KKM5810"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "162a2fac-7071-457d-9b2c-bc1ea63776d1",
+        "type": "message",
+        "text": "hope this curated Pytorch's lists could help S.O",
+        "user": "UHQR5RXBQ",
+        "ts": "1555681060.098900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gee96f3177e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88ee96f3177e334f1ef1900d5e09d5d3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Thoi",
+            "real_name": "Thoi Mai",
+            "display_name": "Thoi Mai",
+            "team": "T040HKJE3",
+            "name": "maivanthoi1412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6BRZBJ72",
+                    "UHGJK5P52"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b5353c7-16da-45ae-924f-b5cd57e872d1",
+        "type": "message",
+        "text": "<https:\/\/github.com\/bharathgs\/Awesome-pytorch-list#paper-implementations>",
+        "user": "UHQR5RXBQ",
+        "ts": "1555681064.099100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gee96f3177e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88ee96f3177e334f1ef1900d5e09d5d3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Thoi",
+            "real_name": "Thoi Mai",
+            "display_name": "Thoi Mai",
+            "team": "T040HKJE3",
+            "name": "maivanthoi1412",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "bharathgs\/Awesome-pytorch-list",
+                "text": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+                "title": "bharathgs\/Awesome-pytorch-list",
+                "footer": "<https:\/\/github.com\/bharathgs\/Awesome-pytorch-list|bharathgs\/Awesome-pytorch-list>",
+                "id": 1,
+                "ts": 1488387496,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "6172",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "2 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/bharathgs\/Awesome-pytorch-list#paper-implementations",
+                "is_app_unfurl": true
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star",
+                "users": [
+                    "UBA7N1YSG",
+                    "UDSGG9SGH",
+                    "U69138FD5",
+                    "U6Z21KSBC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "UBA7N1YSG",
+                    "UCFU0F4CQ",
+                    "U69138FD5",
+                    "U6Z21KSBC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "omgtnx",
+                "users": [
+                    "UBA7N1YSG",
+                    "U60EETE7N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U60EETE7N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09d3ab03-1b43-412d-a371-2cb1127c3394",
+        "type": "message",
+        "text": "А зачем тогда другие языки программирования? Если все то же самое можно делать в питоне.",
+        "user": "U5H0L5T98",
+        "ts": "1555683161.099500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V"
+    },
+    {
+        "client_msg_id": "d6ff602c-2158-461e-bee8-a106dea36132",
+        "type": "message",
+        "text": "Плюс, мы не программисты.",
+        "user": "U5H0L5T98",
+        "ts": "1555683187.099700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "UEWF6GGMN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c08d612-6cbe-4925-ba15-17a89a0f383f",
+        "type": "message",
+        "text": "Очень слабый аргумент.\n\nКаждый язык для чего-то предназначен. Каждый язык хорош в каких-то задачах, а в каких-то - плох.\nДопустим даже, что матлаб не лучше и не хуже питона для ресерча (мне кажется, что в 2к19 хуже, но не будем спорить). Но модели рано или поздно придется  выводить в продакшен, а вот для продакшена матлаб вообще не предназначен в отличие от питона. Так почему делать курс на матлабе, если можно сразу сделать на том языке, на котором \"говорит\" индустрия?",
+        "user": "UEWF6GGMN",
+        "ts": "1555695737.100200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a997f0bb0a7a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/648242653909_a997f0bb0a7ab6fdf9f2_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Panchenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "panchenkodmytry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEWF6GGMN",
+            "ts": "1555695847.000000"
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V"
+    },
+    {
+        "client_msg_id": "65b27738-ddcf-4fb2-a901-6e6c9ec898b7",
+        "type": "message",
+        "text": "Очень мало человек используют питон для продакшена. Ваш аргумент ещё слабее.",
+        "user": "U5H0L5T98",
+        "ts": "1555699481.100800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "UEWF6GGMN",
+                    "U9HSZRDP1",
+                    "U6SHTGD5X",
+                    "U4LUPEAR0",
+                    "U1D9LK24E",
+                    "UHGUXSJRK",
+                    "U93P65UQN",
+                    "U4KKM5810",
+                    "U4A57R5V1"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fbe0689-5db4-4e74-9be1-b298d96693d6",
+        "type": "message",
+        "text": "Ещё раз, если не было понятно. Из курса человек получает знания о CV,  а не умение в прод писать.",
+        "user": "U5H0L5T98",
+        "ts": "1555699519.101000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5H0L5T98",
+            "ts": "1555699628.000000"
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea4ffbf2-dbb1-4e05-b1b3-c4c0a16d70eb",
+        "type": "message",
+        "text": "Вадим, не обижайтесь, но даже если бы у вас в профиле не было написано, что вы работаете в университете, я бы всё равно это понял.",
+        "user": "UEWF6GGMN",
+        "ts": "1555702354.101500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a997f0bb0a7a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/648242653909_a997f0bb0a7ab6fdf9f2_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Panchenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "panchenkodmytry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U9ZU1CYUD",
+                    "UHGUXSJRK",
+                    "UEU61TZCP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14d6351f-58fe-42c9-a0fd-04a97f03e446",
+        "type": "message",
+        "text": "Коллеги, думаю вписаться вот сюда: <https:\/\/www.udacity.com\/course\/data-scientist-nanodegree--nd025>\nИмеет ли смысл? Я посмотрел программу, вроде как всё довольно очевидно, я это и так самостоятельно  могу изучить если нужно будет. Привлекает \"корочка\" и всякие дополнительные сервисы типа советников по карьере, тренинг интревью и т.п. Смущает 8 месяцев, это всё же долго. За 18 я могу получить Masters Degree in Data Science от нормального университета, но за совсем другие деньги, конечно.",
+        "user": "UHK3KLF3N",
+        "ts": "1555705609.106300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5c422b7102b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c25c422b7102bc80bf150a39bdeb8b6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Lisenkov",
+            "display_name": "Ivan",
+            "team": "T040HKJE3",
+            "name": "ivan920",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHK3KLF3N",
+            "ts": "1555705810.000000"
+        },
+        "attachments": [
+            {
+                "title": "Data Scientist | Udacity",
+                "title_link": "https:\/\/www.udacity.com\/course\/data-scientist-nanodegree--nd025",
+                "text": "Build effective machine learning models, run data pipelines, build recommendation systems, and deploy solutions to the cloud with industry-aligned projects.",
+                "fallback": "Data Scientist | Udacity",
+                "from_url": "https:\/\/www.udacity.com\/course\/data-scientist-nanodegree--nd025",
+                "service_icon": "https:\/\/www.udacity.com\/favicon.ico",
+                "service_name": "udacity.com",
+                "id": 1,
+                "original_url": "https:\/\/www.udacity.com\/course\/data-scientist-nanodegree--nd025"
+            }
+        ],
+        "thread_ts": "1555705609.106300",
+        "reply_count": 20,
+        "reply_users_count": 7,
+        "latest_reply": "1555940807.187500",
+        "reply_users": [
+            "U53E5MFNU",
+            "UHK3KLF3N",
+            "U60EETE7N",
+            "UGF8L176H",
+            "U27GFN6P7",
+            "U15V81K6V",
+            "UGLKHNU9E"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555705712.106700"
+            },
+            {
+                "user": "UHK3KLF3N",
+                "ts": "1555705735.106900"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555705755.107300"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555705787.107600"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555705884.108000"
+            },
+            {
+                "user": "UHK3KLF3N",
+                "ts": "1555705936.108200"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555706006.108400"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555706021.108600"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555706138.108900"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1555706436.109300"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555707069.109800"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1555710359.110400"
+            },
+            {
+                "user": "U27GFN6P7",
+                "ts": "1555719129.110700"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1555719709.110900"
+            },
+            {
+                "user": "U27GFN6P7",
+                "ts": "1555720585.111200"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1555736712.112200"
+            },
+            {
+                "user": "UGLKHNU9E",
+                "ts": "1555919122.145700"
+            },
+            {
+                "user": "UHK3KLF3N",
+                "ts": "1555940545.186900"
+            },
+            {
+                "user": "UHK3KLF3N",
+                "ts": "1555940715.187300"
+            },
+            {
+                "user": "UHK3KLF3N",
+                "ts": "1555940807.187500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "01eb763f-a0b8-4ddb-b891-b5c1bbc5c259",
+        "type": "message",
+        "text": "<@UEWF6GGMN> даже не представляю для чего хорош матлаб в 2019 году.",
+        "user": "UHK3KLF3N",
+        "ts": "1555705664.106500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5c422b7102b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c25c422b7102bc80bf150a39bdeb8b6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Lisenkov",
+            "display_name": "Ivan",
+            "team": "T040HKJE3",
+            "name": "ivan920",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555564789.085500",
+        "parent_user_id": "U15V81K6V",
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U6SHTGD5X",
+                    "U15V81K6V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae775116-1d50-4af4-9e84-6a0ba5064aaa",
+        "type": "message",
+        "text": "на :kaggle:  за это время ты получишь сильно больше практических знаний",
+        "user": "U53E5MFNU",
+        "ts": "1555705712.106700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "7b269122-4233-40c9-b897-f0199542a179",
+        "type": "message",
+        "text": "Да, но каггл ты в резюме не засунешь",
+        "user": "UHK3KLF3N",
+        "ts": "1555705735.106900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5c422b7102b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c25c422b7102bc80bf150a39bdeb8b6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Lisenkov",
+            "display_name": "Ivan",
+            "team": "T040HKJE3",
+            "name": "ivan920",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHK3KLF3N",
+            "ts": "1555705837.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "7d9e7e1b-ad69-4c3d-be2a-096cb5c24804",
+        "type": "message",
+        "text": "у меня стоит, и со временем все больше он уважения приобретает",
+        "user": "U53E5MFNU",
+        "ts": "1555705755.107300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1555706889.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "UHK3KLF3N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7VDWFSG3",
+                    "U8PMZ6397",
+                    "U6ZVBULGG",
+                    "U9ZU1CYUD",
+                    "UGVJEKKB8"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffc8e3fb-887f-4acf-b49b-7d6b9da6aeec",
+        "type": "message",
+        "text": "+ нетворкинг неплохой образуется",
+        "user": "U53E5MFNU",
+        "ts": "1555705787.107600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19ebc0b0-8652-4f8e-8dfd-210f2f722eb5",
+        "type": "message",
+        "text": "если брать онлайн программу я бы брал MS in CS от Georgia Tech",
+        "user": "U53E5MFNU",
+        "ts": "1555705884.108000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "8a2ee854-fee1-4f5b-9e9d-b443ffa78999",
+        "type": "message",
+        "text": "Да, я смотрел это. Но жаба душит чего-то, ROI чего-то не особо :slightly_smiling_face:",
+        "user": "UHK3KLF3N",
+        "ts": "1555705936.108200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5c422b7102b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c25c422b7102bc80bf150a39bdeb8b6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Lisenkov",
+            "display_name": "Ivan",
+            "team": "T040HKJE3",
+            "name": "ivan920",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "110969a7-b05b-494f-8c82-13733347d4b1",
+        "type": "message",
+        "text": "ну мой совет долби кагл, там реальных знаний которые остаются надолго, заодно можешь github прокачать",
+        "user": "U53E5MFNU",
+        "ts": "1555706006.108400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "8060a9f2-fc51-4a6b-a353-35653bb72a91",
+        "type": "message",
+        "text": "+ при желании сделаешь еще статей в ML",
+        "user": "U53E5MFNU",
+        "ts": "1555706021.108600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "d04062d8-c201-4e0b-99c5-d53dc618d787",
+        "type": "message",
+        "text": "я был активным на кагле где то год, до этого прошел штук 30 онлайн курсов в близким к DS темам. И для меня лично онлайн курсы не дали столько по знаниям как кагл",
+        "user": "U53E5MFNU",
+        "ts": "1555706138.108900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K",
+                    "U6ZVBULGG",
+                    "UHGUXSJRK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e97506be-729c-4501-bd5d-c1af3dc1871c",
+        "type": "message",
+        "text": "Единственный плюс Udacity - это то, что там есть проекты, которые живые люди проверяют, причём обычно очень качественный фидбэк дают.\nЧто касается самих \"корочек\", сомневаюсь, что они к репутации больше докидывают, чем кагломастер.\nДругое дело, что кагломастера получить - не настолько изи бризи, как нанодегри на Юдасити.",
+        "user": "U60EETE7N",
+        "ts": "1555706436.109300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U60EETE7N",
+            "ts": "1555706492.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e0d873e-a36a-435a-8c13-48f18604f782",
+        "type": "message",
+        "text": "<@UHK3KLF3N> а ты слышал про Insight программу? <https:\/\/www.insightdatascience.com\/> есть в Бостоне, но на 3 мес надо быть там фул тайм, после нее выпускники достаточно успешно устраиваются. (6 недель вроде программа и остальное на поиски работы)",
+        "user": "U53E5MFNU",
+        "ts": "1555707069.109800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1555708364.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "6759550c-c958-4766-8a90-3fe16557e5c9",
+        "type": "message",
+        "text": "В нормальный университет еще поступить надо.",
+        "user": "UGF8L176H",
+        "ts": "1555710359.110400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "8a142d25-21bc-4127-9e68-c5171aebfe06",
+        "type": "message",
+        "text": "Подтверждаю - Insight норм программа, если есть хороший бекграунд",
+        "user": "U27GFN6P7",
+        "ts": "1555719129.110700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "487a668edc14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/588155607346_487a668edc141abcc486_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Larko",
+            "display_name": "izuit",
+            "team": "T040HKJE3",
+            "name": "izuit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "b774906c-1675-4406-9ec5-23ab07ddacda",
+        "type": "message",
+        "text": "<@U27GFN6P7> ты плюшки от :kaggle:  указываешь в резюме? Есть hr которые хотят тебя именно за то, что ты хорош на кагле? :kaggle: vs онлайн программа для поиска первой, после академии, работы в DS?",
+        "user": "U53E5MFNU",
+        "ts": "1555719709.110900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1555719748.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N"
+    },
+    {
+        "client_msg_id": "cd8f8c59-cbd4-41f4-94c4-c6f8e023a315",
+        "type": "message",
+        "text": "Я потратил почти год занимаясь, наверстывая и вспоминая теорию прежде чем пошел на :kaggle:\nТак что противопоставлять их нельзя.\nКаггл даст боевой опыт (какой-никакой) без которого теория не живет.\nВсе интересные вакансии приходили или от таких же каглнутых как я или от HR которые так и писали, мол нравиться как вы на каггл зажигаете.",
+        "user": "U27GFN6P7",
+        "ts": "1555720585.111200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "487a668edc14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/588155607346_487a668edc141abcc486_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Larko",
+            "display_name": "izuit",
+            "team": "T040HKJE3",
+            "name": "izuit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U53E5MFNU",
+                    "U4ZRFG1V0",
+                    "U15V81K6V",
+                    "U1NPQ2WPN",
+                    "U8PMZ6397",
+                    "U1D6DT6HE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ff680ba-4d24-4887-b8b2-5b1419b3b167",
+        "type": "message",
+        "text": "Сам также стоял на распутье) По общей рекомендации, которая здесь преобладает - пошел на Каггл (идет 1й месяц каждодневной долблешки). Плюсы - быстрее учишься подходам и фишкам, которые реально работают. Минусы (на старте) - у тебя нет большого набора инструментария и базового понимания большого числа вещей (учитывая, что много задач на каггле сейчас без сеток тяжело решить ибо NLP и CV), т.е. я, например, не готов решать большую часть задач. Могу повторить код, имею верхнеуровнево понимание, но чтобы сделать лучше - пока не хватает знаний. В итоге выкачал курсы udacity (разные спецухи) - смотрю не подряд - а выборочно и делаю лабы, параллельно в каггл, Впечатление двоякое - с одной стороны все классно разложенно по полочком, очень просто объясняется и ты быстро въезжаешь. С другой стороны, курсы разбиты на очень маленькие порции инфы - стоят ли они своих денег - ну очень спорный вопрос, лично я бы не стал платить, но с другой стороны, я уже и прогать умею, и стеки для пилотов много раз исследовал. Если нужны ачивки, погружение по шагам, помощь со стороны, то udacity не плохой подход, но долгий. Если хочешь быстро и сразу все уметь, то можно всегда найти в инете, проходить выборочно, пилить каггл, а потом через 0.5 - 1 год,можно и курсы уже жесткие пройти от вузов (чтобы прямо в теории быть как надо) - если это будет актуально еще.",
+        "user": "U15V81K6V",
+        "ts": "1555736712.112200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1555736742.000000"
+        },
+        "thread_ts": "1555705609.106300",
+        "parent_user_id": "UHK3KLF3N",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U6QDDUH4L",
+                    "U57JJAVLN",
+                    "U53E5MFNU",
+                    "U8PMZ6397",
+                    "UDS2L4N3A",
+                    "U832HJCUV"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

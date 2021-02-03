@@ -1,0 +1,2762 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499250074.303336",
+        "user": "U6403J3TL",
+        "text": "<@U6403J3TL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "есть у кого опыт с этим курсом? <https:\/\/www.coursera.org\/learn\/hadoop> . Интересует на сколько он достаточен для того, чтобы пройти с нуля и не искать больше tutorial по основам?",
+        "user": "U5R6WCSBU",
+        "ts": "1499252699.107169",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Hadoop Platform and Application Framework | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/hadoop",
+                "text": "Hadoop Platform and Application Framework from University of California, San Diego. This course is for novice programmers or business people who would like to understand the core tools used to wrangle and analyze big data. With no prior ...",
+                "fallback": "Coursera: Hadoop Platform and Application Framework | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/65\/8530204d0911e5b1b0bd675d89e7b7\/big-data-_2_.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/hadoop",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1499252699.107169",
+        "reply_count": 15,
+        "reply_users_count": 5,
+        "latest_reply": "1499431388.856871",
+        "reply_users": [
+            "U11APJBL7",
+            "U4YLW3KMY",
+            "U5R6WCSBU",
+            "U0L4KM9R9",
+            "U4P5MNMRQ"
+        ],
+        "replies": [
+            {
+                "user": "U11APJBL7",
+                "ts": "1499253195.256047"
+            },
+            {
+                "user": "U4YLW3KMY",
+                "ts": "1499254117.525621"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499254738.706708"
+            },
+            {
+                "user": "U0L4KM9R9",
+                "ts": "1499255678.986816"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499256038.100198"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499256869.378617"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499256873.379992"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499257446.577002"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499259888.556951"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499260444.812347"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499260614.895285"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499260676.925067"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499261478.325568"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1499360607.894698"
+            },
+            {
+                "user": "U4P5MNMRQ",
+                "ts": "1499431388.856871"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "artem_z: Я проходил. Курс именно с 0 и особых откровений там нет. То есть его можно сравнить в чтением одной статьи на про HDFS, MapReduce и вордкаунт в виде практики. Но чтобы ознакомится за пару вечеров можно сделать.",
+        "user": "U11APJBL7",
+        "ts": "1499253195.256047",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g81a4075160e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b081a4075160e57ee010907c47051422.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Ternyuk",
+            "display_name": "pternyuk",
+            "team": "T040HKJE3",
+            "name": "pternyuk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "<@U5R6WCSBU> А вот эта получается deprecated <https:\/\/www.coursera.org\/specializations\/big-data> ?",
+        "user": "U4YLW3KMY",
+        "ts": "1499254117.525621",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g52ab1450a94",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c952ab1450a946c11e169e6f2efd26f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Sokoltsov",
+            "display_name": "vsokoltsov",
+            "team": "T040HKJE3",
+            "name": "vsokoltsov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Big Data | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/big-data",
+                "text": "Big Data from University of California, San Diego. Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions. ********* Do you need to ...",
+                "fallback": "Coursera: Big Data | Coursera",
+                "thumb_url": "https:\/\/d15cw65ipctsrr.cloudfront.net\/a4\/489d9029c411e68061b975821d9fed\/UCSD_BigData_PartnerProvided.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/big-data",
+                "thumb_width": 1500,
+                "thumb_height": 430,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "ок, спасибо за отзыв. Получается да, она так и пишут, что обновились.",
+        "user": "U5R6WCSBU",
+        "ts": "1499254738.706708",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "То же самое что и просто пройти туториалы на клаудере",
+        "user": "U0L4KM9R9",
+        "ts": "1499255678.986816",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5f3c20eb975",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c5f3c20eb9753103595d190583a2f24.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Koriagin",
+            "display_name": "johnkorn",
+            "team": "T040HKJE3",
+            "name": "johnkorn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0L4KM9R9",
+            "ts": "1499255687.000000"
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "&gt; То же самое что и просто пройти туториалы на клаудере\n\nвыходит тут есть один маленький плюс. Хоть я и не верю в ценность сертификата и сам на наличие такового никогда не смотрел, но слова одного из первых моих начальников засели в голове крепко\n&gt; \"Без бумажки ты какашка, а с бумажкой… человек!\" :trollface:",
+        "user": "U5R6WCSBU",
+        "ts": "1499256038.100198",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "Кажется ещё не было. Даже в кредит можно. Надо брать.<https:\/\/netology.ru\/programs\/big-data>",
+        "user": "U09JEC7V0",
+        "ts": "1499256244.169230",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Программа обучения «Big Data: основы сбора и анализа данных»",
+                "title_link": "https:\/\/netology.ru\/programs\/big-data",
+                "text": "Научитесь работать с большими массивами под руководством признанных экспертов в области анализа данных",
+                "fallback": "Программа обучения «Big Data: основы сбора и анализа данных»",
+                "image_url": "https:\/\/netology.ru\/content\/design\/social_373.png",
+                "from_url": "https:\/\/netology.ru\/programs\/big-data",
+                "image_width": 401,
+                "image_height": 250,
+                "image_bytes": 36313,
+                "service_icon": "https:\/\/netology.ru\/favicon.ico",
+                "service_name": "netology.ru",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1499256244.169230",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1499266795.475615",
+        "reply_users": [
+            "U0AS548A1",
+            "U1X9AEGV6",
+            "U09JEC7V0",
+            "U1UM6S9KN",
+            "U0KKA10AW"
+        ],
+        "replies": [
+            {
+                "user": "U0AS548A1",
+                "ts": "1499257330.536588"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1499257373.551287"
+            },
+            {
+                "user": "U1X9AEGV6",
+                "ts": "1499257401.560822"
+            },
+            {
+                "user": "U1X9AEGV6",
+                "ts": "1499257418.566870"
+            },
+            {
+                "user": "U09JEC7V0",
+                "ts": "1499257531.606885"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1499258144.830181"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499262424.833256"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1499264516.064211"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499264593.110240"
+            },
+            {
+                "user": "U0AS548A1",
+                "ts": "1499264766.215002"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499265444.631145"
+            },
+            {
+                "user": "U0KKA10AW",
+                "ts": "1499266568.330056"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499266795.475615"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U0Q3USC0Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eight",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zero",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ни в коем случае не брать этот курс! там сплошные слайды и унылые говорящие головы! еле хватило сил дослушать этот Сан Диего",
+        "user": "U4P5MNMRQ",
+        "ts": "1499256869.378617",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e6c35083850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-20\/171219076656_6e6c350838500b040857_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Zakharov",
+            "display_name": ".vanya.",
+            "team": "T040HKJE3",
+            "name": "alx4eva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "лучше книгу",
+        "user": "U4P5MNMRQ",
+        "ts": "1499256873.379992",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e6c35083850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-20\/171219076656_6e6c350838500b040857_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Zakharov",
+            "display_name": ".vanya.",
+            "team": "T040HKJE3",
+            "name": "alx4eva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4DT019M2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ssviridov: :eww:",
+        "user": "U0AS548A1",
+        "ts": "1499257330.536588",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "я не понимаю почему там участвуют люди, которым кажется деньги не настолько должны быть нужны",
+        "user": "U0AS548A1",
+        "ts": "1499257373.551287",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "16900",
+        "user": "U1X9AEGV6",
+        "ts": "1499257401.560822",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7459d3827d17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-06\/208665998978_7459d3827d17608741b8_72.jpg",
+            "first_name": "Shumilin2604",
+            "real_name": "Shumilin2604 Alexandr",
+            "display_name": "unicod3",
+            "team": "T040HKJE3",
+            "name": "unicod3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "а стоит того?",
+        "user": "U1X9AEGV6",
+        "ts": "1499257418.566870",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7459d3827d17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-06\/208665998978_7459d3827d17608741b8_72.jpg",
+            "first_name": "Shumilin2604",
+            "real_name": "Shumilin2604 Alexandr",
+            "display_name": "unicod3",
+            "team": "T040HKJE3",
+            "name": "unicod3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "<@U4P5MNMRQ> ну там же должны быть задачи хоть какие -то? и какую книгу рекомендуете?",
+        "user": "U5R6WCSBU",
+        "ts": "1499257446.577002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "<@U0AS548A1> не уловил сарказм? :trollface_peeking: ",
+        "user": "U09JEC7V0",
+        "ts": "1499257531.606885",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "уловил",
+        "user": "U0AS548A1",
+        "ts": "1499258144.830181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "там был вездесущий word count; из книг можно вот эту: Tom White, Hadoop: The Definitive Guide",
+        "user": "U4P5MNMRQ",
+        "ts": "1499259888.556951",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e6c35083850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-20\/171219076656_6e6c350838500b040857_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Zakharov",
+            "display_name": ".vanya.",
+            "team": "T040HKJE3",
+            "name": "alx4eva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5R6WCSBU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Расскажите пожалуйста",
+        "user": "U04CH4QBD",
+        "ts": "1499259920.571575",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Был в свое время у меня курс любимый",
+        "user": "U04CH4QBD",
+        "ts": "1499259928.575024",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/course\/mmds>",
+        "user": "U04CH4QBD",
+        "ts": "1499259928.575226",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Browse | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/course\/mmds",
+                "text": "Browse hundreds of courses and specializations in Business, Computer Science, Arts, Humanities, and more. 2000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, ...",
+                "fallback": "Coursera: Browse | Coursera",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Coursera_Computer_Narrow.png",
+                "from_url": "https:\/\/www.coursera.org\/course\/mmds",
+                "thumb_width": 1086,
+                "thumb_height": 1086,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Хотел посоветовать - но его будто больше нет",
+        "user": "U04CH4QBD",
+        "ts": "1499259938.579564",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499259938.579564",
+        "reply_count": 0,
+        "reply_users_count": 0,
+        "latest_reply": "0000000000.000000",
+        "reply_users": [],
+        "replies": [],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U04CH4QBD> он переехал на stanford lagunita и теперь без дедлайнов",
+        "user": "U09JEC7V0",
+        "ts": "1499260163.680577",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/lagunita.stanford.edu\/courses\/course-v1:ComputerScience+MMDS+SelfPaced\/about>",
+        "user": "U04CH4QBD",
+        "ts": "1499260178.687289",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mining Massive Datasets",
+                "title_link": "https:\/\/lagunita.stanford.edu\/courses\/course-v1:ComputerScience+MMDS+SelfPaced\/about",
+                "text": "Algorithms for processing and extracting information from very large data sets.",
+                "fallback": "Mining Massive Datasets",
+                "from_url": "https:\/\/lagunita.stanford.edu\/courses\/course-v1:ComputerScience+MMDS+SelfPaced\/about",
+                "service_icon": "https:\/\/lagunita.stanford.edu\/static\/themes\/lagunita\/images\/favicon.6ddd1b867f66.ico",
+                "service_name": "lagunita.stanford.edu",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1HHX1QS3",
+                    "U49MGP9MX",
+                    "U2N853RGF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "внимание вопрос - а он такой же хороший остался?",
+        "user": "U04CH4QBD",
+        "ts": "1499260196.695323",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "еще на Udacity есть курс по Hadoop, там веселее",
+        "user": "U4P5MNMRQ",
+        "ts": "1499260444.812347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e6c35083850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-20\/171219076656_6e6c350838500b040857_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Zakharov",
+            "display_name": ".vanya.",
+            "team": "T040HKJE3",
+            "name": "alx4eva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5J0XPR0W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "это который входит в Nanodegree от kaggle или еще какой есть?",
+        "user": "U5R6WCSBU",
+        "ts": "1499260614.895285",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "он, можно было отдельно взять",
+        "user": "U4P5MNMRQ",
+        "ts": "1499260676.925067",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e6c35083850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-20\/171219076656_6e6c350838500b040857_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Zakharov",
+            "display_name": ".vanya.",
+            "team": "T040HKJE3",
+            "name": "alx4eva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5R6WCSBU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "в общем я за курс от универа Сан Диего платить не будут, если бомж заявку одобрят, время у меня пока есть не особо жалко, а пока пройду этот на udacity и заодно записался на стендфордский \"Mining Massive Datasets\" :slightly_smiling_face:",
+        "user": "U5R6WCSBU",
+        "ts": "1499261478.325568",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499252699.107169",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1499257373551287?thread_ts=1499256244.169230&amp;cid=C04DP7BUY>\nА если бы преподавали не профессионалы из индустрии, то ты бы сказал \"кто умеет - делает, а кто не умеет - учит как надо делать\"?",
+        "user": "U1UM6S9KN",
+        "ts": "1499262424.833256",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1499262453.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1499257373551287?thread_ts=1499256244.169230&amp;cid=C04DP7BUY",
+                "fallback": "[July 5th, 2017 5:22 AM] evgeniiegorov: я не понимаю почему там участвуют люди, которым кажется деньги не настолько должны быть нужны",
+                "ts": "1499257373.551287",
+                "author_subname": "evgeniiegorov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "я не понимаю почему там участвуют люди, которым кажется деньги не настолько должны быть нужны",
+                "author_name": "Evgenii Egorov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/evgeniiegorov",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-05\/136466945008_3aed567e09d7ffd4d476_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "From a thread in #edu_courses"
+            }
+        ],
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "Да",
+        "user": "U09JEC7V0",
+        "ts": "1499263896.696226",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "спасибо авторам что есть одноименная книжка. А то курс прослушивать очень долго)",
+        "user": "U30LWK54N",
+        "ts": "1499264411.001367",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "73003e609aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-19\/170963013539_73003e609aa2613ee50c_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Chernov",
+            "display_name": "checho",
+            "team": "T040HKJE3",
+            "name": "checho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да нет, ничего бы не сказал, мотив был бы понятен.",
+        "user": "U0AS548A1",
+        "ts": "1499264516.064211",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "Мотив был бы понятен, но любой бы подумал, а что это за люди, которые преподают, но сами не работают.",
+        "user": "U1UM6S9KN",
+        "ts": "1499264593.110240",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "да почему сами не работают? просто не уровня СTO",
+        "user": "U0AS548A1",
+        "ts": "1499264766.215002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "<@U0KKA10AW> если не секрет, что именно заставляет вас преподавать на самых разных курсах, помимо основной работы?",
+        "user": "U1UM6S9KN",
+        "ts": "1499265444.631145",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "<@U26QDDKMY> книжка огонь, но мне нравились задания в курсе",
+        "user": "U04CH4QBD",
+        "ts": "1499266548.317957",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499266548.317957",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1499287891.849845",
+        "reply_users": [
+            "U5JT65FRV"
+        ],
+        "replies": [
+            {
+                "user": "U5JT65FRV",
+                "ts": "1499287891.849845"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<@U1UM6S9KN> хобби у меня такое :slightly_smiling_face: я получаю удовольствие от преподавания :slightly_smiling_face:",
+        "user": "U0KKA10AW",
+        "ts": "1499266568.330056",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "24c35c12e8a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-28\/19652361893_24c35c12e8a036927016_72.jpg",
+            "first_name": "Александр",
+            "real_name": "Александр Петров",
+            "display_name": "a.petrov",
+            "team": "T040HKJE3",
+            "name": "a.petrov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ясно, благодарю за ответ, а то тут некоторые ищут скрытые мотивы.",
+        "user": "U1UM6S9KN",
+        "ts": "1499266795.475615",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499256244.169230",
+        "parent_user_id": "U09JEC7V0"
+    },
+    {
+        "type": "message",
+        "text": "Курс отличный, мне очень понравился. Мне лично в основном за счет Ульмана, хотя Лесковец конечно тоже интересные вещи рассказывал.",
+        "user": "U0SBLSTJ4",
+        "ts": "1499266850.512869",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ульман збс, но больно уныл",
+        "user": "U09JEC7V0",
+        "ts": "1499267309.803068",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U17UDV31D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "+100 к унылости Ульмана. я смотрел после работы лекции и обычно вырубался",
+        "user": "U1BMURR5G",
+        "ts": "1499268771.708361",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0AS548A1",
+                    "U09JEC7V0",
+                    "U4YMDHURY",
+                    "U17UDV31D",
+                    "U30LWK54N"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14CTBLFJ",
+                    "U17UDV31D",
+                    "U2ZJ517B8",
+                    "U0DA4J82H",
+                    "U5R6G5JQK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А сколько он по шкале Ng ? Хотя бы до одного Andrew добивает?",
+        "user": "U3HM4KY14",
+        "ts": "1499268811.733808",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d117ff57280",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/515611888707_3d117ff572805bf08f2a_72.jpg",
+            "first_name": "Arseni",
+            "real_name": "Arseni Anisimovich",
+            "display_name": "arseni",
+            "team": "T040HKJE3",
+            "name": "arseni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U3HM4KY14> он в силу возраста Ng даст фору",
+        "user": "U09JEC7V0",
+        "ts": "1499268843.753439",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ng <https:\/\/scholar.google.com\/citations?user=JgDKULMAAAAJ> \nvs \nUllman <https:\/\/scholar.google.com\/citations?user=wUJ2bXgAAAAJ>",
+        "user": "U53E5MFNU",
+        "ts": "1499269106.914046",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я считаю, что курс — огонь. Уровень Ng. Там ещё раньше финальные задачи были разные при каждом перезапуске курса. Не знаю как сейчас, после переезда.",
+        "user": "U22LWR1TJ",
+        "ts": "1499269428.109541",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g26d5c65fdfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1726d5c65fdfb7bf97074054a73d28c6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Fedyakov",
+            "display_name": "fedyakov",
+            "team": "T040HKJE3",
+            "name": "fedyakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вот мне интересно что стало после переезда",
+        "user": "U04CH4QBD",
+        "ts": "1499269692.269809",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(хотя поздно  - я его уже посоветовал)",
+        "user": "U04CH4QBD",
+        "ts": "1499269714.282945",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "имхо курсов уровня Ng больше нет, но сабж весьма хорош, уже 100 раз тут его обсуждали",
+        "user": "U0DA4J82H",
+        "ts": "1499278044.881084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я не раз слышал кощунственное мнение, что специализация яндекса лучше",
+        "user": "U2N853RGF",
+        "ts": "1499278387.064778",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UM6S9KN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "лучше в каком плане? что программистам без математики легко во все въехать?",
+        "user": "U0DA4J82H",
+        "ts": "1499278658.210728",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278658.210728",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1499279599.715272",
+        "reply_users": [
+            "U317QLU7K",
+            "U0DA4J82H",
+            "U5R6G5JQK"
+        ],
+        "replies": [
+            {
+                "user": "U317QLU7K",
+                "ts": "1499278828.300950"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1499278838.306164"
+            },
+            {
+                "user": "U5R6G5JQK",
+                "ts": "1499279599.715272"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Так курсы о разном же вроде",
+        "user": "U0L4KM9R9",
+        "ts": "1499278777.273456",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5f3c20eb975",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c5f3c20eb9753103595d190583a2f24.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Koriagin",
+            "display_name": "johnkorn",
+            "team": "T040HKJE3",
+            "name": "johnkorn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Тут штука в чем. Курс Ng на время выхода (2012 года) это прямо таки прорыв, некоторая научная революция, сравнимая чуть ли не с выходом \"Математических начал натуральной философии\" Ньютона. Но так как отрасль растет не то, чтобы как экспонента а как x^x даже, достаточно быстро появились более глубокие курсы. Также как анализ сейчас учат не по Ньютону, а по более современным учебникам.",
+        "user": "U1UM6S9KN",
+        "ts": "1499278780.275426",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1499278943.000000"
+        },
+        "thread_ts": "1499278780.275426",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1499285672.771281",
+        "reply_users": [
+            "U4ZNGNPQU",
+            "U1UM6S9KN",
+            "U4B4HJX9A",
+            "U1BMURR5G"
+        ],
+        "replies": [
+            {
+                "user": "U4ZNGNPQU",
+                "ts": "1499279812.829685"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499280169.012628"
+            },
+            {
+                "user": "U4ZNGNPQU",
+                "ts": "1499280271.065790"
+            },
+            {
+                "user": "U4ZNGNPQU",
+                "ts": "1499280305.083096"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499280369.117920"
+            },
+            {
+                "user": "U4ZNGNPQU",
+                "ts": "1499280422.146690"
+            },
+            {
+                "user": "U4B4HJX9A",
+                "ts": "1499282227.082329"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1499285672.771281"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "но, возможно, мое мнение немного предвзятое, потому что для меня это был первый нормальный курс по МЛ",
+        "user": "U0DA4J82H",
+        "ts": "1499278798.285016",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1499278816.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H> А хрен его знает. Чужая душа потёмки. Но это специализация, а в один курс уместить - это оч круто",
+        "user": "U2N853RGF",
+        "ts": "1499278823.298355",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А в курсе Ng разве нужна какая-то сложная математика?",
+        "user": "U317QLU7K",
+        "ts": "1499278828.300950",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "32fdb4246a8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118972318131_32fdb4246a8a484c6c73_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Tsibin",
+            "display_name": "andrew_tsibin",
+            "team": "T040HKJE3",
+            "name": "andrew_tsibin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278658.210728",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "так в том и суть, что не нужна",
+        "user": "U0DA4J82H",
+        "ts": "1499278838.306164",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278658.210728",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "Как свежепрошедший, могу сказать, что специализация Яндекса куда более подробная и даже при таком объеме довольно обзорная, но курс Эндрю я например так и не закончил, он изначально раздражал матлабом, на вид сильно отстаёт, очень сильно. Но подача конечно отличная. У Яндекса куда актуальнее практика",
+        "user": "U5R6WCSBU",
+        "ts": "1499279082.435493",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K",
+                    "U4FCBEVAS",
+                    "U4P5MNMRQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я в специализации Яндекса охренел с градиентного бустинга на первой неделе. Совсем новичку все эти выкладки не понять кмк",
+        "user": "U04725QK7",
+        "ts": "1499279166.481303",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "loh",
+                "users": [
+                    "U0AS548A1",
+                    "U5DFK34JY",
+                    "U11C2B2V8",
+                    "U24N3AB96",
+                    "U10K3LXHV"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U14CTBLFJ",
+                    "U24N3AB96"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Хз, как говорится. У меня нет физ мата и тех вышки, прошел 5 курсов за 6 недель. Паралельно курс по нейронкам и статистике на степике правда, + математика пару книжек, ну и Биш, Мерфи обзорно. Можно было быстрей, если бы не делал все на 100%, но вроде норм, спасибо менторам:slightly_smiling_face: ",
+        "user": "U5R6WCSBU",
+        "ts": "1499279216.507734",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1499279460.000000"
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U53E5MFNU",
+                    "U04ELQZAU",
+                    "U411PKASW",
+                    "U49MGP9MX",
+                    "U0443L8TU",
+                    "U1Z40FGQ6",
+                    "U0UTMBJLW",
+                    "U11C2B2V8",
+                    "U1UBZLMKK",
+                    "U3S96B5QF",
+                    "U4DQP5JCD"
+                ],
+                "count": 11
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U11C2B2V8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U11C2B2V8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U24N3AB96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "На первой? Вроде тут же:\n<https:\/\/www.coursera.org\/learn\/supervised-learning>",
+        "user": "U2N853RGF",
+        "ts": "1499279249.525262",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Обучение на размеченных данных | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/supervised-learning",
+                "text": "Обучение на размеченных данных from Moscow Institute of Physics and Technology. Обучение на размеченных данных или обучение с учителем – это наиболее распространенный класс задач машинного обучения. К нему относятся те задачи, где нужно научиться ...",
+                "fallback": "Coursera: Обучение на размеченных данных | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/e6\/cd8dc0b0dd11e5bda4c35792983a0c\/800x800-02.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/supervised-learning",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Видимо я не с той неделе начал :genious:",
+        "user": "U04725QK7",
+        "ts": "1499279303.553848",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И нумерация с двойки, да? =)",
+        "user": "U2N853RGF",
+        "ts": "1499279353.580072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А, я вспомнил как дело было. Я решил быстренько повторить перед собеседованием, и за 20 минут прощелкал по видосам. Короче кипиш отменяется, здесь лох я",
+        "user": "U04725QK7",
+        "ts": "1499279475.647556",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "loh",
+                "users": [
+                    "U04ELQZAU",
+                    "U11C2B2V8",
+                    "U65F5DT0W",
+                    "U64JA4KT5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я как старый кодер, заявляю, что в яндекс я не въезжаю практически в мат выкладки",
+        "user": "U5R6G5JQK",
+        "ts": "1499279599.715272",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1fd955e62a15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/704980203508_1fd955e62a155e7b5a0a_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Kazantsev",
+            "display_name": "kaapex",
+            "team": "T040HKJE3",
+            "name": "kaapex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6G5JQK",
+            "ts": "1499279711.000000"
+        },
+        "thread_ts": "1499278658.210728",
+        "parent_user_id": "U0DA4J82H"
+    },
+    {
+        "type": "message",
+        "text": "И финальные проекты в специализации хорошие.",
+        "user": "U4ZRFG1V0",
+        "ts": "1499279614.723363",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U5R6WCSBU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "естественно специализация Яндекса в разы лучше курса Ng",
+        "user": "U0M39M6LS",
+        "ts": "1499279780.812362",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "notabene: Курс Ng - это краткое содержание вводных глав из учебников 90х годов с примерами на Octave в изложении приятного учителя. Это отличный курс, но вряд ли \"научная революция\". Конечно это был один из двух первых взлетевших MOOC-ов, и в этом смысле он пионер, да.\n\nВ плане \"прорывности материала\" интересным был курс Хинтона на момент выхода, т.к. там говорилось реально о том, что было сделано буквально год назад. В плане глубины изложения был хорош PGM от Коллер. В плане примерной подачи прикладной части - Self driving car от Труна.",
+        "user": "U4ZNGNPQU",
+        "ts": "1499279812.829685",
+        "thread_ts": "1499278780.275426",
+        "root": {
+            "type": "message",
+            "text": "Тут штука в чем. Курс Ng на время выхода (2012 года) это прямо таки прорыв, некоторая научная революция, сравнимая чуть ли не с выходом \"Математических начал натуральной философии\" Ньютона. Но так как отрасль растет не то, чтобы как экспонента а как x^x даже, достаточно быстро появились более глубокие курсы. Также как анализ сейчас учат не по Ньютону, а по более современным учебникам.",
+            "user": "U1UM6S9KN",
+            "ts": "1499278780.275426",
+            "team": "T040HKJE3",
+            "edited": {
+                "user": "U1UM6S9KN",
+                "ts": "1499278943.000000"
+            },
+            "thread_ts": "1499278780.275426",
+            "reply_count": 8,
+            "reply_users_count": 4,
+            "latest_reply": "1499285672.771281",
+            "reply_users": [
+                "U4ZNGNPQU",
+                "U1UM6S9KN",
+                "U4B4HJX9A",
+                "U1BMURR5G"
+            ],
+            "subscribed": false
+        },
+        "edited": {
+            "user": "U4ZNGNPQU",
+            "ts": "1499280035.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4YMDHURY",
+                    "U53E5MFNU",
+                    "U4ZRFG1V0",
+                    "U04ELQZAU",
+                    "U49A8JCKW",
+                    "U1Z40FGQ6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U4ZNGNPQU",
+        "ts": "1499279813.829809",
+        "text": "",
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1499278780275426",
+                "fallback": "[July 5th, 2017 11:19 AM] notabene: Тут штука в чем. Курс Ng на время выхода (2012 года) это прямо таки прорыв, некоторая научная революция, сравнимая чуть ли не с выходом \"Математических начал натуральной философии\" Ньютона. Но так как отрасль растет не то, чтобы как экспонента а как x^x даже, достаточно быстро появились более глубокие курсы. Также как анализ сейчас учат не по Ньютону, а по более современным учебникам.",
+                "ts": "1499278780.275426",
+                "author_subname": "notabene",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Тут штука в чем. Курс Ng на время выхода (2012 года) это прямо таки прорыв, некоторая научная революция, сравнимая чуть ли не с выходом \"Математических начал натуральной философии\" Ньютона. Но так как отрасль растет не то, чтобы как экспонента а как x^x даже, достаточно быстро появились более глубокие курсы. Также как анализ сейчас учат не по Ньютону, а по более современным учебникам.",
+                "author_name": "Nick",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/notabene",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "notabene: Курс Ng - это краткое содержание вводных глав из учебников 90х годов с примерами на Octave в изложении приятного учителя. Это отличный курс, но вряд ли \"научная революция\". Конечно это был один из первых правильно задвинутых MOOC-ов, и в этом смысле он пионер, да.\n\nВ плане \"прорывности материала\" интересным был курс Хинтона на момент выхода, т.к. там говорилось реально о том, что было сделано буквально год назад. В плане глубины изложения был хорош PGM от Коллер. В плане примерной подачи прикладной части - Self driving car от Труна.",
+                "author_name": "Константин Третьяков",
+                "author_subname": "kt",
+                "text": "notabene: Курс Ng - это краткое содержание вводных глав из учебников 90х годов с примерами на Octave в изложении приятного учителя. Это отличный курс, но вряд ли \"научная революция\". Конечно это был один из первых правильно задвинутых MOOC-ов, и в этом смысле он пионер, да.\n\nВ плане \"прорывности материала\" интересным был курс Хинтона на момент выхода, т.к. там говорилось реально о том, что было сделано буквально год назад. В плане глубины изложения был хорош PGM от Коллер. В плане примерной подачи прикладной части - Self driving car от Труна.",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/kt",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1499279812829685?thread_ts=1499278780275426&cid=C04DP7BUY",
+                "ts": "1499279812.829685",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/f2df406df36a856e16aa7f75b7185550.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "id": 2
+            }
+        ],
+        "new_broadcast": true
+    },
+    {
+        "type": "message",
+        "text": "тут даже спорить вообще непонятно зачем? стоит вспомнить про matlab и устаревший материал",
+        "user": "U0M39M6LS",
+        "ts": "1499279826.837050",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "у Яндекса куча практики, в меру теории и много покрыто разных тем",
+        "user": "U0M39M6LS",
+        "ts": "1499279864.856735",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Что меня убивало в специализации яндекса - статистика и временные ряды. Но это просто я был с этим не слишком хорошо знаком раньше.",
+        "user": "U4ZRFG1V0",
+        "ts": "1499279870.859837",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499279870.859837",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1499686934.912611",
+        "reply_users": [
+            "U4DQP5JCD",
+            "U4ZRFG1V0"
+        ],
+        "replies": [
+            {
+                "user": "U4DQP5JCD",
+                "ts": "1499686349.740023"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1499686455.770564"
+            },
+            {
+                "user": "U4DQP5JCD",
+                "ts": "1499686934.912611"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "А, стоп. Я вот эту специализацию имел в виду (там правда тоже не первое занятие): <https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie>",
+        "user": "U04725QK7",
+        "ts": "1499279902.877101",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Введение в машинное обучение | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie",
+                "text": "Введение в машинное обучение from Higher School of Economics. Не так давно получил распространение термин «большие данные», обозначивший новую прикладную область — поиск способов автоматического быстрого анализа огромных объёмов разнородной ...",
+                "fallback": "Coursera: Введение в машинное обучение | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/a2\/c23430579811e59644373576122c07\/Ya-Icon-new-size.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4WGFD012"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Так временные ряды вроде только неделя на 5, а вот 4 курс это да, там я мучался тоже :slightly_smiling_face:",
+        "user": "U5R6WCSBU",
+        "ts": "1499279931.891417",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1499279947.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4ZRFG1V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Под прорывностью я подразумевал, что впервые (ну если не считать ai-classes) широкой публике было явлено машинное обучение в более-менее удобоваримом виде. Кстати Ng я тоже не окончил из-за Матлаба.",
+        "user": "U1UM6S9KN",
+        "ts": "1499280169.012628",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "Мне всегда казалось, что первым явлением машинного обучения широкой публике в удобоваримом (в смысле, даже для дебилов) виде была The Weka Book вместе с программкой Weka.",
+        "user": "U4ZNGNPQU",
+        "ts": "1499280271.065790",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdf406df36a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2df406df36a856e16aa7f75b7185550.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Константин",
+            "real_name": "Константин Третьяков",
+            "display_name": "kt",
+            "team": "T040HKJE3",
+            "name": "kt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4ZNGNPQU",
+            "ts": "1499280288.000000"
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "И это было сильно задолго до Ng.",
+        "user": "U4ZNGNPQU",
+        "ts": "1499280305.083096",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdf406df36a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2df406df36a856e16aa7f75b7185550.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Константин",
+            "real_name": "Константин Третьяков",
+            "display_name": "kt",
+            "team": "T040HKJE3",
+            "name": "kt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "По-моему это все же не для широкой публики. Я честно говоря первый раз про такое слышу.",
+        "user": "U1UM6S9KN",
+        "ts": "1499280369.117920",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "Молодой может слишком :slightly_smiling_face:",
+        "user": "U4ZNGNPQU",
+        "ts": "1499280422.146690",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdf406df36a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2df406df36a856e16aa7f75b7185550.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Константин",
+            "real_name": "Константин Третьяков",
+            "display_name": "kt",
+            "team": "T040HKJE3",
+            "name": "kt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "Из новой зеландии интернет долго ходит",
+        "user": "U4B4HJX9A",
+        "ts": "1499282227.082329",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4B4HJX9A",
+            "ts": "1499282317.000000"
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN",
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U1UM6S9KN",
+                    "U4C2SKW86"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt; но сабж весьма хорош, уже 100 раз тут его обсуждали\nмне нужно было не курс обсудить - а понять, за 3 года что-то ухудшилось или нет",
+        "user": "U04CH4QBD",
+        "ts": "1499283245.573410",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7db9158dfe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-23\/422060918228_a7db9158dfe443a574a6_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Ermakov",
+            "display_name": "ermakovpetr",
+            "team": "T040HKJE3",
+            "name": "ermakovpetr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04CH4QBD> нет",
+        "user": "U2N853RGF",
+        "ts": "1499284296.073282",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ын круче и понятней объясняет формулками концепции для тех, кто ненавидит математику. Мне так показалось.",
+        "user": "U14CTBLFJ",
+        "ts": "1499285512.683799",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а как же Женя Рябенко?",
+        "user": "U0M39M6LS",
+        "ts": "1499285533.695278",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "это который про временные ряды лекцию делал?",
+        "user": "U3K7PNTML",
+        "ts": "1499285619.741957",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну века это же новозеландская контора",
+        "user": "U1BMURR5G",
+        "ts": "1499285672.771281",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499278780.275426",
+        "parent_user_id": "U1UM6S9KN"
+    },
+    {
+        "type": "message",
+        "text": "это в dmia наверное",
+        "user": "U0M39M6LS",
+        "ts": "1499285759.819056",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а так у него много лекций было в специализации",
+        "user": "U0M39M6LS",
+        "ts": "1499285772.825672",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "весь 4 курс он делал, жесткий он... я замучался гуглить после его лекций )) он слишком умен для меня )",
+        "user": "U5R6WCSBU",
+        "ts": "1499285774.827091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499285774.827091",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1499289459.569972",
+        "reply_users": [
+            "U3K7PNTML"
+        ],
+        "replies": [
+            {
+                "user": "U3K7PNTML",
+                "ts": "1499289459.569972"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "ermakovpetr: хоть курс запускается и редко, но вроде  можно зарегаться в системе проверки домашних робот для само обучения: <http:\/\/www.mmds.org\/#support>",
+        "user": "U5JT65FRV",
+        "ts": "1499287891.849845",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6b658c35bfd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-25\/188157603972_6b658c35bfd431efecda_72.jpg",
+            "first_name": "Idel",
+            "real_name": "Idel Pivnitskiy",
+            "display_name": "idel",
+            "team": "T040HKJE3",
+            "name": "idel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5JT65FRV",
+            "ts": "1499287917.000000"
+        },
+        "thread_ts": "1499266548.317957",
+        "parent_user_id": "U04CH4QBD"
+    },
+    {
+        "type": "message",
+        "text": "После лекции по временным рядам тоже такое ощущение было",
+        "user": "U3K7PNTML",
+        "ts": "1499289459.569972",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499285774.827091",
+        "parent_user_id": "U5R6WCSBU"
+    },
+    {
+        "type": "message",
+        "text": "Чат, а что тогда посоветуете по статистике и временным рядам, если лекции Рябенко не вкатили?",
+        "user": "U1H5CMTU0",
+        "ts": "1499289970.782899",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ad9b05a2b14c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-29\/73954309077_ad9b05a2b14c5c4428d5_72.jpg",
+            "first_name": "Vlad",
+            "real_name": "Vlad Fedorenko",
+            "display_name": "vladfedorenko",
+            "team": "T040HKJE3",
+            "name": "vladfedorenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499289970.782899",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1499293138.924425",
+        "reply_users": [
+            "U0M39M6LS",
+            "U1UM6S9KN",
+            "U1UNFRQ1K"
+        ],
+        "replies": [
+            {
+                "user": "U0M39M6LS",
+                "ts": "1499290730.084274"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1499291530.380740"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1499293138.924425"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "vladfedorenko: по эконометрике <https:\/\/www.otexts.org\/fpp>",
+        "user": "U0M39M6LS",
+        "ts": "1499290730.084274",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499289970.782899",
+        "parent_user_id": "U1H5CMTU0"
+    },
+    {
+        "type": "message",
+        "text": "Посмотри книгу Сигела \"Практическая бизнес-статистика\". Книга очень объемная, в ней масса воды, и достаточно элементарный уровень, зато читается очень легко.",
+        "user": "U1UM6S9KN",
+        "ts": "1499291530.380740",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499289970.782899",
+        "parent_user_id": "U1H5CMTU0"
+    },
+    {
+        "type": "message",
+        "text": "Курс эконометрики вышкинский. Демешев хорошо вещает. ",
+        "user": "U1UNFRQ1K",
+        "ts": "1499293138.924425",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1499289970.782899",
+        "parent_user_id": "U1H5CMTU0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04725QK7",
+                    "U14C0LPSL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

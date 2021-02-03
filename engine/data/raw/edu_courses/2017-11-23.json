@@ -1,0 +1,201 @@
+[
+    {
+        "type": "message",
+        "text": "А здесь можно попросить ссылочку на “где выкачать специализацию яндекса“? Или это некорректный вопрос?",
+        "user": "U5FUU47GA",
+        "ts": "1511424778.000009",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511424778.000009",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1511538968.000076",
+        "reply_users": [
+            "U1CF95PP1",
+            "U7RHW7FQV",
+            "U1G303UTW",
+            "U5FUU47GA",
+            "U4B4HJX9A"
+        ],
+        "replies": [
+            {
+                "user": "U1CF95PP1",
+                "ts": "1511425026.000144"
+            },
+            {
+                "user": "U7RHW7FQV",
+                "ts": "1511426032.000181"
+            },
+            {
+                "user": "U1G303UTW",
+                "ts": "1511428357.000361"
+            },
+            {
+                "user": "U5FUU47GA",
+                "ts": "1511428396.000048"
+            },
+            {
+                "user": "U4B4HJX9A",
+                "ts": "1511538968.000076"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/wiki.school.yandex.ru> :kekeke:",
+        "user": "U1CF95PP1",
+        "ts": "1511425026.000144",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511424778.000009",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U3NR8Q399",
+                    "U49MGP9MX",
+                    "U17TSJWG0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "403 Это закрытая страница.",
+        "user": "U7RHW7FQV",
+        "ts": "1511426032.000181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "28eda5a4a693",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-21\/289548066112_28eda5a4a6938a84d512_72.jpg",
+            "first_name": "Aliaksandr",
+            "real_name": "Aliaksandr Charnavoki",
+            "display_name": "paunch",
+            "team": "T040HKJE3",
+            "name": "sun40by",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511424778.000009",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "but_why",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/coursera-dl\/coursera-dl>",
+        "user": "U1G303UTW",
+        "ts": "1511428357.000361",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0c7464c2202",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-18\/348968633282_f0c7464c2202b586297b_72.jpg",
+            "first_name": "Arseny",
+            "real_name": "Arseny Kravchenko",
+            "display_name": "arsenyinfo",
+            "team": "T040HKJE3",
+            "name": "arsenyinfo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "coursera-dl\/coursera-dl",
+                "title_link": "https:\/\/github.com\/coursera-dl\/coursera-dl",
+                "text": "coursera-dl - Script for downloading <http:\/\/Coursera.org|Coursera.org> videos and naming them.",
+                "fallback": "GitHub: coursera-dl\/coursera-dl",
+                "from_url": "https:\/\/github.com\/coursera-dl\/coursera-dl",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/5588942?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1511424778.000009",
+        "parent_user_id": "U5FUU47GA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5FUU47GA",
+                    "U49MGP9MX",
+                    "U3T5QEDJ8",
+                    "U4B4HJX9A",
+                    "U3ULV5ATU",
+                    "U4X5JVCQ0",
+                    "U7AG3EUKH"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Точно, запамятовал!",
+        "user": "U5FUU47GA",
+        "ts": "1511428396.000048",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1511424778.000009",
+        "parent_user_id": "U5FUU47GA"
+    }
+]

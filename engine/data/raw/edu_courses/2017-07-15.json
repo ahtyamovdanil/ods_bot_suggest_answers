@@ -1,0 +1,283 @@
+[
+    {
+        "type": "message",
+        "text": "Коллеги, вот это круто? <https:\/\/www.udacity.com\/drive>",
+        "user": "U5V1BB3FA",
+        "ts": "1500105791.756407",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "29326557455e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199048032624_29326557455e279b72a1_72.png",
+            "first_name": "Ilya",
+            "real_name": "Ilya Pukhov",
+            "display_name": "gatintengineer",
+            "team": "T040HKJE3",
+            "name": "gatintengineer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Self-Driving Car Engineer",
+                "title_link": "https:\/\/www.udacity.com\/drive",
+                "text": "Groundbreaking curriculum, cutting-edge technology, globally-recognized expertise. Build the future, today. Only at Udacity.",
+                "fallback": "Self-Driving Car Engineer",
+                "image_url": "https:\/\/s3-us-west-1.amazonaws.com\/udacity-content\/images\/shared\/self-driving-car-engineer-nanodegree.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.udacity.com\/drive",
+                "image_bytes": 428184,
+                "service_icon": "https:\/\/d125fmws0bore1.cloudfront.net\/assets\/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png",
+                "service_name": "Udacity",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1500105791.756407",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1500608002.949335",
+        "reply_users": [
+            "U1UM6S9KN",
+            "U5R6WCSBU",
+            "U4Z9Q18QH",
+            "U4R49TGN9",
+            "U49L4JLTA",
+            "U24N3AB96"
+        ],
+        "replies": [
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1500107276.841178"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1500107412.848944"
+            },
+            {
+                "user": "U1UM6S9KN",
+                "ts": "1500107573.858660"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1500129469.286241"
+            },
+            {
+                "user": "U4R49TGN9",
+                "ts": "1500150950.153836"
+            },
+            {
+                "user": "U49L4JLTA",
+                "ts": "1500173403.528563"
+            },
+            {
+                "user": "U24N3AB96",
+                "ts": "1500417533.959304"
+            },
+            {
+                "user": "U49L4JLTA",
+                "ts": "1500608002.949335"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Не прошло и года, как это обсуждали, только тогда это стоилл 1500 кажется, а не 2400.",
+        "user": "U1UM6S9KN",
+        "ts": "1500107276.841178",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500107320.843585",
+        "user": "U68NS4801",
+        "text": "<@U68NS4801> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "вообще даже не представляю, что нужно сделать, чтобы в Computer Vision попасть сегодня без PhD.",
+        "user": "U5R6WCSBU",
+        "ts": "1500107412.848944",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA",
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U041P485A",
+                    "U14CTBLFJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "окончить этот курс :kekeke:",
+        "user": "U1UM6S9KN",
+        "ts": "1500107573.858660",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1UM6S9KN",
+            "ts": "1500107580.000000"
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U5R6WCSBU",
+                    "U1Z40FGQ6",
+                    "U3PETUSSE",
+                    "U3SKM61F0",
+                    "U36Q9NJMD",
+                    "U1BMURR5G",
+                    "U4F0D7CU9",
+                    "U59CPL6ES",
+                    "U34Q3KU8H"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500119656.570097",
+        "user": "U6ABG6E6B",
+        "text": "<@U6ABG6E6B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "ну а стоит ли так узко  специализтроваться? Каков рынок таких инженеров?",
+        "user": "U4Z9Q18QH",
+        "ts": "1500129469.286241",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500134597.726578",
+        "user": "U68LTTDU0",
+        "text": "<@U68LTTDU0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500148745.949179",
+        "user": "U6AEB5LF9",
+        "text": "<@U6AEB5LF9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500150475.118420",
+        "user": "U68MQ1SBS",
+        "text": "<@U68MQ1SBS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Курс в принципе более менее, но яб столько за него не дал, хотя уже все проплатил)",
+        "user": "U4R49TGN9",
+        "ts": "1500150950.153836",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "489d3afba63c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-16\/169155406400_489d3afba63c9d379be6_72.jpg",
+            "first_name": "Dennis",
+            "real_name": "Dennis Richardson",
+            "display_name": "4SkyNet",
+            "team": "T040HKJE3",
+            "name": "4skynet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA"
+    },
+    {
+        "type": "message",
+        "text": "годный курс",
+        "user": "U49L4JLTA",
+        "ts": "1500173403.528563",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd5d3d5326f3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c1d5d3d5326f3dd4c53814a0ddbaab2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Max",
+            "real_name": "Max Terekhov",
+            "display_name": "gambler_max",
+            "team": "T040HKJE3",
+            "name": "gambler_max",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500105791.756407",
+        "parent_user_id": "U5V1BB3FA"
+    }
+]

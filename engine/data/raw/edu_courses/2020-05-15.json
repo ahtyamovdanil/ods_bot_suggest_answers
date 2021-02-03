@@ -1,0 +1,902 @@
+[
+    {
+        "client_msg_id": "931cc154-dd5f-41d5-a6fb-cd46ad8a080e",
+        "type": "message",
+        "text": "Всем спасибо, взял на заметку, буду ботать:+1:",
+        "user": "U010C3DDPH8",
+        "ts": "1589530191.410400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0497118995f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1119337357286_0497118995f41f390a76_72.jpg",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Vostrikov",
+            "display_name": "Stanislav Vostrikov",
+            "team": "T040HKJE3",
+            "name": "hatecrew.vostrikov201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYarD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем спасибо, взял на заметку, буду ботать"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8"
+    },
+    {
+        "client_msg_id": "9f3a7fbc-3ee8-4c39-bf03-173c6b97e31b",
+        "type": "message",
+        "text": "по теорверу тут еще много задач с решениями:\n<https:\/\/projects.iq.harvard.edu\/stat110\/home>",
+        "user": "U6SCXUP6U",
+        "ts": "1589535838.411000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1589535844.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rz0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "по теорверу тут еще много задач с решениями:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/projects.iq.harvard.edu\/stat110\/home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e9b663a-c699-4523-9979-6cf87a45d96c",
+        "type": "message",
+        "text": "Если нужны задачники с простыми задачами (теорию, например, вспомнить), то отличный вариант John Erdman. Матан <http:\/\/web.pdx.edu\/%7Eerdman\/CALCULUS\/CALCULUS_pdf.pdf>, линейная алгебра <http:\/\/web.pdx.edu\/%7Eerdman\/LINALG\/Linalg_pdf.pdf>",
+        "user": "UFSKF94TW",
+        "ts": "1589540815.411400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4402a039e44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/585111241092_4402a039e44bea87c985_72.jpg",
+            "first_name": "Gaskov",
+            "real_name": "Gaskov Andrew",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "gaskov_andrew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4iY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если нужны задачники с простыми задачами (теорию, например, вспомнить), то отличный вариант John Erdman. Матан "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web.pdx.edu\/%7Eerdman\/CALCULUS\/CALCULUS_pdf.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", линейная алгебра "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web.pdx.edu\/%7Eerdman\/LINALG\/Linalg_pdf.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8"
+    },
+    {
+        "client_msg_id": "7395628e-6203-4399-9b4b-27e64f15a5b4",
+        "type": "message",
+        "text": "Привет! Какие сейчас качественные источники для обучения:\n• spark\n• aws\nКниги, курсы - накидайте ссылочек плз",
+        "user": "UBJ10K86A",
+        "ts": "1589549910.411800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет! Какие сейчас качественные источники для обучения:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "spark"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "aws"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Книги, курсы - накидайте ссылочек плз"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589549910.411800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589550986.411900",
+        "reply_users": [
+            "U2N853RGF"
+        ],
+        "replies": [
+            {
+                "user": "U2N853RGF",
+                "ts": "1589550986.411900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "db675b6b-05f8-4795-a1b8-7acad6e6c8a0",
+        "type": "message",
+        "text": "на udemy полно, и вроде неплохое даже",
+        "user": "U2N853RGF",
+        "ts": "1589550986.411900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fn4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "на udemy полно, и вроде неплохое даже"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589549910.411800",
+        "parent_user_id": "UBJ10K86A",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7DTGC4PL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F88AB404-E576-4A68-950E-4933DE7EE912",
+        "type": "message",
+        "text": "Привет всем! Буду благодарен за совет. Есть курс <https:\/\/otus.ru\/lessons\/machinelearning|https:\/\/otus.ru\/lessons\/machinelearning>, чтобы к нему подготовиться, судя по всему, можно пройти там же на Отусе курсы по Python + курсы по математике для ds. Вопрос: есть ли кто здесь, кто бы мог сказать, реально ли после этих курсов (матеш+python+ML) на Отусе иметь достаточные знания для трудоустройства? ",
+        "user": "UV1FDK23E",
+        "ts": "1589552547.425000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a0f3933bcbb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-08\/977987327569_a0f3933bcbb1208737e5_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fedorchuk",
+            "display_name": "Alexander Fedorchuk",
+            "team": "T040HKJE3",
+            "name": "irage00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Otus",
+                "title": "Machine learning: современные методы анализа данных и инструменты Data Science",
+                "title_link": "https:\/\/otus.ru\/lessons\/machinelearning",
+                "text": "Курс Machine learning в OTUS с возможностью трудоустройства!",
+                "fallback": "Otus: Machine learning: современные методы анализа данных и инструменты Data Science",
+                "image_url": "https:\/\/otus.ru\/static\/img\/favicons\/android-chrome-537x240.jpg?nocache",
+                "image_width": 537,
+                "image_height": 240,
+                "from_url": "https:\/\/otus.ru\/lessons\/machinelearning",
+                "image_bytes": 3170,
+                "service_icon": "https:\/\/otus.ru\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/otus.ru\/lessons\/machinelearning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PW=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет всем! Буду благодарен за совет. Есть курс "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/otus.ru\/lessons\/machinelearning",
+                                "text": "https:\/\/otus.ru\/lessons\/machinelearning"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", чтобы к нему подготовиться, судя по всему, можно пройти там же на Отусе курсы по Python + курсы по математике для ds. Вопрос: есть ли кто здесь, кто бы мог сказать, реально ли после этих курсов (матеш+python+ML) на Отусе иметь достаточные знания для трудоустройства? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589552547.425000",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1589964964.029800",
+        "reply_users": [
+            "UHY5KKK6D",
+            "UV1FDK23E",
+            "U012T73D0SJ",
+            "U010K7YPG4E"
+        ],
+        "replies": [
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1589552955.425200"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1589553025.425400"
+            },
+            {
+                "user": "UV1FDK23E",
+                "ts": "1589556834.429700"
+            },
+            {
+                "user": "U012T73D0SJ",
+                "ts": "1589738326.490100"
+            },
+            {
+                "user": "U010K7YPG4E",
+                "ts": "1589929692.026800"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1589964964.029800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5099f1d4-9f1c-4421-b3ac-f750aec8b7f0",
+        "type": "message",
+        "text": "Если усердно работать то вполне можно, но ML там слабый. Я бы взял MOOC от Яндекса и МФТИ для старта.",
+        "user": "UHY5KKK6D",
+        "ts": "1589552955.425200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oykn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если усердно работать то вполне можно, но ML там слабый. Я бы взял MOOC от Яндекса и МФТИ для старта."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589552547.425000",
+        "parent_user_id": "UV1FDK23E"
+    },
+    {
+        "client_msg_id": "ce886aec-e7d3-4d57-833c-6240d7ea210e",
+        "type": "message",
+        "text": "Но прежде чем сливать бабло поищите бесплатную альтернативу.",
+        "user": "UHY5KKK6D",
+        "ts": "1589553025.425400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZXi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Но прежде чем сливать бабло поищите бесплатную альтернативу."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589552547.425000",
+        "parent_user_id": "UV1FDK23E",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U012T73D0SJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "324B02F2-16ED-46D7-9CE5-74AF2EDBDD86",
+        "type": "message",
+        "text": "Спасибо, <@UHY5KKK6D>. Т.е. тот известный, что на курсере? Кажется, уже в списке даже был. \nИнтересно про Otus просто узнать было. Но если у них ML слабоват, то ок, благодарю за информацию!",
+        "user": "UV1FDK23E",
+        "ts": "1589556834.429700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a0f3933bcbb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-08\/977987327569_a0f3933bcbb1208737e5_72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fedorchuk",
+            "display_name": "Alexander Fedorchuk",
+            "team": "T040HKJE3",
+            "name": "irage00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VvH=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHY5KKK6D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Т.е. тот известный, что на курсере? Кажется, уже в списке даже был. \nИнтересно про Otus просто узнать было. Но если у них ML слабоват, то ок, благодарю за информацию!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589552547.425000",
+        "parent_user_id": "UV1FDK23E"
+    },
+    {
+        "client_msg_id": "7f0dc2a8-cdeb-4f77-b1e6-3c164ca9298d",
+        "type": "message",
+        "text": "Доброго времени суток. А что посоветуете по Data Science из этих 100 курсов?",
+        "user": "UFK48UJ9E",
+        "ts": "1589556836.429900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e70542f2600b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-02\/746103802389_e70542f2600b65660b59_72.jpg",
+            "first_name": "Khoroshilov",
+            "real_name": "Khoroshilov Evgeny",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "khoroshilov.evg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8zg7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Доброго времени суток. А что посоветуете по Data Science из этих 100 курсов?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589347657.376700",
+        "parent_user_id": "URCGASH52",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "USTKTE472"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC25B17A-1A27-45CB-AD9E-E426B502D597",
+        "type": "message",
+        "text": "Всем привет, посоветуйте, что можно посмотреть на тему построения рекомендательных систем. Теории много, интересует именно практика применения",
+        "user": "U013PPYLRSL",
+        "ts": "1589559661.433000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "365dc7dcadd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1133365337476_365dc7dcadd07e2a2ea9_72.png",
+            "first_name": "Slava",
+            "real_name": "Slava Markov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vyacheslavmarkow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OEXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет, посоветуйте, что можно посмотреть на тему построения рекомендательных систем. Теории много, интересует именно практика применения"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589559661.433000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1589568021.434300",
+        "reply_users": [
+            "UN88FQFRC",
+            "U013PPYLRSL"
+        ],
+        "replies": [
+            {
+                "user": "UN88FQFRC",
+                "ts": "1589563942.433100"
+            },
+            {
+                "user": "UN88FQFRC",
+                "ts": "1589564023.433300"
+            },
+            {
+                "user": "U013PPYLRSL",
+                "ts": "1589568021.434300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6f520859-4bfe-460c-b928-f0005bcf3258",
+        "type": "message",
+        "text": "Вроде ж тут есть канал для рекомендашек",
+        "user": "UN88FQFRC",
+        "ts": "1589563942.433100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6d5b17cdd3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/56d5b17cdd3ef510fa2720ccd0116764.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Spiridonov",
+            "display_name": "dedushka1916",
+            "team": "T040HKJE3",
+            "name": "8924381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589559661.433000",
+        "parent_user_id": "U013PPYLRSL"
+    },
+    {
+        "client_msg_id": "2463d3a2-d670-436b-a37c-4bb96865e67c",
+        "type": "message",
+        "text": "<#C2GKW3KGU|recommender_systems>",
+        "user": "UN88FQFRC",
+        "ts": "1589564023.433300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g6d5b17cdd3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/56d5b17cdd3ef510fa2720ccd0116764.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Spiridonov",
+            "display_name": "dedushka1916",
+            "team": "T040HKJE3",
+            "name": "8924381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589559661.433000",
+        "parent_user_id": "U013PPYLRSL"
+    },
+    {
+        "client_msg_id": "C4D4E771-4882-4932-8FE3-C96823F8E36C",
+        "type": "message",
+        "text": "<@UN88FQFRC> спасибо, не знал. Там много интересного",
+        "user": "U013PPYLRSL",
+        "ts": "1589568021.434300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "365dc7dcadd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1133365337476_365dc7dcadd07e2a2ea9_72.png",
+            "first_name": "Slava",
+            "real_name": "Slava Markov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vyacheslavmarkow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pyl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UN88FQFRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " спасибо, не знал. Там много интересного"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589559661.433000",
+        "parent_user_id": "U013PPYLRSL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UN88FQFRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97efd98d-138c-4285-983d-7cc3c3e7c3ed",
+        "type": "message",
+        "text": "До 22 мая все курсы на DataCamp бесплатны.\n<https:\/\/twitter.com\/DataCamp\/status\/1261280208965046272>",
+        "user": "UDA1RU43Y",
+        "ts": "1589571846.435000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "453473b4e6fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/708359271798_453473b4e6fe71d19559_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Shkarin",
+            "display_name": "Kouki",
+            "team": "T040HKJE3",
+            "name": "kouki.sergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/DataCamp|@DataCamp>: Get your free, all-access pass to DataCamp! Join us this week for DataCamp’s Free Week through May 22—this is your opportunity to skill up! <https:\/\/www.datacamp.com\/freeweek> #DataCampFreeWeek #data #datascience #edtech <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261280190203940866\/pu\/img\/7HxOOXdhyAZvFDF_.jpg>",
+                "ts": 1589547609,
+                "author_name": "DataCamp",
+                "author_link": "https:\/\/twitter.com\/DataCamp\/status\/1261280208965046272",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1145739544341426177\/MMJQW9du_normal.png",
+                "author_subname": "@DataCamp",
+                "text": "Get your free, all-access pass to DataCamp! Join us this week for DataCamp’s Free Week through May 22—this is your opportunity to skill up! <https:\/\/www.datacamp.com\/freeweek> #DataCampFreeWeek #data #datascience #edtech",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/DataCamp\/status\/1261280208965046272",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261280190203940866\/pu\/img\/7HxOOXdhyAZvFDF_.jpg",
+                "thumb_width": 1080,
+                "thumb_height": 1080,
+                "video_html_width": 1080,
+                "video_html_height": 1080,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261280190203940866\/pu\/img\/7HxOOXdhyAZvFDF_.jpg\" width=\"1080\" height=\"1080\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1261280190203940866\/pu\/vid\/720x720\/crwwJcmA797W1IDM.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/DataCamp\/status\/1261280208965046272",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "До 22 мая все курсы на DataCamp бесплатны.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/DataCamp\/status\/1261280208965046272"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U70TZK6Q3",
+                    "U7N4E8GBF",
+                    "U9VM1DN4U",
+                    "UTSBQPL01"
+                ],
+                "count": 4
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U06J2SBQA",
+                    "U0137CC1Z5W",
+                    "U9ZU1CYUD",
+                    "U9W1PD5QD",
+                    "U94LVR86R",
+                    "UHSR5B6LT",
+                    "U9VM1DN4U",
+                    "USTKTE472",
+                    "UK181SL1H",
+                    "U3D5HVB51",
+                    "UTSBQPL01"
+                ],
+                "count": 11
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "USTKTE472",
+                    "U6VR5P1JB",
+                    "U47FZNZAM",
+                    "U71P098FQ",
+                    "UPYNVBLF7",
+                    "U013WHH3X6Z",
+                    "UTSBQPL01"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U4WM1939Q",
+                    "UTSBQPL01"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a5a963a-6fe9-4a58-b409-6851bdc1554d",
+        "type": "message",
+        "text": "@<https:\/\/app.slack.com\/team\/U6SCXUP6U|vikter>: Хорошая ссылка, но вот есть что-то похожее (упражнения, решения), но по статистике -- p-vals, CI, тестирование гипотез, t-distrt, и т.д.?",
+        "user": "UCMC5J36D",
+        "ts": "1589585432.436400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U6SCXUP6U",
+                                "text": "vikter"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Хорошая ссылка, но вот есть что-то похожее (упражнения, решения), но по статистике -- p-vals, CI, тестирование гипотез, t-distrt, и т.д.?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8"
+    }
+]

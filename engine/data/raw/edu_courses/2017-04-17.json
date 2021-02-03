@@ -1,0 +1,778 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1492412473.288452",
+        "user": "U3B7T7V8W",
+        "text": "<@U3B7T7V8W> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492413944.424789",
+        "user": "U50KBKGTG",
+        "text": "<@U50KBKGTG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492414281.457295",
+        "user": "U50KCMX7G",
+        "text": "<@U50KCMX7G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492415040.527613",
+        "user": "U4Z9Q18QH",
+        "text": "<@U4Z9Q18QH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492416928.717272",
+        "user": "U50KZTWK1",
+        "text": "<@U50KZTWK1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492417557.778680",
+        "user": "U50KPB29L",
+        "text": "<@U50KPB29L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492418998.921659",
+        "user": "U50L6GTL7",
+        "text": "<@U50L6GTL7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Привет! Я координатор мастерской DataScience на свободном образовательном проекте Летняя школа. Не так давно, на DataFest я уже упоминала о нас)\nЕсли кратко, летом на берегу Волги в палатках мы проводим что-то вроде двухнедельного хакатона, где первая неделя посвящена лекциям по широкому кругу тем в области ds, а вторая - хардкорной проектной работе (реально хардкор: прошлогодняя защита проектов проходила в час ночи).\nМы планируем найти 15-20 человек, которым интересно узнать что-то новое, пообщаться с людьми из данной области и сделать очень крутые проекты, которые не только пополнят ваши github-аккаунты, но и, возможно, превратятся во что-то большее. Мы ориентируемся на студентов околотехнических специальностей, но формально для нас достаточно знаний питона :python: , творческого подхода и математического склада ума, а крутых задач по ML и даже DL мы вам подберем. :more-layers:\nОт нас: разноплановые лекторы, куча интересных тем проектов и очень крутая атмосфера, чтобы их сделать. Еще, конечно, есть прекрасная природа, развлечения и арбузы.\nБольше неворкинга богу нетворкинга! Также планируются совместные лекции с математической мастерской, чей научрук Андрей Райгородский :exclamation: ; и совместные проекты с мастерской архетиктуры и урбанистики, которые каждый год с новой стороны пытаются изучить соседние знаменитые Кимры. \nВ общем, если вы начинающий :ololosh: или не очень начинающий datascientist, то ждем вашей заявки на <http:\/\/letnyayashkola.org\/datascience\/> (почитать о нас больше тоже можно тут). А если совсем не очень начинающий и у вас есть супер-крутая тема исследования, то, возможно, вы захотите быть одним из наших преподавателей и\/или кураторов проектов? Тоже пишите, обсудим.\nПо любым вопросам можно писать мне <@U362WKFB3> или <@U486KB5AN> в slack или нам на почту в <mailto:datascience@letnyayashkola.org|datascience@letnyayashkola.org>",
+        "user": "U362WKFB3",
+        "ts": "1492420780.102977",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38677776b1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-15\/169694551411_38677776b1ff9e8d72f0_72.png",
+            "first_name": "Darya",
+            "real_name": "Darya Guselnikova",
+            "display_name": "daryaggg",
+            "team": "T040HKJE3",
+            "name": "daryaggg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Летняя Школа",
+                "title": "Мастерская DataScience",
+                "title_link": "http:\/\/letnyayashkola.org\/datascience\/",
+                "text": "Летняя школа — это свободный образовательный проект, собирающий на протяжении 10 лет людей, желающих учить и учиться.",
+                "fallback": "Летняя Школа: Мастерская DataScience",
+                "image_url": "http:\/\/letnyayashkola.org\/static\/img\/logo.png",
+                "from_url": "http:\/\/letnyayashkola.org\/datascience\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 25158,
+                "service_icon": "http:\/\/letnyayashkola.org\/static\/img\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1492420780.102977",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1493391037.353599",
+        "reply_users": [
+            "U1R8X3V54",
+            "U1Z40FGQ6",
+            "U362WKFB3",
+            "U486KB5AN",
+            "U46NMUM5Z"
+        ],
+        "replies": [
+            {
+                "user": "U1R8X3V54",
+                "ts": "1492422523.275937"
+            },
+            {
+                "user": "U1Z40FGQ6",
+                "ts": "1492422700.293107"
+            },
+            {
+                "user": "U362WKFB3",
+                "ts": "1492422873.310203"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1492423148.337753"
+            },
+            {
+                "user": "U362WKFB3",
+                "ts": "1492423238.348195"
+            },
+            {
+                "user": "U362WKFB3",
+                "ts": "1492423370.361979"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1492424382.456555"
+            },
+            {
+                "user": "U362WKFB3",
+                "ts": "1492427937.768544"
+            },
+            {
+                "user": "U1R8X3V54",
+                "ts": "1492428656.830484"
+            },
+            {
+                "user": "U486KB5AN",
+                "ts": "1492614789.133174"
+            },
+            {
+                "user": "U46NMUM5Z",
+                "ts": "1493391037.353599"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "U486KB5AN",
+                    "U3S96B5QF",
+                    "U3WKG9DFE",
+                    "U0ZHCGY5T",
+                    "U1Z40FGQ6",
+                    "U04ELQZAU",
+                    "U15UZGX9A",
+                    "U1MLEMG11",
+                    "U1CMPEWPQ",
+                    "U36KSMGDN",
+                    "U3K6PFFKJ"
+                ],
+                "count": 11
+            },
+            {
+                "name": "watermelon",
+                "users": [
+                    "U04ELQZAU",
+                    "U17UDV31D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U044084RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492421552.180538",
+        "user": "U4Z91K3J4",
+        "text": "<@U4Z91K3J4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А райгородский там рядом где-то будет?",
+        "user": "U1R8X3V54",
+        "ts": "1492422523.275937",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "сколько стоит? проводиться будет в Тверской области?",
+        "user": "U1Z40FGQ6",
+        "ts": "1492422700.293107",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6110829d1d4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-25\/108558451633_6110829d1d4f94d3213d_72.png",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Fediukov",
+            "display_name": "vladislav.fedyukov",
+            "team": "T040HKJE3",
+            "name": "vladislav.fedyukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "<@U1R8X3V54> да, на другой мастерской <http:\/\/letnyayashkola.org\/graph\/>",
+        "user": "U362WKFB3",
+        "ts": "1492422873.310203",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38677776b1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-15\/169694551411_38677776b1ff9e8d72f0_72.png",
+            "first_name": "Darya",
+            "real_name": "Darya Guselnikova",
+            "display_name": "daryaggg",
+            "team": "T040HKJE3",
+            "name": "daryaggg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U362WKFB3",
+            "ts": "1492422883.000000"
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "Так. А место получается рядом с местом проведения <http:\/\/www.mccme.ru\/dubna\/2017\/> ? (насколько рядом?)",
+        "user": "U1R8X3V54",
+        "ts": "1492423148.337753",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "<@U1Z40FGQ6> Платить нужно только добровольный взнос за проживание (еду, электричество, etc.) от 400 руб.\/день. Подробности тут <http:\/\/letnyayashkola.org\/FAQ\/#how_to_get>.",
+        "user": "U362WKFB3",
+        "ts": "1492423238.348195",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38677776b1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-15\/169694551411_38677776b1ff9e8d72f0_72.png",
+            "first_name": "Darya",
+            "real_name": "Darya Guselnikova",
+            "display_name": "daryaggg",
+            "team": "T040HKJE3",
+            "name": "daryaggg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U362WKFB3",
+            "ts": "1492423243.000000"
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "<@U1Z40FGQ6> <@U1R8X3V54> Это на границе Тверской и Московской. на счет вышкинской летней школы не знаю",
+        "user": "U362WKFB3",
+        "ts": "1492423370.361979",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38677776b1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-15\/169694551411_38677776b1ff9e8d72f0_72.png",
+            "first_name": "Darya",
+            "real_name": "Darya Guselnikova",
+            "display_name": "daryaggg",
+            "team": "T040HKJE3",
+            "name": "daryaggg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "text": "<@U362WKFB3> а более подробной программы лекций\/семинаров нет пока? Больше всего интересует по каким курсам идет пересечение потока “граф” с  потоком ds",
+        "user": "U1R8X3V54",
+        "ts": "1492424382.456555",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3QFSLMJ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U1R8X3V54> программа пока еще в разработке, но с Графом конкретно планируем лекции по алгоритмам обхода графов, оптимизации в DL (градиентные методы и вот это вот все), линалу (спарсовые матрицы, разложения Холесского и др.). Возможно будут и другие темы)",
+        "user": "U362WKFB3",
+        "ts": "1492427937.768544",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "38677776b1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-15\/169694551411_38677776b1ff9e8d72f0_72.png",
+            "first_name": "Darya",
+            "real_name": "Darya Guselnikova",
+            "display_name": "daryaggg",
+            "team": "T040HKJE3",
+            "name": "daryaggg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U36Q9NJMD",
+                    "U486KB5AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Отлично, спасибо",
+        "user": "U1R8X3V54",
+        "ts": "1492428656.830484",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7031274a3100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-26\/533694749890_7031274a3100c5ed19ee_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman",
+            "display_name": "amsirion",
+            "team": "T040HKJE3",
+            "name": "amsirion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492420780.102977",
+        "parent_user_id": "U362WKFB3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492433374.320135",
+        "user": "U4ZUWN8N7",
+        "text": "<@U4ZUWN8N7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ребята, извините, но Ын - это суперначальный курс, как тут вообще сравнивать?! Воронцов абсолютно отличный лектор (Карпатого я не слушал), попробуйте вы такой объем материала рассказать лучше. Ну и я на ШАД конечно ориентируюсь как минимум :slightly_smiling_face:",
+        "user": "U0SBLSTJ4",
+        "ts": "1492447442.732909",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "sir",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "CS229 суперначальный? я вас поздравляю\nКарпатого не слушал? так послушай 15 минут, в чем проблема-то?",
+        "user": "U2N853RGF",
+        "ts": "1492449810.434130",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "Снобизм детектед, короче. \"ШАД как минимум\" - это сильно. А максимум тогда что? с Вапником, небось, чаи гоняешь?)))",
+        "user": "U2N853RGF",
+        "ts": "1492450023.498483",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "CS 229 супер начальный, тут я убежден. Нам Воронцов читал на 3 курсе - это был самый первый курс по ML, который давали на кафедре ИАД МФТИ.\n\nСнобизм, не снобизм - скорее максимализм.\n\nС Вапником лично общался, но немного, минут 10.",
+        "user": "U0SBLSTJ4",
+        "ts": "1492453292.515812",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "Ну и нужно понимать, что ШАД сейчас стал каким-то супер эталоном, раньше все-таки было отношение попроще (я учился 7 лет назад). Причем ребята с нашей кафедры (ИППИ) на него продолжают проходить, поэтому отношусь спокойно.",
+        "user": "U0SBLSTJ4",
+        "ts": "1492453457.567313",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "На курс Карпатого можно ссылку? Сходу не нахожу.",
+        "user": "U0SBLSTJ4",
+        "ts": "1492453951.725086",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "CS231n",
+        "user": "U2N853RGF",
+        "ts": "1492453971.731317",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "Это-то я нашел естественно, вопрос в видео",
+        "user": "U0SBLSTJ4",
+        "ts": "1492454126.781680",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "OK, нашел",
+        "user": "U0SBLSTJ4",
+        "ts": "1492454358.853754",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "text": "Тогда я запутался. В твоем понимании тогда все курсы начальные, так как CS229 это второй курс, CS231n люди берут на четвертом, а CS224d это первый год аспирантуры. Между ними разница в три года универа. С высоты 35 лет все это кажется школой.\nИзначально разговор шел о том, что как лектор Воронцов далеко не супер. Твой контраргумент: для двадцати чуваков из ШАДа, прошедших селекцию, этот уровень подачи материала вполне приемлем.\nНу ок, удачи, с этим то никто и не спорил.",
+        "user": "U2N853RGF",
+        "ts": "1492454694.959088",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492454977.048773",
+        "user": "U4ZFQ908Y",
+        "text": "<@U4ZFQ908Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Во-первых, я не очень разбираюсь в этих многочисленных курсах, т.к. ни один из них не слушал. Я читал силлабус CS229 когда он только появился онлайн, и после Воронцова не нашел в нем чего-то интересного. Поэтому я и говорю, что он очень начальный (для меня первым был курс Воронцова). Я не говорю, что не нужно начинать с более простого, мы в ИППИ начинаем ребятам как раз читать с более простого курса, это достаточно логично (хотя ребята порой скучают).\n\nПри этом я не говорю, что Воронцов самый лучший лектор, вполне допускаю, что есть лучшие, просто я не встречал в наших землях. Я слушал лекции Воронцова уже получается 8 лет назад и они меня впечатлили очень крутой проработкой. Такой объем материала, который он дает в сжатое время - это суперкруто.\n\nВообще есть фундаментальная разница между американской и российской системой - там обожают разжевывать простые вещи очень долго, а у нас скорее любят сжато выложить много сложного материала, а там уж кто выплывет. У обоих подходов есть свои преимущества.",
+        "user": "U0SBLSTJ4",
+        "ts": "1492455360.168800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2N853RGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "И кстати не понимаю, откуда вывод, что все курсы начальные, я не говорил такого. На курсэре есть, например, PGM - весьма продвинутый курс на мой вкус.",
+        "user": "U0SBLSTJ4",
+        "ts": "1492455614.250510",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492457188.713864",
+        "user": "U50TCNLTG",
+        "text": "<@U50TCNLTG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492458346.043106",
+        "user": "U508UR0HJ",
+        "text": "<@U508UR0HJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Да, согласен, после сложного сжатого курса прокачиваешься очень сильно. Проблема, которую часто наблюдал - часто создается иллюзия понимания содержимого, если лекции не подкреплены лабами и семинарами. А вот у этих ребят из Стэнфорда лекции более самодостаточны, что ли. Разжевывается так, что можно тут же сесть и набросать код.",
+        "user": "U2N853RGF",
+        "ts": "1492462560.268149",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1492175094.196667",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1492498268.080493",
+        "user": "U4GV9NJMR",
+        "text": "<@U4GV9NJMR> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492498429.125552",
+        "user": "U50FAHH1Q",
+        "text": "<@U50FAHH1Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492498445.129529",
+        "user": "U5176837H",
+        "text": "<@U5176837H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492498759.218607",
+        "user": "U50FD7B7C",
+        "text": "<@U50FD7B7C> has joined the channel"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "a42a3e0e-1a7e-4c6f-897f-197e23e52007",
+        "type": "message",
+        "text": "По своему опыту могу сказать, что лучший способ понять непонятные матричные выкладки - это самостоятельно расписать всё в индексах)",
+        "user": "ULRTEEHT4",
+        "ts": "1577307125.092100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5505a5260446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/778417812039_5505a5260446ca82dec7_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Semenov",
+            "display_name": "g0nzalez",
+            "team": "T040HKJE3",
+            "name": "dan949494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xnyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "По своему опыту могу сказать, что лучший способ понять непонятные матричные выкладки - это самостоятельно расписать всё в индексах)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577172924.078100",
+        "parent_user_id": "URDGFJ4V7"
+    },
+    {
+        "client_msg_id": "a8bb8123-2e3e-4255-8dac-476753ddb672",
+        "type": "message",
+        "text": "<@ULRTEEHT4>, не очень понимаю, как в индексах можно понять ~производную~ дифференциал определителя",
+        "user": "U04ELQZAU",
+        "ts": "1577308791.092400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULRTEEHT4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", не очень понимаю, как в индексах можно понять "
+                            },
+                            {
+                                "type": "text",
+                                "text": "производную",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " дифференциал определителя"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577172924.078100",
+        "parent_user_id": "URDGFJ4V7"
+    }
+]

@@ -1,0 +1,471 @@
+[
+    {
+        "client_msg_id": "4c5b42b8-ba08-4e47-b2a8-e2b5bf7d5f33",
+        "type": "message",
+        "text": "<http:\/\/mlcourse.ai|mlcourse.ai>\n<http:\/\/dlcourse.ai|dlcourse.ai>",
+        "user": "ULRTEEHT4",
+        "ts": "1588869111.265900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5505a5260446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/778417812039_5505a5260446ca82dec7_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Semenov",
+            "display_name": "g0nzalez",
+            "team": "T040HKJE3",
+            "name": "dan949494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "McA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dlcourse.ai",
+                                "text": "dlcourse.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588165537.126600",
+        "parent_user_id": "U01310KHRQR"
+    },
+    {
+        "client_msg_id": "f7060856-77d8-4b81-8630-f3c3f5b62997",
+        "type": "message",
+        "text": "Необходимость оставить номер телефона для того, чтобы пройти тест, - такое себе решение.",
+        "user": "ULRTEEHT4",
+        "ts": "1588869299.266200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5505a5260446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/778417812039_5505a5260446ca82dec7_72.jpg",
+            "first_name": "Danil",
+            "real_name": "Danil Semenov",
+            "display_name": "g0nzalez",
+            "team": "T040HKJE3",
+            "name": "dan949494",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rjhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Необходимость оставить номер телефона для того, чтобы пройти тест, - такое себе решение."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588686647.248100",
+        "parent_user_id": "U012D72V8KZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "UFZ9SJ2P3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2142966-1332-43f5-8505-ebbc4f879c09",
+        "type": "message",
+        "text": "привет! Мы переводим <https:\/\/stepik.org\/course\/50352> и <https:\/\/stepik.org\/course\/54098> на английский и хотим побороться с топовыми курсами по CV и NLP.\nИ, раз есть возможность что-то переработать, хотим узнать, какие плюсы и минусы вы видите в наших и других существующих курсах?\nСтоит туда соваться, или место под солнцем прочно занято Ыном и К?\nОсобенно интересно, если вы проходили несколько онлайн-курсов и можете их между собой сравнить.",
+        "user": "U2AD9CMR7",
+        "ts": "1588882140.272100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AD9CMR7",
+            "ts": "1588882242.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Нейронные сети и компьютерное зрение",
+                "title_link": "https:\/\/stepik.org\/course\/50352",
+                "text": "Почему стоит начать изучение машинного обучения и нейронных сетей с нашего курса? Наш девиз \"Больше практики!\": излагая математические основы очень доступным языком, авторы курса, эксперты Samsung AI Center дадут базовые знания на примере решения задач компьютерного зрения. Это зрелищно и интересно!",
+                "fallback": "Stepik: online education: Нейронные сети и компьютерное зрение",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/50352\/cover_4yWf1Cb\/1ee0bce6420c78427d8f228e257ca9dd.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/50352",
+                "image_height": 230,
+                "image_bytes": 12435,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1587742549",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/50352"
+            },
+            {
+                "service_name": "Stepik: online education",
+                "title": "Нейронные сети и обработка текста",
+                "title_link": "https:\/\/stepik.org\/course\/54098\/syllabus",
+                "text": "Современные методы автоматической обработки текста -- это поиск по смыслу, машинный перевод, чат-боты, построение баз знаний... Как к этому подступиться? Больше практики! Авторы курса, эксперты Центра ИИ Samsung, доступным языком рассказывают, как начать работать с текстами при помощи нейросетей.",
+                "fallback": "Stepik: online education: Нейронные сети и обработка текста",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/54098\/cover_ZELd1Nl\/3741ff2326af5c5eca75fef9bf19e8ad.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/54098\/syllabus",
+                "image_height": 230,
+                "image_bytes": 5819,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1587742549",
+                "id": 2,
+                "original_url": "https:\/\/stepik.org\/course\/54098\/syllabus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GTCgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "привет! Мы переводим "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/50352"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/54098"
+                            },
+                            {
+                                "type": "text",
+                                "text": " на английский и хотим побороться с топовыми курсами по CV и NLP.\nИ, раз есть возможность что-то переработать, хотим узнать, какие плюсы и минусы вы видите в наших и других существующих курсах?\nСтоит туда соваться, или место под солнцем прочно занято Ыном и К?\nОсобенно интересно, если вы проходили несколько онлайн-курсов и можете их между собой сравнить."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588882140.272100",
+        "reply_count": 20,
+        "reply_users_count": 13,
+        "latest_reply": "1593065813.472400",
+        "reply_users": [
+            "UM5CR4AR4",
+            "UEBGQ3JKF",
+            "UQHMD2LBZ",
+            "U262NSHCK",
+            "UFDTSUTBL",
+            "UHY5KKK6D",
+            "U2AD9CMR7",
+            "U6X5YAFU3",
+            "UJUCG9QSC",
+            "U9ZU1CYUD",
+            "U9BDT48M8",
+            "UNFTX1XT9",
+            "U15V81K6V"
+        ],
+        "replies": [
+            {
+                "user": "UM5CR4AR4",
+                "ts": "1588884737.272500"
+            },
+            {
+                "user": "UEBGQ3JKF",
+                "ts": "1588893040.273400"
+            },
+            {
+                "user": "UQHMD2LBZ",
+                "ts": "1588912817.274300"
+            },
+            {
+                "user": "U262NSHCK",
+                "ts": "1588926714.284800"
+            },
+            {
+                "user": "UFDTSUTBL",
+                "ts": "1588929024.286400"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1588929613.289200"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1588930569.289700"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1588947542.294100"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1588947680.294300"
+            },
+            {
+                "user": "UJUCG9QSC",
+                "ts": "1588978284.303600"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1588986281.306000"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1589009697.307800"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1589009739.308100"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1589019275.309900"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1589020315.310400"
+            },
+            {
+                "user": "UNFTX1XT9",
+                "ts": "1589107745.347700"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1589110081.348300"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1589112040.352800"
+            },
+            {
+                "user": "UNFTX1XT9",
+                "ts": "1589120828.353600"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1593065813.472400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UM5CR4AR4",
+                    "UKQDGNUHJ",
+                    "UB4AGRL3C",
+                    "UG6Q5RX0B",
+                    "U9VM1DN4U",
+                    "U93NH4CSG",
+                    "U9W1PD5QD",
+                    "U6SHTGD5X",
+                    "UFKAN0REJ",
+                    "UB4AFSWP4",
+                    "U6SCXUP6U",
+                    "U8JCZ254Z",
+                    "U6VBG0F9V",
+                    "U4N7G9RQA",
+                    "ULMML7Z5K",
+                    "URRRDTF4Y",
+                    "U9ZU1CYUD",
+                    "U010WCK9X4Y",
+                    "UMHUSLL4W",
+                    "UMQSP3DJM",
+                    "U010HKK8JUA",
+                    "UNFTX1XT9",
+                    "UD4UVNH53",
+                    "ULF96QF3K",
+                    "U4AA9GF26",
+                    "UP6LRGPS5",
+                    "U012HP85P51",
+                    "URC5U0Q0P"
+                ],
+                "count": 28
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8e50672-ab30-4fd4-88ee-8a4bb4a80dbb",
+        "type": "message",
+        "text": "Полностью похошёл только курс по nlp, как по мне он выдался шикарным. В меру сложный, с хорошей кодовой базой, интересными темами без mnista и прочего, прям свежак. Особенно понравилось последняя секция, где говорится о современных сетях. До этого все курсы или книги, которые изучал останавливались на самом важном и сложном моменте, вы же пошли дальше и копнули  глубже. Как мне кажется, что касается нлп, ничего менять особо не надо.\nP.S. Ещё очень нравится, что вы под кодом степом даёте ссылки на доп литературу",
+        "user": "UM5CR4AR4",
+        "ts": "1588884737.272500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7d2a9bf35114",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-19\/839978597280_7d2a9bf35114579d9541_72.jpg",
+            "first_name": "Savvov",
+            "real_name": "Savvov Sergey",
+            "display_name": "SS",
+            "team": "T040HKJE3",
+            "name": "sersavvov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Полностью похошёл только курс по nlp, как по мне он выдался шикарным. В меру сложный, с хорошей кодовой базой, интересными темами без mnista и прочего, прям свежак. Особенно понравилось последняя секция, где говорится о современных сетях. До этого все курсы или книги, которые изучал останавливались на самом важном и сложном моменте, вы же пошли дальше и копнули  глубже. Как мне кажется, что касается нлп, ничего менять особо не надо.\nP.S. Ещё очень нравится, что вы под кодом степом даёте ссылки на доп литературу"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588882140.272100",
+        "parent_user_id": "U2AD9CMR7",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "USLHTRF40",
+                    "UD6TXA7R7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U6X5YAFU3",
+                    "UMME6QQ2J",
+                    "UMQSP3DJM",
+                    "UD6TXA7R7"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cbdc348-fb34-4d30-80eb-f00044894e3d",
+        "type": "message",
+        "text": "Хотел задать собственный вопрос, но раз уж выдался тематический тред: велика ли разница между CV курсом от Samsung AI Center и cs231n? На первый взгляд не то чтобы прям понятно. Степик привлекает удобной платформой, но cs231n вроде как более именитый.",
+        "user": "UEBGQ3JKF",
+        "ts": "1588893040.273400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c4e88ebff53e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-03\/493556501840_c4e88ebff53ef2d0d6fb_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Marin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zc1VT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хотел задать собственный вопрос, но раз уж выдался тематический тред: велика ли разница между CV курсом от Samsung AI Center и cs231n? На первый взгляд не то чтобы прям понятно. Степик привлекает удобной платформой, но cs231n вроде как более именитый."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588882140.272100",
+        "parent_user_id": "U2AD9CMR7"
+    },
+    {
+        "client_msg_id": "C2390AB9-7133-4CDD-AF63-D9E85C5EA22D",
+        "type": "message",
+        "text": "Вообще да, сильная разница",
+        "user": "UQHMD2LBZ",
+        "ts": "1588912817.274300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd5211f0e705",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-13\/834560048646_fd5211f0e70596311ac3_72.jpg",
+            "first_name": "Marsel",
+            "real_name": "Marsel",
+            "display_name": "Marsel",
+            "team": "T040HKJE3",
+            "name": "marssellio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuv8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вообще да, сильная разница"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588882140.272100",
+        "parent_user_id": "U2AD9CMR7"
+    }
+]

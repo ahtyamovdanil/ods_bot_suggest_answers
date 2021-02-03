@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474812957.000549",
+        "user": "U2FM0GQUE",
+        "text": "<@U2FM0GQUE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "А шо, Хинтоновский курс будет повторяться?",
+        "user": "U070Y25AS",
+        "ts": "1474855812.000550",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fceae7bbae9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-30\/7032585669_fceae7bbae9fe6bd6054_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Malev",
+            "display_name": "malev",
+            "team": "T040HKJE3",
+            "name": "malev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "but_why",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,2830 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475481343.000859",
+        "user": "U2JH1NXC2",
+        "text": "<@U2JH1NXC2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Кто-нибудь может подсказать курс по data science в ритейле? Нашел парочку на курсере, но не могу выбрать: <https:\/\/www.coursera.org\/specializations\/strategic-analytics>\n<https:\/\/www.coursera.org\/specializations\/business-analytics>\n<https:\/\/www.coursera.org\/specializations\/marketing-analytics>\nБольше склоняюсь к первому",
+        "user": "U2AKN40BW",
+        "ts": "1475487379.000860",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g9e0bf82b8d7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/899e0bf82b8d714adc94217ca591fe2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Shcherbakov",
+            "real_name": "Shcherbakov Vitaly",
+            "display_name": "vit",
+            "team": "T040HKJE3",
+            "name": "vit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AKN40BW",
+            "ts": "1475487397.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ритейл в целом ничем не отличается от, скажем, DS в телекоме. Только запасы есть и гниют.",
+        "user": "U14CTBLFJ",
+        "ts": "1475493651.000867",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Пойдет любой",
+        "user": "U14CTBLFJ",
+        "ts": "1475493659.000868",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475495890.000869",
+        "user": "U2JGU8GV9",
+        "text": "<@U2JGU8GV9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Не соглашусь.",
+        "user": "U041LH06L",
+        "ts": "1475496017.000870",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[October 3rd, 2016 2:20 PM] artem: Ритейл в целом ничем не отличается от, скажем, DS в телекоме. Только запасы есть и гниют.",
+                "ts": "1475493651.000867",
+                "author_subname": "artem",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Ритейл в целом ничем не отличается от, скажем, DS в телекоме. Только запасы есть и гниют.",
+                "author_name": "Artem Zarubin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/artem",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-18\/43844797973_ec9889a71f41f86f9295_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1475493651000867",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "но к выбору этих курсов это отношения не имеет :slightly_smiling_face:",
+        "user": "U040HKJE7",
+        "ts": "1475496373.000871",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U041LH06L",
+                    "U09JEC7V0",
+                    "U14CTBLFJ",
+                    "U2J2Q58GP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "У всех yield свой, но это yield.",
+        "user": "U14CTBLFJ",
+        "ts": "1475496962.000872",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Стартанул курс <https:\/\/www.coursera.org\/learn\/discrete-optimization>",
+        "user": "U1CF95PP1",
+        "ts": "1475505180.000873",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Modeling Discrete Optimization - The University of Melbourne | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/discrete-optimization",
+                "text": "Modeling Discrete Optimization from The University of Melbourne. Learn a new way to approach problem solving by stating the problem and letting powerful constraint solving software do the rest. This class teaches you the art of encoding complex discrete optimization problems in the MiniZinc modeling language and then shows you how to effortlessly solve them by leveraging state-of-the-art open-source constraint solving software. View the MOOC promotional video here: <http:\/\/tinyurl.com\/huyhq2e> 1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                "fallback": "Coursera: Modeling Discrete Optimization - The University of Melbourne | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/6a\/eac590fec911e4b3a2d5716363e62f\/Modelling_Discreet_opti_2.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/discrete-optimization",
+                "thumb_width": 460,
+                "thumb_height": 270,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1B2L9G58"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Хардкорный курс, советую",
+        "user": "U1CF95PP1",
+        "ts": "1475505192.000875",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U0AS548A1",
+                    "U0QB98BB9",
+                    "U0JCGNUCB",
+                    "U1FLG6YR1",
+                    "U1B2L9G58",
+                    "U19VD9AQH",
+                    "U14D53D2Q"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Да, один из самых сложных, которые мне довелось брать (я PGM не делал)",
+        "user": "U0DA4J82H",
+        "ts": "1475505648.000876",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вроде бы дают сертификат бесплатно",
+        "user": "U1CF95PP1",
+        "ts": "1475505965.000877",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "По мне так для такого курса курсера ещё и доплачивать должна за прохождение :slightly_smiling_face:",
+        "user": "U1CF95PP1",
+        "ts": "1475506010.000878",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Компенсацию за психологическую травму?",
+        "user": "U041LH06L",
+        "ts": "1475506057.000879",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U24QAAZBL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ага",
+        "user": "U1CF95PP1",
+        "ts": "1475506063.000880",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я прошлую итерацию недопрошел, спасибо что сказали, он редко бывает",
+        "user": "U1B2L9G58",
+        "ts": "1475508006.000881",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "блин, где время взать на все это",
+        "user": "U09JEC7V0",
+        "ts": "1475508121.000882",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U09JEC7V0",
+            "ts": "1475508618.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Маховик времени?)",
+        "user": "U1CF95PP1",
+        "ts": "1475508150.000883",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну или не спать просто.",
+        "user": "U1CF95PP1",
+        "ts": "1475508175.000884",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "или другие...хм...вещества времени",
+        "user": "U09JEC7V0",
+        "ts": "1475508249.000885",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "сон для слабаков",
+        "user": "U041P485A",
+        "ts": "1475508340.000886",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "feelsgood",
+                "users": [
+                    "U04ELQZAU",
+                    "U0E2W4VKL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Женщины, по-видимому, для них же.",
+        "user": "U041LH06L",
+        "ts": "1475508365.000887",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "two_men_holding_hands",
+                "users": [
+                    "U041P485A",
+                    "U065VP6F7",
+                    "U09JEC7V0",
+                    "U04ELQZAU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "foreveralone",
+                "users": [
+                    "U04ELQZAU",
+                    "U0DA4J82H",
+                    "U049HDR2Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ну у всех индивидуально, могу сказать как я прошел ряд курсер - лекции смотрел по пути на работу в метро, задания после работы вечером или на выхах.",
+        "user": "U1B2L9G58",
+        "ts": "1475508402.000888",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "если 1 курс брать одновременно, вполне ОК",
+        "user": "U1B2L9G58",
+        "ts": "1475508417.000889",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Надо ещё работать, каглица и пары вести иногда!",
+        "user": "U1CF95PP1",
+        "ts": "1475508468.000890",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "goberserk",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а для лажовых курсов типа data science specialisation от JHU и по 4 ок",
+        "user": "U1B2L9G58",
+        "ts": "1475508469.000891",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "но в том-то и дело, что их много идет одновременно :but_why:",
+        "user": "U09JEC7V0",
+        "ts": "1475508474.000892",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U25ULGHQF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "оказывается PGM это спецуха из 3х курсов",
+        "user": "U1B2L9G58",
+        "ts": "1475508535.000894",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "you-dont-say",
+                "users": [
+                    "U09JEC7V0",
+                    "U041P485A",
+                    "U1CF95PP1",
+                    "U0E2W4VKL",
+                    "U049HDR2Z"
+                ],
+                "count": 5
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1B2L9G58"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "после первых 10 пройденных курсов рука набивается, не особо много времени тратится - часов 6-8 в неделю (2 вечера в будни, и 1 утро в выходные)",
+        "user": "U07JH63AA",
+        "ts": "1475508649.000897",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DA4J82H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "на PGM вестимо?",
+        "user": "U09JEC7V0",
+        "ts": "1475508692.000898",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Лектор в discrete optimization энергично и увлекательно рассказывает. Хороший курс.",
+        "user": "U19VD9AQH",
+        "ts": "1475512889.000899",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Начал week 2 смотреть, первая проходится за 30 минут.",
+        "user": "U19VD9AQH",
+        "ts": "1475512922.000900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2a2ec5de032d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-10\/415278019271_2a2ec5de032d0f7ec5bd_72.jpg",
+            "first_name": "Algis",
+            "real_name": "Algis Dumbris",
+            "display_name": "algis",
+            "team": "T040HKJE3",
+            "name": "algis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ребята, кто проходил курс на coursera от Воронцова по Машинному обучению? Там в финальном задании нужно использовать логистическую регрессию с l2 регуляризацией. Все бы ничего, если бы не нужно было выбрать оптимальный параметр  C. У меня на кросс-валидации при любом С одни и те же результаты. Вот код:\n``` for i in range(10):\n    clf = LogisticRegression(C=10**(i-5))\n    clf.fit(X,y)\n    print(cross_val_score(estimator=clf, y=y, X=X, cv=kf, scoring='roc_auc'))```\n\nВсе правильно и нужно подумать почему так получается или я что-то не так сделал?",
+        "user": "U26NC465B",
+        "ts": "1475513171.000901",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U26NC465B",
+            "ts": "1475513267.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475515203.000904",
+        "user": "U2JMRH3U6",
+        "text": "<@U2JMRH3U6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U26NC465B> а зачем строчка с “clf.fit(X,y)”? И как задается kf?",
+        "user": "U07159GKF",
+        "ts": "1475516993.000905",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "72d0bf90bbac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-08\/25213708321_72d0bf90bbac07288ec5_72.jpg",
+            "first_name": "Timofei",
+            "real_name": "Timofei Semenov",
+            "display_name": "fineguy",
+            "team": "T040HKJE3",
+            "name": "timofei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вообще есть GridSearchCV",
+        "user": "U1CF95PP1",
+        "ts": "1475517105.000906",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U07159GKF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Зачем писать вручную цикл непонятно",
+        "user": "U1CF95PP1",
+        "ts": "1475517113.000907",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U07159GKF> \"clf.fit(X,y)\" на автомате прописал, как оказалось, можно и без нее. Но на результат не влияет, проверил.\nЧто касается kf:\n`kf = KFold(y.size, n_folds=5, shuffle=True)`",
+        "user": "U26NC465B",
+        "ts": "1475517217.000908",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF95PP1>  можно.  Я  так и пробовал сначала, результат тот же. Думал, что где-то накосячил и у меня всегда на одной модели валидируется, по-этому решил вручную накидать вариант.",
+        "user": "U26NC465B",
+        "ts": "1475517319.000909",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U26NC465B",
+            "ts": "1475517357.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Может выборка разделима линейно?)",
+        "user": "U1CF95PP1",
+        "ts": "1475517357.000911",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В смысле?",
+        "user": "U26NC465B",
+        "ts": "1475517370.000912",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А какой скор получается?",
+        "user": "U1CF95PP1",
+        "ts": "1475517381.000913",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И что за данные",
+        "user": "U1CF95PP1",
+        "ts": "1475517391.000914",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Давайте C задавать с помощью np,linspace",
+        "user": "U0AS548A1",
+        "ts": "1475517393.000915",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "[ 0.51818903  0.50952421  0.5149538   0.51068466  0.51398413]",
+        "user": "U26NC465B",
+        "ts": "1475517402.000916",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Дак гдеж одно и тоже то?)",
+        "user": "U1CF95PP1",
+        "ts": "1475517434.000917",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Попробуй правда `for c in np.linspace(0,1,10)` например, а то у тебя только слишком большие\/слишком маленькие значения С и 1",
+        "user": "U24QAAZBL",
+        "ts": "1475517496.000918",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a3f93f9a3b72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-12\/328028349376_a3f93f9a3b72f5b5acea_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Kamenshchikov",
+            "display_name": "greenwolf",
+            "team": "T040HKJE3",
+            "name": "greenwolf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24QAAZBL",
+            "ts": "1475517512.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "почему бы С  не попробовать от 0 до 1 хотя бы",
+        "user": "U0AS548A1",
+        "ts": "1475517503.000919",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У меня там значения C от 10^-5 до 1 ( что лежит в интервале от 0 до 1) и при всех выдает одну и ту же строчку, что сверху.",
+        "user": "U26NC465B",
+        "ts": "1475517569.000922",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "С можно трактовать как отношение дисперсии целевой переменной и априорной дисперсии шума. Поэтому оно не обязательно должно быть маленьким",
+        "user": "U0AS548A1",
+        "ts": "1475517602.000924",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Это список, который возвращает cross_val_score()",
+        "user": "U26NC465B",
+        "ts": "1475517608.000925",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Так это вроде в цикле надо запускать вне его",
+        "user": "U0DA4J82H",
+        "ts": "1475517660.000926",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1475517668.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Сколько людей нужно чтобы сделать GridSearchCV?)",
+        "user": "U1CF95PP1",
+        "ts": "1475517694.000928",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JNJDAET",
+                "created": 1475517727,
+                "timestamp": 1475517727,
+                "name": "score.png",
+                "title": "score.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U26NC465B",
+                "editable": false,
+                "size": 76290,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNJDAET\/score.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNJDAET\/download\/score.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 150,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 200,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 300,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 400,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNJDAET-d05093bae6\/score_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 427,
+                "image_exif_rotation": 1,
+                "original_w": 1092,
+                "original_h": 455,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JNJDAET\/score.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JNJDAET-3bb6754d52",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U26NC465B",
+        "display_as_bot": false,
+        "ts": "1475517733.000929"
+    },
+    {
+        "type": "message",
+        "text": "А ещё нынче модно использовать RandomizedSearchCV",
+        "user": "U1CF95PP1",
+        "ts": "1475517735.000930",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CF95PP1",
+            "ts": "1475517755.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF95PP1> проблема мне кажется не в том как задется С и что при этом можно использовать...",
+        "user": "U26NC465B",
+        "ts": "1475517782.000933",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Можешь данные скинуть?",
+        "user": "U1CF95PP1",
+        "ts": "1475517798.000934",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/inclass.kaggle.com\/c\/dota-2-win-probability-prediction\/data>",
+        "user": "U26NC465B",
+        "ts": "1475517901.000935",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data - Dota 2: Win Probability Prediction | Kaggle in Class",
+                "title_link": "https:\/\/inclass.kaggle.com\/c\/dota-2-win-probability-prediction\/data",
+                "text": "allows instructors to host data prediction competitions for their students. Competitions are a great way to engage students, giving them the opportunity to put into practice what they learn in class",
+                "fallback": "Data - Dota 2: Win Probability Prediction | Kaggle in Class",
+                "from_url": "https:\/\/inclass.kaggle.com\/c\/dota-2-win-probability-prediction\/data",
+                "service_icon": "https:\/\/inclass.kaggle.com\/content\/v\/1d6e48bac622\/inclass\/img\/apple-touch-icon.png",
+                "service_name": "inclass.kaggle.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "np.save('train.pkl', X)",
+        "user": "U0AS548A1",
+        "ts": "1475517944.000937",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AS548A1",
+            "ts": "1475517963.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Лучше сделай X.to_csv и y.to_csv",
+        "user": "U1CF95PP1",
+        "ts": "1475517946.000938",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CF95PP1",
+            "ts": "1475517948.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Используется features.csv. Целевое значение в 'radiant_win' , а для формирования Х нужно вікинуть последних 6 столбцов.",
+        "user": "U26NC465B",
+        "ts": "1475517997.000941",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "putin",
+                "users": [
+                    "U0AS548A1",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Сейчас",
+        "user": "U26NC465B",
+        "ts": "1475518007.000942",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "cross_val_score сам дергает fit",
+        "user": "U07JH63AA",
+        "ts": "1475518055.000943",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "you-dont-say",
+                "users": [
+                    "U1CF95PP1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Попробуй линейно засемпленные значения от 0 до 1 все-таки, мб что и поменяется :slightly_smiling_face:",
+        "user": "U24QAAZBL",
+        "ts": "1475518162.000944",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a3f93f9a3b72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-12\/328028349376_a3f93f9a3b72f5b5acea_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Kamenshchikov",
+            "display_name": "greenwolf",
+            "team": "T040HKJE3",
+            "name": "greenwolf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "что этот смайлик значит? :slightly_smiling_face: Это ведь объсняет что его вызов fit не имеет смысла, а в вызове cross_val_score i не участвует",
+        "user": "U07JH63AA",
+        "ts": "1475518208.000945",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну то есть C надо передавать в fit_params как в дикт, тогда будут разные значения",
+        "user": "U07JH63AA",
+        "ts": "1475518302.000946",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Оно ещё и predict наверно делает",
+        "user": "U1CF95PP1",
+        "ts": "1475518322.000947",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "```&gt;&gt;&gt; from sklearn.model_selection import cross_val_score\n&gt;&gt;&gt; clf = svm.SVC(kernel='linear', C=1)\n&gt;&gt;&gt; scores = cross_val_score(clf, iris.data, iris.target, cv=5)\n&gt;&gt;&gt; scores                                              \narray([ 0.96...,  1.  ...,  0.96...,  0.96...,  1.        ])```",
+        "user": "U1CF95PP1",
+        "ts": "1475518364.000948",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CF95PP1",
+            "ts": "1475518701.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Пример с <http:\/\/scikit-learn.org|scikit-learn.org>",
+        "user": "U1CF95PP1",
+        "ts": "1475518372.000949",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я когда сомневаюсь, я в исходники смотрю: <https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/master\/sklearn\/cross_validation.py#L1609>\nтут происходит вызов фит, с параметрами. Поэтому, как написано в исходном вопросе, так параметр C  в фит не попадает",
+        "user": "U07JH63AA",
+        "ts": "1475518710.000951",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "scikit-learn\/scikit-learn",
+                "title_link": "https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/master\/sklearn\/cross_validation.py#L1609",
+                "text": "scikit-learn: machine learning in Python",
+                "fallback": "GitHub: scikit-learn\/scikit-learn",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/365630?v=3&s=400",
+                "from_url": "https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/master\/sklearn\/cross_validation.py#L1609",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "В fit можно добавлять дополнительные параметры, но при этом старые, которые были в конструкторе никуда не деваются.",
+        "user": "U1CF95PP1",
+        "ts": "1475518764.000953",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Нужно смотреть не код cross_val_score, а код классификаторов.",
+        "user": "U1CF95PP1",
+        "ts": "1475518800.000954",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "можно, а можно быстро проверить добавив C в fit_params",
+        "user": "U07JH63AA",
+        "ts": "1475518853.000955",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а да, ты прав +)",
+        "user": "U07JH63AA",
+        "ts": "1475518881.000956",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "сорри, это ж конструктор",
+        "user": "U07JH63AA",
+        "ts": "1475518896.000957",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Короче, у меня комп виснет когда я пытаюсь записать X. Вот файл с данными и код, который формирует X и y",
+        "files": [
+            {
+                "id": "F2JNRJBRT",
+                "created": 1475519486,
+                "timestamp": 1475519486,
+                "name": "features.csv",
+                "title": "features.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U26NC465B",
+                "editable": false,
+                "size": 33074264,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNRJBRT\/features.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNRJBRT\/download\/features.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JNRJBRT\/features.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JNRJBRT-901bf70446",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U26NC465B",
+        "display_as_bot": false,
+        "ts": "1475519488.000958"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JM35VSP",
+                "created": 1475519489,
+                "timestamp": 1475519489,
+                "name": "test.ipynb",
+                "title": "test.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U26NC465B",
+                "editable": true,
+                "size": 816,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JM35VSP\/test.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JM35VSP\/download\/test.ipynb?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JM35VSP\/test.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JM35VSP-926398bcb5",
+                "edit_link": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JM35VSP\/test.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U26NC465B",
+        "display_as_bot": false,
+        "ts": "1475519490.000959"
+    },
+    {
+        "type": "message",
+        "text": "А не, заработало :smiley:",
+        "user": "U26NC465B",
+        "ts": "1475519575.000960",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JNGM5N0",
+                "created": 1475519606,
+                "timestamp": 1475519606,
+                "name": "X.csv",
+                "title": "X.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U26NC465B",
+                "editable": false,
+                "size": 31617985,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNGM5N0\/x.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNGM5N0\/download\/x.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JNGM5N0\/x.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JNGM5N0-07e0050833",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U26NC465B",
+        "display_as_bot": false,
+        "ts": "1475519609.000961"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JNL603A",
+                "created": 1475519612,
+                "timestamp": 1475519612,
+                "name": "y.csv",
+                "title": "y.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U26NC465B",
+                "editable": true,
+                "size": 766730,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNL603A\/y.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNL603A\/download\/y.csv?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JNL603A\/y.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JNL603A-bf0cbf2951",
+                "edit_link": "https:\/\/opendatascience.slack.com\/files\/U26NC465B\/F2JNL603A\/y.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U26NC465B",
+        "display_as_bot": false,
+        "ts": "1475519614.000962"
+    },
+    {
+        "type": "message",
+        "text": "Заработало сохранение?)",
+        "user": "U1CF95PP1",
+        "ts": "1475519627.000963",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Отвисло. Короче, криво прописал как-то и приходилось убивать процес, а тут... словом, получилось)",
+        "user": "U26NC465B",
+        "ts": "1475519677.000964",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "К слову, метрика ROC AUC.",
+        "user": "U26NC465B",
+        "ts": "1475519878.000965",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ща, я посмотрю",
+        "user": "U1CF95PP1",
+        "ts": "1475519885.000966",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JNQ4064",
+                "created": 1475520229,
+                "timestamp": 1475520229,
+                "name": "Pasted image at 2016_10_03 09_43 PM.png",
+                "title": "Пыщь",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CF95PP1",
+                "editable": false,
+                "size": 477987,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNQ4064\/pasted_image_at_2016_10_03_09_43_pm.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JNQ4064\/download\/pasted_image_at_2016_10_03_09_43_pm.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 208,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 277,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 554,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JNQ4064-7ee0780392\/pasted_image_at_2016_10_03_09_43_pm_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 591,
+                "image_exif_rotation": 1,
+                "original_w": 2334,
+                "original_h": 1348,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U1CF95PP1\/F2JNQ4064\/pasted_image_at_2016_10_03_09_43_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JNQ4064-6c85aef15c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U1CF95PP1",
+        "display_as_bot": false,
+        "ts": "1475520233.000967"
+    },
+    {
+        "type": "message",
+        "text": "Разные!",
+        "user": "U1CF95PP1",
+        "ts": "1475520364.000968",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я вижу, но есть пару нюансов. Сейчас, я проверю некоторые вещи и напишу вопросы.",
+        "user": "U26NC465B",
+        "ts": "1475520575.000969",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JP437B3",
+                "created": 1475520649,
+                "timestamp": 1475520649,
+                "name": "Screen Shot 2016-10-03 at 21.50.09.png",
+                "title": "Screen Shot 2016-10-03 at 21.50.09.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0AS548A1",
+                "editable": false,
+                "size": 160478,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JP437B3\/screen_shot_2016-10-03_at_21.50.09.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JP437B3\/download\/screen_shot_2016-10-03_at_21.50.09.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 246,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP437B3-7405d6ee7f\/screen_shot_2016-10-03_at_21.50.09_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 493,
+                "image_exif_rotation": 1,
+                "original_w": 837,
+                "original_h": 573,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U0AS548A1\/F2JP437B3\/screen_shot_2016-10-03_at_21.50.09.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JP437B3-d92d3ec030",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0AS548A1",
+        "display_as_bot": false,
+        "ts": "1475520652.000970"
+    },
+    {
+        "type": "message",
+        "text": "Там с данными нужно поиграться.",
+        "user": "U1CF95PP1",
+        "ts": "1475520675.000971",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "у меня средние при фиксированном С по фолдам получились одниковые :slightly_smiling_face:",
+        "user": "U0AS548A1",
+        "ts": "1475520689.000972",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AS548A1",
+            "ts": "1475520785.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "А, я забыл score auc сделать",
+        "user": "U1CF95PP1",
+        "ts": "1475520707.000973",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2JP57DGR",
+                "created": 1475520827,
+                "timestamp": 1475520827,
+                "name": "Pasted image at 2016_10_03 09_53 PM.png",
+                "title": "AUC",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CF95PP1",
+                "editable": false,
+                "size": 181702,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JP57DGR\/pasted_image_at_2016_10_03_09_53_pm.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F2JP57DGR\/download\/pasted_image_at_2016_10_03_09_53_pm.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 79,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 105,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 158,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 210,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F2JP57DGR-7262a69157\/pasted_image_at_2016_10_03_09_53_pm_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 224,
+                "image_exif_rotation": 1,
+                "original_w": 2294,
+                "original_h": 502,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U1CF95PP1\/F2JP57DGR\/pasted_image_at_2016_10_03_09_53_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F2JP57DGR-7b2ebccdc7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U1CF95PP1",
+        "display_as_bot": false,
+        "ts": "1475520831.000975"
+    },
+    {
+        "type": "message",
+        "text": "У меня на 0.2 больше :stuck_out_tongue:",
+        "user": "U1CF95PP1",
+        "ts": "1475520844.000976",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У меня только один вопрос: зачем дропнули start_time?\nПроясню задачу. Вопрос не как получить хорошие данные, почему не работает на том чем есть.\nВот инструкция которую приводят, это просто для общей ясности:\n&gt;&gt;&gt;Важно: не забывайте, что линейные алгоритмы чувствительны к масштабу признаков! Может пригодиться sklearn.preprocessing.StandartScaler.\n1. Оцените качество логистической регрессии (sklearn.linear_model.LogisticRegression с L2-регуляризацией) с помощью кросс-валидации по той же схеме, которая использовалась для градиентного бустинга. Подберите при этом лучший параметр регуляризации (C). Какое наилучшее качество у вас получилось? Как оно соотносится с качеством градиентного бустинга? Чем вы можете объяснить эту разницу? Быстрее ли работает логистическая регрессия по сравнению с градиентным бустингом?\n2. Среди признаков в выборке есть категориальные, которые мы использовали как числовые, что вряд ли является хорошей идеей. Категориальных признаков в этой задаче одиннадцать: lobby_type и r1_hero, r2_hero, ..., r5_hero, d1_hero, d2_hero, ..., d5_hero. Уберите их из выборки, и проведите кросс-валидацию для логистической регрессии на новой выборке с подбором лучшего параметра регуляризации. Изменилось ли качество? Чем вы можете это объяснить?\n3. На предыдущем шаге мы исключили из выборки признаки rM_hero и dM_hero, которые показывают, какие именно герои играли за каждую команду. Это важные признаки — герои имеют разные характеристики, и некоторые из них выигрывают чаще, чем другие. Выясните из данных, сколько различных идентификаторов героев существует в данной игре (вам может пригодиться фукнция unique или value_counts).\n4. Воспользуемся подходом \"мешок слов\" для кодирования информации о героях. Пусть всего в игре имеет N различных героев. Сформируем N признаков, при этом i-й будет равен нулю, если i-й герой не участвовал в матче; единице, если i-й герой играл за команду Radiant; минус единице, если i-й герой играл за команду Dire. Ниже вы можете найти код, который выполняет данной преобразование. Добавьте полученные признаки к числовым, которые вы использовали во втором пункте данного этапа.\n5. Проведите кросс-валидацию для логистической регрессии на новой выборке с подбором лучшего параметра регуляризации. Какое получилось качество? Улучшилось ли оно? Чем вы можете это объяснить?\n6. Постройте предсказания вероятностей победы команды Radiant для тестовой выборки с помощью лучшей из изученных моделей (лучшей с точки зрения AUC-ROC на кросс-валидации). Убедитесь, что предсказанные вероятности адекватные — находятся на отрезке [0, 1], не совпадают между собой (т.е. что модель не получилась константной).",
+        "user": "U26NC465B",
+        "ts": "1475520957.000977",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U26NC465B",
+            "ts": "1475520976.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "зачем ты кстати нормализовал данные",
+        "user": "U0AS548A1",
+        "ts": "1475520959.000978",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "для логистическое вроде же безразницы надо <@U1CF95PP1> ?",
+        "user": "U0AS548A1",
+        "ts": "1475520985.000980",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Чтобы обучалось быстрее.",
+        "user": "U1CF95PP1",
+        "ts": "1475520991.000981",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "кажется, я такое где-то видел",
+        "user": "U2D4XJL3A",
+        "ts": "1475520997.000982",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "53dcc050b600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-25\/108328945824_53dcc050b60000d4d7be_72.jpg",
+            "first_name": "Semion",
+            "real_name": "Semion VP",
+            "display_name": "psv",
+            "team": "T040HKJE3",
+            "name": "psv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "можно вызвать <@U14BPHDK6> , она все решит :slightly_smiling_face:",
+        "user": "U0M39M6LS",
+        "ts": "1475521008.000983",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вон в инструкции даже написано",
+        "user": "U1CF95PP1",
+        "ts": "1475521013.000984",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Кажется, все дело в масштабе... который я пропустил. Ведь то, что \"Важно!\", на самом деле не важно :sweat_smile:",
+        "user": "U26NC465B",
+        "ts": "1475521016.000985",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U26NC465B",
+            "ts": "1475521207.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Инструкцию не читай -- код выполняй!",
+        "user": "U1CF95PP1",
+        "ts": "1475521064.000987",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вообще я соврал, если есть регуллирзатор, то масштабирование уже важно",
+        "user": "U0AS548A1",
+        "ts": "1475521096.000988",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А, точн :slightly_smiling_face:",
+        "user": "U1CF95PP1",
+        "ts": "1475521110.000989",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U26NC465B> Ты понимаешь почему масштабирование важно?",
+        "user": "U1CF95PP1",
+        "ts": "1475521275.000991",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U1CF95PP1>  как  в анекдоте: \"Нутром чую, что литр, а доказать не могу!\" Сейчас подумаю и честно отвечу.\nНо вот если уже нужно объяснить почему, то нет.",
+        "user": "U26NC465B",
+        "ts": "1475521415.000992",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Там вроде, что-то с весами связано. Типа если у нас очень большой разброс, то какой-то выброс может очень сильно повлиять на модель. Правильно?",
+        "user": "U26NC465B",
+        "ts": "1475521535.000993",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Выведи у себя коэффициенты в LR",
+        "user": "U1CF95PP1",
+        "ts": "1475521572.000994",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "На листочке имеешь в виду?",
+        "user": "U26NC465B",
+        "ts": "1475521595.000995",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Не, после обучения в clf",
+        "user": "U1CF95PP1",
+        "ts": "1475521603.000996",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Хотя так непонятно будет, да...",
+        "user": "U1CF95PP1",
+        "ts": "1475521717.000997",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну мин и макс отличаются на 6 порядков",
+        "user": "U26NC465B",
+        "ts": "1475521719.000998",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Точнее на 9, если брать абсолютные значения",
+        "user": "U26NC465B",
+        "ts": "1475521801.000999",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Лучше выписать задачу оптимизации с регулеризатором и без",
+        "user": "U0AS548A1",
+        "ts": "1475521888.001000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493c194e4ec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12493c194e4ec990924dedf0a6d04d5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "kek",
+            "real_name": "kek",
+            "display_name": "iesh00a",
+            "team": "T040HKJE3",
+            "name": "evgeniiegorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У тебя коэффициенты из-за масштаба получаются очень разными, при каких-то слагаемых большие при каких-то маленькие. А в регулизаторе они все учитываются одиннаково",
+        "user": "U1CF95PP1",
+        "ts": "1475521896.001001",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В этом и проблема.",
+        "user": "U1CF95PP1",
+        "ts": "1475521900.001002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Та есть же, черт подери!) Спасибо! Теперь про масштаб вряд ли буду забывать :slightly_smiling_face:",
+        "user": "U26NC465B",
+        "ts": "1475522249.001003",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0M39M6LS>  не стоит Катю по пустякам тревожить =Р \n<@U14BPHDK6> мы уже все решили)",
+        "user": "U26NC465B",
+        "ts": "1475522496.001004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fdfe12b25fbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-31\/74771712738_fdfe12b25fbd0b58035d_72.jpg",
+            "first_name": "Oleh",
+            "real_name": "Oleh Shyshkin",
+            "display_name": "oleh",
+            "team": "T040HKJE3",
+            "name": "oleh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475524611.001005",
+        "user": "U2JPLB06S",
+        "text": "<@U2JPLB06S> has joined the channel"
+    }
+]

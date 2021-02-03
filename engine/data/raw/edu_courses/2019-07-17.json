@@ -1,0 +1,432 @@
+[
+    {
+        "client_msg_id": "08e3f182-fa05-424f-ab07-121980c0798d",
+        "type": "message",
+        "text": "Привет! А кто-нибудь проходил курс: <https:\/\/skillfactory.ru\/deep-learning>? Подойдет ли он для разработчиков без опыта в ML?",
+        "user": "U24QAAZBL",
+        "ts": "1563350738.283400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a3f93f9a3b72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-12\/328028349376_a3f93f9a3b72f5b5acea_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Kamenshchikov",
+            "display_name": "greenwolf",
+            "team": "T040HKJE3",
+            "name": "greenwolf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24QAAZBL",
+            "ts": "1563350746.000000"
+        },
+        "thread_ts": "1563350738.283400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1563353430.283900",
+        "reply_users": [
+            "UDHJKLGLR"
+        ],
+        "replies": [
+            {
+                "user": "UDHJKLGLR",
+                "ts": "1563353430.283900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3acb208a-5899-4235-a343-a75ad4f62c4c",
+        "type": "message",
+        "text": "а че не <http:\/\/fast.ai|fast.ai>?",
+        "user": "UDHJKLGLR",
+        "ts": "1563353430.283900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563350738.283400",
+        "parent_user_id": "U24QAAZBL"
+    },
+    {
+        "client_msg_id": "11c15444-2c3f-463c-8211-4025b36f6975",
+        "type": "message",
+        "text": "Вот от Udacity пришло: выглядит довольно интересно. Идея, как я понимаю в том, чтобы пройти бесплатный курс по RL от Udacity, чтобы подготовиться к соревнованию по RL от AWS, чтобы, если  хорошо выступишь, бесплатно пройти на Udacity Machine Learning Engineer Nanodegree.\n```\nJoin the AWS DeepRacer Scholarship Challenge to win a machine learning scholarship!\n\nAWS and Udacity are teaming up to teach machine learning and prepare students to compete in the AWS DeepRacer League—the world's first autonomous racing league. Compete in the AWS DeepRacer League Virtual Circuit and you could win a full scholarship to the Machine Learning Engineer Nanodegree program!\n\nHow the Scholarship Challenge works\n\nFirst, take our free Scholarship Challenge course to prepare for the AWS DeepRacer League, and learn how to train your own reinforcement learning-based racer with the AWS DeepRacer platform.\n\nThen, use the skills you learn to compete with your peers in the AWS DeepRacer League Virtual Circuit. Along the way, participate in a vibrant student community where you'll collaborate with classmates and receive tips and guidance from experts.\n\nTop performers in the AWS DeepRacer League will earn one of 200 full scholarships to the Machine Learning Engineer Nanodegree program!\n\nLearn more and register for the free course\n\nEnter your email address to get notified immediately once the free course is available on Aug‍ust 1‍st, 20‍19.\n```",
+        "user": "U3P82LKDK",
+        "ts": "1563396009.286700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3P82LKDK",
+            "ts": "1563396106.000000"
+        },
+        "thread_ts": "1563396009.286700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1563421537.289500",
+        "reply_users": [
+            "U1BMURR5G",
+            "U3CJPQ4HX",
+            "U97BME4Q7",
+            "UL95F64PP",
+            "U4ZRFG1V0"
+        ],
+        "replies": [
+            {
+                "user": "U1BMURR5G",
+                "ts": "1563396295.287100"
+            },
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1563397125.287400"
+            },
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1563397130.287700"
+            },
+            {
+                "user": "U3CJPQ4HX",
+                "ts": "1563397267.287900"
+            },
+            {
+                "user": "U97BME4Q7",
+                "ts": "1563397396.288100"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1563420529.288900"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1563421498.289300"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1563421537.289500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "deeper",
+                "users": [
+                    "U0ZJSC8JC",
+                    "UBM4B8CBU",
+                    "U4ZRFG1V0",
+                    "U6L08K8KS",
+                    "U7SFPUVQF",
+                    "UB4AGRL3C",
+                    "U4WGFD012",
+                    "U27SUBTB9",
+                    "UD8HRS7LK",
+                    "UE259V12B",
+                    "U10K3LXHV",
+                    "U5F198S75",
+                    "U10JSP4NT"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85c96f1b-70ed-492b-a387-1548f08291f1",
+        "type": "message",
+        "text": "what exactly is deepracer?",
+        "user": "U1BMURR5G",
+        "ts": "1563396295.287100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "a70be814-841e-431b-9d37-bb639dd9bc11",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1563396918420900>",
+        "user": "U3CJPQ4HX",
+        "ts": "1563397125.287400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1563396918420900",
+                "fallback": "[July 17th, 2019 1:55 PM] atanas.atanasov.sf: <https:\/\/aws.amazon.com\/deepracer\/>\nAWS DeepRacer League\nposted in <#C11570C1F|reinforcement_learnin> but put it here too for better challenge exposure",
+                "ts": "1563396918.420900",
+                "author_id": "U97BME4Q7",
+                "author_subname": "Atanas Atanasov",
+                "channel_id": "C043ZEF6K",
+                "channel_name": "kaggle_crackers",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<https:\/\/aws.amazon.com\/deepracer\/>\nAWS DeepRacer League\nposted in <#C11570C1F|reinforcement_learnin> but put it here too for better challenge exposure",
+                "author_name": "Atanas Atanasov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U97BME4Q7",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-02-10\/313113763700_8d1ca734d3ce259ae569_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C043ZEF6K\/p1563396918420900",
+                "footer": "Thread in #kaggle_crackers"
+            }
+        ],
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "a6c7c8ae-e0f8-48fb-bb68-30004a14c585",
+        "type": "message",
+        "text": "<@U1BMURR5G> ^",
+        "user": "U3CJPQ4HX",
+        "ts": "1563397130.287700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "65ce058b-8e4f-4e2a-bbbe-e79b5c770d68",
+        "type": "message",
+        "text": "Атанас удалил мессагу :pepe_sad:",
+        "user": "U3CJPQ4HX",
+        "ts": "1563397267.287900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81e61ee4bf32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-15\/286980455123_81e61ee4bf32b45d4cec_72.jpg",
+            "first_name": "Sava",
+            "real_name": "Sava Kalbachou",
+            "display_name": "thinline72",
+            "team": "T040HKJE3",
+            "name": "thinline72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "eb86dd40-0d8b-408b-9e05-fa49e7904c5b",
+        "type": "message",
+        "text": "posted again :slightly_smiling_face:",
+        "user": "U97BME4Q7",
+        "ts": "1563397396.288100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d1ca734d3ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-10\/313113763700_8d1ca734d3ce259ae569_72.jpg",
+            "first_name": "Atanas",
+            "real_name": "Atanas Atanasov",
+            "display_name": "Atanas Atanasov",
+            "team": "T040HKJE3",
+            "name": "atanas.atanasov.sf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3CJPQ4HX",
+                    "U3P82LKDK",
+                    "U53E5MFNU",
+                    "U4ZRFG1V0",
+                    "U1BMURR5G"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e35e83ad-2e3c-47b2-a6d0-a0ce7799aca5",
+        "type": "message",
+        "text": "Машинки типа как на степике чтоли",
+        "user": "UL95F64PP",
+        "ts": "1563420529.288900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2ae4a8707c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/689956335812_2ae4a8707c298d858f6a_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Burovin",
+            "display_name": "Kupchanski",
+            "team": "T040HKJE3",
+            "name": "kirich_s4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "client_msg_id": "3b734ebf-963e-472e-bb29-2ec7c8c809b9",
+        "type": "message",
+        "text": "Звучит забавно: если вы успешно освоите RL, то мы научим вас ML",
+        "user": "U4ZRFG1V0",
+        "ts": "1563421498.289300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK",
+        "reactions": [
+            {
+                "name": "man-shrugging",
+                "users": [
+                    "UL95F64PP",
+                    "UEP0QHYLR",
+                    "U1BMURR5G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "U60EETE7N",
+                    "UDD345XLG",
+                    "U9W1PD5QD",
+                    "U4WM1939Q",
+                    "U0546DHDK",
+                    "UE0LPDS8L",
+                    "UHGUXSJRK"
+                ],
+                "count": 7
+            },
+            {
+                "name": "face_palm",
+                "users": [
+                    "UL8LCMJAY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kekeke",
+                "users": [
+                    "U562KSN69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da760734-219d-4c56-9c1e-b55bd291a806",
+        "type": "message",
+        "text": "<https:\/\/blog.udacity.com\/2019\/07\/announcing-the-deepracer-scholarship-challenge-from-aws.html>\nА вот ссылочка.\nРегистрация открывается 1 августа",
+        "user": "U4ZRFG1V0",
+        "ts": "1563421537.289500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Udacity",
+                "title": "Announcing the DeepRacer Scholarship Challenge from AWS | Udacity",
+                "title_link": "https:\/\/blog.udacity.com\/2019\/07\/announcing-the-deepracer-scholarship-challenge-from-aws.html",
+                "text": "Udacity and AWS are excited to offer students machine learning deep learning skills with the DeepRacer Scholarship Challenge from Amazon Web Services (AWS).",
+                "fallback": "Udacity: Announcing the DeepRacer Scholarship Challenge from AWS | Udacity",
+                "image_url": "https:\/\/blog.udacity.com\/wp-content\/uploads\/2019\/07\/Image-1.png",
+                "ts": 1563382840,
+                "from_url": "https:\/\/blog.udacity.com\/2019\/07\/announcing-the-deepracer-scholarship-challenge-from-aws.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 98755,
+                "service_icon": "https:\/\/i1.wp.com\/blog.udacity.com\/wp-content\/uploads\/2017\/06\/cropped-favicon.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/blog.udacity.com\/2019\/07\/announcing-the-deepracer-scholarship-challenge-from-aws.html"
+            }
+        ],
+        "thread_ts": "1563396009.286700",
+        "parent_user_id": "U3P82LKDK"
+    }
+]

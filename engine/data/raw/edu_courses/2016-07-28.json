@@ -1,0 +1,176 @@
+[
+    {
+        "type": "message",
+        "text": "Например, чтобы не писал запросы, которые будут жарить продакшн OLTP",
+        "user": "U14CTBLFJ",
+        "ts": "1469699600.000193",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1FLG6YR1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Или O(15), когда можно обойтись O(сильно меньше)",
+        "user": "U14CTBLFJ",
+        "ts": "1469699761.000194",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "НУ и пускают у всех по-разному. Этим ребятам, например, нужен тоже DS, помимо SW, <https:\/\/angel.co\/leolabs> . И сразу заходить в продакшн надо.",
+        "user": "U14CTBLFJ",
+        "ts": "1469700338.000195",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Sign up - AngelList",
+                "title_link": "https:\/\/angel.co\/leolabs",
+                "text": "Sign up to get a job at a startup, invest in one or raise money.",
+                "fallback": "Sign up - AngelList",
+                "from_url": "https:\/\/angel.co\/leolabs",
+                "service_name": "angel.co",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469700441.000197",
+        "user": "U0FEJNBGQ",
+        "text": "<@U0FEJNBGQ> has left the channel",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U0E21LW49",
+                    "U1FLG6YR1",
+                    "U0JHK9001",
+                    "U09JEC7V0",
+                    "U041LH06L",
+                    "U0DA4J82H",
+                    "U0M39M6LS"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ну обладать какой-то вменяемой грамотностью - обязанность, как мне кажется, другое дело уметь обеспечивать лютый latency и rate. Все таки аналитик о другом должен думать, если есть разделение в компании на исследователей и инженеров прода",
+        "user": "U1FLG6YR1",
+        "ts": "1469704049.000198",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c022abb8518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-12\/1235020966997_6c022abb85181ea6cab0_72.png",
+            "first_name": "Адам",
+            "real_name": "Адам Елдаров",
+            "display_name": "hushpar",
+            "team": "T040HKJE3",
+            "name": "hushpar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1FLG6YR1",
+            "ts": "1469704175.000000"
+        },
+        "reactions": [
+            {
+                "name": "grammar",
+                "users": [
+                    "U0E2W4VKL",
+                    "U0JHK9001",
+                    "U0DA4J82H",
+                    "U1FLG6YR1",
+                    "U049HDR2Z"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U041LH06L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469709234.000200",
+        "user": "U1W19F8E6",
+        "text": "<@U1W19F8E6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469716844.000201",
+        "user": "U1W0R4GV9",
+        "text": "<@U1W0R4GV9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469719030.000202",
+        "user": "U1W2MQ5FS",
+        "text": "<@U1W2MQ5FS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469731236.000203",
+        "user": "U1W5KRCPK",
+        "text": "<@U1W5KRCPK> has joined the channel"
+    }
+]

@@ -1,0 +1,712 @@
+[
+    {
+        "client_msg_id": "ad4cfe06-a12e-4403-8fc9-fc0615ffa7df",
+        "type": "message",
+        "text": "Привет, ODS!\nХочу подробно разобраться в работе XGBoost, в теории и прикладных аспектах, какие ресурсы посоветуете?",
+        "user": "UQ3MN4ERE",
+        "ts": "1602059506.236600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d5191dc539a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-07\/1412332627283_d5191dc539a89fe9d92b_72.jpg",
+            "first_name": "",
+            "real_name": "Qwertypine",
+            "display_name": "Qwertypine",
+            "team": "T040HKJE3",
+            "name": "lemon.zero777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Mur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет, ODS!\nХочу подробно разобраться в работе XGBoost, в теории и прикладных аспектах, какие ресурсы посоветуете?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1602149591.260000",
+        "reply_users": [
+            "U7A9NQMGW",
+            "U9BDT48M8",
+            "U2N853RGF",
+            "U91DVVDT9",
+            "U6SCXUP6U",
+            "UCMC5J36D",
+            "URD0C4N2U"
+        ],
+        "replies": [
+            {
+                "user": "U7A9NQMGW",
+                "ts": "1602059889.236900"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1602060303.238000"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1602060851.238300"
+            },
+            {
+                "user": "U91DVVDT9",
+                "ts": "1602064307.239200"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1602073096.240100"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1602079430.243500"
+            },
+            {
+                "user": "URD0C4N2U",
+                "ts": "1602149591.260000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "UDHJKLGLR",
+                    "U60EETE7N",
+                    "UCFT73AGM",
+                    "ULF96QF3K"
+                ],
+                "count": 4
+            },
+            {
+                "name": "black_medium_square",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21938a1d-8305-47fe-ba2f-c12497787d76",
+        "type": "message",
+        "text": "<https:\/\/arxiv.org\/pdf\/1603.02754.pdf> и\n<https:\/\/habr.com\/en\/company\/ods\/blog\/327250\/> теория\n\nА практика зависит от твоих задач",
+        "user": "U7A9NQMGW",
+        "ts": "1602059889.236900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "356276ff0ed2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1047860809202_356276ff0ed2a9b494b8_72.jpg",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Knyazyatov",
+            "display_name": "StanislavLeet",
+            "team": "T040HKJE3",
+            "name": "stivysik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Открытый курс машинного обучения. Тема 10. Градиентный бустинг",
+                "title_link": "https:\/\/habr.com\/en\/company\/ods\/blog\/327250\/",
+                "text": "Всем привет! Настало время пополнить наш с вами алгоритмический арсенал. Сегодня мы основательно разберем один из наиболее популярных и применяемых на практике...",
+                "fallback": "Открытый курс машинного обучения. Тема 10. Градиентный бустинг",
+                "image_url": "https:\/\/habr.com\/share\/publication\/327250\/4a7e261c3a41ee780ca49890319c1a22\/?v=1",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/habr.com\/en\/company\/ods\/blog\/327250\/",
+                "image_bytes": 43208,
+                "service_icon": "https:\/\/dr.habracdn.net\/habr\/5f7d7710\/images\/apple-touch-icon.png",
+                "service_name": "Habr",
+                "id": 1,
+                "original_url": "https:\/\/habr.com\/en\/company\/ods\/blog\/327250\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "toqyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/pdf\/1603.02754.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/habr.com\/en\/company\/ods\/blog\/327250\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " теория\n\nА практика зависит от твоих задач"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE"
+    },
+    {
+        "client_msg_id": "B085BC6C-C2EB-4FCA-BE9D-EE5EAC508337",
+        "type": "message",
+        "text": "Здесь есть математическое описание всех популярных реализаций бустинга:\n\n<https:\/\/drive.google.com\/file\/d\/13nP0Rd_8vWa-ZvF5Zg2xLjOA2XELdi43\/view?fbclid=IwAR1LTYc3ScrgioZfqWYZoS9y2vlNjsUGFU9SXvG_pQr42Heeetws3Lky04U&amp;hl=en|https:\/\/drive.google.com\/file\/d\/13nP0Rd_8vWa-ZvF5Zg2xLjOA2XELdi43\/view?fbclid=IwAR1LTYc3ScrgioZfqWYZoS9y2vlNjsUGFU9SXvG_pQr42Heeetws3Lky04U&amp;hl=en>",
+        "user": "U9BDT48M8",
+        "ts": "1602060303.238000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Здесь есть математическое описание всех популярных реализаций бустинга:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/13nP0Rd_8vWa-ZvF5Zg2xLjOA2XELdi43\/view?fbclid=IwAR1LTYc3ScrgioZfqWYZoS9y2vlNjsUGFU9SXvG_pQr42Heeetws3Lky04U&hl=en",
+                                "text": "https:\/\/drive.google.com\/file\/d\/13nP0Rd_8vWa-ZvF5Zg2xLjOA2XELdi43\/view?fbclid=IwAR1LTYc3ScrgioZfqWYZoS9y2vlNjsUGFU9SXvG_pQr42Heeetws3Lky04U&hl=en"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ3MN4ERE",
+                    "U06J2SBQA",
+                    "UFDTSUTBL",
+                    "ULF96QF3K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5bf693d-bf72-4e77-aada-27f1fbac6b1e",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=OtD8wVaFm6E&amp;ab_channel=StatQuestwithJoshStarmer>\nв четырех частях",
+        "user": "U2N853RGF",
+        "ts": "1602060851.238300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "XGBoost Part 1: Regression",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OtD8wVaFm6E&amp;ab_channel=StatQuestwithJoshStarmer",
+                "author_name": "StatQuest with Josh Starmer",
+                "author_link": "https:\/\/www.youtube.com\/user\/joshstarmer",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OtD8wVaFm6E\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: XGBoost Part 1: Regression",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OtD8wVaFm6E?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OtD8wVaFm6E&amp;ab_channel=StatQuestwithJoshStarmer",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OtD8wVaFm6E&amp;ab_channel=StatQuestwithJoshStarmer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mf=\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=OtD8wVaFm6E&ab_channel=StatQuestwithJoshStarmer"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nв четырех частях"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8PMZ6397",
+                    "UHGUXSJRK",
+                    "UCMC5J36D",
+                    "U1UNFRQ1K",
+                    "ULF96QF3K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U5H0L5T98",
+                    "U62N1NJUC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "660a81fb-d2a0-4f6a-a572-b20eb6b50444",
+        "type": "message",
+        "text": "Про теорию\n\n<https:\/\/alexanderdyakonov.files.wordpress.com\/2017\/06\/book_boosting_pdf.pdf>",
+        "user": "U91DVVDT9",
+        "ts": "1602064307.239200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "06426f9e7666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-09\/943969831232_06426f9e7666ae75e0b3_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Lomdjaria",
+            "display_name": "Lomdji",
+            "team": "T040HKJE3",
+            "name": "lomdjaria11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Про теорию\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/alexanderdyakonov.files.wordpress.com\/2017\/06\/book_boosting_pdf.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE"
+    },
+    {
+        "client_msg_id": "27d84966-64dd-4494-87f3-08a27238e568",
+        "type": "message",
+        "text": "<https:\/\/habr.com\/ru\/company\/mailru\/blog\/438560\/>",
+        "user": "U6SCXUP6U",
+        "ts": "1602073096.240100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Пишем XGBoost с нуля — часть 1: деревья решений",
+                "title_link": "https:\/\/habr.com\/ru\/company\/mailru\/blog\/438560\/",
+                "text": "Привет, Хабр! После многочисленных поисков качественных руководств о решающих деревьях и ансамблевых алгоритмах (бустинг, решающий лес и пр.) с их непосредств...",
+                "fallback": "Пишем XGBoost с нуля — часть 1: деревья решений",
+                "image_url": "https:\/\/habr.com\/share\/publication\/438560\/80c713e5291557b9a6423f1b2781e2e0\/?v=1",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/habr.com\/ru\/company\/mailru\/blog\/438560\/",
+                "image_bytes": 37381,
+                "service_icon": "https:\/\/dr.habracdn.net\/habr\/5f7d994f\/images\/apple-touch-icon.png",
+                "service_name": "Хабр",
+                "id": 1,
+                "original_url": "https:\/\/habr.com\/ru\/company\/mailru\/blog\/438560\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RK0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/habr.com\/ru\/company\/mailru\/blog\/438560\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1UNFRQ1K",
+                    "UMQSP3DJM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00cc4fad-a50b-4e97-9bec-f554374918ee",
+        "type": "message",
+        "text": "<https:\/\/explained.ai\/gradient-boosting\/>\nсм. roadmap",
+        "user": "UCMC5J36D",
+        "ts": "1602079430.243500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCMC5J36D",
+            "ts": "1602079438.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ze2Td",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/explained.ai\/gradient-boosting\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nсм. roadmap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602059506.236600",
+        "parent_user_id": "UQ3MN4ERE"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602086020.244100",
+        "user": "UD0KZQX2Q",
+        "text": "<@UD0KZQX2Q> has joined the channel",
+        "inviter": "UA07YJGCC"
+    },
+    {
+        "client_msg_id": "ae58a386-4541-42d9-931b-6a18a8f8b4e4",
+        "type": "message",
+        "text": "Курс по Deep Learning от Yan LeCun. :pytorch:, 11 языков, включая :flag-ru: (реально переключил и там всеми любимые \"внимание\" и \"предсказательное управление\"), есть :github:, есть сайт, где все текстом как книга и с оглавлением, есть видео, есть :jupyter: и есть домашки. Судя по твиттеру ЛеКуна это не :bayan: и курс выложен только 7-го октября, вроде в канале ещё не было. Судя по списку тем выглядит свежо и актуально, с учетом русского языка может быть неплох для тех, кто :mutko:.\n<https:\/\/atcold.github.io\/pytorch-Deep-Learning\/|https:\/\/atcold.github.io\/pytorch-Deep-Learning\/>",
+        "user": "U7SFPUVQF",
+        "ts": "1602134756.253100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Курс по Deep Learning от Yan LeCun. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pytorch"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 11 языков, включая "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-ru"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (реально переключил и там всеми любимые \"внимание\" и \"предсказательное управление\"), есть "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "github"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", есть сайт, где все текстом как книга и с оглавлением, есть видео, есть "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "jupyter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и есть домашки. Судя по твиттеру ЛеКуна это не "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bayan"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и курс выложен только 7-го октября, вроде в канале ещё не было. Судя по списку тем выглядит свежо и актуально, с учетом русского языка может быть неплох для тех, кто "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mutko"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atcold.github.io\/pytorch-Deep-Learning\/",
+                                "text": "https:\/\/atcold.github.io\/pytorch-Deep-Learning\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602134756.253100",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1602242347.280100",
+        "reply_users": [
+            "U7KDVG6LS",
+            "U4UQPNV9S",
+            "U6Z21KSBC",
+            "U7SFPUVQF",
+            "UCBR1BP37",
+            "U6YDWF4UB"
+        ],
+        "replies": [
+            {
+                "user": "U7KDVG6LS",
+                "ts": "1602142962.257500"
+            },
+            {
+                "user": "U4UQPNV9S",
+                "ts": "1602143043.257800"
+            },
+            {
+                "user": "U7KDVG6LS",
+                "ts": "1602143338.258100"
+            },
+            {
+                "user": "U7KDVG6LS",
+                "ts": "1602143348.258300"
+            },
+            {
+                "user": "U6Z21KSBC",
+                "ts": "1602143572.258600"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1602146345.259600"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1602151907.261000"
+            },
+            {
+                "user": "U6YDWF4UB",
+                "ts": "1602152172.262000"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1602242347.280100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U53E5MFNU",
+                    "URFHG8KDF",
+                    "U01BM0VG4MU",
+                    "U710D2PPX",
+                    "UPD44DC00",
+                    "UE0MX5Y67",
+                    "U0160NPBNKY",
+                    "UAMR2UY9K",
+                    "ULMML7Z5K",
+                    "U6SHTGD5X",
+                    "U6CJNRTJN",
+                    "U62N1NJUC",
+                    "U6XMXEHHT",
+                    "UJUCG9QSC",
+                    "U9HSZRDP1",
+                    "UP07MDUQK",
+                    "U6VR5P1JB",
+                    "U6SCXUP6U",
+                    "UUHBNFF8X",
+                    "UTFABAPL1",
+                    "UDK41MN5U",
+                    "U6B4LEZ0D",
+                    "U7VFY2DUM",
+                    "U7KDVG6LS",
+                    "UDHJKLGLR",
+                    "UJ8BXBM36",
+                    "U625V2J3G",
+                    "UCW4TBCER",
+                    "U1BMURR5G",
+                    "U6YDWF4UB",
+                    "USJDT3A0H",
+                    "UCMC5J36D",
+                    "UEC5M0FQX",
+                    "U8J9XMX3J",
+                    "UC9J53NAY",
+                    "U01CR8W6B96",
+                    "UELA14HSS",
+                    "UG8K6LD6D",
+                    "U6MU2LH35",
+                    "U7DEPRKCZ",
+                    "U1UQHNK5M",
+                    "UMME6QQ2J",
+                    "U01C5C812FQ",
+                    "U01663QQF8D",
+                    "UFDTSUTBL"
+                ],
+                "count": 45
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "URFHG8KDF",
+                    "U01BM0VG4MU",
+                    "U710D2PPX",
+                    "UPD44DC00",
+                    "UHSR5B6LT",
+                    "UCNJCFKHT",
+                    "ULMML7Z5K",
+                    "U62N1NJUC",
+                    "U013HVDEALE",
+                    "U2G7A4ALR",
+                    "U9HSZRDP1",
+                    "U6SCXUP6U",
+                    "UTFABAPL1",
+                    "U1D6DT6HE",
+                    "UDK41MN5U",
+                    "U6B4LEZ0D",
+                    "U7KDVG6LS",
+                    "U625V2J3G",
+                    "UCW4TBCER",
+                    "U6YDWF4UB",
+                    "UDRP24H8Q",
+                    "USJDT3A0H",
+                    "UCMC5J36D",
+                    "UEC5M0FQX",
+                    "UC9J53NAY",
+                    "UELA14HSS",
+                    "UG8K6LD6D",
+                    "U6TFPN2CQ"
+                ],
+                "count": 28
+            }
+        ]
+    }
+]

@@ -1,0 +1,760 @@
+[
+    {
+        "client_msg_id": "FD3D7406-0A50-4800-AA09-0E23D5E98A94",
+        "type": "message",
+        "text": "На Otus в курсе МЛ был модуль по работе с dlib",
+        "user": "U2N853RGF",
+        "ts": "1592390718.404200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На Otus в курсе МЛ был модуль по работе с dlib"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592230396.396900",
+        "parent_user_id": "U010Q300E3C"
+    },
+    {
+        "client_msg_id": "E66AB282-6650-4910-B6BB-5810C1BC9D5B",
+        "type": "message",
+        "text": "Курс Александра Дьяконова по DL для студентов ВМК. Программа выглядит :top:, в открытом доступе пока только слайды <https:\/\/github.com\/Dyakonov\/DL|https:\/\/github.com\/Dyakonov\/DL>",
+        "user": "U1UNFRQ1K",
+        "ts": "1592393695.406100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Dyakonov\/DL",
+                "text": "курс \"Глубокое обучение (Deep Learning)\" на факультете ВМК МГУ имени М.В. Ломоносова",
+                "title": "Dyakonov\/DL",
+                "footer": "<https:\/\/github.com\/Dyakonov\/DL|Dyakonov\/DL>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1549540639,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "14",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "8 days ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/Dyakonov\/DL",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9BB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Курс Александра Дьяконова по DL для студентов ВМК. Программа выглядит "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "top"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", в открытом доступе пока только слайды "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Dyakonov\/DL",
+                                "text": "https:\/\/github.com\/Dyakonov\/DL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1592845189.449300",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "UQHMENDGF",
+            "U90B3UTFY",
+            "U50EVF538",
+            "UL95F64PP",
+            "UL958AM32",
+            "U0SBLSTJ4",
+            "UKCL2BQAZ"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1592395501.408900"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1592398380.410300"
+            },
+            {
+                "user": "UQHMENDGF",
+                "ts": "1592410695.413700"
+            },
+            {
+                "user": "U90B3UTFY",
+                "ts": "1592412870.414400"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1592413371.417000"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1592413437.418200"
+            },
+            {
+                "user": "U90B3UTFY",
+                "ts": "1592413865.418600"
+            },
+            {
+                "user": "U50EVF538",
+                "ts": "1592453534.422900"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1592465056.423500"
+            },
+            {
+                "user": "UL958AM32",
+                "ts": "1592467125.423900"
+            },
+            {
+                "user": "U0SBLSTJ4",
+                "ts": "1592562360.427800"
+            },
+            {
+                "user": "UKCL2BQAZ",
+                "ts": "1592740892.434500"
+            },
+            {
+                "user": "UL958AM32",
+                "ts": "1592740968.435000"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1592845189.449300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U625V2J3G",
+                    "U709XK88H",
+                    "UB4AGRL3C",
+                    "UUCMUC3D1",
+                    "U70TZK6Q3",
+                    "UEUL0CPS5",
+                    "UQJ1G0C4S",
+                    "U5QBU8SUR",
+                    "UFVAZ7010",
+                    "U87R75WA2",
+                    "UCAEKNA4V",
+                    "U8PMZ6397",
+                    "UL95AM9FS",
+                    "UCW4TBCER",
+                    "UG0HNBP6F",
+                    "UCMC5J36D",
+                    "U6SCXUP6U",
+                    "USJDT3A0H",
+                    "U3KEKR5NJ",
+                    "U53E5MFNU",
+                    "U6CKPN7C5",
+                    "U7SFPUVQF",
+                    "U7ZU88E0L",
+                    "UNFTX1XT9",
+                    "U55DBLZA8",
+                    "U6SHTGD5X",
+                    "UBM0JAD0B",
+                    "UCB299L15",
+                    "UV0QVMDV0",
+                    "U1CMPEWPQ",
+                    "U91DVVDT9",
+                    "UL94X7JEL",
+                    "U6L08K8KS",
+                    "U5FCA4F8X",
+                    "UMQSP3DJM",
+                    "UL958AM32",
+                    "U01241C9K27",
+                    "UB4AFSWP4",
+                    "U1D6DT6HE",
+                    "UHSR5B6LT",
+                    "UH1GA3UQ6",
+                    "U4Z9Q18QH",
+                    "UFM7T1FJS",
+                    "U4WM1939Q",
+                    "UJUCG9QSC",
+                    "UEP11CDTK",
+                    "UB4BD0R6W",
+                    "UJXD6KQPN",
+                    "UGRFZ1DS5",
+                    "U786N351N"
+                ],
+                "count": 57
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "UDK41MN5U",
+                    "UGF8L176H",
+                    "U53E5MFNU",
+                    "UB4F4DZGV",
+                    "U1D6DT6HE",
+                    "U0SBLSTJ4",
+                    "UJXD6KQPN"
+                ],
+                "count": 7
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U53E5MFNU",
+                    "UPD44DC00",
+                    "U1D6DT6HE",
+                    "UJXD6KQPN",
+                    "UBXKRV90Q"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "UQQCBTFS6",
+                    "UBXKRV90Q"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cmc_msu",
+                "users": [
+                    "UJ2N4SVBJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5AAF5D13-961B-45A4-8349-FD9AB676EE5C",
+        "type": "message",
+        "text": "Для желающих законтрибьюьить в курс Дьяконова и потом указать это в резюме: нашёл опечатку в ридми \n\n&gt; Важно: чтобы в нём были Ваши настойщие ФИО",
+        "user": "U1UNFRQ1K",
+        "ts": "1592395501.408900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vQ5z8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Для желающих законтрибьюьить в курс Дьяконова и потом указать это в резюме: нашёл опечатку в ридми \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "> Важно: чтобы в нём были Ваши настойщие ФИО"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "smekalka_hyper",
+                "users": [
+                    "UHR5Q170B",
+                    "U1V57JCUF",
+                    "U625V2J3G",
+                    "USJDT3A0H",
+                    "U7SFPUVQF",
+                    "UB4F4DZGV",
+                    "UN88FQFRC",
+                    "U1D6DT6HE"
+                ],
+                "count": 8
+            },
+            {
+                "name": "smekalka",
+                "users": [
+                    "UGRFZ1DS5",
+                    "U8PMZ6397",
+                    "U625V2J3G",
+                    "USJDT3A0H",
+                    "U7SFPUVQF",
+                    "U7N4E8GBF",
+                    "UN88FQFRC",
+                    "U1D6DT6HE"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13F33D47-2BD4-40FE-9332-9B24B2E65CD5",
+        "type": "message",
+        "text": "TernausNet тоже в списке ",
+        "user": "U1UNFRQ1K",
+        "ts": "1592398380.410300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TernausNet тоже в списке "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "ternaus",
+                "users": [
+                    "U6Z21KSBC",
+                    "UP1JY3PK2",
+                    "USJDT3A0H",
+                    "UMM4N60K1",
+                    "U7SFPUVQF",
+                    "U1BMURR5G",
+                    "U625V2J3G",
+                    "U53E5MFNU",
+                    "UB4F4DZGV",
+                    "U7N4E8GBF",
+                    "U04ELQZAU",
+                    "UJ24E7YF6",
+                    "ULPRYQNS2",
+                    "U1D6DT6HE",
+                    "UCAEKNA4V",
+                    "UJ8UE41FS",
+                    "U3E5GMTCJ",
+                    "ULA9M7CM9",
+                    "ULMML7Z5K",
+                    "UHGUXSJRK"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77b28126-0a2e-49d0-98dc-f8b383f09876",
+        "type": "message",
+        "text": "В тгу готовит лучше чем политех. Политех поверхностен в этом плане.",
+        "user": "UREBDJ38B",
+        "ts": "1592409491.413300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g23c6d21af01",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23c6d21af0136b160a86065a884c472a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Annavshk",
+            "display_name": "Annavshk",
+            "team": "T040HKJE3",
+            "name": "annavshk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdDiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В тгу готовит лучше чем политех. Политех поверхностен в этом плане."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579136436.127200",
+        "parent_user_id": "UHJ2XBTDL"
+    },
+    {
+        "client_msg_id": "f564e580-6551-400c-80f1-7fa028843062",
+        "type": "message",
+        "text": "очень плотная программа. хотелось бы еще увидеть записи лекций",
+        "user": "UQHMENDGF",
+        "ts": "1592410695.413700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g63725926174",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/63725926174efe1d43664060ea558d82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "jack sparrow",
+            "display_name": "jack sparrow",
+            "team": "T040HKJE3",
+            "name": "temirlan.seilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "очень плотная программа. хотелось бы еще увидеть записи лекций"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "310f147a-ba6f-4ca7-a2d9-48b8cc0815a7",
+        "type": "message",
+        "text": "А есть кто с вмк чтобы узнать, была ли запись курса? :disappointed:",
+        "user": "U90B3UTFY",
+        "ts": "1592412870.414400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "65e1ff92acec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1190242936402_65e1ff92acec262a284d_72.jpg",
+            "first_name": "KolchenkoSergey",
+            "real_name": "KolchenkoSergey",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "kolchenkosergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А есть кто с вмк чтобы узнать, была ли запись курса? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "8811A2C6-4119-4299-BBE4-CB5A384CDFA9",
+        "type": "message",
+        "text": "&gt; #курс\n&gt; В этом году прочитал курс \"Глубокое обучение\" для студентов ММП ВМК МГУ. Курс экспериментальный - хотелось охватить всё-всё (пока не успели тему \"атаки на сети\" и обработку звуков, материалов по видео тоже нет, но они и не планировались). Видеоролики пока в общий доступ не выкладываю, а слайды можно посмотреть здесь:\n&gt; <https:\/\/github.com\/Dyakonov\/D|https:\/\/github.com\/Dyakonov\/D>\nПост самого Дьяконова. Судя по всему, видео есть, но не релизится. Могу у него спросить, можно ли с улицы получить доступ к заданиям и тестам в google classroom ",
+        "user": "U1UNFRQ1K",
+        "ts": "1592413371.417000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPIO0",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#курс\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "В этом году прочитал курс \"Глубокое обучение\" для студентов ММП ВМК МГУ. Курс экспериментальный - хотелось охватить всё-всё (пока не успели тему \"атаки на сети\" и обработку звуков, материалов по видео тоже нет, но они и не планировались). Видеоролики пока в общий доступ не выкладываю, а слайды можно посмотреть здесь:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Dyakonov\/D",
+                                "text": "https:\/\/github.com\/Dyakonov\/D"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Пост самого Дьяконова. Судя по всему, видео есть, но не релизится. Могу у него спросить, можно ли с улицы получить доступ к заданиям и тестам в google classroom "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U90B3UTFY",
+                    "UL958AM32",
+                    "U53E5MFNU",
+                    "ULF96QF3K",
+                    "UDWRHJB2L",
+                    "UBXKRV90Q"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "414BDF9F-E33C-4198-93B4-98F29AF93D25",
+        "type": "message",
+        "text": "Хотя без видео может быть сложно с тестами, если они привязаны к материалу лекций",
+        "user": "U1UNFRQ1K",
+        "ts": "1592413437.418200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=La",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хотя без видео может быть сложно с тестами, если они привязаны к материалу лекций"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "d85a84fe-0430-4e7a-b0ef-0f0242861865",
+        "type": "message",
+        "text": "Видео было бы супер, потому что программа уж очень сочная =\\",
+        "user": "U90B3UTFY",
+        "ts": "1592413865.418600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "65e1ff92acec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1190242936402_65e1ff92acec262a284d_72.jpg",
+            "first_name": "KolchenkoSergey",
+            "real_name": "KolchenkoSergey",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "kolchenkosergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orv9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Видео было бы супер, потому что программа уж очень сочная =\\"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    },
+    {
+        "client_msg_id": "B354A2FF-5169-4F65-AFB6-30B321F7EF85",
+        "type": "message",
+        "text": "Вроде как почти все лекции в зуме были, так что записи точно должны быть",
+        "user": "U50EVF538",
+        "ts": "1592453534.422900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81354e7d3e9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-27\/204725676311_81354e7d3e9e7b4af4d0_72.png",
+            "first_name": "Stasian",
+            "real_name": "Stasian Prikhodko",
+            "display_name": "stasian",
+            "team": "T040HKJE3",
+            "name": "stasian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U50EVF538",
+            "ts": "1592453546.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вроде как почти все лекции в зуме были, так что записи точно должны быть"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592393695.406100",
+        "parent_user_id": "U1UNFRQ1K"
+    }
+]

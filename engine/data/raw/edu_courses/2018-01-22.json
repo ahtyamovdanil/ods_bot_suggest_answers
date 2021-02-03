@@ -1,0 +1,268 @@
+[
+    {
+        "type": "message",
+        "text": "Интересно мнение спецов (практиков) в области относительно курса Воронцова, а точнее материалов, изложенных в нем: <http:\/\/www.machinelearning.ru\/wiki\/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29>\n\nПонятно, что понимание теории необходимо, но есть ли нужда реально разбираться в каждой тонкости в повседневной практике\/решении соревновательной задачи и т.п.? Что потеряешь, если НЕ пройдешь такой курс, к примеру? Особенно интересны ответы тех, кому реально знания теории пригодились.",
+        "user": "U6QBX8P26",
+        "ts": "1516611629.000612",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1a5eab81d50",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f91a5eab81d5047b6c486a493216b87a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Leskin",
+            "display_name": "aleskin",
+            "team": "T040HKJE3",
+            "name": "aleskin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1516723185.000301",
+        "reply_users": [
+            "U4WM1939Q",
+            "U04422XJL",
+            "U4CBSEYDU",
+            "U0SBLSTJ4",
+            "U8H2CS34N"
+        ],
+        "replies": [
+            {
+                "user": "U4WM1939Q",
+                "ts": "1516612130.000365"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1516612170.000318"
+            },
+            {
+                "user": "U04422XJL",
+                "ts": "1516621499.000040"
+            },
+            {
+                "user": "U4CBSEYDU",
+                "ts": "1516642442.000225"
+            },
+            {
+                "user": "U0SBLSTJ4",
+                "ts": "1516656783.000331"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516722780.000614"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516722953.000383"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516723001.000400"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516723057.000796"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516723185.000301"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b968211d-c2da-4954-bac0-389770c5243e",
+        "type": "message",
+        "text": "1) посмотри интервью Воронцова на ютуб канале ods\n2) простые модели из говна и палок с какой-то точностью быстро можно клепать без понимания, что там и как. Но будешь брать не те метрики, не те методы и не так делать. Работать оно будет, но  хуже, чем если делать с понимаем",
+        "user": "U4WM1939Q",
+        "ts": "1516612130.000365",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "parent_user_id": "U6QBX8P26",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0NAHR9C5",
+                    "U0UJ10A9J",
+                    "U0SBLSTJ4",
+                    "U8313GG7M",
+                    "U4FD7UABD",
+                    "U34Q3KU8H"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87534b58-8805-40dc-aaa8-631c3745f1eb",
+        "type": "message",
+        "text": "Да,  и в соревнованиях надо знать горааааздо больше, чем в жизни",
+        "user": "U4WM1939Q",
+        "ts": "1516612170.000318",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "parent_user_id": "U6QBX8P26"
+    },
+    {
+        "type": "message",
+        "text": "Я искренне считаю, что если человек не владеет знаниями МЛ на уровне этот этого курса (весьма хорошего и весьма вводного), то даже заикаться не стоит, что ты ml-related человек.",
+        "user": "U04422XJL",
+        "ts": "1516621499.000040",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8cd145f72446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-27\/739003798132_8cd145f72446bbd4194c_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Trofimov",
+            "display_name": "mtrofimov",
+            "team": "T040HKJE3",
+            "name": "mtrofimov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "parent_user_id": "U6QBX8P26",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0NAHR9C5",
+                    "U6QBX8P26",
+                    "U4CBSEYDU",
+                    "U0SBLSTJ4",
+                    "U411PKASW",
+                    "U09NC5XLN",
+                    "U5H0L5T98",
+                    "U1D6DT6HE",
+                    "U8313GG7M",
+                    "U4FD7UABD"
+                ],
+                "count": 10
+            },
+            {
+                "name": "okay",
+                "users": [
+                    "U4U4GFDNK",
+                    "U5H0L5T98",
+                    "U27HU84H4",
+                    "U26QDDKMY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U8BHB1QAC",
+                    "U27SUBTB9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "but_why_equity",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U8VQH9DC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "поддерживаю сказанное <@U04422XJL> \nда даже если ты не используешь все существующие алгоритмы и не знаешь, какие значения параметров хорошо работают на практике в каких-то определенных задачах, то все равно стоит знать теорию, чтобы поддержать разговор и не чувствовать себя аутсайдером\n\n+ на собеседованиях теория пригодится",
+        "user": "U4CBSEYDU",
+        "ts": "1516642442.000225",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5f9feff6a350",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-28\/147733504882_5f9feff6a35016185ea2_72.jpg",
+            "first_name": "Kira",
+            "real_name": "Kira Vinogradova",
+            "display_name": "kiraving",
+            "team": "T040HKJE3",
+            "name": "kiraving",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "parent_user_id": "U6QBX8P26"
+    },
+    {
+        "type": "message",
+        "text": "Поддержу коллег, курс Воронцова конечно не вводный (в терминах американского образования), но его точно не назовешь продвинутым. Это база, которая должна отскакивать от зубов.",
+        "user": "U0SBLSTJ4",
+        "ts": "1516656783.000331",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516611629.000612",
+        "parent_user_id": "U6QBX8P26",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5QUP1GSE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

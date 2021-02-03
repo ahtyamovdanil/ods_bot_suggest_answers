@@ -1,0 +1,564 @@
+[
+    {
+        "client_msg_id": "d45af516-7ee0-40f0-9af2-a3f7072030f0",
+        "type": "message",
+        "text": "\"Акции\" юдеми \"все по $10\" не всегда очевидны. Иногда надо погуглить \"udemy $10 coupon\", чтобы найти его на стороннем купонном сайте. Поэтому я нисколько не удивлюсь, если курсы по $200 у них действительно покупают.\nИнтересно было бы конечно узнать, какая часть их курсов продается по полной стоимости...",
+        "user": "U57JJAVLN",
+        "ts": "1575020818.379500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "49246283a7e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-07\/269614885383_49246283a7e80150b4c2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Kuzminov",
+            "display_name": "zalhonan",
+            "team": "T040HKJE3",
+            "name": "zalhonan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XedFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Акции\" юдеми \"все по $10\" не всегда очевидны. Иногда надо погуглить \"udemy $10 coupon\", чтобы найти его на стороннем купонном сайте. Поэтому я нисколько не удивлюсь, если курсы по $200 у них действительно покупают.\nИнтересно было бы конечно узнать, какая часть их курсов продается по полной стоимости..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574971854.371600",
+        "parent_user_id": "UQNSNJM3K"
+    },
+    {
+        "client_msg_id": "d37ac2ae-5fa2-43c8-919b-94553fc6d865",
+        "type": "message",
+        "text": "Здравствуйте.\n\nСейчас на udemy распродажа курсов курсы за 20к р. по 800р.  Есть там что-нибудь стоящее по CV для новичка на будущее? Что-то типа  <https:\/\/www.udemy.com\/course\/advanced-computer-vision\/> и\\или <https:\/\/www.udemy.com\/course\/opencv-project\/>  и\\или <https:\/\/www.udemy.com\/course\/pytorch-for-deep-learning-and-computer-vision\/>?\n\nЗаранее благодарю.",
+        "user": "UCMC5J36D",
+        "ts": "1575021527.382000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCMC5J36D",
+            "ts": "1575021543.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Deep Learning: Advanced Computer Vision",
+                "title_link": "https:\/\/www.udemy.com\/course\/advanced-computer-vision\/",
+                "text": "Advanced Computer Vision and Convolutional Neural Networks in Tensorflow, Keras, and Python",
+                "fallback": "Udemy: Deep Learning: Advanced Computer Vision",
+                "image_url": "https:\/\/i.udemycdn.com\/course\/480x270\/1533864_a443.jpg",
+                "from_url": "https:\/\/www.udemy.com\/course\/advanced-computer-vision\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 39031,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.udemy.com\/course\/advanced-computer-vision\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Здравствуйте.\n\nСейчас на udemy распродажа курсов курсы за 20к р. по 800р.  Есть там что-нибудь стоящее по CV для новичка на будущее? Что-то типа  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/advanced-computer-vision\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и\\или "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/opencv-project\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  и\\или "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/pytorch-for-deep-learning-and-computer-vision\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nЗаранее благодарю."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1578375189.233600",
+        "reply_users": [
+            "U9BDT48M8",
+            "UCMC5J36D",
+            "UB4AGRL3C",
+            "U7SFPUVQF",
+            "UCK2WBKLG",
+            "UHY5KKK6D",
+            "UDZC02ATZ",
+            "ULRSB7W2W"
+        ],
+        "replies": [
+            {
+                "user": "U9BDT48M8",
+                "ts": "1575021965.382800"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1575022514.383500"
+            },
+            {
+                "user": "UB4AGRL3C",
+                "ts": "1575022649.383700"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1575024212.384200"
+            },
+            {
+                "user": "UCK2WBKLG",
+                "ts": "1575028593.385800"
+            },
+            {
+                "user": "U9BDT48M8",
+                "ts": "1575029521.389400"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1575041349.390300"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1575055920.391300"
+            },
+            {
+                "user": "ULRSB7W2W",
+                "ts": "1578375189.233600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U24N3AB96",
+                    "UMKFYUG7L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C43F1B73-C92D-4DDB-B131-2C1FA366826E",
+        "type": "message",
+        "text": "Если что, то там эти распродажи постоянно ",
+        "user": "U9BDT48M8",
+        "ts": "1575021965.382800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U600Q839S",
+                    "UCYF6G750",
+                    "U7SFPUVQF",
+                    "UE259V12B",
+                    "UM5DXE4LE",
+                    "UGVJEKKB8",
+                    "U6HFSNFQR",
+                    "UMM4N60K1",
+                    "UEC5M0FQX",
+                    "U6ME568D7",
+                    "U9QUMPJ4F",
+                    "UNSGPPB6E",
+                    "U6L08K8KS"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "384a4722-2b54-4688-aba7-28f21116a31f",
+        "type": "message",
+        "text": "Как часто они там? Или только под праздники (чьи)?",
+        "user": "UCMC5J36D",
+        "ts": "1575022514.383500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J9a7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Как часто они там? Или только под праздники (чьи)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D"
+    },
+    {
+        "client_msg_id": "c1428d80-4312-434e-90bc-355a33abbace",
+        "type": "message",
+        "text": "примерно раз в 2 дня",
+        "user": "UB4AGRL3C",
+        "ts": "1575022649.383700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4af4ece2cd3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-01\/1216761266995_4af4ece2cd3a843c9f28_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nikalayeu",
+            "display_name": "Pavel Nikalayeu",
+            "team": "T040HKJE3",
+            "name": "pavel.nikalayeu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7fqY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "примерно раз в 2 дня"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "UE259V12B",
+                    "UM5DXE4LE",
+                    "UNSGPPB6E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98",
+                    "UEC5M0FQX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U27SUBTB9",
+                    "U6RBHBQPQ",
+                    "UMQSP3DJM",
+                    "UQXK1TG3C",
+                    "U6L08K8KS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2f983d8-398b-4c6f-af90-d14bc0be0ae6",
+        "type": "message",
+        "text": "Там распродажа каждой раз, когда заходишь с чистыми куками",
+        "user": "U7SFPUVQF",
+        "ts": "1575024212.384200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhEUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Там распродажа каждой раз, когда заходишь с чистыми куками"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D",
+                    "UQRBLPBCL",
+                    "U6SHTGD5X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "smekalka",
+                "users": [
+                    "U27SUBTB9",
+                    "UN88FQFRC",
+                    "UMQSP3DJM",
+                    "U8BMURD4G",
+                    "UQXK1TG3C",
+                    "U6L08K8KS"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "029d9d91-3b71-41dd-b409-69ae2ad888b7",
+        "type": "message",
+        "text": "Тем не менее узнать было бы интересно - есть ли на udemy стоящие курсы?",
+        "user": "UCK2WBKLG",
+        "ts": "1575028593.385800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f976e4368caa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-11\/608824429094_f976e4368caa07c5bb22_72.png",
+            "first_name": "caypoh_wb",
+            "real_name": "caypoh_wb",
+            "display_name": "Roman",
+            "team": "T040HKJE3",
+            "name": "caypoh_wb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfNSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тем не менее узнать было бы интересно - есть ли на udemy стоящие курсы?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C3A1DBC-FB65-445C-A9C2-A6BB33269ECE",
+        "type": "message",
+        "text": "<@UCK2WBKLG> есть. Тот же LazyProgrammer. Достаточно хардкорный формат (как для онлайн курсов) и по различным тематикам: рекомендации, дип ансупервайзд итд. Единственное, как мне сказали, некоторые курсы записывались давно и поэтому инструментарий там сомнительный (например, в курсе по автоэнкодерам там используются tf и theano)",
+        "user": "U9BDT48M8",
+        "ts": "1575029521.389400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1181c5a30e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-30\/616085176065_1181c5a30e89bb43b0f7_72.png",
+            "first_name": "kss",
+            "real_name": "kss",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "jirkacz9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D",
+                    "UEC5M0FQX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEC5M0FQX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2a99066-27ab-475f-aa9e-bdaed16766c3",
+        "type": "message",
+        "text": "вот не совсем понимаю udemy, это же просто видеокурсы не более, без домашек и тд.. в чем соль если есть ютуб и книги?",
+        "user": "UHY5KKK6D",
+        "ts": "1575041349.390300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот не совсем понимаю udemy, это же просто видеокурсы не более, без домашек и тд.. в чем соль если есть ютуб и книги?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D"
+    },
+    {
+        "client_msg_id": "9aa16e24-e42f-4dae-a7de-1a7f8c939e29",
+        "type": "message",
+        "text": "Более того в большинстве своем они и есть Ютуб. Посмотрите ролик бомбящего сендекса",
+        "user": "UDZC02ATZ",
+        "ts": "1575055920.391300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "22547df9a9c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-28\/776745782336_22547df9a9c74d840578_72.png",
+            "first_name": "",
+            "real_name": "Marvelsh",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "marvelsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575021527.382000",
+        "parent_user_id": "UCMC5J36D"
+    }
+]

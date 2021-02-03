@@ -1,0 +1,598 @@
+[
+    {
+        "client_msg_id": "4b9e6021-191b-4724-8fa0-3a2875554eb5",
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/intro-to-deep-learning\/home\/welcome>\n\nИзучаю вот этот курс. Основные архитектуры, практические задания на их реализацию, все дела. Но я понял что не так.\n\nВ НС очень много чего может пойти не так. Взрыв\/затухание градиентов, неверная инициализация весов, плохая архитектура и прочее. Хочется курс, где можно будет сделать всевозможные ошибки, и посмотреть на их последствия или симптомы. То есть задание будет такое:\n-сделайте такую вот сеть.\n-не работает. Это потому, что ... Это можно увидеть по таким-то признакам.\n-а теперь сделайте вот так вот. Опять не работает. Это потому что...\n-а вот так правильно. Смотрите, как здорово всё заработало.\n\nКто-нибудь такое видел?",
+        "user": "U8W6RA8B0",
+        "ts": "1558770829.018500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Coursera | Online Courses From Top Universities. Join for Free",
+                "title_link": "https:\/\/www.coursera.org\/learn\/intro-to-deep-learning\/home\/welcome",
+                "text": "1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                "fallback": "Coursera: Coursera | Online Courses From Top Universities. Join for Free",
+                "image_url": "http:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/intro-to-deep-learning\/home\/welcome",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 278328,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/intro-to-deep-learning\/home\/welcome"
+            }
+        ],
+        "thread_ts": "1558770829.018500",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1559076987.054300",
+        "reply_users": [
+            "U2N853RGF",
+            "U4YEK80R1",
+            "U8W6RA8B0",
+            "UCBR1BP37",
+            "UAGG6L6MC"
+        ],
+        "replies": [
+            {
+                "user": "U2N853RGF",
+                "ts": "1558770924.018800"
+            },
+            {
+                "user": "U4YEK80R1",
+                "ts": "1558771048.019100"
+            },
+            {
+                "user": "U8W6RA8B0",
+                "ts": "1558771344.019300"
+            },
+            {
+                "user": "U4YEK80R1",
+                "ts": "1558771368.019500"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1558781308.020400"
+            },
+            {
+                "user": "UAGG6L6MC",
+                "ts": "1558790995.021300"
+            },
+            {
+                "user": "U8W6RA8B0",
+                "ts": "1558791558.021500"
+            },
+            {
+                "user": "UAGG6L6MC",
+                "ts": "1558792277.021800"
+            },
+            {
+                "user": "U8W6RA8B0",
+                "ts": "1558797032.022600"
+            },
+            {
+                "user": "U4YEK80R1",
+                "ts": "1558800345.023700"
+            },
+            {
+                "user": "UCBR1BP37",
+                "ts": "1558852745.026000"
+            },
+            {
+                "user": "U8W6RA8B0",
+                "ts": "1559076987.054300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ng",
+                "users": [
+                    "U60EETE7N",
+                    "UCK3XJ1DM",
+                    "UCFQNLN4V"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "512EA735-0FC1-47A7-B694-3FB4C27D2E45",
+        "type": "message",
+        "text": "<http:\/\/karpathy.github.io\/2019\/04\/25\/recipe\/>",
+        "user": "U2N853RGF",
+        "ts": "1558770924.018800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4b60f2bd0b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-17\/418182446898_4b60f2bd0b416841ef6b_72.png",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Makarov",
+            "display_name": "evgeniimakarov",
+            "team": "T040HKJE3",
+            "name": "evgeniimakarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "A Recipe for Training Neural Networks",
+                "title_link": "http:\/\/karpathy.github.io\/2019\/04\/25\/recipe\/",
+                "text": "Musings of a Computer Scientist.",
+                "fallback": "A Recipe for Training Neural Networks",
+                "from_url": "http:\/\/karpathy.github.io\/2019\/04\/25\/recipe\/",
+                "service_name": "karpathy.github.io",
+                "id": 1,
+                "original_url": "http:\/\/karpathy.github.io\/2019\/04\/25\/recipe\/"
+            }
+        ],
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U302AALBS",
+                    "UJM2GF66L",
+                    "UD80SB65V",
+                    "U21MU5ATE",
+                    "U8ZDR4HMK",
+                    "U6SHTGD5X"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e604b91f-aa0e-4c32-9ec9-22fed770175d",
+        "type": "message",
+        "text": "Вы проходите дальше курсы по специализации, там многое будет дано.",
+        "user": "U4YEK80R1",
+        "ts": "1558771048.019100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8ba6282f0ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/878ba6282f0ea3fdd28ad8d4e297906e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Aldar",
+            "real_name": "Aldar Antonov",
+            "display_name": "hardliner",
+            "team": "T040HKJE3",
+            "name": "hardliner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "893f6405-f530-435c-a090-c9d8379bcf08",
+        "type": "message",
+        "text": "<@U4YEK80R1> вы изучали эту специализацию?",
+        "user": "U8W6RA8B0",
+        "ts": "1558771344.019300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "02e79ab8-1121-4205-a2ea-4665afe9164b",
+        "type": "message",
+        "text": "да, первые три курса прошел",
+        "user": "U4YEK80R1",
+        "ts": "1558771368.019500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8ba6282f0ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/878ba6282f0ea3fdd28ad8d4e297906e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Aldar",
+            "real_name": "Aldar Antonov",
+            "display_name": "hardliner",
+            "team": "T040HKJE3",
+            "name": "hardliner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "39e871a4-1109-4ea8-948c-37d5966f1aeb",
+        "type": "message",
+        "text": "<@U0Y7U6YER> окей, спасибо! Ну я просто уточнил :smile:",
+        "user": "UBA7N1YSG",
+        "ts": "1558778506.020200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER"
+    },
+    {
+        "client_msg_id": "e6418322-0171-4a81-b008-1fedecba1658",
+        "type": "message",
+        "text": "<@U8W6RA8B0> Проходил её. И даже не один раз. Я не проходил все Стэнфордские курсы, но пока что это вообще самый лучший из всех на курсере. И да, Ынг нормально там даёт. Если будет мало, то есть ещё миллиард курсов (CS229, CS229T, EE377 и так далее) в <http:\/\/ai.stanford.edu\/courses\/|ai.stanford.edu\/courses\/>",
+        "user": "UCBR1BP37",
+        "ts": "1558781308.020400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U5H0L5T98",
+                    "UJL3VD1CN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cd4c828-8885-48f8-8cc9-fd7b3d4d992d",
+        "type": "message",
+        "text": "<@UCBR1BP37> вы точно про одну специализацию? В вопросе ссылка на специализацию Вышки, там нет Ына :)",
+        "user": "UAGG6L6MC",
+        "ts": "1558790995.021300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4155fc0e3db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb4155fc0e3db87bea408b25bf836cfa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Petr Kuderov",
+            "display_name": "pkuderov",
+            "team": "T040HKJE3",
+            "name": "pkuderov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "f2eb4f00-b509-4063-83c5-7ba92823ee8f",
+        "type": "message",
+        "text": "<@UCBR1BP37> <https:\/\/www.coursera.org\/specializations\/deep-learning>\n\nВы про эту специализацию?",
+        "user": "U8W6RA8B0",
+        "ts": "1558791558.021500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning. In five courses, ...",
+                "fallback": "Coursera: Deep Learning | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+            }
+        ],
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "51610d14-e49a-4869-8272-42709b9db469",
+        "type": "message",
+        "text": "думаю, что да)",
+        "user": "UAGG6L6MC",
+        "ts": "1558792277.021800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4155fc0e3db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb4155fc0e3db87bea408b25bf836cfa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Petr Kuderov",
+            "display_name": "pkuderov",
+            "team": "T040HKJE3",
+            "name": "pkuderov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "a2a5dba6-beb0-40a1-b867-4455ff2b53cb",
+        "type": "message",
+        "text": "Спасибо. Походу, сразу две спеки надо ботать)",
+        "user": "U8W6RA8B0",
+        "ts": "1558797032.022600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UAGG6L6MC",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FB9A5712-C3CA-48A6-A64E-EEE642DC8E8A",
+        "type": "message",
+        "text": "Ошибся, я проходил специализацию от Эндрю Ына, эту не проходил",
+        "user": "U4YEK80R1",
+        "ts": "1558800345.023700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8ba6282f0ea",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/878ba6282f0ea3fdd28ad8d4e297906e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Aldar",
+            "real_name": "Aldar Antonov",
+            "display_name": "hardliner",
+            "team": "T040HKJE3",
+            "name": "hardliner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    },
+    {
+        "client_msg_id": "adbc2677-76e9-4b3b-83d9-2e0ae71791c8",
+        "type": "message",
+        "text": "Всем привет! Посоветуйте хорошие курсы по изучению английского языка в Москве",
+        "user": "UCTV3D6V8",
+        "ts": "1558820570.025000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb428e888b27",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b428e888b27974490264bc1bcf8237b7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Konvin",
+            "real_name": "Konvin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "kuvschinov.eugeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558820570.025000",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1561058850.333400",
+        "reply_users": [
+            "UD2NGFPHD",
+            "UDRVCKGU8",
+            "UJM2GF66L",
+            "UHJKEC3KQ",
+            "U2GAEHQR1",
+            "UDWJDVDHS",
+            "U1D2GN319",
+            "UKQTCD8HW"
+        ],
+        "replies": [
+            {
+                "user": "UD2NGFPHD",
+                "ts": "1558846435.025600"
+            },
+            {
+                "user": "UDRVCKGU8",
+                "ts": "1558859166.026800"
+            },
+            {
+                "user": "UDRVCKGU8",
+                "ts": "1558864156.027400"
+            },
+            {
+                "user": "UJM2GF66L",
+                "ts": "1558872118.028100"
+            },
+            {
+                "user": "UHJKEC3KQ",
+                "ts": "1558943497.030400"
+            },
+            {
+                "user": "UHJKEC3KQ",
+                "ts": "1558943572.030600"
+            },
+            {
+                "user": "U2GAEHQR1",
+                "ts": "1558943663.030800"
+            },
+            {
+                "user": "UDWJDVDHS",
+                "ts": "1558953676.035600"
+            },
+            {
+                "user": "U1D2GN319",
+                "ts": "1559130022.069900"
+            },
+            {
+                "user": "UDRVCKGU8",
+                "ts": "1559132298.070200"
+            },
+            {
+                "user": "U1D2GN319",
+                "ts": "1559132557.070600"
+            },
+            {
+                "user": "U1D2GN319",
+                "ts": "1559132640.070800"
+            },
+            {
+                "user": "UJM2GF66L",
+                "ts": "1559164906.073400"
+            },
+            {
+                "user": "UKQTCD8HW",
+                "ts": "1561058850.333400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "flag-england",
+                "users": [
+                    "U7SFPUVQF",
+                    "UJVCRKMGU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45C2D362-2168-4571-9A63-CCA2B659C076",
+        "type": "message",
+        "text": "<https:\/\/ct-school.ru>",
+        "user": "UD2NGFPHD",
+        "ts": "1558846435.025600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5cb92be852ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-22\/509787451296_5cb92be852ad612fe80f_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Sidorenko",
+            "display_name": "smikhai1",
+            "team": "T040HKJE3",
+            "name": "sidorenko.mikhail94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "English school in Moscow",
+                "title_link": "https:\/\/ct-school.ru\/",
+                "fallback": "English school in Moscow",
+                "image_url": "http:\/\/ct-school.ru\/themes\/ct-school\/assets\/img\/girl2.png",
+                "from_url": "https:\/\/ct-school.ru\/",
+                "image_width": 442,
+                "image_height": 250,
+                "image_bytes": 701027,
+                "service_icon": "https:\/\/ct-school.ru\/storage\/app\/uploads\/public\/5a5\/45f\/00b\/thumb_1_32_32_0_0_crop.png",
+                "service_name": "ct-school.ru",
+                "id": 1,
+                "original_url": "https:\/\/ct-school.ru"
+            }
+        ],
+        "thread_ts": "1558820570.025000",
+        "parent_user_id": "UCTV3D6V8"
+    },
+    {
+        "client_msg_id": "e80b4771-f490-4f6b-b3dc-d71f77d99088",
+        "type": "message",
+        "text": "<@UAGG6L6MC> <@U8W6RA8B0> Да, определённо, URL меня как-то затриггерил на него. А насчёт ВШЭ - мне говорили, что там такой невероятно укороченный ШАД (как с курсами у Воронцова, которые лучше на ютубе смотреть) с кучей отсылок (как любит делать Яндекс) на другие материалы.\nЛично я предпочёл проходить не Advanced ML, а накопать курсов в Стэнфордской АИ лабе и по ним всё делать.",
+        "user": "UCBR1BP37",
+        "ts": "1558852745.026000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e5aaa9eef0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-30\/928106648517_6e5aaa9eef0a4f9ee091_72.jpg",
+            "first_name": "Nihil",
+            "real_name": "Nihil Sherr Khaine",
+            "display_name": "Nihil Khaine",
+            "team": "T040HKJE3",
+            "name": "nihilsherrkhaine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCBR1BP37",
+            "ts": "1558852778.000000"
+        },
+        "thread_ts": "1558770829.018500",
+        "parent_user_id": "U8W6RA8B0"
+    }
+]

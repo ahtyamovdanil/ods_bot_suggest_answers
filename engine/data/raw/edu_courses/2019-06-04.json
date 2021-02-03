@@ -1,0 +1,521 @@
+[
+    {
+        "client_msg_id": "d990c7b8-e5ef-4153-9fc4-347d2ec2d99a",
+        "type": "message",
+        "text": "Acceptance notification:\nMid-June",
+        "user": "UHLKEBC1J",
+        "ts": "1559639324.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c733ac13a310",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-03\/596776198144_c733ac13a3109fab903b_72.jpg",
+            "first_name": "Nikita",
+            "real_name": "Nikita Orlov",
+            "display_name": "Nikita Orlov",
+            "team": "T040HKJE3",
+            "name": "someoneorlov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558617543.454300",
+        "parent_user_id": "U0Y7U6YER",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U0ZJSC8JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a30d2047-eb47-41d4-9f99-895cc9e2efdf",
+        "type": "message",
+        "text": "Всем привет!!!\n\nЭтим летом мы организовываем летнюю школу машинного обучения с уклоном на \"распознавание речи\":speaking_head_in_silhouette::zipper_mouth_face:.\nМесто проведение г. Санкт-Петербург:sunny:, офис компании ЦРТ. Школа будет проходить с 15 по 26 июля.\nТрансфер:monorail:, проживание:house: и питание:hamburger: оплачивается организаторами!!!\n\nРегистрация пройдет до 10 июня.\n\nПодробности на <https:\/\/mlschool.speechpro.ru>",
+        "user": "U9QCYD1LJ",
+        "ts": "1559646008.004800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "65950e2d7f44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/603739093140_65950e2d7f440ca254d7_72.jpg",
+            "first_name": "Andrei",
+            "real_name": "Andrei Andrusenko",
+            "display_name": "andrusenko",
+            "team": "T040HKJE3",
+            "name": "andrusenkoau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "STC ML School 2019 | Летняя школа машинного обучения",
+                "title_link": "https:\/\/mlschool.speechpro.ru\/",
+                "text": "Летняя школа машинного обучения. Прокачай свои знания в области deep learning на задачах анализа звука, изображений, и аудиовизуального распознавания эмоций.",
+                "fallback": "STC ML School 2019 | Летняя школа машинного обучения",
+                "from_url": "https:\/\/mlschool.speechpro.ru\/",
+                "service_icon": "https:\/\/mlschool.speechpro.ru\/images\/shablon-favicon.ico?crc=3854657845",
+                "service_name": "mlschool.speechpro.ru",
+                "id": 1,
+                "original_url": "https:\/\/mlschool.speechpro.ru"
+            }
+        ],
+        "thread_ts": "1559646008.004800",
+        "reply_count": 18,
+        "reply_users_count": 7,
+        "latest_reply": "1560951547.225100",
+        "reply_users": [
+            "U6QF7NATC",
+            "U9QCYD1LJ",
+            "U6X5YAFU3",
+            "UGWSW1Y3W",
+            "UEP8V5FM5",
+            "U6CTG6YPN",
+            "UAEDPAXLG"
+        ],
+        "replies": [
+            {
+                "user": "U6QF7NATC",
+                "ts": "1559671595.012100"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1559893482.025600"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1560023308.132900"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1560064193.134000"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560071578.134400"
+            },
+            {
+                "user": "UGWSW1Y3W",
+                "ts": "1560187425.139400"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560235332.140500"
+            },
+            {
+                "user": "UGWSW1Y3W",
+                "ts": "1560238752.140700"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560243519.141100"
+            },
+            {
+                "user": "UEP8V5FM5",
+                "ts": "1560799731.202800"
+            },
+            {
+                "user": "U6CTG6YPN",
+                "ts": "1560857537.214100"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560860261.214500"
+            },
+            {
+                "user": "UEP8V5FM5",
+                "ts": "1560861729.217100"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560862854.217500"
+            },
+            {
+                "user": "UAEDPAXLG",
+                "ts": "1560868556.217900"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560880792.222500"
+            },
+            {
+                "user": "UGWSW1Y3W",
+                "ts": "1560948548.224600"
+            },
+            {
+                "user": "U9QCYD1LJ",
+                "ts": "1560951547.225100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U06K9ELB1",
+                    "U9W1PD5QD",
+                    "UFKAN0REJ",
+                    "UJM2GF66L",
+                    "U6YDWF4UB",
+                    "UBQELFC8K",
+                    "U2D575HEK",
+                    "U6NT2E2ES",
+                    "U0J9ATZA8",
+                    "U6ZVBULGG",
+                    "UG6KCFUSG",
+                    "UCNKBQJEN",
+                    "UGWSW1Y3W"
+                ],
+                "count": 13
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06K9ELB1",
+                    "U411PKASW",
+                    "U19FSHKL2",
+                    "U0J9ATZA8",
+                    "U6ZVBULGG",
+                    "U1D6DT6HE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "stc",
+                "users": [
+                    "U06K9ELB1",
+                    "U8M48LWTW",
+                    "U0J9ATZA8",
+                    "U6ZVBULGG",
+                    "U1D6DT6HE",
+                    "UA6TT123E"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff89f93d-9a47-453c-9e0a-c801f2edea8d",
+        "type": "message",
+        "text": "Samsung запускает бесплатный онлайн-курс «Нейронные сети и компьютерное зрение», который адресован тем, кто в этой области делает первые шаги. <https:\/\/stepik.org\/course\/50352\/promo> Инструкторы - <@U2AD9CMR7> и, видимо, <@U1TQ9QQ05>",
+        "user": "UDRVCKGU8",
+        "ts": "1559657928.008500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74113f061cdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-20\/557035100759_74113f061cdd57c11b44_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tsarev",
+            "display_name": "Dmitry Tsarev",
+            "team": "T040HKJE3",
+            "name": "tsarangel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Нейронные сети и компьютерное зрение",
+                "title_link": "https:\/\/stepik.org\/course\/50352\/promo",
+                "text": "Почему стоит начать изучение машинного обучения и нейронных сетей с нашего курса? Наш девиз \"Больше практики!\": излагая математические основы очень доступным языком, авторы курса, эксперты Центра ИИ Samsung дадут базовые знания на примере решения задач компьютерного зрения. Это зрелищно и интересно!",
+                "fallback": "Stepik: online education: Нейронные сети и компьютерное зрение",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/50352\/cover_7OrnADa\/4245652f853e2ef660c61f9a85619633.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/50352\/promo",
+                "image_height": 230,
+                "image_bytes": 40793,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1558631250",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/50352\/promo"
+            }
+        ],
+        "thread_ts": "1559657928.008500",
+        "reply_count": 16,
+        "reply_users_count": 7,
+        "latest_reply": "1562781751.196600",
+        "reply_users": [
+            "U2AD9CMR7",
+            "U4WM1939Q",
+            "UDZC02ATZ",
+            "UBJ10K86A",
+            "UKES2BDAA",
+            "U47L1QVUJ",
+            "UL95F64PP"
+        ],
+        "replies": [
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1559661539.010000"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1559662166.010400"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1559725399.001100"
+            },
+            {
+                "user": "UDZC02ATZ",
+                "ts": "1559725412.001300"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1559732408.004300"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1559736577.005000"
+            },
+            {
+                "user": "UKES2BDAA",
+                "ts": "1559923159.121200"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1559924346.121500"
+            },
+            {
+                "user": "U47L1QVUJ",
+                "ts": "1559977121.123000"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1560294619.143600"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1560949131.224800"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1562773757.191200"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1562776369.193800"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1562776595.194000"
+            },
+            {
+                "user": "U2AD9CMR7",
+                "ts": "1562779402.196300"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1562781751.196600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7DTGC4PL",
+                    "UCMC5J36D",
+                    "U53E5MFNU",
+                    "UEV2FLHPW",
+                    "U6YDWF4UB",
+                    "UHE741S5N",
+                    "U4WM1939Q",
+                    "U049NHC4X",
+                    "UDK41MN5U",
+                    "UFH7M7CEP",
+                    "U57JJAVLN",
+                    "UCCDGDF47",
+                    "U04BWJ3QJ",
+                    "U09JEC7V0",
+                    "U5FCA4F8X",
+                    "U8JCZ254Z",
+                    "U9LKKNJHE",
+                    "UEE6V2P46",
+                    "UFVDU2FJP",
+                    "UFE7B6UBY",
+                    "U6Y8R56NM",
+                    "U1D6DT6HE",
+                    "UEUL0CPS5",
+                    "U6MU2LH35",
+                    "U4AA9GF26",
+                    "UD4GTQTQS"
+                ],
+                "count": 26
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U53E5MFNU",
+                    "UEV2FLHPW",
+                    "U6YDWF4UB",
+                    "U049NHC4X",
+                    "UDK41MN5U",
+                    "U9W1PD5QD",
+                    "U1HHX1QS3",
+                    "U09JEC7V0",
+                    "U5FCA4F8X",
+                    "U8JCZ254Z",
+                    "UFVDU2FJP",
+                    "UE7FQ2EFR",
+                    "UD8HRS7LK",
+                    "U1D6DT6HE",
+                    "U907S63D0"
+                ],
+                "count": 16
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U53E5MFNU",
+                    "UGPDS351S",
+                    "UHE741S5N",
+                    "U7SFPUVQF",
+                    "U4WM1939Q",
+                    "U6QF7NATC",
+                    "U049NHC4X",
+                    "U5GCU82HX",
+                    "UJM2GF66L",
+                    "U6XCTTGUB",
+                    "U09JEC7V0",
+                    "U5FCA4F8X",
+                    "U93S7T13R",
+                    "U6SCXUP6U",
+                    "UE7FQ2EFR",
+                    "UC7F2BVR9",
+                    "UK6A76DDX",
+                    "U4AA9GF26"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12dd8d39-1c49-4561-98f3-55b18319adad",
+        "type": "message",
+        "text": "Спасибо за анонс)",
+        "user": "U2AD9CMR7",
+        "ts": "1559661539.010000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6e3c454e8fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1520836946097_6e3c454e8fb960269c2c_72.jpg",
+            "first_name": "Игорь",
+            "real_name": "Игорь Слинько",
+            "display_name": "Игорь Слинько",
+            "team": "T040HKJE3",
+            "name": "yellowduck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2AD9CMR7",
+            "ts": "1559661562.000000"
+        },
+        "thread_ts": "1559657928.008500",
+        "parent_user_id": "UDRVCKGU8"
+    },
+    {
+        "client_msg_id": "0056b6b8-837e-48de-ad42-320eb012927b",
+        "type": "message",
+        "text": "Курс на Pytorch",
+        "user": "U4WM1939Q",
+        "ts": "1559662166.010400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559657928.008500",
+        "parent_user_id": "UDRVCKGU8",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U5H0L5T98",
+                    "UHY3VH7NJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02c70499-f4ee-4cd9-9c58-f177e31e7b7e",
+        "type": "message",
+        "text": "Привет. Примерно на какой уровень DL у участников рассчитана школа?",
+        "user": "U6QF7NATC",
+        "ts": "1559671595.012100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80afca339449",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-14\/1357312344693_80afca339449984c04e2_72.png",
+            "first_name": "Михаил",
+            "real_name": "Михаил Полупанов",
+            "display_name": "m_pov",
+            "team": "T040HKJE3",
+            "name": "birds_and_snakes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559646008.004800",
+        "parent_user_id": "U9QCYD1LJ"
+    },
+    {
+        "client_msg_id": "9a089bb1-df3b-4102-af36-e02cf51fdbb2",
+        "type": "message",
+        "text": "Специализация от Andrew Ng. Теория изложена очень понятно и интересно, в заданиях косяков нет (только один в самом начале, решается за 3 минуты). Всю специализацию вполне реально пройти за 1 месяц в умеренном темпе.\n\nДумаю, после этой специализации можно или дополнительно поучиться на более практических курсах (<http:\/\/fast.ai|fast.ai>, например), или сразу на Kaggle. \n\n<https:\/\/www.coursera.org\/specializations\/deep-learning>",
+        "user": "UCNEN5XEZ",
+        "ts": "1559706153.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d35b98991f24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-10\/1378473909072_d35b98991f247894f8ae_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Drofa",
+            "display_name": "adrofa",
+            "team": "T040HKJE3",
+            "name": "artem.drofa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Deep Learning | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "text": "Learn Deep Learning from <http:\/\/deeplearning.ai|deeplearning.ai>. If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning. In five courses, ...",
+                "fallback": "Coursera: Deep Learning | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/deep-learning",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/deep-learning"
+            }
+        ],
+        "thread_ts": "1559545302.052400",
+        "parent_user_id": "UH769R8KW"
+    }
+]

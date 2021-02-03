@@ -1,0 +1,1356 @@
+[
+    {
+        "client_msg_id": "feb31945-a438-4905-a8ff-3fbbafac9655",
+        "type": "message",
+        "text": "Добрый день, друзья! Собираюсь снова встать на путь обучения DS, и, естественно, как всегда, разбегаются глаза от курсов. Подскажите, есть ли смысл ещё в прохождении таких легендарных курсов как Яндекс+МФТИ на курсере, курс великого Эндрю Ына там же, или они устарели и там уже мало актуальных методов?",
+        "user": "U9N8VE90X",
+        "ts": "1589614408.441400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ged0e459bbd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fced0e459bbd31f8f0640bb4ac4816e8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Grishin",
+            "display_name": "StanleyG",
+            "team": "T040HKJE3",
+            "name": "cfc-gsv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый день, друзья! Собираюсь снова встать на путь обучения DS, и, естественно, как всегда, разбегаются глаза от курсов. Подскажите, есть ли смысл ещё в прохождении таких легендарных курсов как Яндекс+МФТИ на курсере, курс великого Эндрю Ына там же, или они устарели и там уже мало актуальных методов?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589614408.441400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1589650673.452900",
+        "reply_users": [
+            "UBP7JT6MS",
+            "U9N8VE90X",
+            "U8Z8V576H"
+        ],
+        "replies": [
+            {
+                "user": "UBP7JT6MS",
+                "ts": "1589618641.442300"
+            },
+            {
+                "user": "U9N8VE90X",
+                "ts": "1589622554.442900"
+            },
+            {
+                "user": "U8Z8V576H",
+                "ts": "1589650673.452900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4ZRFG1V0",
+                    "UBP7JT6MS",
+                    "UD2EX7JP9",
+                    "U709XK88H",
+                    "UBRK4HXQV",
+                    "UK181SL1H",
+                    "UJ2PZ7Y6M",
+                    "UNFTX1XT9",
+                    "U60EETE7N",
+                    "U97RK52N6",
+                    "UDK41MN5U",
+                    "UCAEKNA4V"
+                ],
+                "count": 12
+            },
+            {
+                "name": "ng",
+                "users": [
+                    "U60EETE7N",
+                    "U3D5HVB51",
+                    "UKCLBKA8G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02f877a6-030a-442d-ba31-72e95753807d",
+        "type": "message",
+        "text": "<@UCMC5J36D> есть курс от MIT, на ocw (не знаю насколько он похож на тот  что на edx):\n<https:\/\/ocw.mit.edu\/courses\/mathematics\/18-443-statistics-for-applications-spring-2015\/assignments\/> (лучше смотреть solution там сразу формулировка и решение)\nи из этого курса можно задачи, порешать, но там их мало:\n<https:\/\/www.coursera.org\/learn\/stats-for-data-analysis?specialization=machine-learning-data-analysis#syllabus>",
+        "user": "U6SCXUP6U",
+        "ts": "1589617865.441800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1589617880.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UCMC5J36D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " есть курс от MIT, на ocw (не знаю насколько он похож на тот  что на edx):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ocw.mit.edu\/courses\/mathematics\/18-443-statistics-for-applications-spring-2015\/assignments\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (лучше смотреть solution там сразу формулировка и решение)\nи из этого курса можно задачи, порешать, но там их мало:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/stats-for-data-analysis?specialization=machine-learning-data-analysis#syllabus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UCMC5J36D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63b57a5a-7026-4eac-9249-6534f9e6a423",
+        "type": "message",
+        "text": "Классический ml практически не меняется, поэтому эти курсы все так же актуальны",
+        "user": "UBP7JT6MS",
+        "ts": "1589618641.442300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "270fcb451d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-19\/959109478448_270fcb451d9f765cd06d_72.jpg",
+            "first_name": "Vi",
+            "real_name": "Vi Colby",
+            "display_name": "gimmefear",
+            "team": "T040HKJE3",
+            "name": "tvinkoo174",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHRT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Классический ml практически не меняется, поэтому эти курсы все так же актуальны"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589614408.441400",
+        "parent_user_id": "U9N8VE90X",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJ2PZ7Y6M",
+                    "UNFTX1XT9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c25fad1-cac7-4d45-8701-1d0b1a86b645",
+        "type": "message",
+        "text": "<@UBP7JT6MS> спасибо, тогда приступаю)",
+        "user": "U9N8VE90X",
+        "ts": "1589622554.442900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ged0e459bbd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fced0e459bbd31f8f0640bb4ac4816e8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Grishin",
+            "display_name": "StanleyG",
+            "team": "T040HKJE3",
+            "name": "cfc-gsv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UBP7JT6MS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " спасибо, тогда приступаю)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589614408.441400",
+        "parent_user_id": "U9N8VE90X"
+    },
+    {
+        "client_msg_id": "90CAD784-D14D-408B-993D-431DFC193D03",
+        "type": "message",
+        "text": "Всем привет! Хочу научиться делать запросы к базе данных на PostgreSQL. В базах данных ноль. Думала взять онлайн курс по SQL и дальше читать документацию PostgreSQL. Правильный ли подход? Какой толковый курс по SQL бы посоветовали? Заранее спасибо :pray:",
+        "user": "U5XEFVADQ",
+        "ts": "1589628602.446900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4f2e937be59f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-21\/201444113475_4f2e937be59fa66b1443_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Dyomina",
+            "display_name": "idyomina",
+            "team": "T040HKJE3",
+            "name": "idyomina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4P8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Хочу научиться делать запросы к базе данных на PostgreSQL. В базах данных ноль. Думала взять онлайн курс по SQL и дальше читать документацию PostgreSQL. Правильный ли подход? Какой толковый курс по SQL бы посоветовали? Заранее спасибо "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "reply_count": 10,
+        "reply_users_count": 8,
+        "latest_reply": "1589800432.010800",
+        "reply_users": [
+            "U9VM1DN4U",
+            "U1UNFRQ1K",
+            "UGETHR41H",
+            "UAT560BK4",
+            "UJG3W0SSZ",
+            "U6TFPN2CQ",
+            "U53E5MFNU",
+            "U013QMTCQSD"
+        ],
+        "replies": [
+            {
+                "user": "U9VM1DN4U",
+                "ts": "1589628811.447000"
+            },
+            {
+                "user": "U9VM1DN4U",
+                "ts": "1589628944.447300"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1589629763.447700"
+            },
+            {
+                "user": "U9VM1DN4U",
+                "ts": "1589630254.448100"
+            },
+            {
+                "user": "UGETHR41H",
+                "ts": "1589631306.448300"
+            },
+            {
+                "user": "UAT560BK4",
+                "ts": "1589640025.450200"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1589641587.450900"
+            },
+            {
+                "user": "U6TFPN2CQ",
+                "ts": "1589642629.451200"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1589644491.451600"
+            },
+            {
+                "user": "U013QMTCQSD",
+                "ts": "1589800432.010800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "postgresql",
+                "users": [
+                    "U53E5MFNU",
+                    "U60EETE7N",
+                    "UM2Q2B41J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e398ab99-f203-4aa6-8f13-b7e0d7a6ca46",
+        "type": "message",
+        "text": "<@U5XEFVADQ>, я не специалист в базах данных, сам только начал изучать. Если с английским норм, то сейчас на DataCamp можно неделю бесплатно поучиться и выбрать SQL Skill Track <https:\/\/www.datacamp.com\/freeweek>",
+        "user": "U9VM1DN4U",
+        "ts": "1589628811.447000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "06711a192313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-25\/335680548915_06711a192313c780cb59_72.jpg",
+            "first_name": "Anatolii",
+            "real_name": "Anatolii Balakiriev",
+            "display_name": "Anatolii Balakiriev",
+            "team": "T040HKJE3",
+            "name": "dreamsuccesslife",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DataCamp",
+                "title": "Free Week: Through May 22, anyone anywhere can enjoy everything",
+                "title_link": "https:\/\/www.datacamp.com\/freeweek",
+                "text": "Everyone should have the opportunity to hone their data skills and future-proof their career.",
+                "fallback": "DataCamp: Free Week: Through May 22, anyone anywhere can enjoy everything",
+                "thumb_url": "https:\/\/www.datacamp.com\/datacamp-sq.png",
+                "from_url": "https:\/\/www.datacamp.com\/freeweek",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.datacamp.com\/freeweek"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "51FK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5XEFVADQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", я не специалист в базах данных, сам только начал изучать. Если с английским норм, то сейчас на DataCamp можно неделю бесплатно поучиться и выбрать SQL Skill Track "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.datacamp.com\/freeweek"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ"
+    },
+    {
+        "type": "message",
+        "text": "например пройти SQL Fundamentals",
+        "files": [
+            {
+                "id": "F013S8TJ5CJ",
+                "created": 1589628941,
+                "timestamp": 1589628941,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U9VM1DN4U",
+                "editable": false,
+                "size": 97267,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013S8TJ5CJ\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013S8TJ5CJ\/download\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 163,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 217,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 326,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_800.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 362,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 434,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013S8TJ5CJ-fae3a44259\/image_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 463,
+                "original_w": 1255,
+                "original_h": 568,
+                "thumb_tiny": "AwAVADDRx70tNdio4Gad+dACfjSBiT0p1NLYcLjrQA6ij8DS9qAG0YpaKAEpaSigA59aWiigD\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U9VM1DN4U\/F013S8TJ5CJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F013S8TJ5CJ-37646cf43d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TyZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "например пройти SQL Fundamentals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U9VM1DN4U",
+        "display_as_bot": false,
+        "ts": "1589628944.447300",
+        "client_msg_id": "6f144c17-83f0-4c15-8f6a-b501aebecd96",
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ"
+    },
+    {
+        "client_msg_id": "43727c96-12a0-464e-b24a-4ca064f561df",
+        "type": "message",
+        "text": "мне понравился вот этот подход <https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1588331055172400>\nсам не проходил, конечно :slightly_smiling_face: но там выстраивается целая история развития стартапа и упражнения на SQL продуманы так, чтоб отвечать на текущие бизнес-вопросы стартапа",
+        "user": "U1UNFRQ1K",
+        "ts": "1589629763.447700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1588331055172400",
+                "fallback": "[May 1st, 2020 4:04 AM] makaroni4: Всем привет! :wave:\n\nЯ очень рад представить ODS свой курс по аналитике и SQL: <https:\/\/www.sqlhabit.com\/>\n\nКурс построен на истории небольшой компании, где вы помогаете фаундерам отвечать на вопросы с помощью данных. Всё начинается с запуска сайта и вопросов уровня \"Сколько у нас пользователей?\", и плавно переходит в тонкие нюансы аналитики веба (как данных трекаются и собираются) и мобильных приложений (компания запускает апп и вы будете его анализировать), юнит экономики, АБ-тестов и т.д. :chart_with_upwards_trend:\n\nВесь курс построен на реальных кейсах из маркетинга и продуктовой аналитики. Будет много теории SQL, технических нюансов работы с данными, и конечно практики – вы будете работать с реальной базой данных. Вы не просто выучите SQL до самого высокого уровня, но и подготовите себе копилку запросов\/техник для любой ситуации в реальной работе.\n\nПервые выпускники SQL Habit уже начали работать аналитиками в eBay, SumUp. Если у кого-то есть вопросы про курс или вообще про данные\/SQL – пишите, буду рад поделиться опытом. :rocket:",
+                "ts": "1588331055.172400",
+                "author_id": "U010WCKFS9W",
+                "author_subname": "makaroni4",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Всем привет! :wave:\n\nЯ очень рад представить ODS свой курс по аналитике и SQL: <https:\/\/www.sqlhabit.com\/>\n\nКурс построен на истории небольшой компании, где вы помогаете фаундерам отвечать на вопросы с помощью данных. Всё начинается с запуска сайта и вопросов уровня \"Сколько у нас пользователей?\", и плавно переходит в тонкие нюансы аналитики веба (как данных трекаются и собираются) и мобильных приложений (компания запускает апп и вы будете его анализировать), юнит экономики, АБ-тестов и т.д. :chart_with_upwards_trend:\n\nВесь курс построен на реальных кейсах из маркетинга и продуктовой аналитики. Будет много теории SQL, технических нюансов работы с данными, и конечно практики – вы будете работать с реальной базой данных. Вы не просто выучите SQL до самого высокого уровня, но и подготовите себе копилку запросов\/техник для любой ситуации в реальной работе.\n\nПервые выпускники SQL Habit уже начали работать аналитиками в eBay, SumUp. Если у кого-то есть вопросы про курс или вообще про данные\/SQL – пишите, буду рад поделиться опытом. :rocket:",
+                "author_name": "makaroni4",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U010WCKFS9W",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/e302c3320cd14b02cbe237b479d7f884.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1588331055172400",
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+qGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "мне понравился вот этот подход "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1588331055172400"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nсам не проходил, конечно "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " но там выстраивается целая история развития стартапа и упражнения на SQL продуманы так, чтоб отвечать на текущие бизнес-вопросы стартапа"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9VM1DN4U",
+                    "U94JRCXL7",
+                    "U010WCKFS9W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94645dac-9d52-490d-bbe2-dc35141d921d",
+        "type": "message",
+        "text": "<@U1UNFRQ1K>, тоже слышал про этот курс, пока только в закладки добавил",
+        "user": "U9VM1DN4U",
+        "ts": "1589630254.448100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "06711a192313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-25\/335680548915_06711a192313c780cb59_72.jpg",
+            "first_name": "Anatolii",
+            "real_name": "Anatolii Balakiriev",
+            "display_name": "Anatolii Balakiriev",
+            "team": "T040HKJE3",
+            "name": "dreamsuccesslife",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMHWE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1UNFRQ1K"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", тоже слышал про этот курс, пока только в закладки добавил"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U1UNFRQ1K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15a83d13-87fc-472c-a51b-2cfba43b7459",
+        "type": "message",
+        "text": "<https:\/\/learndb.ru\/courses>\nБесплатно по PostgreSQL",
+        "user": "UGETHR41H",
+        "ts": "1589631306.448300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "382933be017e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1265967923479_382933be017efdcd697e_72.jpg",
+            "first_name": "Roman",
+            "real_name": "Roman D",
+            "display_name": "Roman D",
+            "team": "T040HKJE3",
+            "name": "magmamanee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGETHR41H",
+            "ts": "1589631334.000000"
+        },
+        "attachments": [
+            {
+                "title": "Бесплатные онлайн-курсы SQL",
+                "title_link": "https:\/\/learndb.ru\/courses",
+                "text": "Бесплатные онлайн-курсы SQL",
+                "fallback": "Бесплатные онлайн-курсы SQL",
+                "from_url": "https:\/\/learndb.ru\/courses",
+                "service_name": "learndb.ru",
+                "id": 1,
+                "original_url": "https:\/\/learndb.ru\/courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85Oiu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learndb.ru\/courses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nБесплатно по PostgreSQL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ"
+    },
+    {
+        "client_msg_id": "540afcea-704b-4ac9-8277-c2dbae11e1d3",
+        "type": "message",
+        "text": "<@U6SCXUP6U>: По ссылке нашел что надо - <https:\/\/www.amazon.com\/Mathematical-Statistics-Analysis-Available-Enhanced-dp-0534399428\/dp\/0534399428\/ref=mt_hardcover?_encoding=UTF8&amp;me=&amp;qid=>",
+        "user": "UCMC5J36D",
+        "ts": "1589634463.449000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jPw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6SCXUP6U"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": По ссылке нашел что надо - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Mathematical-Statistics-Analysis-Available-Enhanced-dp-0534399428\/dp\/0534399428\/ref=mt_hardcover?_encoding=UTF8&me=&qid="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6SCXUP6U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a74d186-3df2-434d-9fc8-2215bebd81f9",
+        "type": "message",
+        "text": "Смотрел старую версию <https:\/\/stepik.org\/course\/70710\/promo#toc> , там postgres, хорошие видео и задачки",
+        "user": "UAT560BK4",
+        "ts": "1589640025.450200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c0ff402d0a52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/473660322916_c0ff402d0a5273fe7e77_72.jpg",
+            "first_name": "Boris",
+            "real_name": "Boris Zimka",
+            "display_name": "zimka",
+            "team": "T040HKJE3",
+            "name": "zimka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Свободное погружение в СУБД",
+                "title_link": "https:\/\/stepik.org\/course\/70710\/promo#toc",
+                "text": "Курс для тех, кто уже имеет некоторый опыт проектирования баз данных и разработки приложений и хочет расширить свои знания. Это копия курса \"Погружение в СУБД\" 2017 года. Но без дедлайнов!",
+                "fallback": "Stepik: online education: Свободное погружение в СУБД",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/3203\/cover\/ea4748a2d17e74d340a25632a3f00d4f.jpg",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/70710\/promo#toc",
+                "image_height": 230,
+                "image_bytes": 5654,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1589370222",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/70710\/promo#toc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KtcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Смотрел старую версию "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/70710\/promo#toc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , там postgres, хорошие видео и задачки"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9VM1DN4U",
+                    "U53E5MFNU",
+                    "U3D5HVB51",
+                    "U012HP85P51"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f99e6b-e80f-4d4c-b2af-eda3abf5fb17",
+        "type": "message",
+        "text": "Sql-ex + Datacamp(бесплатный курс по SQL) Можно ещё по учебникам Oracle для разрабов учиться, но это уже другой уровень",
+        "user": "UJG3W0SSZ",
+        "ts": "1589641587.450900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g517dcfc5c04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3a517dcfc5c0413d0971b4dd6af9f212.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "Artem",
+            "team": "T040HKJE3",
+            "name": "krutoi1998",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2oZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sql-ex + Datacamp(бесплатный курс по SQL) Можно ещё по учебникам Oracle для разрабов учиться, но это уже другой уровень"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJG3W0SSZ",
+                    "U6Z21KSBC",
+                    "UM2Q2B41J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1973c4ad-c3d0-4b64-bbf8-e293b6918297",
+        "type": "message",
+        "text": "Свободное погружение в СУБД на Степике тоже рекомендую, хотя там с совсем нулевого может сложновато будет.\nЗимой смотрел запись недельного курса Фёдора Самородова на Специалисте \"M20461D Создание запросов в Microsoft SQL Server 2014\" - очень доходчиво, систематично и не скучно, с нуля и до очень приличного уровня. Я был бы рад, если бы посмотрел когда только начинал изучать SQL, но и так некоторые моменты пригодились. То что не Постгрес - не критично, 90-95% запросов работают и там и там без переделки. Где взять - не знаю, мне досталась пиратка от знакомых, просмотрев хранить не стал",
+        "user": "U6TFPN2CQ",
+        "ts": "1589642629.451200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69506f7797e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-23\/1521586706370_69506f7797e1c8320aec_72.png",
+            "first_name": "Nickolay",
+            "real_name": "Nickolay Sergushenkov",
+            "display_name": "sergushenkov",
+            "team": "T040HKJE3",
+            "name": "sergushenkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6TFPN2CQ",
+            "ts": "1589642662.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Свободное погружение в СУБД на Степике тоже рекомендую, хотя там с совсем нулевого может сложновато будет.\nЗимой смотрел запись недельного курса Фёдора Самородова на Специалисте \"M20461D Создание запросов в Microsoft SQL Server 2014\" - очень доходчиво, систематично и не скучно, с нуля и до очень приличного уровня. Я был бы рад, если бы посмотрел когда только начинал изучать SQL, но и так некоторые моменты пригодились. То что не Постгрес - не критично, 90-95% запросов работают и там и там без переделки. Где взять - не знаю, мне досталась пиратка от знакомых, просмотрев хранить не стал"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9VM1DN4U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a974e3c-2f07-4236-b1d8-61ece597e861",
+        "type": "message",
+        "text": "на степике с неделю назад выпустили Интерактивный тренажер по SQL <https:\/\/stepik.org\/course\/63054\/syllabus> для введения я бы начал с него, там за неделю можно руку хорошо набить по основам запросов SQL, потом браться за советы выше по поводу Свободного погружения в СУБД",
+        "user": "U53E5MFNU",
+        "ts": "1589644491.451600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Интерактивный тренажер по SQL",
+                "title_link": "https:\/\/stepik.org\/course\/63054\/syllabus",
+                "text": "После завершения курса учащиеся научатся проектировать и создавать реляционные базы данных, изучат различные типы SQL-запросов, разберутся, как формулировать, создавать и отлаживать запросы SQL.",
+                "fallback": "Stepik: online education: Интерактивный тренажер по SQL",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/63054\/cover_EbEchDX\/247008fc2ff57a8d50450de9b3d42e95.jpg",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/63054\/syllabus",
+                "image_height": 212,
+                "image_bytes": 10234,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1589370222",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/63054\/syllabus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "на степике с неделю назад выпустили Интерактивный тренажер по SQL "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/63054\/syllabus"
+                            },
+                            {
+                                "type": "text",
+                                "text": " для введения я бы начал с него, там за неделю можно руку хорошо набить по основам запросов SQL, потом браться за советы выше по поводу Свободного погружения в СУБД"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589628602.446900",
+        "parent_user_id": "U5XEFVADQ",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9VM1DN4U",
+                    "U6UNGFSMQ",
+                    "U012HP85P51"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bff551e-51e1-4490-bfbe-303bb3d96aeb",
+        "type": "message",
+        "text": "Посмотрите статью о том, как востановить навыки <https:\/\/towardsdatascience.com\/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93>",
+        "user": "U8Z8V576H",
+        "ts": "1589650673.452900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g18f84923b0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2718f84923b0d7509d877e525f3c58d6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Zmey56",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "zmey56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "If I had to start learning data science again, how would I do it?",
+                "title_link": "https:\/\/towardsdatascience.com\/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93",
+                "text": "A couple of days ago I started thinking if I had to start learning machine learning and data science all over again where would I start…",
+                "fallback": "Medium: If I had to start learning data science again, how would I do it?",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*5AUakIbH_E6st3pIayG4HA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1588608552,
+                "from_url": "https:\/\/towardsdatascience.com\/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93",
+                "image_width": 381,
+                "image_height": 250,
+                "image_bytes": 186524,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yolF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Посмотрите статью о том, как востановить навыки "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589614408.441400",
+        "parent_user_id": "U9N8VE90X",
+        "reactions": [
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U012T73D0SJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UUCMSG459",
+                    "U013J8QBBRS",
+                    "USZ4MAVFG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd76942e-3690-4614-a323-a3eb0259fb6d",
+        "type": "message",
+        "text": "Ребята, всем привет.\nРешил обучатся по roadmap описанном в данной статье. (Потому что самостоятельно выходит несистемно, с перебежками от одного к другому)\n<https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff|https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff>\nПодскажите пожалуйста, первые 3 курса из списка ниже подойдут для базового освоения Python?\n<https:\/\/www.edx.org\/professional-certificate\/python-data-science|https:\/\/www.edx.org\/professional-certificate\/python-data-science>\nМожет есть лучшие варианты?\n\nИ вопрос по математике - как я понимаю, математику в данном случае имеет подтягивать между 2 и 3 шагом роадмапы?\nС математикой у меня на данный момент не сверх, образование гуманитарное, на данный момент прошел только курс статистики на стэпике.",
+        "user": "US3C4AYTS",
+        "ts": "1589653101.464100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc68912f5302",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c68912f530207ff8aaec9b1959e97dc1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Lanius",
+            "real_name": "Lanius",
+            "display_name": "Lanius",
+            "team": "T040HKJE3",
+            "name": "decoy139",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "A long-term Data Science roadmap which WON’T help you become an expert in only several months",
+                "title_link": "https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff",
+                "text": "From time to time I’m asked: how does one become Data scientist? What courses are necessary? How long will it take? How did you become DS…",
+                "fallback": "Medium: A long-term Data Science roadmap which WON’T help you become an expert in only several months",
+                "image_url": "https:\/\/miro.medium.com\/max\/1040\/1*T5GfsoZ-IWK3rcVkZ7R2bw.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "7 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1567689769,
+                "from_url": "https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff",
+                "image_width": 220,
+                "image_height": 250,
+                "image_bytes": 532365,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff"
+            },
+            {
+                "service_name": "edX",
+                "title": "Python Data Science",
+                "title_link": "https:\/\/www.edx.org\/professional-certificate\/python-data-science",
+                "text": "Launch your career in data science with hands-on Python skills.",
+                "fallback": "edX: Python Data Science",
+                "thumb_url": "https:\/\/www.edx.org\/sites\/default\/files\/data-science-with-python_378x225_1.png",
+                "from_url": "https:\/\/www.edx.org\/professional-certificate\/python-data-science",
+                "thumb_width": 378,
+                "thumb_height": 225,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.edx.org\/professional-certificate\/python-data-science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jaPw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ребята, всем привет.\nРешил обучатся по roadmap описанном в данной статье. (Потому что самостоятельно выходит несистемно, с перебежками от одного к другому)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff",
+                                "text": "https:\/\/towardsdatascience.com\/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПодскажите пожалуйста, первые 3 курса из списка ниже подойдут для базового освоения Python?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/professional-certificate\/python-data-science",
+                                "text": "https:\/\/www.edx.org\/professional-certificate\/python-data-science"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nМожет есть лучшие варианты?\n\nИ вопрос по математике - как я понимаю, математику в данном случае имеет подтягивать между 2 и 3 шагом роадмапы?\nС математикой у меня на данный момент не сверх, образование гуманитарное, на данный момент прошел только курс статистики на стэпике."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653101.464100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1589801459.012000",
+        "reply_users": [
+            "U60EETE7N",
+            "U012T73D0SJ",
+            "U013J8QBBRS"
+        ],
+        "replies": [
+            {
+                "user": "U60EETE7N",
+                "ts": "1589664448.464900"
+            },
+            {
+                "user": "U012T73D0SJ",
+                "ts": "1589706931.466300"
+            },
+            {
+                "user": "U013J8QBBRS",
+                "ts": "1589801459.012000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "76d6588d-d5ce-4c22-96d4-e8fed47108d4",
+        "type": "message",
+        "text": "точно, я на нее не обратил внимание)",
+        "user": "U6SCXUP6U",
+        "ts": "1589658050.464500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "точно, я на нее не обратил внимание)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589487094.404700",
+        "parent_user_id": "U010C3DDPH8"
+    },
+    {
+        "client_msg_id": "8cbbedf0-d2a6-4fcd-a838-97661085c897",
+        "type": "message",
+        "text": "Вот топ курс по базовому питону, да и CS в целом (плюс его продолжение там же на edX)\n<https:\/\/www.edx.org\/course\/introduction-to-computer-science-and-programming-7>",
+        "user": "U60EETE7N",
+        "ts": "1589664448.464900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U60EETE7N",
+            "ts": "1589664507.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Introduction to Computer Science and Programming Using Python",
+                "title_link": "https:\/\/www.edx.org\/course\/introduction-to-computer-science-and-programming-7",
+                "text": "An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.",
+                "fallback": "edX: Introduction to Computer Science and Programming Using Python",
+                "thumb_url": "https:\/\/prod-discovery.edx-cdn.org\/media\/course\/image\/956319ec-8665-4039-8bc6-32c9a9aea5e9-885268c71902.small.jpg",
+                "from_url": "https:\/\/www.edx.org\/course\/introduction-to-computer-science-and-programming-7",
+                "thumb_width": 378,
+                "thumb_height": 225,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/course\/introduction-to-computer-science-and-programming-7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iy0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот топ курс по базовому питону, да и CS в целом (плюс его продолжение там же на edX)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/course\/introduction-to-computer-science-and-programming-7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653101.464100",
+        "parent_user_id": "US3C4AYTS",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "US3C4AYTS",
+                    "UDA191BHU",
+                    "U012T73D0SJ",
+                    "UBNUCK0DC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U013L64UGER",
+                    "U57JJAVLN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

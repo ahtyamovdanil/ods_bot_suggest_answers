@@ -1,0 +1,167 @@
+[
+    {
+        "type": "message",
+        "text": "Не смотрел данный курс. И код наверно не найду. Проверь что у тебя все матрицы именно такие, какие должны быть. И проверь все ли ты ограничения используешь.",
+        "user": "U785BGH9C",
+        "ts": "1510648152.000298",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4ea07ed7199c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-29\/975462480149_4ea07ed7199c4555e25c_72.png",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Artemyev",
+            "display_name": "mrlzla",
+            "team": "T040HKJE3",
+            "name": "mrlzlamogilev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1510532719.000091",
+        "parent_user_id": "U3K7PNTML"
+    },
+    {
+        "type": "message",
+        "text": "Не очень понял, но в голову что-то пришло, поэтому вкину следующий поток сознания.\n\nПреобразования Фурье, Гильберта, Лапласа и, не знаю, z-преобразование, вейвлеты. Ну Оппенгейм, наверное: <http:\/\/amzn.to\/2akCUmR>, хотя я по учебнику Сергиенко учил тему. \n\nПреобразования Радона и Хафа, и всякая компьютерная томография: ничего глубоко не читал. Вот этот дядька из ИТМО много лет занимается КТ: <http:\/\/www.ifmo.ru\/ru\/viewperson\/182\/sizikov_valeriy_sergeevich.htm> и восстановлением сигналов, которые были искажены в том числе интнгральными преобразованиями. \n\nИ ещё приходит в голову идея integral image, которая использовалась много где в зрении, например, в детекторе объектов имени Viola&amp;Jones и детекторе ключевых точек SURF. ",
+        "user": "U042UQC96",
+        "ts": "1510697489.000240",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ecc31887cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-02\/340795274038_ecc31887cd0a29e7583a_72.jpg",
+            "first_name": "Rasim",
+            "real_name": "Rasim Akhunzyanov",
+            "display_name": "rasim.akhunzyanov",
+            "team": "T040HKJE3",
+            "name": "rasim.akhunzyanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[November 14th, 2017 6:09 AM] cityfish: специфический вопрос: какие темы\/литература приходит в голову по названию \"Интегральные преобразования сигналов и изображений\" ?",
+                "ts": "1510628998.000146",
+                "author_id": "U1HHX1QS3",
+                "author_subname": "Philipp Kats",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "специфический вопрос: какие темы\/литература приходит в голову по названию \"Интегральные преобразования сигналов и изображений\" ?",
+                "author_name": "Philipp Kats",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U1HHX1QS3",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1510628998000146",
+                "is_share": true,
+                "footer": "Posted in #edu_courses"
+            },
+            {
+                "title": "Digital Signal Processing",
+                "title_link": "http:\/\/amzn.to\/2akCUmR",
+                "text": "An up-to-date and detailed introduction to the fundamentals of processing signals by digital techniques and their applications to practical problems.",
+                "fallback": "Digital Signal Processing",
+                "image_url": "https:\/\/images-eu.ssl-images-amazon.com\/images\/I\/51dUmzgz0-L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(5%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "http:\/\/amzn.to\/2akCUmR",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 19746,
+                "service_icon": "https:\/\/www.amazon.in\/favicon.ico",
+                "service_name": "amazon.in",
+                "id": 1
+            },
+            {
+                "service_name": "Университет ИТМО официальный портал",
+                "title": "Сизиков Валерий Сергеевич Профессор кафедры сенсорики Персоналия университета ИТМО",
+                "title_link": "http:\/\/www.ifmo.ru\/ru\/viewperson\/182\/sizikov_valeriy_sergeevich.htm",
+                "text": "Краткая биография 1965 1967 аспирант мат -мех фак-та ЛГУ 1968 1992 научн сотрудник ЦНИИ Морфизприбор 1970 кандидат физ -мат наук 1989 доктор техн наук 1991 референт Mathematical Reviews MR 1992 профессор ИТМО 1992 член Американского Математического Общества AMS",
+                "fallback": "Университет ИТМО официальный портал: Сизиков Валерий Сергеевич Профессор кафедры сенсорики Персоналия университета ИТМО",
+                "thumb_url": "http:\/\/www.ifmo.ru\/images\/person\/small\/p182.jpg",
+                "from_url": "http:\/\/www.ifmo.ru\/ru\/viewperson\/182\/sizikov_valeriy_sergeevich.htm",
+                "thumb_width": 130,
+                "thumb_height": 150,
+                "service_icon": "http:\/\/www.ifmo.ru\/pic\/speeddials\/apple_touch.png",
+                "id": 2
+            }
+        ],
+        "thread_ts": "1510697489.000240",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1510697638.000253",
+        "reply_users": [
+            "U1HHX1QS3",
+            "U042UQC96"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1510697563.000307"
+            },
+            {
+                "user": "U042UQC96",
+                "ts": "1510697638.000253"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "signal_strength",
+                "users": [
+                    "U2F6EH0N7",
+                    "U1HHX1QS3",
+                    "U0NAHR9C5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "о, спасибо",
+        "user": "U1HHX1QS3",
+        "ts": "1510697563.000307",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1510697489.000240",
+        "parent_user_id": "U042UQC96"
+    },
+    {
+        "type": "message",
+        "text": "Извини, что не в треде. Не разобрался в интерфейсе андроид клиента. ",
+        "user": "U042UQC96",
+        "ts": "1510697638.000253",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ecc31887cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-02\/340795274038_ecc31887cd0a29e7583a_72.jpg",
+            "first_name": "Rasim",
+            "real_name": "Rasim Akhunzyanov",
+            "display_name": "rasim.akhunzyanov",
+            "team": "T040HKJE3",
+            "name": "rasim.akhunzyanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1510697489.000240",
+        "parent_user_id": "U042UQC96"
+    }
+]

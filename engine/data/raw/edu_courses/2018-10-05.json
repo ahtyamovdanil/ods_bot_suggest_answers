@@ -1,0 +1,759 @@
+[
+    {
+        "client_msg_id": "f46d23fd-8c98-461d-b975-4a47c95be5f0",
+        "type": "message",
+        "text": "Привет. Посоветуйте на тему Python некий сайт с python-задачками от супертупых до сложных, проходя которые ты прорешиваешь примеры. Аналог по SQL: <http:\/\/sql-ex.ru|sql-ex.ru>, например.",
+        "user": "U6HNJVCP2",
+        "ts": "1538735125.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9a5ebd3a1787",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-08\/754961638678_9a5ebd3a1787a06d2cad_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Koneev",
+            "display_name": "Sergey Koneev",
+            "team": "T040HKJE3",
+            "name": "data.structures",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1538735125.000100",
+        "reply_count": 15,
+        "reply_users_count": 11,
+        "latest_reply": "1540242830.000100",
+        "reply_users": [
+            "UCN51ML4S",
+            "U6HNJVCP2",
+            "U4WM1939Q",
+            "U7UP85B3J",
+            "UD6USQNJY",
+            "U7CAU0GMU",
+            "U15V81K6V",
+            "U1HHX1QS3",
+            "U4G0TN0GP",
+            "U9W1PD5QD",
+            "UCT290D7A"
+        ],
+        "replies": [
+            {
+                "user": "UCN51ML4S",
+                "ts": "1538735340.000100"
+            },
+            {
+                "user": "U6HNJVCP2",
+                "ts": "1538735357.000100"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1538735828.000100"
+            },
+            {
+                "user": "U7UP85B3J",
+                "ts": "1538735940.000100"
+            },
+            {
+                "user": "UD6USQNJY",
+                "ts": "1538735994.000100"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1538736298.000100"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1538738435.000100"
+            },
+            {
+                "user": "U6HNJVCP2",
+                "ts": "1538744766.000100"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1538746604.000100"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1538748463.000100"
+            },
+            {
+                "user": "U4G0TN0GP",
+                "ts": "1538761202.000100"
+            },
+            {
+                "user": "U9W1PD5QD",
+                "ts": "1538824167.000100"
+            },
+            {
+                "user": "UCT290D7A",
+                "ts": "1540240909.000100"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1540242819.000100"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1540242830.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U95EDL3H8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3674857a-325f-4e5f-abfa-3a97554214bf",
+        "type": "message",
+        "text": "<http:\/\/hackerrank.com|hackerrank.com> смотрели уже?",
+        "user": "UCN51ML4S",
+        "ts": "1538735340.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcff227fb744",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2cff227fb744f71f7b5f268bc47a459.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander",
+            "display_name": "lambdaterm",
+            "team": "T040HKJE3",
+            "name": "avkarpich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "9908fd63-2092-4f0c-9706-681760f62bda",
+        "type": "message",
+        "text": "<@UCN51ML4S> ничего не смотрели, предлагайте всё )",
+        "user": "U6HNJVCP2",
+        "ts": "1538735357.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9a5ebd3a1787",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-08\/754961638678_9a5ebd3a1787a06d2cad_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Koneev",
+            "display_name": "Sergey Koneev",
+            "team": "T040HKJE3",
+            "name": "data.structures",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "dd524764-2c55-48dc-8276-29640324c000",
+        "type": "message",
+        "text": "<http:\/\/leetcode.com|leetcode.com>\t\n<http:\/\/hackerrank.com|hackerrank.com>\t\n<http:\/\/py.checkio.org|py.checkio.org>\t\n<http:\/\/realpython.com|realpython.com>",
+        "user": "U4WM1939Q",
+        "ts": "1538735828.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "22dc812e-cf01-4152-904b-33d5fff53c8d",
+        "type": "message",
+        "text": "<http:\/\/pythontutor.ru|pythontutor.ru> ",
+        "user": "U7UP85B3J",
+        "ts": "1538735940.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbd1abf6eba5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26bd1abf6eba510a18fb44f095f0c1ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Daler",
+            "real_name": "Daler Bakhriev",
+            "display_name": "Daler",
+            "team": "T040HKJE3",
+            "name": "dalerbakhriev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "29003206-6c1b-4dc4-ac81-b04b093e80f3",
+        "type": "message",
+        "text": "Еще <http:\/\/codewars.com|codewars.com>",
+        "user": "UD6USQNJY",
+        "ts": "1538735994.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3e8667d1ccd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23e8667d1ccde5ee3d72b8178c852c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Belov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "psycholinguist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "d0e46192-e41e-49bc-8f1e-285a3b7150ad",
+        "type": "message",
+        "text": "<https:\/\/www.datacamp.com\/>. Leetcode хорош, но супертупых задачек там нет",
+        "user": "U7CAU0GMU",
+        "ts": "1538736298.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7CAU0GMU",
+            "ts": "1538736325.000000"
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "31bcc5cb-0d0c-404b-ae65-9f007aeb0c7e",
+        "type": "message",
+        "text": "как подойти лучше к leetcode, там 2 подписки - месячная и годовая.  Выкачать от туда задачи? Какую выгоднее приобрести? Есть смысл в годовой подписке? Скажем, хочу в активном режиме к гномикам подготовится.",
+        "user": "U15V81K6V",
+        "ts": "1538738435.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "d8c5c4a2-9941-46e8-bd75-ae9d2933a162",
+        "type": "message",
+        "text": "если страна есть в списке то ок, прикольно что Беларуси нету потому что “U.S. law restricts our ability to provide certain services and, therefore, you are ineligible to participate in this program at this time”",
+        "user": "U5EGA37D0",
+        "ts": "1538743086.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cfd189534f5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-02\/221003322836_cfd189534f5c822ddbdb_72.jpg",
+            "first_name": "Евгений",
+            "real_name": "Евгений Нехай",
+            "display_name": "eugenn",
+            "team": "T040HKJE3",
+            "name": "eugenn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538513790.000100",
+        "parent_user_id": "U97BME4Q7"
+    },
+    {
+        "client_msg_id": "c1890ed1-ee51-477c-b991-cc769d991626",
+        "type": "message",
+        "text": "Господули, а что-то русскоязычное есть, кроме pythontutor, который вполне норм.",
+        "user": "U6HNJVCP2",
+        "ts": "1538744766.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9a5ebd3a1787",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-08\/754961638678_9a5ebd3a1787a06d2cad_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Koneev",
+            "display_name": "Sergey Koneev",
+            "team": "T040HKJE3",
+            "name": "data.structures",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "edited": {
+            "user": "U6HNJVCP2",
+            "ts": "1538744991.000000"
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "8151BB0F-BAA9-4D0A-BDFA-B9F2C0464656",
+        "type": "message",
+        "text": "Там разница между языком кода и языком задачи кажется минимальна - в любом случае такой минимальный язык понадобится для чтения документации",
+        "user": "U1HHX1QS3",
+        "ts": "1538746604.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7CAU0GMU",
+                    "U95EDL3H8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b84f0859-60f7-4e03-8f38-7f0e92b6a147",
+        "type": "message",
+        "text": "\"русскоязычное есть\" - code force, <https:\/\/www.youtube.com\/watch?v=xb9zyQfoDbQ>  - чувак из гугла говорит норм, выше 4 задачи обычно не просят",
+        "user": "U15V81K6V",
+        "ts": "1538748463.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ПРОГРАММИСТ ИЗ GOOGLE: собеседования, промоушн, типичный рабочий день, криптовалюты",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xb9zyQfoDbQ",
+                "author_name": "ProgBlog TV",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC1QrUyRmSoUTPVSbHv7arcA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xb9zyQfoDbQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ПРОГРАММИСТ ИЗ GOOGLE: собеседования, промоушн, типичный рабочий день, криптовалюты",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xb9zyQfoDbQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xb9zyQfoDbQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xb9zyQfoDbQ"
+            }
+        ],
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "edea1e55-8b7c-40d0-9633-db88f8e965ca",
+        "type": "message",
+        "text": "Мне нравится <https:\/\/app.codesignal.com\/> Можно в режиме аркады как раз от тупых к сложным",
+        "user": "U4G0TN0GP",
+        "ts": "1538761202.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bbb3c7bd3671",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-17\/257356588947_bbb3c7bd367157635572_72.jpg",
+            "first_name": "Olga",
+            "real_name": "Olga Larkina",
+            "display_name": "osl",
+            "team": "T040HKJE3",
+            "name": "osl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CodeSignal",
+                "title_link": "https:\/\/app.codesignal.com\/",
+                "text": "CodeSignal is the most fun way to practice programming. Prepare for technical interviews &amp; level up your coding skills. Join our growing community of engineers!",
+                "fallback": "CodeSignal",
+                "from_url": "https:\/\/app.codesignal.com\/",
+                "service_icon": "https:\/\/app.codesignal.com\/img\/favicon-32x32.png",
+                "service_name": "app.codesignal.com",
+                "id": 1,
+                "original_url": "https:\/\/app.codesignal.com\/"
+            }
+        ],
+        "thread_ts": "1538735125.000100",
+        "parent_user_id": "U6HNJVCP2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UD6USQNJY",
+                    "U6TFPN2CQ",
+                    "U95EDL3H8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aee17a3f-645b-4b3c-9660-cb2dd4edd464",
+        "type": "message",
+        "text": "<@U907S63D0> спасибо. Видел ее, но был не уверен, что она нормальная",
+        "user": "UBQELFC8K",
+        "ts": "1538766489.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50a688900aa0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1393145230592_50a688900aa057379bf6_72.jpg",
+            "first_name": "Timur_Bik",
+            "real_name": "Timur_Bik",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "bikmukhametov62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538504718.000100",
+        "parent_user_id": "UBQELFC8K"
+    },
+    {
+        "client_msg_id": "4aeeeea1-fc99-4d4f-810b-845588d9e408",
+        "type": "message",
+        "text": "Решил пройти курс по PGM на курсере (<https:\/\/www.coursera.org\/specializations\/probabilistic-graphical-models>). Есть несколько вопросов.\n1. Стоит ли его проходить? Не устарел ли?\n2. Можно ли на python задания делать? matlab и octave вообще не хочу использовать.\n3. Есть ли какие скидки на курсере? (кроме fin aid) Пишет 41 евро в месяц, что как то много.",
+        "user": "U0ZJV6E5Q",
+        "ts": "1538774649.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fbde4abbc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-31\/134799210453_31fbde4abbc136a82c29_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Movchan",
+            "display_name": "movchan74",
+            "team": "T040HKJE3",
+            "name": "movchan74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Probabilistic Graphical Models  | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/probabilistic-graphical-models",
+                "text": "Probabilistic Graphical Models from Stanford University. Probabilistic graphical models (PGMs) are a rich framework for encoding probability distributions over complex domains: joint (multivariate) distributions over large numbers of random ...",
+                "fallback": "Coursera: Probabilistic Graphical Models  | Coursera",
+                "thumb_url": "https:\/\/d15cw65ipctsrr.cloudfront.net\/e4\/3058707fc411e6a6543518bad4c0fc\/PGM-Thinker-1000.png",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/probabilistic-graphical-models",
+                "thumb_width": 1500,
+                "thumb_height": 430,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/probabilistic-graphical-models"
+            }
+        ],
+        "thread_ts": "1538774649.000100",
+        "reply_count": 12,
+        "reply_users_count": 7,
+        "latest_reply": "1539814507.000100",
+        "reply_users": [
+            "U04ELQZAU",
+            "U0ZJV6E5Q",
+            "U26QDDKMY",
+            "U34Q3KU8H",
+            "U26KV8W3D",
+            "U21MU5ATE",
+            "UD6PJ677E"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1538775165.000100"
+            },
+            {
+                "user": "U0ZJV6E5Q",
+                "ts": "1538775565.000100"
+            },
+            {
+                "user": "U0ZJV6E5Q",
+                "ts": "1538775687.000100"
+            },
+            {
+                "user": "U26QDDKMY",
+                "ts": "1538776098.000100"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1538777576.000100"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1538777603.000100"
+            },
+            {
+                "user": "U0ZJV6E5Q",
+                "ts": "1538777625.000100"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1538777658.000100"
+            },
+            {
+                "user": "U26KV8W3D",
+                "ts": "1538896875.000100"
+            },
+            {
+                "user": "U26KV8W3D",
+                "ts": "1538896951.000100"
+            },
+            {
+                "user": "U21MU5ATE",
+                "ts": "1538953841.000100"
+            },
+            {
+                "user": "UD6PJ677E",
+                "ts": "1539814507.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "068c9691-d696-43ab-a2b9-55da4d796fd9",
+        "type": "message",
+        "text": "1. Ничего особо нового в графмоделях не изобрели, но и использовать их тоже не стали :kekeke:",
+        "user": "U04ELQZAU",
+        "ts": "1538775165.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "c721baa2-eb46-4521-8962-e1e1a7673bf5",
+        "type": "message",
+        "text": "Really? То есть не стоит проходить? Я иногда встречаю PGM в статьях (как эта например <https:\/\/arxiv.org\/pdf\/1706.00326.pdf>), а расшифровать не могу.",
+        "user": "U0ZJV6E5Q",
+        "ts": "1538775565.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fbde4abbc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-31\/134799210453_31fbde4abbc136a82c29_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Movchan",
+            "display_name": "movchan74",
+            "team": "T040HKJE3",
+            "name": "movchan74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "9599788c-7cce-4101-a130-b956f38d00cb",
+        "type": "message",
+        "text": "Или штуки как CRF для semantic segmentation.",
+        "user": "U0ZJV6E5Q",
+        "ts": "1538775687.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fbde4abbc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-31\/134799210453_31fbde4abbc136a82c29_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Movchan",
+            "display_name": "movchan74",
+            "team": "T040HKJE3",
+            "name": "movchan74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "69581e4e-05b0-4d72-b2cb-b9d050800fc2",
+        "type": "message",
+        "text": "<#C2GBL5SM8|edu_course_pgm> ",
+        "user": "U26QDDKMY",
+        "ts": "1538776098.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d4de18a47c92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-03\/357934776131_d4de18a47c9224983d0d_72.jpg",
+            "first_name": "Dima",
+            "real_name": "Dima",
+            "display_name": "ched",
+            "team": "T040HKJE3",
+            "name": "chernyshof",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "35536084-ec64-48b7-b610-b4b1038d82f8",
+        "type": "message",
+        "text": "<@U0ZJV6E5Q>, ну тебе статьи читать, или в прод решения делать? <@U34Q3KU8H>, когда последний раз CRF'ы использовал для сегментации?",
+        "user": "U04ELQZAU",
+        "ts": "1538777576.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "69599a02-2fa1-4e37-ac6b-ecb44fee7809",
+        "type": "message",
+        "text": "Я их в принципе никогда не использовал. Все руки никак не доходят.",
+        "user": "U34Q3KU8H",
+        "ts": "1538777603.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "a2fcdd8c-e552-47c3-8f33-c3ed3c46caff",
+        "type": "message",
+        "text": "Для начала статьи читать.",
+        "user": "U0ZJV6E5Q",
+        "ts": "1538777625.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fbde4abbc1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-31\/134799210453_31fbde4abbc136a82c29_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Movchan",
+            "display_name": "movchan74",
+            "team": "T040HKJE3",
+            "name": "movchan74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    },
+    {
+        "client_msg_id": "75f28f5f-930c-43c1-9a16-9d69c0cd330e",
+        "type": "message",
+        "text": "Ну ради статей можешь пройти курс",
+        "user": "U04ELQZAU",
+        "ts": "1538777658.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1538774649.000100",
+        "parent_user_id": "U0ZJV6E5Q"
+    }
+]

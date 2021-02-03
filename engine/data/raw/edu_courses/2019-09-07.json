@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "5ac36da1-2e96-44f7-9382-6401c263a851",
+        "type": "message",
+        "text": "<https:\/\/cloud.google.com\/ai-hub\/>",
+        "user": "UG11AVBM1",
+        "ts": "1567869166.287000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7d92473b4a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-15\/760800035365_a7d92473b4a0715a747d_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis",
+            "display_name": "Denis Tereshchenko",
+            "team": "T040HKJE3",
+            "name": "tdu79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Cloud",
+                "title": "AI Hub  |  Google Cloud",
+                "title_link": "https:\/\/cloud.google.com\/ai-hub\/",
+                "text": "Discover, share, and deploy enterprise-grade AI with end-to-end AI pipelines and out-of-the-box algorithms from Google Cloud.",
+                "fallback": "Google Cloud: AI Hub  |  Google Cloud",
+                "from_url": "https:\/\/cloud.google.com\/ai-hub\/",
+                "service_icon": "https:\/\/cloud.google.com\/_static\/84c8863210\/images\/cloud\/icons\/favicons\/onecloud\/super_cloud.png",
+                "id": 1,
+                "original_url": "https:\/\/cloud.google.com\/ai-hub\/"
+            }
+        ],
+        "thread_ts": "1567869166.287000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1568185383.347300",
+        "reply_users": [
+            "UMX8GUC1E",
+            "UEAGMMV3K"
+        ],
+        "replies": [
+            {
+                "user": "UMX8GUC1E",
+                "ts": "1567887524.288400"
+            },
+            {
+                "user": "UEAGMMV3K",
+                "ts": "1568185383.347300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U8PMZ6397",
+                    "U53E5MFNU",
+                    "U09JEC7V0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "UMX8GUC1E",
+                    "U4S21LCAE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "856bced0-f8dd-4c56-993a-d3341ab4ab41",
+        "type": "message",
+        "text": "Гугл как обычно радует нас !",
+        "user": "UG11AVBM1",
+        "ts": "1567869192.287600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a7d92473b4a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-15\/760800035365_a7d92473b4a0715a747d_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis",
+            "display_name": "Denis Tereshchenko",
+            "team": "T040HKJE3",
+            "name": "tdu79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3d354a6-55ca-4eb1-8325-8971ac3c31f7",
+        "type": "message",
+        "text": "Симпотно, гугль как обычно хочет быть вкурсе всего )",
+        "user": "UMX8GUC1E",
+        "ts": "1567887524.288400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c3f429bdf666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-14\/788392336145_c3f429bdf666c78654db_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew Katasonov",
+            "display_name": "AK",
+            "team": "T040HKJE3",
+            "name": "andrew831",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UMX8GUC1E",
+            "ts": "1567887526.000000"
+        },
+        "thread_ts": "1567869166.287000",
+        "parent_user_id": "UG11AVBM1"
+    }
+]

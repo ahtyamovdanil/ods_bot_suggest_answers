@@ -1,0 +1,1862 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585207315.019200",
+        "user": "UG3A389GU",
+        "text": "<@UG3A389GU> has joined the channel",
+        "inviter": "U06J1LG1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585208505.019800",
+        "user": "UG3BGK98T",
+        "text": "<@UG3BGK98T> has joined the channel",
+        "inviter": "U06J1LG1M"
+    },
+    {
+        "client_msg_id": "682da0a6-2525-4937-aef8-ace8c9e8f45f",
+        "type": "message",
+        "text": "чето я не понял как получить доступ то",
+        "user": "UHY5KKK6D",
+        "ts": "1585211791.026100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1K4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "чето я не понял как получить доступ то"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585161801.014200",
+        "parent_user_id": "UC4U8NHNE"
+    },
+    {
+        "client_msg_id": "72922A69-4888-4458-943F-4377C2D9F80D",
+        "type": "message",
+        "text": "Всем привет! Подскажите пожалуйста литературу по mxnet. Чтобы понятным языком было написано. (Англ или Рус)",
+        "user": "U010680TT8X",
+        "ts": "1585216058.031700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g96f96023b13",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/96f96023b13293caa21cfd5d35aee89d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Mark",
+            "real_name": "Mark Baushenko",
+            "display_name": "Mark",
+            "team": "T040HKJE3",
+            "name": "e0xextazy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enTaq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Подскажите пожалуйста литературу по mxnet. Чтобы понятным языком было написано. (Англ или Рус)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585216058.031700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585237176.058800",
+        "reply_users": [
+            "U24FHECDD"
+        ],
+        "replies": [
+            {
+                "user": "U24FHECDD",
+                "ts": "1585237176.058800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "no",
+                "users": [
+                    "UB4F4DZGV",
+                    "U24FHECDD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pytorch1-0",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1585217077.044100",
+        "thread_ts": "1585217077.044100",
+        "reply_count": 16,
+        "reply_users_count": 7,
+        "latest_reply": "1585225072.053400",
+        "reply_users": [
+            "UHY5KKK6D",
+            "UPGAVBB7T",
+            "UFKQR93QS",
+            "UFNCG9F70",
+            "U5GCU82HX",
+            "UN9JTDZFC",
+            "U04422XJL"
+        ],
+        "replies": [
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1585218870.046000"
+            },
+            {
+                "user": "UPGAVBB7T",
+                "ts": "1585218913.046200"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1585218975.046400"
+            },
+            {
+                "user": "UPGAVBB7T",
+                "ts": "1585219260.046700"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1585219827.048600"
+            },
+            {
+                "user": "UPGAVBB7T",
+                "ts": "1585219998.048800"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1585220166.049600"
+            },
+            {
+                "user": "UFKQR93QS",
+                "ts": "1585220857.050100"
+            },
+            {
+                "user": "UFNCG9F70",
+                "ts": "1585221716.050800"
+            },
+            {
+                "user": "U5GCU82HX",
+                "ts": "1585222120.051200"
+            },
+            {
+                "user": "UFNCG9F70",
+                "ts": "1585222353.051400"
+            },
+            {
+                "user": "U5GCU82HX",
+                "ts": "1585222470.051600"
+            },
+            {
+                "user": "UFNCG9F70",
+                "ts": "1585222627.051800"
+            },
+            {
+                "user": "UN9JTDZFC",
+                "ts": "1585222710.052200"
+            },
+            {
+                "user": "UFKQR93QS",
+                "ts": "1585224012.053100"
+            },
+            {
+                "user": "U04422XJL",
+                "ts": "1585225072.053400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bimorf",
+                "users": [
+                    "URJ5P92N5",
+                    "U09JEC7V0",
+                    "U709XK88H"
+                ],
+                "count": 3
+            },
+            {
+                "name": "naebalovo",
+                "users": [
+                    "URJ5P92N5",
+                    "U09JEC7V0",
+                    "U6NT2E2ES",
+                    "U709XK88H",
+                    "UFSTXBQ7K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "UMM4N60K1",
+                    "U8PMZ6397",
+                    "UCMC5J36D",
+                    "UT4HRM073"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3de33bc0-ef16-4370-80d9-9b74f6f2f394",
+        "type": "message",
+        "text": "щас бы отваливать $ для бесплатных знаний :slightly_smiling_face: а потом разочаровываться",
+        "user": "UHY5KKK6D",
+        "ts": "1585218870.046000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "щас бы отваливать $ для бесплатных знаний "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а потом разочаровываться"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "408dbcdc-dcdd-486c-9da6-36f7a792b766",
+        "type": "message",
+        "text": "в смысле?",
+        "user": "UPGAVBB7T",
+        "ts": "1585218913.046200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "650023f0240f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-24\/808945758871_650023f0240f45aca66f_72.jpg",
+            "first_name": "",
+            "real_name": "Anton",
+            "display_name": "Anton",
+            "team": "T040HKJE3",
+            "name": "tritemy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "в смысле?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "93ee4c96-0c69-439c-9949-2b4edcfba0d1",
+        "type": "message",
+        "text": "Ну есть же coursera, stepik, youtube, ну крайний случай есть несколько шараг где более менее учат. Зачем выбирать какой то no name? Честн, вот не понимаю я совсем.",
+        "user": "UHY5KKK6D",
+        "ts": "1585218975.046400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQ7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну есть же coursera, stepik, youtube, ну крайний случай есть несколько шараг где более менее учат. Зачем выбирать какой то no name? Честн, вот не понимаю я совсем."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8CMHHBU2",
+                    "USLHTRF40",
+                    "U7166RP99",
+                    "UT4HRM073"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fcb9c601-ebd5-4b36-b582-a02a0353caa4",
+        "type": "message",
+        "text": "На момент выбора были только SF, Нетология и Гикбрейнс. Яндекс.Практикум и Отус уже позже увидел. Нетология - курс рассчитан на оффлайн и менеджер-мямля уже на этапе прояснения вопросов по обучению и оплате курса. В Гикбрейнс учился на другой специальности - не понравилось очень, а по DS от ГБ отзывов не нашел вменяемых. SF не такой уж и нонейм был, даже пару рейтингов находил. Модуль по питону\/пандасу у SF отличный, с замечательными вебинарами. Все что надо - в рамках курса дается. Очень понравился. Косяки на математике начались\nБесплатные не рассматриваю, т.к. не обратной связи - косячишь\/говнокодишь ты, как понять? Опыт такого обучения есть, продуктивность не очень.",
+        "user": "UPGAVBB7T",
+        "ts": "1585219260.046700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "650023f0240f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-24\/808945758871_650023f0240f45aca66f_72.jpg",
+            "first_name": "",
+            "real_name": "Anton",
+            "display_name": "Anton",
+            "team": "T040HKJE3",
+            "name": "tritemy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPGAVBB7T",
+            "ts": "1585219446.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0xi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На момент выбора были только SF, Нетология и Гикбрейнс. Яндекс.Практикум и Отус уже позже увидел. Нетология - курс рассчитан на оффлайн и менеджер-мямля уже на этапе прояснения вопросов по обучению и оплате курса. В Гикбрейнс учился на другой специальности - не понравилось очень, а по DS от ГБ отзывов не нашел вменяемых. SF не такой уж и нонейм был, даже пару рейтингов находил. Модуль по питону\/пандасу у SF отличный, с замечательными вебинарами. Все что надо - в рамках курса дается. Очень понравился. Косяки на математике начались\nБесплатные не рассматриваю, т.к. не обратной связи - косячишь\/говнокодишь ты, как понять? Опыт такого обучения есть, продуктивность не очень."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "9084a75c-13da-43bb-950a-53a6562eac04",
+        "type": "message",
+        "text": "Друзья, привет! Подскажите хороший ресурс для изучения Oracle SQL. Имеются значительные пробелы, хотел наверстать. Желательно не только базовые вещи (хотя и их тоже), но и более глубокий разбор + правила структурирования запроса и т.д. Заранее спасибо!",
+        "user": "U6QFHMV3N",
+        "ts": "1585219394.048200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "439e96366840",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1354292581796_439e963668409a4dd53c_72.png",
+            "first_name": "Eduard",
+            "real_name": "Eduard Kustov",
+            "display_name": "venzel",
+            "team": "T040HKJE3",
+            "name": "venzel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6QFHMV3N",
+            "ts": "1585219483.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Друзья, привет! Подскажите хороший ресурс для изучения Oracle SQL. Имеются значительные пробелы, хотел наверстать. Желательно не только базовые вещи (хотя и их тоже), но и более глубокий разбор + правила структурирования запроса и т.д. Заранее спасибо!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585219394.048200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1585975153.217400",
+        "reply_users": [
+            "UDUBG85P1",
+            "U15V81K6V",
+            "U973F8TLJ"
+        ],
+        "replies": [
+            {
+                "user": "UDUBG85P1",
+                "ts": "1585220489.049800"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1585221118.050300"
+            },
+            {
+                "user": "U973F8TLJ",
+                "ts": "1585975153.217400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a28f0805-efe0-4bc9-a7d3-c36e6c4fea8a",
+        "type": "message",
+        "text": "У меня один рейтинг, если платно значит :naebalovo:  ))))\n\nА если серьезно то из всего что упомянули otus более менее, но не DS, прошел недавно, на уровне coursera, не стоит потраченного времени. Все остальное что вы перечислили :shit: которое просто не стоит рассматривать (GB, Нетология - эт дно, они так разрослись что не в состоянии просто поддерживать качество курсов и преподавателей, поэтому просто являются инфоцыганами, касаемо Яндекса, я бы хотел надеяться что это не х..ня)\n\n*Бесплатные не рассматриваю, т.к. не обратной связи - косячишь\/говнокодишь ты, как понять?* по своему опыту могу сказать что говнокодить для DS это нормально, а то что вы не можете самостоятельно учиться  это плохо, с таким подходом в IT вам будет тяжко очень, рекомендую вам потратить силы и _научиться учиться_",
+        "user": "UHY5KKK6D",
+        "ts": "1585219827.048600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "У меня один рейтинг, если платно значит "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "naebalovo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ))))\n\nА если серьезно то из всего что упомянули otus более менее, но не DS, прошел недавно, на уровне coursera, не стоит потраченного времени. Все остальное что вы перечислили "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " которое просто не стоит рассматривать (GB, Нетология - эт дно, они так разрослись что не в состоянии просто поддерживать качество курсов и преподавателей, поэтому просто являются инфоцыганами, касаемо Яндекса, я бы хотел надеяться что это не х..ня)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Бесплатные не рассматриваю, т.к. не обратной связи - косячишь\/говнокодишь ты, как понять?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " по своему опыту могу сказать что говнокодить для DS это нормально, а то что вы не можете самостоятельно учиться  это плохо, с таким подходом в IT вам будет тяжко очень, рекомендую вам потратить силы и "
+                            },
+                            {
+                                "type": "text",
+                                "text": "научиться учиться",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "dc683845-a3fb-423d-b891-063b3a247787",
+        "type": "message",
+        "text": "\"если платно значит :naebalovo:  ))))\" - тут готов поспорить, есть с чем сравнить.\n\"а то что вы не можете самостоятельно учиться  это плохо, с таким подходом в IT вам будет тяжко очень, рекомендую вам потратить силы и _научиться учиться\" -_ где я сказал, что не могу сам учиться? :slightly_smiling_face: В ИТ я уже лет 20, тяжко пока не было. Сложно, интересно - да, но не тяжко.\n\"по своему опыту могу сказать что говнокодить для DS это нормально\" - про \"говнокодишь\" это было лишь для примера.  Имел ввиду что если нет обратной связи от опытных людей, то и качество результата своих действий оценить сложнее.",
+        "user": "UPGAVBB7T",
+        "ts": "1585219998.048800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "650023f0240f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-24\/808945758871_650023f0240f45aca66f_72.jpg",
+            "first_name": "",
+            "real_name": "Anton",
+            "display_name": "Anton",
+            "team": "T040HKJE3",
+            "name": "tritemy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPGAVBB7T",
+            "ts": "1585220115.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"если платно значит "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "naebalovo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ))))\" - тут готов поспорить, есть с чем сравнить.\n\"а то что вы не можете самостоятельно учиться  это плохо, с таким подходом в IT вам будет тяжко очень, рекомендую вам потратить силы и "
+                            },
+                            {
+                                "type": "text",
+                                "text": "научиться учиться\" - ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "где я сказал, что не могу сам учиться? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " В ИТ я уже лет 20, тяжко пока не было. Сложно, интересно - да, но не тяжко.\n\"по своему опыту могу сказать что говнокодить для DS это нормально\" - про \"говнокодишь\" это было лишь для примера.  Имел ввиду что если нет обратной связи от опытных людей, то и качество результата своих действий оценить сложнее."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "345802e2-64f1-4a96-a078-5dc536437d0f",
+        "type": "message",
+        "text": "фух, 20 лет, это мощно, но мне тогда не понятно зачем SF и прочая х..ня, бесплатный способ оценить свои силы это пойти по собесам :slightly_smiling_face:",
+        "user": "UHY5KKK6D",
+        "ts": "1585220166.049600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0RWhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "фух, 20 лет, это мощно, но мне тогда не понятно зачем SF и прочая х..ня, бесплатный способ оценить свои силы это пойти по собесам "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "d242b465-f655-46d7-85e6-638d2a993596",
+        "type": "message",
+        "text": "<http:\/\/www.sql-ex.ru\/>",
+        "user": "UDUBG85P1",
+        "ts": "1585220489.049800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2bd2a613ab1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d72bd2a613ab1c654deac52aa3b3ff34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Kuznetsov",
+            "display_name": "Alex",
+            "team": "T040HKJE3",
+            "name": "alekc.kuznetsov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "SQL exercises",
+                "title_link": "http:\/\/www.sql-ex.ru\/",
+                "text": "SQL remote education. Interactive exercises on SQL statements: SELECT,INSERT,UPDATE,DELETE",
+                "fallback": "SQL exercises",
+                "from_url": "http:\/\/www.sql-ex.ru\/",
+                "service_icon": "http:\/\/www.sql-ex.ru\/favicon.ico",
+                "service_name": "sql-ex.ru",
+                "id": 1,
+                "original_url": "http:\/\/www.sql-ex.ru\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.sql-ex.ru\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585219394.048200",
+        "parent_user_id": "U6QFHMV3N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCMC5J36D",
+                    "U6QFHMV3N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab9bb161-42fb-4626-b166-7a7f88241ac9",
+        "type": "message",
+        "text": "Сейчас студент курса от Я. Практикума (второй поток).\n\nСам начал с курсеры (курс по DeepLearning от :andrewng:), но в итоге самому было сложно регулировать темп обучения. Да и после Hello World сразу в DeepLearning такая себе идея была :harold:\nРешил попробовать более комплексное и вот пошёл в Я.Практикум.\n\nПлюсы:\n1. Интересные проекты + консультация с наставниками. Часть тем консультаций по вопросам студентов, часть по теме спринта. Зачастую там можно получить крутые Best practice из реальной практики \n2. Привязка к спринтам. Выполнил раньше - молодец, есть время изучить доп информацию (благо внутренняя библиотека полна ссылок на книжки и статьи + пополняется студентами). Дедлайны есть, но \n3. Вопросы по тренажёрам очень быстро решаются во внутреннем слаке + поддержка отрабатывает на ура\n4. Касательно материала - его хватит для успешной сдачи проектов точно + инфа с консультаций очень выручает\n5. Картинки в темах - просто шикарнейшие :glory:\nПо минусам:\n1. Курс молодой, встречаются огрехи в описаниях и баги в коде (фиксятся быстро)\n2. Упор в математику слабый, хочется больше. Без книжек учиться можно, материала хватит\n\nЕсли че еще вспомню - могу дополнить )",
+        "user": "UFKQR93QS",
+        "ts": "1585220857.050100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "15acd2b74dd5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/893152702467_15acd2b74dd50ae451ca_72.png",
+            "first_name": "DrResist",
+            "real_name": "DrResist",
+            "display_name": "Maksim Fesenko",
+            "team": "T040HKJE3",
+            "name": "drresist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xl8yE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Сейчас студент курса от Я. Практикума (второй поток).\n\nСам начал с курсеры (курс по DeepLearning от "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "andrewng"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), но в итоге самому было сложно регулировать темп обучения. Да и после Hello World сразу в DeepLearning такая себе идея была "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "harold"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nРешил попробовать более комплексное и вот пошёл в Я.Практикум.\n\nПлюсы:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Интересные проекты + консультация с наставниками. Часть тем консультаций по вопросам студентов, часть по теме спринта. Зачастую там можно получить крутые Best practice из реальной практики "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Привязка к спринтам. Выполнил раньше - молодец, есть время изучить доп информацию (благо внутренняя библиотека полна ссылок на книжки и статьи + пополняется студентами). Дедлайны есть, но "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Вопросы по тренажёрам очень быстро решаются во внутреннем слаке + поддержка отрабатывает на ура"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Касательно материала - его хватит для успешной сдачи проектов точно + инфа с консультаций очень выручает"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Картинки в темах - просто шикарнейшие "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "glory"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "По минусам:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Курс молодой, встречаются огрехи в описаниях и баги в коде (фиксятся быстро)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Упор в математику слабый, хочется больше. Без книжек учиться можно, материала хватит"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nЕсли че еще вспомню - могу дополнить )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPGAVBB7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6029e51-fd12-4593-bf34-5fcbf1420d6e",
+        "type": "message",
+        "text": "Если есть опыт работы с SQL, то лучше чем материалы к сертификации для Оракла я не знаю (правда у меня они в печатном виде) из электронного - <https:\/\/learning.oreilly.com\/library\/view\/oca-oracle-database\/9781259584619\/>\nэто как раз OCA - пройтись по базовым вещам (по-моему уже на примере 12с, там практические задания на примере встроенной базы hr)\nПотом есть смысл читать это\n<https:\/\/learning.oreilly.com\/library\/view\/oracle-sql-tuning\/9781484224359\/>\n\nпоследняя очень классная!\nну как бенефит можешь идти и сертифицироваться)\n\nКурс выше хорош если ты вообще понятия не имел об SQL ( у нас обычно туда тестеров ссылали, или вчерашних студентов, к тому же он не в специфике оракла)\n\nP.S. на safarionlinebooks можно взять free trial и будет доступна на 10 дней по-моему книга (читал давненька подробности не помню, могло поменяться)",
+        "user": "U15V81K6V",
+        "ts": "1585221118.050300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1585221181.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "O’Reilly Online Learning",
+                "title": "OCA Oracle Database SQL Exam Guide (Exam 1Z0-071)",
+                "title_link": "https:\/\/learning.oreilly.com\/library\/view\/oca-oracle-database\/9781259584619\/",
+                "text": "A fully updated, integrated self-study system for the Oracle Database SQL Exam This thoroughly revised Oracle Press guide offers 100% coverage of all objectives on the latest version of the … - Selection from OCA Oracle Database SQL Exam Guide (Exam 1Z0-071) [Book]",
+                "fallback": "O’Reilly Online Learning: OCA Oracle Database SQL Exam Guide (Exam 1Z0-071)",
+                "thumb_url": "https:\/\/www.oreilly.com\/library\/cover\/9781259584619\/",
+                "from_url": "https:\/\/learning.oreilly.com\/library\/view\/oca-oracle-database\/9781259584619\/",
+                "thumb_width": 148,
+                "thumb_height": 184,
+                "service_icon": "https:\/\/www.oreilly.com\/library\/view\/static\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/learning.oreilly.com\/library\/view\/oca-oracle-database\/9781259584619\/"
+            },
+            {
+                "service_name": "O’Reilly Online Learning",
+                "title": "Oracle SQL Tuning with Oracle SQLTXPLAIN: Oracle Database 12c Edition, Second Edition",
+                "title_link": "https:\/\/learning.oreilly.com\/library\/view\/oracle-sql-tuning\/9781484224359\/",
+                "text": "Learn through this practical guide to SQL tuning how Oracle's own experts do it, using a freely downloadable tool called SQLTXPLAIN. This new edition has been expanded to include AWR, … - Selection from Oracle SQL Tuning with Oracle SQLTXPLAIN: Oracle Database 12c Edition, Second Edition [Book]",
+                "fallback": "O’Reilly Online Learning: Oracle SQL Tuning with Oracle SQLTXPLAIN: Oracle Database 12c Edition, Second Edition",
+                "thumb_url": "https:\/\/www.oreilly.com\/library\/cover\/9781484224359\/",
+                "from_url": "https:\/\/learning.oreilly.com\/library\/view\/oracle-sql-tuning\/9781484224359\/",
+                "thumb_width": 128,
+                "thumb_height": 184,
+                "service_icon": "https:\/\/www.oreilly.com\/library\/view\/static\/images\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/learning.oreilly.com\/library\/view\/oracle-sql-tuning\/9781484224359\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если есть опыт работы с SQL, то лучше чем материалы к сертификации для Оракла я не знаю (правда у меня они в печатном виде) из электронного - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learning.oreilly.com\/library\/view\/oca-oracle-database\/9781259584619\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nэто как раз OCA - пройтись по базовым вещам (по-моему уже на примере 12с, там практические задания на примере встроенной базы hr)\nПотом есть смысл читать это\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learning.oreilly.com\/library\/view\/oracle-sql-tuning\/9781484224359\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nпоследняя очень классная!\nну как бенефит можешь идти и сертифицироваться)\n\nКурс выше хорош если ты вообще понятия не имел об SQL ( у нас обычно туда тестеров ссылали, или вчерашних студентов, к тому же он не в специфике оракла)\n\nP.S. на safarionlinebooks можно взять free trial и будет доступна на 10 дней по-моему книга (читал давненька подробности не помню, могло поменяться)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585219394.048200",
+        "parent_user_id": "U6QFHMV3N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6QFHMV3N",
+                    "U2AML8LEB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U6QFHMV3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1348fcf-f652-469f-8ef5-a91034eb574c",
+        "type": "message",
+        "text": "datagym :datagym: еще недавно открылись (уже 3 поток у них). Вроде неплохой преподавательский состав у них. Можно поискать\/поспрашивать тех кто проходил первые два потока.",
+        "user": "UFNCG9F70",
+        "ts": "1585221716.050800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdbcd70a134f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2dbcd70a134f59812cb206d4a1285e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Vyacheslav Koloskov",
+            "display_name": "slivka_83",
+            "team": "T040HKJE3",
+            "name": "slivka_83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFNCG9F70",
+            "ts": "1585221738.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u43xZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "datagym "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "datagym"
+                            },
+                            {
+                                "type": "text",
+                                "text": " еще недавно открылись (уже 3 поток у них). Вроде неплохой преподавательский состав у них. Можно поискать\/поспрашивать тех кто проходил первые два потока."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPGAVBB7T",
+                    "ULMML7Z5K",
+                    "U04CH4QBD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "647ecc95-c050-4697-b082-966f4e03e946",
+        "type": "message",
+        "text": "<@UFKQR93QS> стандартный вопрос: почему после своего курса :yandex: прямо заявляет, что успешное прохождение курса (который 70к стоит) не гарантирует слушателям попадания в Яндекс? Они учат для себя или  для денежек?",
+        "user": "U5GCU82HX",
+        "ts": "1585222120.051200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g33eb3ecf5bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5033eb3ecf5bbf4f627630da68f5b7a9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Demchenko",
+            "display_name": "bearstrikesback",
+            "team": "T040HKJE3",
+            "name": "bearstrikesback",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UFKQR93QS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " стандартный вопрос: почему после своего курса "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yandex"
+                            },
+                            {
+                                "type": "text",
+                                "text": " прямо заявляет, что успешное прохождение курса (который 70к стоит) не гарантирует слушателям попадания в Яндекс? Они учат для себя или  для денежек?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "6f0fb6b0-b8e6-460e-9a4f-41095079ed1e",
+        "type": "message",
+        "text": "<@U5GCU82HX> т.е., по вашей логике, все учебные заведения, после завершения обучения должны брать всех студентов к себе на работу? :slightly_smiling_face:",
+        "user": "UFNCG9F70",
+        "ts": "1585222353.051400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdbcd70a134f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2dbcd70a134f59812cb206d4a1285e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Vyacheslav Koloskov",
+            "display_name": "slivka_83",
+            "team": "T040HKJE3",
+            "name": "slivka_83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tt3F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5GCU82HX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " т.е., по вашей логике, все учебные заведения, после завершения обучения должны брать всех студентов к себе на работу? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "48d83f15-2043-4868-93ae-854ebc999be8",
+        "type": "message",
+        "text": "Логическую конструкцию вида \"_so, you're saying ..._\" я даже обсуждать не стану. Мне кажется, все ясно поняли поинт моего сообщения.",
+        "user": "U5GCU82HX",
+        "ts": "1585222470.051600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g33eb3ecf5bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5033eb3ecf5bbf4f627630da68f5b7a9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Stanislav",
+            "real_name": "Stanislav Demchenko",
+            "display_name": "bearstrikesback",
+            "team": "T040HKJE3",
+            "name": "bearstrikesback",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34hkx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Логическую конструкцию вида \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "so, you're saying ...",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" я даже обсуждать не стану. Мне кажется, все ясно поняли поинт моего сообщения."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "7961f713-7ce2-43f7-b85e-59eb971632b8",
+        "type": "message",
+        "text": "Я не понял :slightly_smiling_face: Почему учебное заведение должно брать Вас на работу после окончания обучения? :slightly_smiling_face:",
+        "user": "UFNCG9F70",
+        "ts": "1585222627.051800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdbcd70a134f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2dbcd70a134f59812cb206d4a1285e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Vyacheslav Koloskov",
+            "display_name": "slivka_83",
+            "team": "T040HKJE3",
+            "name": "slivka_83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFNCG9F70",
+            "ts": "1585222637.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я не понял "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Почему учебное заведение должно брать Вас на работу после окончания обучения? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "a09b328f-d38c-44a4-bc50-90c74fce3399",
+        "type": "message",
+        "text": "<@U5GCU82HX> странный вопрос. А нет варианта: для денежек, но некоторых оставлять себе?",
+        "user": "UN9JTDZFC",
+        "ts": "1585222710.052200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f58b44f41acc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/903198616051_f58b44f41acc32b92070_72.png",
+            "first_name": "",
+            "real_name": "Bladeser",
+            "display_name": "Bladeser",
+            "team": "T040HKJE3",
+            "name": "bladeser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eC7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5GCU82HX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " странный вопрос. А нет варианта: для денежек, но некоторых оставлять себе?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "7e9e5c6d-c402-4f05-b3e9-1283b63ac7d1",
+        "type": "message",
+        "text": "Ну было бы странно платить просто 70к за 100% билет в какую-либо компанию. Если по требованиям подходишь - почему бы и не попробовать?",
+        "user": "UFKQR93QS",
+        "ts": "1585224012.053100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "15acd2b74dd5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/893152702467_15acd2b74dd50ae451ca_72.png",
+            "first_name": "DrResist",
+            "real_name": "DrResist",
+            "display_name": "Maksim Fesenko",
+            "team": "T040HKJE3",
+            "name": "drresist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну было бы странно платить просто 70к за 100% билет в какую-либо компанию. Если по требованиям подходишь - почему бы и не попробовать?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "426d3b5d-eac2-4b17-b3c6-247ea8d914b9",
+        "type": "message",
+        "text": "<@U5GCU82HX> я тоже не понял  посыл. Так-то Яндекс и после ШАДа не всех берет - и правильно делает.",
+        "user": "U04422XJL",
+        "ts": "1585225072.053400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8cd145f72446",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-27\/739003798132_8cd145f72446bbd4194c_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Trofimov",
+            "display_name": "mtrofimov",
+            "team": "T040HKJE3",
+            "name": "mtrofimov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zruss",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5GCU82HX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " я тоже не понял  посыл. Так-то Яндекс и после ШАДа не всех берет - и правильно делает."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585217077.044100",
+        "parent_user_id": "UPGAVBB7T"
+    },
+    {
+        "client_msg_id": "B83FF800-2418-480B-B010-14BC30E87F3C",
+        "type": "message",
+        "text": "Можете посоветовать какой нибудь хороший онлайн курс по biomedical imaging (желательно Coursera или лекции на ютубчике с домашками)?",
+        "user": "U854H9KCM",
+        "ts": "1585226268.055000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9d7a79121995",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-23\/964691634228_9d7a79121995dd4d1253_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Aliev",
+            "display_name": "Ruslan Aliev",
+            "team": "T040HKJE3",
+            "name": "alievru96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Можете посоветовать какой нибудь хороший онлайн курс по biomedical imaging (желательно Coursera или лекции на ютубчике с домашками)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585226268.055000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1585320174.079900",
+        "reply_users": [
+            "UDHJKLGLR",
+            "U24FHECDD",
+            "U854H9KCM"
+        ],
+        "replies": [
+            {
+                "user": "UDHJKLGLR",
+                "ts": "1585235484.058400"
+            },
+            {
+                "user": "U24FHECDD",
+                "ts": "1585237220.059000"
+            },
+            {
+                "user": "U854H9KCM",
+                "ts": "1585320174.079900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e33f031b-6a77-48ca-b76a-3560826efb45",
+        "type": "message",
+        "text": "и книжку заодно!",
+        "user": "UDHJKLGLR",
+        "ts": "1585235484.058400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "575de1b9e335",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-14\/941018593139_575de1b9e335a3f319d6_72.png",
+            "first_name": "konstantin.shchetkin",
+            "real_name": "konstantin.shchetkin",
+            "display_name": "kroko",
+            "team": "T040HKJE3",
+            "name": "dolleht90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "и книжку заодно!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585226268.055000",
+        "parent_user_id": "U854H9KCM"
+    },
+    {
+        "client_msg_id": "f1a6eed0-9461-4c34-8810-f994b47793f6",
+        "type": "message",
+        "text": "<https:\/\/d2l.ai\/>",
+        "user": "U24FHECDD",
+        "ts": "1585237176.058800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "amaZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/d2l.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585216058.031700",
+        "parent_user_id": "U010680TT8X"
+    },
+    {
+        "client_msg_id": "1af7ceda-e1fd-4939-a4dc-58a0528276e4",
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/neurohacking>",
+        "user": "U24FHECDD",
+        "ts": "1585237220.059000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "41a36bd745bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-08\/89091959682_41a36bd745bd520397c1_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Ogurtsov",
+            "display_name": "statist",
+            "team": "T040HKJE3",
+            "name": "statist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Introduction to Neurohacking In R | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/neurohacking",
+                "text": "Learn Introduction to Neurohacking In R from Johns Hopkins University. Neurohacking describes how to use the R programming language (<https:\/\/cran.r-project.org\/>) and its associated package to perform manipulation, processing, and analysis of ...",
+                "fallback": "Coursera: Introduction to Neurohacking In R | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/neurohacking",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/neurohacking"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/neurohacking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585226268.055000",
+        "parent_user_id": "U854H9KCM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U854H9KCM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1585242908.060600",
+        "thread_ts": "1585242908.060600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585246348.066400",
+        "reply_users": [
+            "U1UNFRQ1K",
+            "USJDT3A0H"
+        ],
+        "replies": [
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1585243330.060700"
+            },
+            {
+                "user": "USJDT3A0H",
+                "ts": "1585246348.066400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "US2DY9BPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8da528e-40ec-45b0-9e3a-b093add6bfa4",
+        "type": "message",
+        "text": "он Евгений",
+        "user": "U1UNFRQ1K",
+        "ts": "1585243330.060700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqnt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "он Евгений"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585242908.060600",
+        "parent_user_id": "UNNR9U89G",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U53E5MFNU",
+                    "US2DY9BPH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46236160-5FEB-49FE-85F9-E02A3677445B",
+        "type": "message",
+        "text": "вы имеете ввиду курс от hse и яндекса на курсере?",
+        "user": "USJDT3A0H",
+        "ts": "1585246348.066400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "650b862a56bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-18\/1359160927607_650b862a56bca6b3a225_72.png",
+            "first_name": "German",
+            "real_name": "German Abramov",
+            "display_name": "germanjke",
+            "team": "T040HKJE3",
+            "name": "germanjke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/JjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вы имеете ввиду курс от hse и яндекса на курсере?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585242908.060600",
+        "parent_user_id": "UNNR9U89G"
+    },
+    {
+        "client_msg_id": "E76963BA-6705-45BA-B0E8-600D05D0C3E3",
+        "type": "message",
+        "text": "30 марта на Coursera стартует очередной запуск курса \"Introduction To Mathematical Thinking\". Но в этом запуске профессор автор курса и опытные менторы будут активничать на форуме. Как в старые добрые. Рекомендую всем не-математикам.\n\"So if you wondered what it was like to participate in a MOOC back in the days when the class-sizes were in the tens of thousands, all online at the same time with professors and experienced Mentors, give this Session a try.\"\n<https:\/\/www.coursera.org\/learn\/mathematical-thinking|https:\/\/www.coursera.org\/learn\/mathematical-thinking>",
+        "user": "U8PMZ6397",
+        "ts": "1585246610.069100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Introduction to Mathematical Thinking | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/mathematical-thinking",
+                "text": "Learn Introduction to Mathematical Thinking from Stanford University. Learn how to think the way mathematicians do – a powerful cognitive process developed over thousands of years. Mathematical thinking is not the same as doing mathematics – at ...",
+                "fallback": "Coursera: Introduction to Mathematical Thinking | Coursera",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/coursera\/media\/Partner_Logos.png",
+                "from_url": "https:\/\/www.coursera.org\/learn\/mathematical-thinking",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/learn\/mathematical-thinking"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZe8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30 марта на Coursera стартует очередной запуск курса \"Introduction To Mathematical Thinking\". Но в этом запуске профессор автор курса и опытные менторы будут активничать на форуме. Как в старые добрые. Рекомендую всем не-математикам.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"So if you wondered what it was like to participate in a MOOC back in the days when the class-sizes were in the tens of thousands, all online at the same time with professors and experienced Mentors, give this Session a try.\"\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/mathematical-thinking",
+                                "text": "https:\/\/www.coursera.org\/learn\/mathematical-thinking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585246610.069100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586374176.314500",
+        "reply_users": [
+            "UEE1L8RA6",
+            "UQM3CF1JT"
+        ],
+        "replies": [
+            {
+                "user": "UEE1L8RA6",
+                "ts": "1585591274.126400"
+            },
+            {
+                "user": "UQM3CF1JT",
+                "ts": "1586374176.314500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray::skin-tone-5",
+                "users": [
+                    "U1HHX1QS3",
+                    "U8X231ZA6",
+                    "UEE1L8RA6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

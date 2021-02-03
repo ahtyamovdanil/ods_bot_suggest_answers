@@ -1,0 +1,886 @@
+[
+    {
+        "client_msg_id": "e73eb057-a7dd-4831-ad2c-8a21c7b80187",
+        "type": "message",
+        "text": "Всем привет! Я тут новенький) Посоветуйте, пожалуйста, хороший курс для начинающих Data scientist-ов?",
+        "user": "U010LGPS8CU",
+        "ts": "1585042341.042400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ad7d3bf1afaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-24\/1021868384901_ad7d3bf1afaf5754402a_72.jpg",
+            "first_name": "",
+            "real_name": "Nurbol Akhmettayev",
+            "display_name": "Nurbol Akhmettayev",
+            "team": "T040HKJE3",
+            "name": "nurba.7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZ2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет! Я тут новенький) Посоветуйте, пожалуйста, хороший курс для начинающих Data scientist-ов?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585042341.042400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1585146646.012700",
+        "reply_users": [
+            "U4WMPCB7W",
+            "UFNCG9F70",
+            "U010H1RCCLQ",
+            "U010LGPS8CU"
+        ],
+        "replies": [
+            {
+                "user": "U4WMPCB7W",
+                "ts": "1585042446.042500"
+            },
+            {
+                "user": "UFNCG9F70",
+                "ts": "1585042700.042700"
+            },
+            {
+                "user": "U010H1RCCLQ",
+                "ts": "1585050576.043600"
+            },
+            {
+                "user": "U010LGPS8CU",
+                "ts": "1585146646.012700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mlcourse_ai",
+                "users": [
+                    "U1UNFRQ1K",
+                    "UB4F4DZGV",
+                    "UGRFZ1DS5",
+                    "U010H1RCCLQ",
+                    "U677CBGH2",
+                    "U60EETE7N",
+                    "U49MGP9MX",
+                    "ULF96QF3K"
+                ],
+                "count": 8
+            },
+            {
+                "name": "nikogda-takogo-ne-bilo",
+                "users": [
+                    "UCQ1YNU9M",
+                    "U6ME568D7",
+                    "U6Z21KSBC",
+                    "UB4F4DZGV",
+                    "U8PMZ6397",
+                    "U49MGP9MX",
+                    "U1CMPEWPQ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ng",
+                "users": [
+                    "U60EETE7N",
+                    "U0137CCTM5E",
+                    "ULF96QF3K"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7db60fd6-003c-425b-b604-a6e7d2b6da1f",
+        "type": "message",
+        "text": "Привет! Посмотри запиненные посты в шапке канала, там много рекоммендаций",
+        "user": "U4WMPCB7W",
+        "ts": "1585042446.042500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "251a8cee80ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Vasilev",
+            "display_name": "evgenii.vasilev",
+            "team": "T040HKJE3",
+            "name": "evgenii.vasilev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bwvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет! Посмотри запиненные посты в шапке канала, там много рекоммендаций"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585042341.042400",
+        "parent_user_id": "U010LGPS8CU"
+    },
+    {
+        "client_msg_id": "7916b154-d1e0-4395-b1bb-2a46c990f9ee",
+        "type": "message",
+        "text": "<https:\/\/mlcourse.ai\/roadmap>",
+        "user": "UFNCG9F70",
+        "ts": "1585042700.042700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdbcd70a134f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2dbcd70a134f59812cb206d4a1285e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Vyacheslav Koloskov",
+            "display_name": "slivka_83",
+            "team": "T040HKJE3",
+            "name": "slivka_83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8MD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mlcourse.ai\/roadmap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585042341.042400",
+        "parent_user_id": "U010LGPS8CU"
+    },
+    {
+        "client_msg_id": "71871a14-9e2b-46d3-98a9-9f7a2f24515f",
+        "type": "message",
+        "text": "Советую изучить основы питона на этих курсах:\n<https:\/\/stepik.org\/course\/67>\n<https:\/\/stepik.org\/course\/512>\nОпционально можно пройти бесплатную часть курса яндекс.практикума по дс, на мой взгляд там основы pandas хорошо рассказывают.\nА потом можно сразу на <https:\/\/mlcourse.ai|mlcourse.ai>\nПосле <https:\/\/mlcourse.ai|mlcourse.ai> обзорно посмотреть <https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie\/|это> , чтобы систематизировать знания. Многие еще советуют спец. яндекса на <https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis|курсере> , но сам я её не проходил. К тому же мне кажется что после <https:\/\/mlcourse.ai|mlcourse.ai> там скучно будет. После этого, думаю, надо врываться на кагл, если ты этого еще не сделал.\nP.S. Я сам новичек, так что мое предложение, вероятно, не самое лучшее",
+        "user": "U010H1RCCLQ",
+        "ts": "1585050576.043600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cac7f4f06f77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-22\/1018944481095_cac7f4f06f779e433a66_72.jpg",
+            "first_name": "AlexanderHivintsev",
+            "real_name": "AlexanderHivintsev",
+            "display_name": "AlexanderKhivintsev",
+            "team": "T040HKJE3",
+            "name": "alexheys07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U010H1RCCLQ",
+            "ts": "1585051127.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Советую изучить основы питона на этих курсах:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/67"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/512"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nОпционально можно пройти бесплатную часть курса яндекс.практикума по дс, на мой взгляд там основы pandas хорошо рассказывают.\nА потом можно сразу на "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПосле "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " обзорно посмотреть "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/learn\/vvedenie-mashinnoe-obuchenie\/",
+                                "text": "это"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , чтобы систематизировать знания. Многие еще советуют спец. яндекса на "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coursera.org\/specializations\/machine-learning-data-analysis",
+                                "text": "курсере"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , но сам я её не проходил. К тому же мне кажется что после "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " там скучно будет. После этого, думаю, надо врываться на кагл, если ты этого еще не сделал.\nP.S. Я сам новичек, так что мое предложение, вероятно, не самое лучшее"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585042341.042400",
+        "parent_user_id": "U010LGPS8CU"
+    },
+    {
+        "client_msg_id": "ddb04202-adb4-43bf-b922-113b644cb8f1",
+        "type": "message",
+        "text": "Привет. Подскажите, на какие разделы математики обратить особое внимание и на каких платформах это лучше сделать. Спасибо)",
+        "user": "UNE2VGAF7",
+        "ts": "1585064779.045600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdcaa7e560cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8dcaa7e560cdd0b3874253e6aa529959.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Artem Konoplyov",
+            "display_name": "Artem Konoplyov",
+            "team": "T040HKJE3",
+            "name": "designbred",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TqO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Привет. Подскажите, на какие разделы математики обратить особое внимание и на каких платформах это лучше сделать. Спасибо)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1585140490.011500",
+        "reply_users": [
+            "U6SCXUP6U",
+            "UNE2VGAF7",
+            "UT4HRM073",
+            "UL91SNSG6"
+        ],
+        "replies": [
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1585068095.048300"
+            },
+            {
+                "user": "UNE2VGAF7",
+                "ts": "1585070991.048800"
+            },
+            {
+                "user": "UT4HRM073",
+                "ts": "1585071381.049000"
+            },
+            {
+                "user": "UNE2VGAF7",
+                "ts": "1585071954.049300"
+            },
+            {
+                "user": "UL91SNSG6",
+                "ts": "1585077374.053100"
+            },
+            {
+                "user": "U6SCXUP6U",
+                "ts": "1585140490.011500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "vanga",
+                "users": [
+                    "U30LWK54N",
+                    "U8PMZ6397"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fe5932f-72a7-4d72-a1a8-5b2219880cb7",
+        "type": "message",
+        "text": "все разделы хороши, но какова цель?",
+        "user": "U6SCXUP6U",
+        "ts": "1585068095.048300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2484607f272",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/912484607f272f5a3c011bee7e5ccf7e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "vikter",
+            "real_name": "vikter Ik",
+            "display_name": "vikter",
+            "team": "T040HKJE3",
+            "name": "vikter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SCXUP6U",
+            "ts": "1585068156.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLEM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "все разделы хороши, но какова цель?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "parent_user_id": "UNE2VGAF7"
+    },
+    {
+        "client_msg_id": "6a6f66ee-7742-423a-8954-49ecd5519e57",
+        "type": "message",
+        "text": "Хороший вопрос. Я не знаю, как правильно сформулировать, если честно. Какие вообще варианты есть? Если в общем, то только начинаю входить в ds, хочу понять, какие направления мне ближе (mle\/“чистый” ds\/etc или это вообще не мое). Один из критериев - какие области нужны для того или иного направления, чтобы понимать, насколько глубоко нужно копать",
+        "user": "UNE2VGAF7",
+        "ts": "1585070991.048800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdcaa7e560cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8dcaa7e560cdd0b3874253e6aa529959.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Artem Konoplyov",
+            "display_name": "Artem Konoplyov",
+            "team": "T040HKJE3",
+            "name": "designbred",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bj+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хороший вопрос. Я не знаю, как правильно сформулировать, если честно. Какие вообще варианты есть? Если в общем, то только начинаю входить в ds, хочу понять, какие направления мне ближе (mle\/“чистый” ds\/etc или это вообще не мое). Один из критериев - какие области нужны для того или иного направления, чтобы понимать, насколько глубоко нужно копать"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "parent_user_id": "UNE2VGAF7"
+    },
+    {
+        "client_msg_id": "4a11cf3e-7da2-48ff-b974-86d00e562955",
+        "type": "message",
+        "text": "<http:\/\/mathprofi.ru>",
+        "user": "UT4HRM073",
+        "ts": "1585071381.049000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g493112beede",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/493112beede16bdb239518708d76f7da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ignatlevagin",
+            "display_name": "Ignatlevagin",
+            "team": "T040HKJE3",
+            "name": "ignatlevagin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Высшая математика для заочников и не только",
+                "title_link": "http:\/\/mathprofi.ru\/",
+                "text": "Высшая математика - просто и доступно!",
+                "fallback": "Высшая математика для заочников и не только",
+                "from_url": "http:\/\/mathprofi.ru\/",
+                "service_icon": "http:\/\/mathprofi.ru\/favicon.ico",
+                "service_name": "mathprofi.ru",
+                "id": 1,
+                "original_url": "http:\/\/mathprofi.ru"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RbwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mathprofi.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "parent_user_id": "UNE2VGAF7"
+    },
+    {
+        "client_msg_id": "47a65b21-b719-48a1-9a5a-e77792916da2",
+        "type": "message",
+        "text": "Про khan academy, mathprofi, курсеру, edx и пр. я знаю, спасибо) Хотелось бы понять, какие разделы математики в приоритете и на какой платформе\/в каком курсе они лучше всего объяснены",
+        "user": "UNE2VGAF7",
+        "ts": "1585071954.049300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdcaa7e560cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8dcaa7e560cdd0b3874253e6aa529959.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Artem Konoplyov",
+            "display_name": "Artem Konoplyov",
+            "team": "T040HKJE3",
+            "name": "designbred",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vkPzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Про khan academy, mathprofi, курсеру, edx и пр. я знаю, спасибо) Хотелось бы понять, какие разделы математики в приоритете и на какой платформе\/в каком курсе они лучше всего объяснены"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "parent_user_id": "UNE2VGAF7"
+    },
+    {
+        "client_msg_id": "F70809E0-19D6-4D36-8D8C-766365E8E3E0",
+        "type": "message",
+        "text": "Классические линейная алегбра\/матан в первом приоритете, теорвер\/матстат второй, теория оптимизации - третий. На начало хватит уровня 1-2 курса технического универа, мб даже попроще. Хорошие курсы - все на степике от CS центра, например\n\nХорошо объяснены понятие растяжимое, на <http:\/\/mlcourse.ai|mlcourse.ai> хорошо на пальцах объясняется, если хочется более строгого изложения - конспекты и\/или курс Воронцова на курсере\n\n<https:\/\/stepik.org\/course\/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089|https:\/\/stepik.org\/course\/Теория-вероятностей-3089>",
+        "user": "UL91SNSG6",
+        "ts": "1585077374.053100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18b5bb5daf2d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/903074340851_18b5bb5daf2df0e7d77f_72.png",
+            "first_name": "Ivan",
+            "real_name": "Ivan Kondratov",
+            "display_name": "Steelsight",
+            "team": "T040HKJE3",
+            "name": "steelsight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL91SNSG6",
+            "ts": "1585077473.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Теория вероятностей",
+                "title_link": "https:\/\/stepik.org\/course\/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089",
+                "text": "Курс знакомит слушателей с базовыми понятиями теории вероятностей: вероятностным пространством, условной вероятностью, случайными величинами, независимостью, математическим ожиданием и дисперсией. Доказываются закон больших чисел и некоторые версии предельных теорем. Разобрано много примеров и задач.",
+                "fallback": "Stepik: online education: Теория вероятностей",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/3089\/cover\/d8892283037d9a3a8a2134f04d22da8a.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089",
+                "image_height": 230,
+                "image_bytes": 8170,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1584697783",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7Le",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Классические линейная алегбра\/матан в первом приоритете, теорвер\/матстат второй, теория оптимизации - третий. На начало хватит уровня 1-2 курса технического универа, мб даже попроще. Хорошие курсы - все на степике от CS центра, например\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Хорошо объяснены понятие растяжимое, на mlcourse.ai хорошо на пальцах объясняется, если хочется более строгого изложения - конспекты и\/или курс Воронцова на курсере\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stepik.org\/course\/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-3089",
+                                "text": "https:\/\/stepik.org\/course\/Теория-вероятностей-3089"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585064779.045600",
+        "parent_user_id": "UNE2VGAF7",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UT4HRM073"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "371ba68e-f93c-4c78-a36f-bcada2f6a0d7",
+        "type": "message",
+        "text": "На <http:\/\/datacamp.com|datacamp.com> сейчас скидка: 99usd за годовую премиум подписку",
+        "user": "UL94X7JEL",
+        "ts": "1585080533.054000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc905ed2eaf5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ac905ed2eaf54d6d74eb98df32684dc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Aleksander Shohin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "shokhin-al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/datacamp.com",
+                                "text": "datacamp.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " сейчас скидка: 99usd за годовую премиум подписку"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080533.054000",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1585681119.162100",
+        "reply_users": [
+            "UNE2VGAF7",
+            "UDA1RU43Y",
+            "U15V81K6V",
+            "UL95F64PP",
+            "U06J2SBQA",
+            "UHLKEBC1J"
+        ],
+        "replies": [
+            {
+                "user": "UNE2VGAF7",
+                "ts": "1585082145.054700"
+            },
+            {
+                "user": "UDA1RU43Y",
+                "ts": "1585082413.054900"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1585117332.000200"
+            },
+            {
+                "user": "UL95F64PP",
+                "ts": "1585120226.001000"
+            },
+            {
+                "user": "U06J2SBQA",
+                "ts": "1585395582.087400"
+            },
+            {
+                "user": "UHLKEBC1J",
+                "ts": "1585681119.162100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U53E5MFNU",
+                    "U7N4E8GBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pornhub",
+                "users": [
+                    "U53E5MFNU",
+                    "UKQTPE877",
+                    "U8PMZ6397",
+                    "U1HHX1QS3",
+                    "U6NT2E2ES",
+                    "UGAJPDXN3",
+                    "UB4F4DZGV"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U7N4E8GBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62a84e15-cfaa-41cf-86e6-9cf50a03c7d9",
+        "type": "message",
+        "text": "Все хотел попробовать, но сомневался. Стоит того?",
+        "user": "UNE2VGAF7",
+        "ts": "1585082145.054700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gdcaa7e560cd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8dcaa7e560cdd0b3874253e6aa529959.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Artem Konoplyov",
+            "display_name": "Artem Konoplyov",
+            "team": "T040HKJE3",
+            "name": "designbred",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBuyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Все хотел попробовать, но сомневался. Стоит того?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080533.054000",
+        "parent_user_id": "UL94X7JEL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U7N4E8GBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70b184eb-dc11-4519-b91f-c7213ec94566",
+        "type": "message",
+        "text": "Да. Вполне качественный материал, но не очень глубокий.",
+        "user": "UDA1RU43Y",
+        "ts": "1585082413.054900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "453473b4e6fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-25\/708359271798_453473b4e6fe71d19559_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Shkarin",
+            "display_name": "Kouki",
+            "team": "T040HKJE3",
+            "name": "kouki.sergey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ujUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да. Вполне качественный материал, но не очень глубокий."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080533.054000",
+        "parent_user_id": "UL94X7JEL"
+    },
+    {
+        "client_msg_id": "b192f1e5-091b-49c5-8621-cffca732f534",
+        "type": "message",
+        "text": "если ты новичок, то отлично подойдет, пройдешь по очень хорошему списку тем... (покупал  где-то 1-2 года назад), но если кодить уже умеешь, и немного ориентируешься в теме (хотя бы спецухи на курсере прошел от мфти и adv), то не рекомендовал бы... я покупал, но как таковой не пользовался - для меня уже курсы их не подходили)",
+        "user": "U15V81K6V",
+        "ts": "1585117332.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1585117396.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "если ты новичок, то отлично подойдет, пройдешь по очень хорошему списку тем... (покупал  где-то 1-2 года назад), но если кодить уже умеешь, и немного ориентируешься в теме (хотя бы спецухи на курсере прошел от мфти и adv), то не рекомендовал бы... я покупал, но как таковой не пользовался - для меня уже курсы их не подходили)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080533.054000",
+        "parent_user_id": "UL94X7JEL"
+    }
+]

@@ -1,0 +1,515 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461740769.000066",
+        "user": "U143LMYD8",
+        "text": "<@U143LMYD8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461742690.000067",
+        "user": "U143SRKDG",
+        "text": "<@U143SRKDG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "коллеги, подскажите, пожалуйста, короткий и плотный курс по LaTeX + TikZ",
+        "user": "U049HDR2Z",
+        "ts": "1461746753.000068",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "на курсере не подходит?",
+        "user": "U0M39M6LS",
+        "ts": "1461746781.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "еще не смотрел. вдруг есть хорошие рекомендации",
+        "user": "U049HDR2Z",
+        "ts": "1461746814.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.coursera.org\/learn\/latex\/>",
+        "user": "U0M39M6LS",
+        "ts": "1461746868.000071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "caec20c70dba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-12\/211910715859_caec20c70dbaa1ce8978_72.jpg",
+            "first_name": "Vitalii",
+            "real_name": "Vitalii Radchenko",
+            "display_name": "vradchenko",
+            "team": "T040HKJE3",
+            "name": "vradchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Документы и презентации в LaTeX (Introduction to LaTeX) - Higher School of Economics | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/learn\/latex\/",
+                "text": "Документы и презентации в LaTeX (Introduction to LaTeX) from Higher School of Economics. LaTeX (читается «латех») — научная издательская система. На этом курсе вы узнаете, как оформить ваши идеи в виде красивого, профессионально сверстанного текста или слайдов презентации. Система LaTeX — стандарт в научном мире. Лучшие математические, физические и экономические журналы издаются в LaTeX и рекомендуют авторам использовать его для подготовки рукописей. LaTeX не очень прост в освоении, но обладает массой преимуществ перед популярными текстовыми процессорами и редакторами презентаций: • высококачественная верстка — текст выглядит «как в книжке»; • удобная работа со сложными математическими формулами; • отличная кросс-платформенная совместимость; • автоматизация многих рутинных процессов: нумерации формул, рисунков, таблиц, разделов документа, перекрестных ссылок, создания колонтитулов, оформления стилей заголовков и т. п.; • огромное сообщество пользователей и разработчиков, пакеты-расширения на все случаи жизни. LaTeX облегчает жизнь всем, кому приходится оформлять эссе, рефераты, курсовые и дипломные работы, диссертации, а также слайды презентаций на их основе. Пользователи, освоившие LaTeX, вспоминают верстку сложных документов в Word и создание больших презентаций в PowerPoint как страшный сон. FAQ В: Что нужно установить на компьютер для прохождения этого курса? О: Для работы с LaTeX существует масса различных программных средств, некоторые из которых заменяют друг друга, а другие — дополняют их. Обзор этих средств — одна из тем первой недели лекций, до этого времени ничего устанавливать не нужно. Для освоения курса нужно будет иметь компьютер с быстрым доступом к интернету и возможностью устанавливать на него программное обеспечение. В дальнейшем при работе с собственными документами в LaTeX подключение к интернету будет необязательно. В: Требуется ли предварительная подготовка для прохождения курса? О: Нет, предварительная подготовка для прохождения курса не требуется. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Документы и презентации в LaTeX (Introduction to LaTeX) - Higher School of Economics | Coursera",
+                "thumb_url": "https:\/\/d3njjcbhbojbot.cloudfront.net\/api\/utilities\/v1\/imageproxy\/https:\/\/coursera-course-photos.s3.amazonaws.com\/59\/61b6b4924569d104a975c168fe88df\/Introduction-to-LaTeX.jpg",
+                "from_url": "https:\/\/www.coursera.org\/learn\/latex\/",
+                "thumb_width": 842,
+                "thumb_height": 477,
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cake",
+                "users": [
+                    "U049HDR2Z",
+                    "U041P485A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U049HDR2Z",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0M39M6LS>: отлично, спасибо!",
+        "user": "U049HDR2Z",
+        "ts": "1461746917.000073",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461747304.000074",
+        "user": "U142MR02X",
+        "text": "<@U142MR02X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U049HDR2Z>: <http:\/\/www.forkosh.com\/mimetextutorial.html> вот советую, что бы время на курс не тратить, там такаешь на любую формулу и в поле выводится ее код, после прочтения этого текста можно уже спокойно фигачить тексты и гуглить что не хватает",
+        "user": "U06J1LG1M",
+        "ts": "1461748971.000075",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tumbleweed",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U06J1LG1M>: да так-то у них и на официальном сайте куча примеров. Хочется систематически базу выучить",
+        "user": "U049HDR2Z",
+        "ts": "1461749057.000076",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "как cheatsheet подойдет, в любом случае :wink:",
+        "user": "U049HDR2Z",
+        "ts": "1461749083.000077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461749249.000078",
+        "user": "U1441AK0C",
+        "text": "<@U1441AK0C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "для latex вот такая еще забавная вещь есть, c распознаванием символа :simple_smile:\n<http:\/\/detexify.kirelabs.org\/classify.html>",
+        "user": "U0952QCHE",
+        "ts": "1461770346.000079",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8b5d68e25c4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8b5d68e25c49854cd8230f0bab8c61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Kalinin",
+            "display_name": "alxndrkalinin",
+            "team": "T040HKJE3",
+            "name": "alxndrkalinin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Detexify LaTeX handwritten symbol recognition",
+                "title_link": "http:\/\/detexify.kirelabs.org\/classify.html",
+                "text": "An approach to simplify finding LaTeX symbols.",
+                "fallback": "Detexify LaTeX handwritten symbol recognition",
+                "from_url": "http:\/\/detexify.kirelabs.org\/classify.html",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я юзаю вот это: <http:\/\/www.codecogs.com\/latex\/eqneditor.php>",
+        "user": "U0G29N5U4",
+        "ts": "1461770444.000081",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Online LaTeX Equation Editor - create, integrate and download",
+                "title_link": "http:\/\/www.codecogs.com\/latex\/eqneditor.php",
+                "text": "HTML LaTeX equation editor that creates graphical equations (gif, png, swf, pdf, emf). Produces code for directly embedding equations into HTML websites, forums or blogs. Images may also be dragged into other applications like Word. Open source and XHTML compliant.",
+                "fallback": "Online LaTeX Equation Editor - create, integrate and download",
+                "from_url": "http:\/\/www.codecogs.com\/latex\/eqneditor.php",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0952QCHE>: даже кси распознал, а ее ведь не всегда можно на бумаге распознать даже",
+        "user": "U06J1LG1M",
+        "ts": "1461770579.000083",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "с моим почерком даже П не распознает!",
+        "user": "U0G29N5U4",
+        "ts": "1461770748.000084",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Dynamic Time Warping юзают для распознавания, кстати, судя по репозиторию",
+        "user": "U0952QCHE",
+        "ts": "1461771140.000085",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8b5d68e25c4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd8b5d68e25c49854cd8230f0bab8c61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Kalinin",
+            "display_name": "alxndrkalinin",
+            "team": "T040HKJE3",
+            "name": "alxndrkalinin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/i.imgur.com\/XstJ68e.png> Ѣ",
+        "user": "U04ELQZAU",
+        "ts": "1461771225.000086",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1322x996px image",
+                "image_url": "http:\/\/i.imgur.com\/XstJ68e.png",
+                "image_width": 1322,
+                "image_height": 996,
+                "image_bytes": 183764,
+                "from_url": "http:\/\/i.imgur.com\/XstJ68e.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U0G29N5U4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кси распознало, да. Правда, почему-то в капсе",
+        "user": "U04ELQZAU",
+        "ts": "1461771275.000088",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а Пи - и у тебя ни фига...",
+        "user": "U0G29N5U4",
+        "ts": "1461774652.000089",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461799652.000090",
+        "user": "U14BPHDK6",
+        "text": "<@U14BPHDK6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461800556.000091",
+        "user": "U14C0LPSL",
+        "text": "<@U14C0LPSL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461809995.000092",
+        "user": "U14CTBLFJ",
+        "text": "<@U14CTBLFJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461813780.000093",
+        "user": "U14D9C49F",
+        "text": "<@U14D9C49F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461818311.000094",
+        "user": "U14DK1YHX",
+        "text": "<@U14DK1YHX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461818905.000095",
+        "user": "U14D53D2Q",
+        "text": "<@U14D53D2Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461820881.000096",
+        "user": "U14DQ65TK",
+        "text": "<@U14DQ65TK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461821386.000097",
+        "user": "U14DA0Y4U",
+        "text": "<@U14DA0Y4U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461822234.000098",
+        "user": "U14DMFHJB",
+        "text": "<@U14DMFHJB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461822732.000099",
+        "user": "U14DZQQR0",
+        "text": "<@U14DZQQR0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461823147.000100",
+        "user": "U14DUL0HF",
+        "text": "<@U14DUL0HF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1461823740.000101",
+        "user": "U14C9535Z",
+        "text": "<@U14C9535Z> has joined the channel"
+    }
+]

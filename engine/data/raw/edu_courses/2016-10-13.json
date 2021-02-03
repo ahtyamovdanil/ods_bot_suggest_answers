@@ -1,0 +1,435 @@
+[
+    {
+        "type": "message",
+        "text": "<@U183AU5TL> у меня через DP проблема 400 не решается. Там ведь матрица получается capacity*items, а capacity там 1e7 почти. видимо я не так эффективно сделал DP как ты, хотя я и не старался - там строчек 6 кода",
+        "user": "U1B2L9G58",
+        "ts": "1476343796.001443",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "400 на 10 млн интов32 это 16 Гб. Мне хватило оперативки :).",
+        "user": "U183AU5TL",
+        "ts": "1476350662.001444",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g211690746fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7211690746fd78781a59ce5986f20b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Дарья",
+            "real_name": "Дарья Васюкова",
+            "display_name": "dune_dweller",
+            "team": "T040HKJE3",
+            "name": "dune_dweller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А на последнюю, кажется, нужно 40, столько уже нет.",
+        "user": "U183AU5TL",
+        "ts": "1476350728.001445",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g211690746fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7211690746fd78781a59ce5986f20b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Дарья",
+            "real_name": "Дарья Васюкова",
+            "display_name": "dune_dweller",
+            "team": "T040HKJE3",
+            "name": "dune_dweller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "amazon spot instances? :wink:",
+        "user": "U1BMURR5G",
+        "ts": "1476351665.001446",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1BMURR5G",
+            "ts": "1476351669.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да нет, там просто нужен другой метод или реализация поумнее )",
+        "user": "U183AU5TL",
+        "ts": "1476352633.001448",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g211690746fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7211690746fd78781a59ce5986f20b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Дарья",
+            "real_name": "Дарья Васюкова",
+            "display_name": "dune_dweller",
+            "team": "T040HKJE3",
+            "name": "dune_dweller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А я на branch and bounds понадеялся",
+        "user": "U1CF95PP1",
+        "ts": "1476352634.001449",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Надо видимо запилить таки DP",
+        "user": "U1CF95PP1",
+        "ts": "1476352639.001450",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "DP, по-моему, гораздо проще сделать. Кстати, кто на чём пишет?",
+        "user": "U183AU5TL",
+        "ts": "1476352766.001451",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g211690746fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7211690746fd78781a59ce5986f20b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Дарья",
+            "real_name": "Дарья Васюкова",
+            "display_name": "dune_dweller",
+            "team": "T040HKJE3",
+            "name": "dune_dweller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я на питончеке :slightly_smiling_face:",
+        "user": "U1CF95PP1",
+        "ts": "1476352789.001452",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У меня чистый питон за 2 секунды паковал 20 предметов, а с нумбой за то же время тысячу. Крутая штука эта нумба оказалась!",
+        "user": "U183AU5TL",
+        "ts": "1476352879.001453",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g211690746fd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7211690746fd78781a59ce5986f20b0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Дарья",
+            "real_name": "Дарья Васюкова",
+            "display_name": "dune_dweller",
+            "team": "T040HKJE3",
+            "name": "dune_dweller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я на Питоне. Матрицу обновляю на Pandas\/Numpy, векторно, цикл только по предметам. Тоже около 20 предметов в сек. Нумбу не юзал",
+        "user": "U1B2L9G58",
+        "ts": "1476354067.001454",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Не знаю, правильный ли канал для такого вопроса, а у кого нибудь получилось google ortoos на маке собрать? Установщик не пашет, сборка из исходников тоже :( ",
+        "user": "U1B2L9G58",
+        "ts": "1476354209.001455",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1B2L9G58",
+            "ts": "1476354228.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "А шо такое нумба?",
+        "user": "U1CF95PP1",
+        "ts": "1476354641.001457",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "векторизатор <http:\/\/numba.pydata.org\/>",
+        "user": "U09JEC7V0",
+        "ts": "1476354678.001458",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А с _coursera файликом прямо в первом задании ни у кого не было проблем. При запуске submit.py говорит, что *metadata file \"_coursera\" not found*\n&lt;кстати, а тут же можно все курсы\/проблемы\/решения обсуждать?&gt;",
+        "user": "U14CTBLFJ",
+        "ts": "1476354895.001459",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ты запускай submit.py из той же папки где и _coursera",
+        "user": "U1CF95PP1",
+        "ts": "1476354952.001460",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f466eab185ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-27\/321364204788_f466eab185eecb3eaedf_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Melnik",
+            "display_name": "ld86",
+            "team": "T040HKJE3",
+            "name": "ld86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ага, так и делаю",
+        "user": "U14CTBLFJ",
+        "ts": "1476355082.001461",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А, надо было придти в папку и запускать оттуда, а не по абсолютному пути",
+        "user": "U14CTBLFJ",
+        "ts": "1476355220.001462",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476371975.001463",
+        "user": "U2P0E3DQD",
+        "text": "<@U2P0E3DQD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476372777.001464",
+        "user": "U2NUD9TQB",
+        "text": "<@U2NUD9TQB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476373479.001465",
+        "user": "U2NULEB4K",
+        "text": "<@U2NULEB4K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476375555.001466",
+        "user": "U2P1G8W85",
+        "text": "<@U2P1G8W85> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476376291.001467",
+        "user": "U2P1H4XKJ",
+        "text": "<@U2P1H4XKJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476388467.001468",
+        "user": "U2P4N22PN",
+        "text": "<@U2P4N22PN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476393354.001469",
+        "user": "U2P6FBML2",
+        "text": "<@U2P6FBML2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476416896.001470",
+        "user": "U2P9JLKQA",
+        "text": "<@U2P9JLKQA> has joined the channel"
+    }
+]

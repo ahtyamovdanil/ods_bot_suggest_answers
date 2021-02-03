@@ -1,0 +1,671 @@
+[
+    {
+        "client_msg_id": "c15df80b-31b3-4f4e-b971-35a840583a98",
+        "type": "message",
+        "text": "MIT начал выпускать свои видео по потоку Deep Learning 2019 года.\n<https:\/\/deeplearning.mit.edu\/>\nВидео с первой лекцией: <https:\/\/www.youtube.com\/watch?v=O5xeyoRL95U>",
+        "user": "UE259V12B",
+        "ts": "1547368941.284900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f4d13dd6b115",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-07\/546167886790_f4d13dd6b11503315e56_72.jpg",
+            "first_name": "SergeKK",
+            "real_name": "SergeKK",
+            "display_name": "SergeKK",
+            "team": "T040HKJE3",
+            "name": "borkinks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UE259V12B",
+            "ts": "1547368987.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Deep Learning Basics: Introduction and Overview - MIT",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=O5xeyoRL95U",
+                "author_name": "Lex Fridman",
+                "author_link": "https:\/\/www.youtube.com\/user\/lexfridman",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/O5xeyoRL95U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Deep Learning Basics: Introduction and Overview - MIT",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/O5xeyoRL95U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=O5xeyoRL95U",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=O5xeyoRL95U"
+            }
+        ],
+        "thread_ts": "1547368941.284900",
+        "reply_count": 15,
+        "reply_users_count": 12,
+        "latest_reply": "1547564899.327600",
+        "reply_users": [
+            "U04ELQZAU",
+            "U9MAVHVEW",
+            "U3P82LKDK",
+            "U0QB98BB9",
+            "U0546DHDK",
+            "U8PMZ6397",
+            "UE259V12B",
+            "U0DA4J82H",
+            "U50EVF538",
+            "U958UTUU8",
+            "U2N853RGF",
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U04ELQZAU",
+                "ts": "1547369056.285400"
+            },
+            {
+                "user": "U9MAVHVEW",
+                "ts": "1547369538.285800"
+            },
+            {
+                "user": "U3P82LKDK",
+                "ts": "1547369729.286800"
+            },
+            {
+                "user": "U9MAVHVEW",
+                "ts": "1547370126.287200"
+            },
+            {
+                "user": "U0QB98BB9",
+                "ts": "1547372310.288100"
+            },
+            {
+                "user": "U0546DHDK",
+                "ts": "1547372543.288400"
+            },
+            {
+                "user": "U8PMZ6397",
+                "ts": "1547373016.288900"
+            },
+            {
+                "user": "UE259V12B",
+                "ts": "1547374505.289500"
+            },
+            {
+                "user": "U0DA4J82H",
+                "ts": "1547377211.290800"
+            },
+            {
+                "user": "U04ELQZAU",
+                "ts": "1547379680.291100"
+            },
+            {
+                "user": "U50EVF538",
+                "ts": "1547401629.294800"
+            },
+            {
+                "user": "U958UTUU8",
+                "ts": "1547428275.296400"
+            },
+            {
+                "user": "U9MAVHVEW",
+                "ts": "1547475380.297900"
+            },
+            {
+                "user": "U2N853RGF",
+                "ts": "1547536452.302400"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1547564899.327600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U95EDL3H8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29439ec5-e7e5-48b3-b821-adab7121e188",
+        "type": "message",
+        "text": "Hot take: этих basics сейчас навалом, каждая собака рассказывает про основы DL'я. Лучше бы продвинутые курсы делали",
+        "user": "U04ELQZAU",
+        "ts": "1547369056.285400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4U4GFDNK",
+                    "U4ZRFG1V0",
+                    "U3CJPQ4HX",
+                    "U62N1NJUC",
+                    "U0AS1QEJF",
+                    "U7T35SXBQ",
+                    "UAT62FNQ5",
+                    "U0H7VBQQ1",
+                    "U3NTG7CCS",
+                    "U8SRKP9U3",
+                    "U13PBBLLW",
+                    "U4X6DG29F",
+                    "U5H0L5T98",
+                    "U4X5JVCQ0",
+                    "U0DA4J82H",
+                    "U747TSW1J",
+                    "U29TG6K9U",
+                    "U17UDV31D",
+                    "U1D6DT6HE",
+                    "U4N7G9RQA",
+                    "UCKPH24JW",
+                    "U53E5MFNU",
+                    "UBQJYBVPC",
+                    "U76NZ83L1",
+                    "U1BMURR5G",
+                    "U1CMPEWPQ",
+                    "U6GD2U8SE",
+                    "U041P485A",
+                    "UEGP0MMDX",
+                    "U436BP343",
+                    "U2VBC4HEX",
+                    "U6GCM1F0T",
+                    "U6SHTGD5X",
+                    "U6WMC1ZS5",
+                    "U1J7A5067",
+                    "UCKGAQKE0",
+                    "U10K3LXHV"
+                ],
+                "count": 37
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U0H7VBQQ1",
+                    "U5H0L5T98",
+                    "U17UDV31D",
+                    "UA6V8S97S"
+                ],
+                "count": 4
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U0QB98BB9",
+                    "U5H0L5T98",
+                    "U17UDV31D",
+                    "U041P485A"
+                ],
+                "count": 4
+            },
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "UE259V12B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1D6DT6HE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70b69f32-8d25-490d-8cc1-54c1982b9dc5",
+        "type": "message",
+        "text": "Лектор Дэниэла Рэдклиффа напоминает, из того фильма, где он к скинхедам внедрялся. А так - кто ж в наше меркантильное время продвинутые курсы за так вывалит? Извольте nanodegree за денежку получать.",
+        "user": "U9MAVHVEW",
+        "ts": "1547369538.285800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a00a87dbfeba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-01\/772578306497_a00a87dbfeba79ad5b1d_72.jpg",
+            "first_name": "",
+            "real_name": "Mikhail Makarkin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "mikhail.mak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B"
+    },
+    {
+        "client_msg_id": "FB53CF02-03AA-4235-95F5-A81F86D1E837",
+        "type": "message",
+        "text": "Мне кажется, nanodegree тоже не продвинутый курс",
+        "user": "U3P82LKDK",
+        "ts": "1547369729.286800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UE259V12B",
+                    "U0H7VBQQ1",
+                    "U0546DHDK",
+                    "U3NTG7CCS",
+                    "U8SRKP9U3",
+                    "U1D6DT6HE",
+                    "U09JEC7V0",
+                    "U041P485A",
+                    "U6SHTGD5X"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c31f6030-49f2-4ac0-bf6b-5ead26ed9d85",
+        "type": "message",
+        "text": "Ну, это я к слову. Вообще, революция, так сказать, курсеры, довольно необычную форму приобрела. В основы и правда теперь любой индус из Мумбая вкатиться без проблем может, было бы желание. А для более продвинутых вещей так и осталось оффлайновое обучение - в универе или на работе.",
+        "user": "U9MAVHVEW",
+        "ts": "1547370126.287200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a00a87dbfeba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-01\/772578306497_a00a87dbfeba79ad5b1d_72.jpg",
+            "first_name": "",
+            "real_name": "Mikhail Makarkin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "mikhail.mak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7CAU0GMU",
+                    "U1D6DT6HE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6fc0fd1-bfca-4708-aa1b-7d1ff72a92b1",
+        "type": "message",
+        "text": "да, advanced онлайн курсов по ML\/DL похоже нет. только видео и lecture notes (ps если кто знает, делитесь)",
+        "user": "U0QB98BB9",
+        "ts": "1547372310.288100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B"
+    },
+    {
+        "client_msg_id": "12058a08-0a37-479a-aa07-be1c811f8670",
+        "type": "message",
+        "text": "А CS231n как классифицировать тогда?",
+        "user": "U0546DHDK",
+        "ts": "1547372543.288400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd7a101fb771",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4243d8cf74c27fd2b3a6295478bfc63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "intsco",
+            "real_name": "intsco",
+            "display_name": "Vitaly",
+            "team": "T040HKJE3",
+            "name": "intsco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B"
+    },
+    {
+        "client_msg_id": "d3016dee-0c4b-4774-a927-f0c41ff3fc03",
+        "type": "message",
+        "text": "Так там же не только бэйсикс будет:\n&gt;lectures on deep learning, TensorFlow, GANs, segmentation, self-driving cars, and there'll be great talks from autonomous vehicle industry leaders.).\nИли это тоже уже за бэйсикс идет?\nP.S. лектор лысый потому что черный пояс по BJJ.",
+        "user": "U8PMZ6397",
+        "ts": "1547373016.288900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2f3e034ec3d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-25\/371592359495_2f3e034ec3d05c371a2b_72.jpg",
+            "first_name": "Kostyantyn",
+            "real_name": "Kostyantyn Kravchenko",
+            "display_name": "kcostya",
+            "team": "T040HKJE3",
+            "name": "kcostya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B"
+    },
+    {
+        "type": "message",
+        "text": "<@U8PMZ6397> а ты думаешь, что кто-то из :trollface: читал что будет в курсе?",
+        "files": [
+            {
+                "id": "FFDHD9KM5",
+                "created": 1547374499,
+                "timestamp": 1547374499,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-13, 1:14 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UE259V12B",
+                "editable": false,
+                "size": 363496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FFDHD9KM5\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FFDHD9KM5\/download\/image.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 272,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 407,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_800.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 453,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 543,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFDHD9KM5-7933bdf8dd\/image_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 580,
+                "image_exif_rotation": 1,
+                "original_w": 1145,
+                "original_h": 648,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UE259V12B\/FFDHD9KM5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FFDHD9KM5-8ad327a5d8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UE259V12B",
+        "display_as_bot": false,
+        "ts": "1547374505.289500",
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8PMZ6397"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d879668-a996-4c10-8aa5-4bb291ab0cac",
+        "type": "message",
+        "text": "Продвинутые курсы невыгодно делать, слишком много усилий и небольшое количество желающих",
+        "user": "U0DA4J82H",
+        "ts": "1547377211.290800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U04ELQZAU",
+                    "U2N853RGF",
+                    "U4YQRGFUZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U04ELQZAU",
+                    "U6SHTGD5X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "658a166d-6e72-45e5-a86d-0a1f6956a451",
+        "type": "message",
+        "text": "<@U8PMZ6397>, так это тоже всё старые темы уже, к тому же много ли можно за одну\/пару лекций рассказать? Да только по верхам пробежаться\n\nВот примеры того, что я считаю продвинутыми курсами\n<https:\/\/duvenaud.github.io\/learn-discrete\/>\n<http:\/\/www.cs.toronto.edu\/~duvenaud\/courses\/csc2541\/index.html>\n<http:\/\/rail.eecs.berkeley.edu\/deeprlcourse\/>",
+        "user": "U04ELQZAU",
+        "ts": "1547379680.291100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "U62N1NJUC",
+                    "UE259V12B",
+                    "U17UDV31D",
+                    "U50EVF538",
+                    "U2F5XFH53",
+                    "U6NG0K2BW",
+                    "U9ZU1CYUD",
+                    "U9AFA9HCZ",
+                    "U6SHTGD5X",
+                    "U2TFZ724Q"
+                ],
+                "count": 10
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U8PMZ6397",
+                    "UEP8V5FM5",
+                    "U50EVF538",
+                    "U6NG0K2BW",
+                    "UAT62FNQ5",
+                    "UA94V5890"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U6YT3HHML",
+                    "UAT62FNQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ceba096-6e37-4e75-ac23-620c87f1f7f5",
+        "type": "message",
+        "text": "Я очень плотно занимаюсь этой темой, Process Mining, в прошлом году занимался сеянием (seeding) :slightly_smiling_face: готовил заказчиков, в этом надеюсь уже пожинать урожай. Мы являемся партнерами нескольких вендоров по Process Mining, так что цена за софтину это не вопрос.",
+        "user": "UEL27JP53",
+        "ts": "1547398250.293900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6d88d300adc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-04\/515866363473_f6d88d300adc2d0d1760_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Kuklin",
+            "display_name": "Alex",
+            "team": "T040HKJE3",
+            "name": "alexander055",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546004619.093000",
+        "parent_user_id": "UATCUDS3C"
+    },
+    {
+        "client_msg_id": "336E861D-2568-4C61-B6D6-C613F2B9B6FE",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/playlist?list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE>\nВот вроде достаточно продвинутое по nlp ",
+        "user": "U50EVF538",
+        "ts": "1547401629.294800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "81354e7d3e9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-27\/204725676311_81354e7d3e9e7b4af4d0_72.png",
+            "first_name": "Stasian",
+            "real_name": "Stasian Prikhodko",
+            "display_name": "stasian",
+            "team": "T040HKJE3",
+            "name": "stasian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6YT3HHML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfa7dbfd-6960-42a4-8af2-6434dcd3d3c1",
+        "type": "message",
+        "text": "<@U9MAVHVEW> но ведь здесь выложен как раз обычный универский курс, куда уж продвинутее",
+        "user": "U958UTUU8",
+        "ts": "1547428275.296400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "37dd162fe3d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/579368203410_37dd162fe3d6ac0ae351_72.jpg",
+            "first_name": "Alexey",
+            "real_name": "Alexey Kryuchkov",
+            "display_name": "alexkryu4kov",
+            "team": "T040HKJE3",
+            "name": "alexkryu4kov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547368941.284900",
+        "parent_user_id": "UE259V12B"
+    }
+]

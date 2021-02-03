@@ -1,0 +1,502 @@
+[
+    {
+        "client_msg_id": "ce0bcf1b-d791-47d9-979e-273d9fedf3ba",
+        "type": "message",
+        "text": "<@U60EETE7N>, пока не скажу, не люблю какашками кидаться\nдля меня пока эта история работает — обучение идет очень интенсивно, хотя и с многочисленными накладками со стороны провайдера\nвот если сформируется категорическая антирекомендация, то выложу обязательно",
+        "user": "U014VNCM4JC",
+        "ts": "1593766732.197700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae7d8559aeb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-23\/1165773836176_ae7d8559aeb87c571cf9_72.jpg",
+            "first_name": "Sasha",
+            "real_name": "Sasha Kang",
+            "display_name": "Sasha Kang",
+            "team": "T040HKJE3",
+            "name": "sasha.kang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9EO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U60EETE7N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", пока не скажу, не люблю какашками кидаться\nдля меня пока эта история работает — обучение идет очень интенсивно, хотя и с многочисленными накладками со стороны провайдера\nвот если сформируется категорическая антирекомендация, то выложу обязательно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590835270.224400",
+        "parent_user_id": "U014VNCM4JC"
+    },
+    {
+        "client_msg_id": "7d00424e-481c-437d-8c1d-abae29abbbe7",
+        "type": "message",
+        "text": "<@UUWNN05EK> как попало написала.  <http:\/\/mlcourse.ai|mlcourse.ai> я имела ввиду. Здесь есть тред по нему. Курс от <@U1UNFRQ1K>",
+        "user": "U012K713DSB",
+        "ts": "1593768990.198000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "42d14fdd0e71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-19\/1511350102994_42d14fdd0e7163f8aa16_72.jpg",
+            "first_name": "Olga",
+            "real_name": "Olga Onishchenko",
+            "display_name": "snowowl",
+            "team": "T040HKJE3",
+            "name": "snowowwwl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUWNN05EK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " как попало написала.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mlcourse.ai",
+                                "text": "mlcourse.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " я имела ввиду. Здесь есть тред по нему. Курс от "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1UNFRQ1K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590835270.224400",
+        "parent_user_id": "U014VNCM4JC"
+    },
+    {
+        "client_msg_id": "03B367C2-7089-4A7E-9D32-524E537D2CC6",
+        "type": "message",
+        "text": "Может, кому будет интересно\n\n\n<https:\/\/avito-analytics-academy.ru\/|https:\/\/avito-analytics-academy.ru\/>",
+        "user": "U9JB3151B",
+        "ts": "1593784414.198800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c21d97cf0824",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-05\/1103657974003_c21d97cf0824c177aee9_72.jpg",
+            "first_name": "Georgy",
+            "real_name": "Georgy Gospodinov",
+            "display_name": "gospodinov",
+            "team": "T040HKJE3",
+            "name": "georgygospodinov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Академия аналитиков Авито",
+                "title_link": "https:\/\/avito-analytics-academy.ru\/",
+                "fallback": "Академия аналитиков Авито",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3034-6566-4634-a332-633339376434\/Avito_promo_.png",
+                "from_url": "https:\/\/avito-analytics-academy.ru\/",
+                "image_width": 350,
+                "image_height": 250,
+                "image_bytes": 727137,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild6666-6530-4263-b461-383633353437\/favicon.ico",
+                "service_name": "avito-analytics-academy.ru",
+                "id": 1,
+                "original_url": "https:\/\/avito-analytics-academy.ru\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yb+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Может, кому будет интересно\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/avito-analytics-academy.ru\/",
+                                "text": "https:\/\/avito-analytics-academy.ru\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593784414.198800",
+        "reply_count": 35,
+        "reply_users_count": 9,
+        "latest_reply": "1598548796.084200",
+        "reply_users": [
+            "UG2SPDTCL",
+            "U709XK88H",
+            "U016XA53596",
+            "U6X5YAFU3",
+            "UJG3W0SSZ",
+            "U0160NGAMAS",
+            "UTSEA2RFS",
+            "UP35Z75TQ",
+            "U013C3FQHR8"
+        ],
+        "replies": [
+            {
+                "user": "UG2SPDTCL",
+                "ts": "1593786033.199200"
+            },
+            {
+                "user": "U709XK88H",
+                "ts": "1593787145.199500"
+            },
+            {
+                "user": "U016XA53596",
+                "ts": "1593849244.204600"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1594822172.329200"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1594912694.336400"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1594985696.339200"
+            },
+            {
+                "user": "U0160NGAMAS",
+                "ts": "1595051463.341400"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1595094666.347700"
+            },
+            {
+                "user": "U0160NGAMAS",
+                "ts": "1595142185.348700"
+            },
+            {
+                "user": "UTSEA2RFS",
+                "ts": "1595173801.358300"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595490797.396200"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1595491214.396400"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595495108.397000"
+            },
+            {
+                "user": "UTSEA2RFS",
+                "ts": "1595507493.397500"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1595508221.397800"
+            },
+            {
+                "user": "UTSEA2RFS",
+                "ts": "1595508409.398000"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595519245.399400"
+            },
+            {
+                "user": "UP35Z75TQ",
+                "ts": "1595520493.400900"
+            },
+            {
+                "user": "U013C3FQHR8",
+                "ts": "1595520978.401100"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595522168.401700"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1595523621.402000"
+            },
+            {
+                "user": "UP35Z75TQ",
+                "ts": "1595523869.403500"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595524059.403700"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595524141.403900"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595673520.419500"
+            },
+            {
+                "user": "UP35Z75TQ",
+                "ts": "1595673636.422000"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1595673746.422200"
+            },
+            {
+                "user": "U013C3FQHR8",
+                "ts": "1595673964.422400"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1597225797.003900"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1597240938.007100"
+            },
+            {
+                "user": "UJG3W0SSZ",
+                "ts": "1598169388.025600"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1598169591.025900"
+            },
+            {
+                "user": "U013C3FQHR8",
+                "ts": "1598174307.026200"
+            },
+            {
+                "user": "U013C3FQHR8",
+                "ts": "1598463156.070400"
+            },
+            {
+                "user": "U6X5YAFU3",
+                "ts": "1598548796.084200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0141U3MJ4Q",
+                    "UG6TAGUAZ",
+                    "U013C3FQHR8",
+                    "U0160NGAMAS"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59cac9f5-7132-425c-9b26-485cff7e3b24",
+        "type": "message",
+        "text": "А норм, что 2-ой день на почту нет подтверждений о записи?",
+        "user": "UG2SPDTCL",
+        "ts": "1593786033.199200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g10815a4dedb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e10815a4dedb9b13ae02b3d2f92de8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Anton",
+            "real_name": "Anton Nikulov",
+            "display_name": "Favor",
+            "team": "T040HKJE3",
+            "name": "favor86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcJPD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А норм, что 2-ой день на почту нет подтверждений о записи?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593784414.198800",
+        "parent_user_id": "U9JB3151B"
+    },
+    {
+        "client_msg_id": "c6c29124-76f6-46f9-a985-5eba104bd1b5",
+        "type": "message",
+        "text": "Неужели у кого-то алгосы не обязательны",
+        "user": "U709XK88H",
+        "ts": "1593787145.199500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01bea945a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0bb01bea945a403175ef492f155a5a52.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Stanislav Isupov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "isupov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPWS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Неужели у кого-то алгосы не обязательны"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593784414.198800",
+        "parent_user_id": "U9JB3151B"
+    },
+    {
+        "client_msg_id": "eddbb80c-77e4-4a16-b5dd-2636666c9200",
+        "type": "message",
+        "text": "Всем привет. А может кто-то посоветовать хорошие курсы по pytorch?",
+        "user": "UMM890NT1",
+        "ts": "1593796879.201800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3c45728240a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-05\/1369413163792_3c45728240a93716ba5f_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Semenistyy",
+            "display_name": "antonymipt",
+            "team": "T040HKJE3",
+            "name": "anton.semenistyy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8aC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Всем привет. А может кто-то посоветовать хорошие курсы по pytorch?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593796879.201800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1594320219.260800",
+        "reply_users": [
+            "U015SMTHEVD",
+            "UEB5DEDGS"
+        ],
+        "replies": [
+            {
+                "user": "U015SMTHEVD",
+                "ts": "1593879959.214700"
+            },
+            {
+                "user": "U015SMTHEVD",
+                "ts": "1593880080.215000"
+            },
+            {
+                "user": "UEB5DEDGS",
+                "ts": "1594320219.260800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rtfm2",
+                "users": [
+                    "U09JEC7V0",
+                    "U4WGFD012",
+                    "U7N4E8GBF",
+                    "U6DCD6XUN",
+                    "UEP0QHYLR",
+                    "UCQ1YNU9M",
+                    "UB4F4DZGV",
+                    "U8PMZ6397",
+                    "UKQTPE877",
+                    "UDK41MN5U",
+                    "U2N853RGF",
+                    "UJ8BXBM36",
+                    "UDA191BHU"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

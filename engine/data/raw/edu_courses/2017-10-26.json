@@ -1,0 +1,812 @@
+[
+    {
+        "type": "message",
+        "text": "<@U5R9LKKRS> Привет, я на 3 неделе, не прошел еще. Начал проходить давно, на бэта тесте, когда еще ничего не работало нормально.",
+        "user": "U76NSCCC9",
+        "ts": "1509003250.000206",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd9e5f449690",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85d9e5f449690a3cd0a019f3e8e00084.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Efoshkin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "huk1989",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508954552.000033",
+        "parent_user_id": "U5R9LKKRS",
+        "reactions": [
+            {
+                "name": "woohoo",
+                "users": [
+                    "U5R9LKKRS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U5R9LKKRS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Кто получал financial aid от курсеры, подскажите какой ID им лучше посылать? Я отправила скан российского паспорта и через 2 недели получила ответ, что личность не подтверждена =_= Может стоило посылать загран?",
+        "user": "U51N5AYF8",
+        "ts": "1509016971.000176",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ef10de0f4d45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-18\/170282679072_ef10de0f4d45db4e4990_72.jpg",
+            "first_name": "Elena",
+            "real_name": "Elena Kosheleva",
+            "display_name": "lkosh",
+            "team": "T040HKJE3",
+            "name": "lkosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "reply_count": 11,
+        "reply_users_count": 11,
+        "latest_reply": "1509112881.000443",
+        "reply_users": [
+            "U7L3B6HGW",
+            "U436BP343",
+            "U60EETE7N",
+            "U27SUBTB9",
+            "U4WM1939Q",
+            "U26MCSB8A",
+            "U4FCBEVAS",
+            "U459QGLVD",
+            "U51N5AYF8",
+            "U2ZJ517B8",
+            "U302AALBS"
+        ],
+        "replies": [
+            {
+                "user": "U7L3B6HGW",
+                "ts": "1509017575.000344"
+            },
+            {
+                "user": "U436BP343",
+                "ts": "1509017965.000233"
+            },
+            {
+                "user": "U60EETE7N",
+                "ts": "1509018080.000100"
+            },
+            {
+                "user": "U27SUBTB9",
+                "ts": "1509018676.000055"
+            },
+            {
+                "user": "U4WM1939Q",
+                "ts": "1509018933.000455"
+            },
+            {
+                "user": "U26MCSB8A",
+                "ts": "1509026830.000057"
+            },
+            {
+                "user": "U4FCBEVAS",
+                "ts": "1509028019.000801"
+            },
+            {
+                "user": "U459QGLVD",
+                "ts": "1509032208.000410"
+            },
+            {
+                "user": "U51N5AYF8",
+                "ts": "1509037676.000385"
+            },
+            {
+                "user": "U2ZJ517B8",
+                "ts": "1509090668.000024"
+            },
+            {
+                "user": "U302AALBS",
+                "ts": "1509112881.000443"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "ну вообще логично, они же буржуи, либо isic либо паспорт или что-то типа того с английскими буквами главное",
+        "user": "U7L3B6HGW",
+        "ts": "1509017575.000344",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g740b9270a20",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43740b9270a206c2d0a9061b4c906be3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Nico",
+            "real_name": "Nico Belov",
+            "display_name": "Nico",
+            "team": "T040HKJE3",
+            "name": "travelerspb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8",
+        "reactions": [
+            {
+                "name": "no",
+                "users": [
+                    "U302AALBS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я загран отправлял, но это было несколько лет назад",
+        "user": "U436BP343",
+        "ts": "1509017965.000233",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d375b186641d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-30\/307710703127_d375b186641d96929247_72.jpg",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Kustikov",
+            "display_name": "waniz",
+            "team": "T040HKJE3",
+            "name": "waniz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "Права тоже подходят вроде",
+        "user": "U60EETE7N",
+        "ts": "1509018080.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e6a648a94b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-17\/660704542257_f7e6a648a94bf14f6db6_72.jpg",
+            "first_name": "sergey",
+            "real_name": "sergey zakharov",
+            "display_name": "sergei3000",
+            "team": "T040HKJE3",
+            "name": "sergei3000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "я права отправлял и ОК",
+        "user": "U27SUBTB9",
+        "ts": "1509018676.000055",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f8af4d64c68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-24\/885377665328_1f8af4d64c68171d34d9_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Surovikov",
+            "display_name": "quadraaa",
+            "team": "T040HKJE3",
+            "name": "quadraaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "+1 за права. Там буквы иностранные есть. И в штатах же обычный запрос id - это права\/соцстрах? Passport - это загран.",
+        "user": "U4WM1939Q",
+        "ts": "1509018933.000455",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "586abf0ae10d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-16\/242353084725_586abf0ae10da1c590ec_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Gurevich",
+            "display_name": "amber4eg",
+            "team": "T040HKJE3",
+            "name": "amber4eg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3VBQLKPU",
+                    "U4X5JVCQ0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "в смысле? он даже не на русском??",
+        "user": "U44J8KC13",
+        "ts": "1509024867.000075",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U5R7NF98S",
+                    "U04ELQZAU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U5P0ZF7V4",
+                    "U5R7NF98S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "от ВШЭ?",
+        "user": "U44J8KC13",
+        "ts": "1509024876.000237",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0"
+    },
+    {
+        "type": "message",
+        "text": "Я русский паспорт сфоткал и нормально подтвердили, год назад правда это было ",
+        "user": "U26MCSB8A",
+        "ts": "1509026830.000057",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a129a02c25b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-23\/441372855269_a129a02c25b773959ad2_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew",
+            "display_name": "ambudance",
+            "team": "T040HKJE3",
+            "name": "ambudance",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4D3FH3A7",
+                    "U302AALBS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "посылала загран, подтвердили, вроде, в тот же день, но это было год назад",
+        "user": "U4FCBEVAS",
+        "ts": "1509028019.000801",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d8b0a3a8613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-07\/150065646401_3d8b0a3a8613007c822f_72.jpg",
+            "first_name": "Inga",
+            "real_name": "Inga Kaydanova",
+            "display_name": "inga.kaydanova",
+            "team": "T040HKJE3",
+            "name": "inga.kaydanova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "А что лучше, cs231n или эта специализация, как считаете? Боюсь, по времени и то, и то другое одновременно не потяну.",
+        "user": "U4U4GFDNK",
+        "ts": "1509031760.000453",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0"
+    },
+    {
+        "type": "message",
+        "text": "судя по описанию AML, они про разное (и разного масштаба)",
+        "user": "U1G303UTW",
+        "ts": "1509031856.000651",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0c7464c2202",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-18\/348968633282_f0c7464c2202b586297b_72.jpg",
+            "first_name": "Arseny",
+            "real_name": "Arseny Kravchenko",
+            "display_name": "arsenyinfo",
+            "team": "T040HKJE3",
+            "name": "arsenyinfo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0"
+    },
+    {
+        "type": "message",
+        "text": "В какой последовательности посоветовал бы брать? Честно говоря, глаза разбегаются -)\nПланировал тянуть CS231n, одновременно или после него <http:\/\/fast.ai|fast.ai> Part2, раздумывал насчет 4 и 5 курса специализации от Andrew Ng, а теперь ещё и это .",
+        "user": "U4U4GFDNK",
+        "ts": "1509031973.000117",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0",
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U53E5MFNU",
+                    "U4U4GFDNK",
+                    "U6BS23P47",
+                    "U34Q3KU8H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А не, я все правильно написал. Есть фишка эта с RUB2,819 и полным доступом к 2к курсам. Сначала не правильно понял. На последнюю специализацию тоже действует. Очень круто, я оформил :slightly_smiling_face:",
+        "user": "U1ULFPM0U",
+        "ts": "1509032128.000199",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd7042e61b14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-24\/62713814673_fd7042e61b148c316df3_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Golubev",
+            "display_name": "k.golubev",
+            "team": "T040HKJE3",
+            "name": "k.golubev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "посылал обычный паспорт на прошлой неделе - подтвердили",
+        "user": "U459QGLVD",
+        "ts": "1509032208.000410",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g49c89b6f3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f149c89b6f3d601f8d51966703942678.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Vadim",
+            "real_name": "Vadim Kaplanov",
+            "display_name": "tyraello",
+            "team": "T040HKJE3",
+            "name": "tyraello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F7RGJ5DDM",
+                "created": 1509032210,
+                "timestamp": 1509032210,
+                "name": "Screen Shot 2017-10-26 at 20.36.19.png",
+                "title": "Screen Shot 2017-10-26 at 20.36.19.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1ULFPM0U",
+                "editable": false,
+                "size": 63893,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F7RGJ5DDM\/screen_shot_2017-10-26_at_20.36.19.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F7RGJ5DDM\/download\/screen_shot_2017-10-26_at_20.36.19.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_64.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_80.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_360.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 76,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_480.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 101,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_160.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_720.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 152,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_800.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 169,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_960.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 202,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F7RGJ5DDM-01f0d91f1f\/screen_shot_2017-10-26_at_20.36.19_1024.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 216,
+                "image_exif_rotation": 1,
+                "original_w": 1870,
+                "original_h": 394,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U1ULFPM0U\/F7RGJ5DDM\/screen_shot_2017-10-26_at_20.36.19.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F7RGJ5DDM-ddd5177752",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U1ULFPM0U",
+        "display_as_bot": false,
+        "ts": "1509032212.000310"
+    },
+    {
+        "type": "message",
+        "text": "AML вроде более широкий, так что его (хотя сам пока andrew ng смотрю, ыхыхы)",
+        "user": "U1G303UTW",
+        "ts": "1509032246.000118",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f0c7464c2202",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-18\/348968633282_f0c7464c2202b586297b_72.jpg",
+            "first_name": "Arseny",
+            "real_name": "Arseny Kravchenko",
+            "display_name": "arsenyinfo",
+            "team": "T040HKJE3",
+            "name": "arsenyinfo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0"
+    },
+    {
+        "type": "message",
+        "text": "хм, ну либо у них появилась за год неприязнь к российским паспортам, либо я в жизни не похожа на свою фотку в паспорте =\/",
+        "user": "U51N5AYF8",
+        "ts": "1509037676.000385",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ef10de0f4d45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-18\/170282679072_ef10de0f4d45db4e4990_72.jpg",
+            "first_name": "Elena",
+            "real_name": "Elena Kosheleva",
+            "display_name": "lkosh",
+            "team": "T040HKJE3",
+            "name": "lkosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1509016971.000176",
+        "parent_user_id": "U51N5AYF8"
+    },
+    {
+        "type": "message",
+        "text": "<@U4U4GFDNK> 4-5 курс недоступен, как раз успеешь AML сделать пока они появятся ",
+        "user": "U6BS23P47",
+        "ts": "1509041510.000252",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U302AALBS",
+                    "U5R7NF98S",
+                    "U6SCXUP6U"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U6BS23P47> =) у меня написано, что откроется в самом конце октября. В принципе, у меня есть три дня...",
+        "user": "U4U4GFDNK",
+        "ts": "1509041589.000438",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508869396.000345",
+        "parent_user_id": "U2ADMH4H0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6BS23P47"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "В общем поправлюсь немного - в определенные моменты времени доступ к этой подписке открыт ограниченному кругу пользователей. Т.е. если вам приглашение прилетело месяц назад и вы не подключились тогда, то вероятнее всего сейчас уже поздно. (При этом ссылка с приглашением может до сих пор висеть в кабинете)",
+        "user": "U35EN5VLG",
+        "ts": "1509048845.000565",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "637777992c39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/354816243777_637777992c39586ca22d_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Salynskii",
+            "display_name": "asalynskii",
+            "team": "T040HKJE3",
+            "name": "asalynskii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508937154.000067",
+        "parent_user_id": "U35EN5VLG"
+    },
+    {
+        "type": "message",
+        "text": "Список курсов - огонь, нашел много новых и интересных о которых раньше даже не слышал <https:\/\/medium.freecodecamp.org\/450-free-online-programming-computer-science-courses-you-can-start-in-september-59712e77635c> ",
+        "user": "U6BS23P47",
+        "ts": "1509048982.000220",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9093d08bef98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-16\/330910245553_9093d08bef984428be83_72.png",
+            "first_name": "782316",
+            "real_name": "782316",
+            "display_name": "782316",
+            "team": "T040HKJE3",
+            "name": "omnislash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BS23P47",
+            "ts": "1509049189.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "freeCodeCamp",
+                "title": "500 Free Online Programming &amp; Computer Science Courses You Can Start in September",
+                "title_link": "https:\/\/medium.freecodecamp.org\/450-free-online-programming-computer-science-courses-you-can-start-in-september-59712e77635c",
+                "text": "Five years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, more than 700 schools around…",
+                "fallback": "freeCodeCamp: 500 Free Online Programming &amp; Computer Science Courses You Can Start in September",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*IX3hmeV26Ctu2IjjWsdWBA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "30 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1504717319,
+                "from_url": "https:\/\/medium.freecodecamp.org\/450-free-online-programming-computer-science-courses-you-can-start-in-september-59712e77635c",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 255923,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*MotlWcSa2n6FrOx3ul89kw.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1509048982.000220",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1509099181.000022",
+        "reply_users": [
+            "U4U4GFDNK",
+            "U5S11SHM4",
+            "U6BS23P47"
+        ],
+        "replies": [
+            {
+                "user": "U4U4GFDNK",
+                "ts": "1509090178.000137"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1509090456.000194"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1509093767.000075"
+            },
+            {
+                "user": "U4U4GFDNK",
+                "ts": "1509093786.000015"
+            },
+            {
+                "user": "U6BS23P47",
+                "ts": "1509099181.000022"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "На самом деле, выгода не очень понятна. Да, конечно, доступ ко всем курсам, но платить в месяц приходится почти как за целый курс (так?), а проходить больше двух одновременно сложно. Да и два уже много, если работаешь. ",
+        "user": "U3P82LKDK",
+        "ts": "1509053374.000413",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0309a074045d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-14\/457306042710_0309a074045d60fc29e0_72.jpg",
+            "first_name": "Oleg",
+            "real_name": "Oleg Polivin",
+            "display_name": "iorana",
+            "team": "T040HKJE3",
+            "name": "iorana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508937154.000067",
+        "parent_user_id": "U35EN5VLG"
+    },
+    {
+        "type": "message",
+        "text": "у меня корсера убрала возможность платить за один отдельно взятый курс и это очень неудобно",
+        "user": "U1BMURR5G",
+        "ts": "1509053775.000148",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1508937154.000067",
+        "parent_user_id": "U35EN5VLG"
+    }
+]

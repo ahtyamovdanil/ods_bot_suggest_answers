@@ -1,0 +1,1562 @@
+[
+    {
+        "type": "message",
+        "text": "CS50 vs CS6.001 ?",
+        "user": "U19EZ8L5D",
+        "ts": "1484124461.000559",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c36a52cd02e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43520908274_8c36a52cd02e63d06789_72.jpg",
+            "first_name": "Vasiliy",
+            "real_name": "Vasiliy Zemlyanov",
+            "display_name": "re9ulus",
+            "team": "T040HKJE3",
+            "name": "re9ulus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "CS6.001 разумеется",
+        "user": "U09JEC7V0",
+        "ts": "1484124516.000560",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "point_up::skin-tone-2",
+                "users": [
+                    "U19EZ8L5D",
+                    "U2AML8LEB",
+                    "U14BPHDK6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я только CS6.001 проходил,\nи мне он тоже кажется лучше.",
+        "user": "U19EZ8L5D",
+        "ts": "1484124614.000561",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c36a52cd02e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43520908274_8c36a52cd02e63d06789_72.jpg",
+            "first_name": "Vasiliy",
+            "real_name": "Vasiliy Zemlyanov",
+            "display_name": "re9ulus",
+            "team": "T040HKJE3",
+            "name": "re9ulus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484124846.000562",
+        "user": "U3QL4B2ET",
+        "text": "<@U3QL4B2ET> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U373QKD6Z> pinned a message to this channel.",
+        "user": "U373QKD6Z",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 10th, 2017 8:30 AM] ternaus: <#C044B7CSQ|lang_python> \n\nВ Matplotlib вроде ничего страшного нет, но вот прямо сейчас я столкнулся с тем что не могу нормально наложить маску на изображение в задаче сегментации. Вернее что-то накладывается - но там какие-то кривые поделки, которые визуально тяжело интерпретировать.",
+                "ts": "1484065800.000550",
+                "author_id": "U34Q3KU8H",
+                "author_subname": "Vladimir Iglovikov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<#C044B7CSQ|lang_python> \n\nВ Matplotlib вроде ничего страшного нет, но вот прямо сейчас я столкнулся с тем что не могу нормально наложить маску на изображение в задаче сегментации. Вернее что-то накладывается - но там какие-то кривые поделки, которые визуально тяжело интерпретировать.\n<https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1484061587000543>",
+                "author_name": "Vladimir Iglovikov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U34Q3KU8H",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1484124955.000563"
+    },
+    {
+        "type": "message",
+        "text": "Я только начал 6.001 и первая неделя как-то слишком легка. ",
+        "user": "U1CF22N7J",
+        "ts": "1484126655.000564",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А где вы эти курсы проходите? Киньте ссылочку.",
+        "user": "U1YJL9Q8Z",
+        "ts": "1484127938.000565",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dd6257cb2a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-09\/253725822628_6dd6257cb2a5a663fae2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Ivanin",
+            "display_name": "const",
+            "team": "T040HKJE3",
+            "name": "const",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/edx.org|edx.org>",
+        "user": "U1CF22N7J",
+        "ts": "1484127945.000566",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вчера начался 6.001x, CS50 -- бессрочный",
+        "user": "U1CF22N7J",
+        "ts": "1484127966.000567",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "&gt; и первая неделя как-то слишком легка.\nтогда нужно делать старую версию, которая на lisp по SICP сделана :slightly_smiling_face:",
+        "user": "U19EZ8L5D",
+        "ts": "1484131089.000568",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8c36a52cd02e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43520908274_8c36a52cd02e63d06789_72.jpg",
+            "first_name": "Vasiliy",
+            "real_name": "Vasiliy Zemlyanov",
+            "display_name": "re9ulus",
+            "team": "T040HKJE3",
+            "name": "re9ulus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "там смысл курса не в хардкорности - для этого есть курсы по алгоритмам, а в том, что он учит дизайну программ и прививает культуру разработки",
+        "user": "U09JEC7V0",
+        "ts": "1484131224.000569",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dff5bc996df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-11-06\/14021186960_6dff5bc996df9341fb00_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Sviridov",
+            "display_name": "ssviridov",
+            "team": "T040HKJE3",
+            "name": "ssviridov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Хорошо, мне хардкорный и не нужен, просто отметил своё ощущение :slightly_smiling_face:",
+        "user": "U1CF22N7J",
+        "ts": "1484132334.000570",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Сообщают, что можно подглядеть за курсом от MIT по DL в SDC— <http:\/\/selfdrivingcars.mit.edu\/>",
+        "user": "U14CTBLFJ",
+        "ts": "1484138821.000571",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U09JEC7V0",
+                    "U1CF22N7J",
+                    "U0UG04H3M",
+                    "U1UQHNK5M",
+                    "U1FLG6YR1",
+                    "U04ELQZAU",
+                    "U3PTBB0S1",
+                    "U049NHC4X"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U1UQHNK5M",
+                    "U3PTBB0S1",
+                    "U049NHC4X"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U1CF22N7J",
+                    "U1UQHNK5M",
+                    "U0DA4J82H",
+                    "U19VD9AQH",
+                    "U04ELQZAU",
+                    "U09JEC7V0",
+                    "U26MG2Z37",
+                    "U3PTBB0S1",
+                    "U049NHC4X",
+                    "U0L4KM9R9",
+                    "U043J44Q5"
+                ],
+                "count": 11
+            },
+            {
+                "name": "woohoo",
+                "users": [
+                    "U04ELQZAU",
+                    "U3PTBB0S1",
+                    "U049NHC4X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Огонь вообще, юдасити выкуси ))",
+        "user": "U1CF22N7J",
+        "ts": "1484139084.000572",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "likeaboss",
+                "users": [
+                    "U04ELQZAU",
+                    "U3PTBB0S1",
+                    "U18PYFC9L",
+                    "U1D6DT6HE",
+                    "U1D4RRA7K"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/lang_r\/p1484154690000716>\nПродублирую сообщение, может тут кто подскажет? :slightly_smiling_face: ",
+        "user": "U1YJL9Q8Z",
+        "ts": "1484162327.000573",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dd6257cb2a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-09\/253725822628_6dd6257cb2a5a663fae2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Ivanin",
+            "display_name": "const",
+            "team": "T040HKJE3",
+            "name": "const",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/lang_r\/p1484154690000716",
+                "fallback": "[January 11th, 2017 9:11 AM] const: Люди!\nПодскажите, пожалуйста, есть ли в Мск какие-нибудь офлайн курсы по основам машинного обучения, где материал на R даётся, а не на Питоне.\n\nБыло совсем хорошо, если бы рассматривалась реализация от MS, т.е. связка SQL и R.",
+                "ts": "1484154690.000716",
+                "author_subname": "const",
+                "channel_id": "C044227RA",
+                "channel_name": "lang_r",
+                "is_msg_unfurl": true,
+                "text": "Люди!\nПодскажите, пожалуйста, есть ли в Мск какие-нибудь офлайн курсы по основам машинного обучения, где материал на R даётся, а не на Питоне.\n\nБыло совсем хорошо, если бы рассматривалась реализация от MS, т.е. связка SQL и R.",
+                "author_name": "Konstantin Ivanin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/const",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93869975474_aa8866fbe3a50a1d0a34_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #lang_r"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А чем онлайн курсы не подходят? ",
+        "user": "U1CF22N7J",
+        "ts": "1484162359.000575",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Онлайн надо дома в нерабочее время проходить, а хочется от предприятия скататься на обучение.)\nА есть онлайн SQL + R? Что-то я искал на <https:\/\/mva.microsoft.com\/ru>, но не нашёл.",
+        "user": "U1YJL9Q8Z",
+        "ts": "1484162998.000576",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dd6257cb2a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-09\/253725822628_6dd6257cb2a5a663fae2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Ivanin",
+            "display_name": "const",
+            "team": "T040HKJE3",
+            "name": "const",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "от MS есть вот такой курс <https:\/\/www.edx.org\/microsoft-professional-program-certficate-data-science>",
+        "user": "U1NLYUY5N",
+        "ts": "1484165243.000577",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Microsoft Professional Program Certificate in Data Science",
+                "title_link": "https:\/\/www.edx.org\/microsoft-professional-program-certficate-data-science",
+                "text": "Gain the skills you need to get the data science job you want.",
+                "fallback": "edX: Microsoft Professional Program Certificate in Data Science",
+                "thumb_url": "https:\/\/www.edx.org\/sites\/default\/files\/prod-land-pg\/banner\/msft_ds_bg_767x400_0.jpg",
+                "ts": 1473920704,
+                "from_url": "https:\/\/www.edx.org\/microsoft-professional-program-certficate-data-science",
+                "thumb_width": 767,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.edx.org\/sites\/default\/files\/theme\/favicon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "но какого-то внятного обоснования его выбрать я пока не нахожу",
+        "user": "U1NLYUY5N",
+        "ts": "1484165272.000579",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484169780.000580",
+        "user": "U3R1M0HSB",
+        "text": "<@U3R1M0HSB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "тут нового Сочера подвезли, который dl for nlp: <http:\/\/web.stanford.edu\/class\/cs224n\/syllabus.html>",
+        "user": "U0DJEEXE1",
+        "ts": "1484171516.000581",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "в этом году без видео, я полагаю?",
+        "user": "U0DA4J82H",
+        "ts": "1484171678.000582",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "пока без, но он всего два дня, как начался. надеюсь, позже выложат",
+        "user": "U0DJEEXE1",
+        "ts": "1484171840.000583",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А как же юридические проблемы?",
+        "user": "U04ELQZAU",
+        "ts": "1484171969.000584",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я думаю, не выложат ничего ",
+        "user": "U04ELQZAU",
+        "ts": "1484171981.000585",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Карпати бы выложил :but_why: Сочер хз",
+        "user": "U0DJEEXE1",
+        "ts": "1484172070.000586",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "По этой же причине я скептически отношусь к МИТовскому курсу про самобегающие повязки -- видео   может быть только для своих ",
+        "user": "U04ELQZAU",
+        "ts": "1484172094.000587",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "aussieparrot",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0DJEEXE1>: не думаю, что Карпатый бы пошёл против администрации университета ",
+        "user": "U04ELQZAU",
+        "ts": "1484172132.000588",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "да все равно выложат, не один курс, так другой",
+        "user": "U0DJEEXE1",
+        "ts": "1484172141.000589",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U04ELQZAU> однако, прецедент был",
+        "user": "U0DJEEXE1",
+        "ts": "1484172171.000590",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Какой прецендент? Кажется, видео забанили уже после окончания cs231n ",
+        "user": "U04ELQZAU",
+        "ts": "1484172238.000591",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он выложил ссылку на видео на <http:\/\/mega.nz|mega.nz>",
+        "user": "U0DJEEXE1",
+        "ts": "1484172266.000592",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Он сейчас даже на его личном канале есть - <https:\/\/www.youtube.com\/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC>",
+        "user": "U3PLVL3RD",
+        "ts": "1484172286.000593",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge3d56d878df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1be3d56d878df8ab95a7ae1878759815.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Romanov",
+            "display_name": "jgc128",
+            "team": "T040HKJE3",
+            "name": "jgc128",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну вот, кстати",
+        "user": "U0DJEEXE1",
+        "ts": "1484172331.000594",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вообще это один из самых-самых хороших курсов по нейросетям",
+        "user": "U3PLVL3RD",
+        "ts": "1484172419.000595",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge3d56d878df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1be3d56d878df8ab95a7ae1878759815.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Romanov",
+            "display_name": "jgc128",
+            "team": "T040HKJE3",
+            "name": "jgc128",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Он запиннен?",
+        "user": "U3PLVL3RD",
+        "ts": "1484172425.000596",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge3d56d878df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1be3d56d878df8ab95a7ae1878759815.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Romanov",
+            "display_name": "jgc128",
+            "team": "T040HKJE3",
+            "name": "jgc128",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U14BPHDK6",
+                    "U1CF22N7J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "он уже всеми скачан и просмотрен)",
+        "user": "U0DJEEXE1",
+        "ts": "1484172445.000597",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2b518c25d820",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-07\/125252632279_2b518c25d820634753aa_72.png",
+            "first_name": "max",
+            "real_name": "max ivanov",
+            "display_name": "lotek93",
+            "team": "T040HKJE3",
+            "name": "lotek93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U14CTBLFJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "))",
+        "user": "U3PLVL3RD",
+        "ts": "1484172454.000598",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge3d56d878df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1be3d56d878df8ab95a7ae1878759815.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Romanov",
+            "display_name": "jgc128",
+            "team": "T040HKJE3",
+            "name": "jgc128",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U14BPHDK6> pinned a message to this channel.",
+        "user": "U14BPHDK6",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 11th, 2017 2:04 PM] jgc128: Он сейчас даже на его личном канале есть - <https:\/\/www.youtube.com\/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC>",
+                "ts": "1484172286.000593",
+                "author_id": "U3PLVL3RD",
+                "author_subname": "Alexey Romanov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Он сейчас даже на его личном канале есть - <https:\/\/www.youtube.com\/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC>",
+                "author_name": "Alexey Romanov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U3PLVL3RD",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/1be3d56d878df8ab95a7ae1878759815.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1484172542.000599"
+    },
+    {
+        "type": "message",
+        "text": "<@U1YJL9Q8Z> <https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1484162998000576> что именно значит SQL + R? тебя интересует про SQL Server R Services? или в целом чтобы была вводная про SQL + вводная по R?",
+        "user": "U1B2L9G58",
+        "ts": "1484177253.000602",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/edu_courses\/p1484162998000576",
+                "fallback": "[January 11th, 2017 11:29 AM] const: Онлайн надо дома в нерабочее время проходить, а хочется от предприятия скататься на обучение.)\nА есть онлайн SQL + R? Что-то я искал на <https:\/\/mva.microsoft.com\/ru>, но не нашёл.",
+                "ts": "1484162998.000576",
+                "author_subname": "const",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "Онлайн надо дома в нерабочее время проходить, а хочется от предприятия скататься на обучение.)\nА есть онлайн SQL + R? Что-то я искал на <https:\/\/mva.microsoft.com\/ru>, но не нашёл.",
+                "author_name": "Konstantin Ivanin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/const",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93869975474_aa8866fbe3a50a1d0a34_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #edu_courses"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "друзья, если есть какие то вопросы по открытым материалам от Microsoft, можно меня призвать в чатик, ибо я не каждый день его читаю, увы",
+        "user": "U1B2L9G58",
+        "ts": "1484177372.000604",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "74e74bc90560",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-20\/460525480786_74e74bc9056062113071_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Vykhodtsev",
+            "display_name": "vykhand",
+            "team": "T040HKJE3",
+            "name": "vykhand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S",
+                    "U14BPHDK6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484177799.000605",
+        "user": "U3R32B38W",
+        "text": "<@U3R32B38W> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484179030.000606",
+        "user": "U3R396YTY",
+        "text": "<@U3R396YTY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484189555.000607",
+        "user": "U3QE5KVB4",
+        "text": "<@U3QE5KVB4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484189875.000608",
+        "user": "U3PPNGD3K",
+        "text": "<@U3PPNGD3K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U1B2L9G58> я ж не знал, в каких случаях кого призывать. :slightly_smiling_face: \nСкорее меня интересуют курсы про R Services. Отдельно вводные про R и про SQL я уже посмотрел.)",
+        "user": "U1YJL9Q8Z",
+        "ts": "1484194959.000609",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6dd6257cb2a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-09\/253725822628_6dd6257cb2a5a663fae2_72.jpg",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Ivanin",
+            "display_name": "const",
+            "team": "T040HKJE3",
+            "name": "const",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484195425.000610",
+        "user": "U3R5N72CX",
+        "text": "<@U3R5N72CX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484200798.000611",
+        "user": "U3QD81XDH",
+        "text": "<@U3QD81XDH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484200894.000612",
+        "user": "U3QHHC0A0",
+        "text": "<@U3QHHC0A0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484201858.000613",
+        "user": "U3QHL7N76",
+        "text": "<@U3QHL7N76> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "&gt; в этом году без видео, я полагаю?\nОни говорят в FAQ, что могут выложить и видео, возможно, но, Сочер игнорит все вопросы про видосы.",
+        "user": "U14CTBLFJ",
+        "ts": "1484201912.000614",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1484201961.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "не хочет давать ложных надежд, наверное",
+        "user": "U0DA4J82H",
+        "ts": "1484202301.000616",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а то наобещает видео, а потом в стенфорде решат не выкладывать",
+        "user": "U0DA4J82H",
+        "ts": "1484202333.000617",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "У Карпатого яйца больше :be-a-man:",
+        "user": "U14CTBLFJ",
+        "ts": "1484202542.000618",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Лучше бы новый поток cs231n!",
+        "user": "U1CF22N7J",
+        "ts": "1484202917.000619",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed5fe9cb6c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-04\/1266881340567_ed5fe9cb6c5e20efa19b_72.png",
+            "first_name": "Random",
+            "real_name": "Random Letters",
+            "display_name": "cepera_ang",
+            "team": "T040HKJE3",
+            "name": "cepera_ang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Доброго времени\nКто-нибудь пробовал\/слышал, что там у курсеры с Financial Aid со сроком подстверждения в 15 дней?",
+        "user": "U14C0LPSL",
+        "ts": "1484203458.000620",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14C0LPSL",
+            "ts": "1484203479.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U14C0LPSL> а что там такое?",
+        "user": "U14BPHDK6",
+        "ts": "1484203488.000622",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U14BPHDK6> а там теперь не автоматом, видимо, подтверждает, а нужно 15 дней ждать апрува.\nИ смотреть курсики можно только на 4 видео в неделю",
+        "user": "U14C0LPSL",
+        "ts": "1484203535.000623",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": ":but_why:",
+        "user": "U14BPHDK6",
+        "ts": "1484203574.000624",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": ":msn:",
+        "user": "U15UZGX9A",
+        "ts": "1484203588.000625",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0cf1ac209f77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-02\/206884088562_0cf1ac209f7716856af6_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Erokhin",
+            "display_name": "gofat",
+            "team": "T040HKJE3",
+            "name": "gofat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Если б кто поделился инфой о том, аппрувили ли ему помощь после 15 дней, то это было бы круто",
+        "user": "U14C0LPSL",
+        "ts": "1484203632.000626",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U35GH0DDH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "А что за тема с 4 видео в неделю?",
+        "user": "U15UZGX9A",
+        "ts": "1484203663.000627",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0cf1ac209f77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-02\/206884088562_0cf1ac209f7716856af6_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Erokhin",
+            "display_name": "gofat",
+            "team": "T040HKJE3",
+            "name": "gofat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U15UZGX9A> Можно купить курс за денежку, а можно быть \"вольнослушателем\" (audit course). И тогда можно смотреть только 4 видео в неделю.",
+        "user": "U14C0LPSL",
+        "ts": "1484203749.000628",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "&gt;When you audit a course:\n&gt;Most courses include an audit option and a paid option, but not every course has an audit option. When auditing some courses, you may watch up to 4 videos per calendar week. A calendar week begins at Monday, 12:00am UTC.",
+        "user": "U14BPHDK6",
+        "ts": "1484203771.000629",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну что же, RIP Курсера.",
+        "user": "U15UZGX9A",
+        "ts": "1484203797.000630",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0cf1ac209f77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-02\/206884088562_0cf1ac209f7716856af6_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Erokhin",
+            "display_name": "gofat",
+            "team": "T040HKJE3",
+            "name": "gofat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U14BPHDK6",
+                    "U0DA4J82H",
+                    "U2ZKMCGBC",
+                    "U1CF22N7J",
+                    "U1D4RRA7K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "but_why",
+                "users": [
+                    "U14C0LPSL",
+                    "U1D6DT6HE",
+                    "U35GH0DDH",
+                    "U1Z40FGQ6",
+                    "U1CF22N7J",
+                    "U17UDV31D",
+                    "U061VJ5SB",
+                    "U1UC11GGN"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Если они все так же аппрувают Fin Aid , но через 15 дней, то будет круто ( хоть и не очень).",
+        "user": "U14C0LPSL",
+        "ts": "1484203888.000631",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну да, теперь 15 дней :confused:",
+        "user": "U14BPHDK6",
+        "ts": "1484204336.000632",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "фак, почему на курсере нет ссылок на курсы со страницы специализации?",
+        "user": "U14BPHDK6",
+        "ts": "1484204414.000633",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U14C0LPSL",
+        "ts": "1484204455.000634",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f410450e4ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-12\/125823244272_1f410450e4ba901e9930_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Shlemenkov",
+            "display_name": "nexemjail",
+            "team": "T040HKJE3",
+            "name": "nexemjail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Чтобы усложнить уйти из воронки покупки всей специализации",
+        "user": "U14CTBLFJ",
+        "ts": "1484204705.000635",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U14BPHDK6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U0DA4J82H",
+                    "U15UZGX9A",
+                    "U04ELQZAU",
+                    "U3QE5KVB4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "да уж, курсера молодцы",
+        "user": "U14BPHDK6",
+        "ts": "1484205085.000636",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "45d25e4e33d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-07\/283925328566_45d25e4e33d6da7c6d8b_72.png",
+            "first_name": "Katya",
+            "real_name": "Katya Demidova",
+            "display_name": "katya",
+            "team": "T040HKJE3",
+            "name": "katya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484206633.000638",
+        "user": "U3QFSLMJ6",
+        "text": "<@U3QFSLMJ6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484207306.000639",
+        "user": "U3QJEL45T",
+        "text": "<@U3QJEL45T> has joined the channel"
+    }
+]

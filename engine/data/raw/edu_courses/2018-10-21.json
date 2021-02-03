@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "a486583d-11fc-4fcf-8177-1e9c237ae5c4",
+        "type": "message",
+        "text": "Книга \"Quality Control with R\" <https:\/\/link.springer.com\/book\/10.1007%2F978-3-319-24046-6>  - относительно кратко, но годно.\n\nКнига \"Montgomery :  Introduction to Statistical Quality Control\" - поподробнее.\n\nЕсть несколько пакетов в R. Там по ходу можно разобраться что к чему :\n\nПакет AcceptanceSampling <https:\/\/cran.r-project.org\/web\/packages\/AcceptanceSampling\/AcceptanceSampling.pdf>\n\nПакет qcc <https:\/\/cran.r-project.org\/web\/packages\/qcc\/qcc.pdf>\n\nПакет SixSigma <https:\/\/cran.r-project.org\/web\/packages\/SixSigma\/SixSigma.pdf>",
+        "user": "U7GFT92PN",
+        "ts": "1540106696.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5680dc3ba97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-31\/918576980338_5680dc3ba97a5b3eb7ff_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Leketush",
+            "display_name": "Vladislav Leketush",
+            "team": "T040HKJE3",
+            "name": "vlad3996",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Quality Control with R | SpringerLink",
+                "title_link": "https:\/\/link.springer.com\/book\/10.1007%2F978-3-319-24046-6",
+                "text": "Presenting a practitioner's guide to capabilities and best practices of quality control systems using the R programming language, this volume emphasizes accessibility and ease-of-use through detailed ",
+                "fallback": "Quality Control with R | SpringerLink",
+                "from_url": "https:\/\/link.springer.com\/book\/10.1007%2F978-3-319-24046-6",
+                "service_icon": "https:\/\/link.springer.com\/springerlink-static\/25236781\/images\/favicon\/app-icon-iphone@3x.png",
+                "service_name": "link.springer.com",
+                "id": 1,
+                "original_url": "https:\/\/link.springer.com\/book\/10.1007%2F978-3-319-24046-6"
+            }
+        ],
+        "thread_ts": "1540103931.000100",
+        "parent_user_id": "U49MPUZBK",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UAG1P0NKG",
+                    "U0SDR70LC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da0b69cb-1c86-4b92-bf78-0a6d10ad6769",
+        "type": "message",
+        "text": "Привет, нет случайно у кого-то датасета или прям сразу ноутбука готового, который воспроизводит как <@U051D3LQV> в курсе competitive-data-science восстановил, что в данных год рождения зашифрован? Я хочу студентам показать.",
+        "user": "U50FD7B7C",
+        "ts": "1540146867.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6acd219f2d19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-14\/329179750752_6acd219f2d1928ae34bf_72.jpg",
+            "first_name": "Aleks",
+            "real_name": "Aleks Artamonov",
+            "display_name": "aleksart",
+            "team": "T040HKJE3",
+            "name": "aleksart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U50FD7B7C",
+            "ts": "1540146892.000000"
+        },
+        "thread_ts": "1540146867.000100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1540160686.000100",
+        "reply_users": [
+            "U50FD7B7C",
+            "U4Z9Q18QH"
+        ],
+        "replies": [
+            {
+                "user": "U50FD7B7C",
+                "ts": "1540147267.000100"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1540156284.000100"
+            },
+            {
+                "user": "U50FD7B7C",
+                "ts": "1540160686.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a96c2c8c-4d52-4162-97a4-9d1d67507a35",
+        "type": "message",
+        "text": "Я нашел, он в том же курсе и лежит=)",
+        "user": "U50FD7B7C",
+        "ts": "1540147267.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6acd219f2d19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-14\/329179750752_6acd219f2d1928ae34bf_72.jpg",
+            "first_name": "Aleks",
+            "real_name": "Aleks Artamonov",
+            "display_name": "aleksart",
+            "team": "T040HKJE3",
+            "name": "aleksart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540146867.000100",
+        "parent_user_id": "U50FD7B7C",
+        "reactions": [
+            {
+                "name": "genious",
+                "users": [
+                    "U50FD7B7C",
+                    "UDFTESPKM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U04422XJL",
+                    "UB4AGRL3C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2009c5f3-e8e9-4f1a-a0b0-4947357aeeea",
+        "type": "message",
+        "text": "ну и сслку дай заодно, пожалуйста!",
+        "user": "U4Z9Q18QH",
+        "ts": "1540156284.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4Z9Q18QH",
+            "ts": "1540156297.000000"
+        },
+        "thread_ts": "1540146867.000100",
+        "parent_user_id": "U50FD7B7C"
+    },
+    {
+        "client_msg_id": "0d124511-d8b6-477e-a4e5-2ebd74ee9a87",
+        "type": "message",
+        "text": "<https:\/\/hub.coursera-notebooks.org\/user\/gtfweitnivdcaqvinynncl\/notebooks\/readonly\/reading_materials\/EDA_video3_screencast.ipynb>",
+        "user": "U50FD7B7C",
+        "ts": "1540160686.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6acd219f2d19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-14\/329179750752_6acd219f2d1928ae34bf_72.jpg",
+            "first_name": "Aleks",
+            "real_name": "Aleks Artamonov",
+            "display_name": "aleksart",
+            "team": "T040HKJE3",
+            "name": "aleksart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1540146867.000100",
+        "parent_user_id": "U50FD7B7C"
+    }
+]

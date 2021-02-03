@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462725291.000199",
+        "user": "U1736UZD5",
+        "text": "<@U1736UZD5> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462754046.000200",
+        "user": "U0K4F4DGW",
+        "text": "<@U0K4F4DGW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0L4KM9R9>: комментарий с редита\n<https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/4hqwza\/andrej_karpathy_forced_to_take_down_stanford\/d2rolbc>",
+        "user": "U0K4F4DGW",
+        "ts": "1462754274.000201",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge74bb73de2b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9e74bb73de2b1b303d0ce5bbfe0be82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Mikael",
+            "real_name": "Mikael Manukyan",
+            "display_name": "michael",
+            "team": "T040HKJE3",
+            "name": "michael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Andrej Karpathy forced to take down Stanford CS231n videos • \/r\/MachineLearning",
+                "title_link": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/4hqwza\/andrej_karpathy_forced_to_take_down_stanford\/d2rolbc",
+                "text": "479 points and 211 comments so far on reddit",
+                "fallback": "reddit: Andrej Karpathy forced to take down Stanford CS231n videos • \/r\/MachineLearning",
+                "thumb_url": "https:\/\/i.redditmedia.com\/-vnjHdmLiZlny2oK9BGIio1xbm8a5GOnJEUc57ZjoJE.jpg?w=320&s=c4e05d03a62d9feb76d109b7493e246a",
+                "from_url": "https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/4hqwza\/andrej_karpathy_forced_to_take_down_stanford\/d2rolbc",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/academictorrents.com\/details\/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7>",
+        "user": "U0K4F4DGW",
+        "ts": "1462754379.000203",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge74bb73de2b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9e74bb73de2b1b303d0ce5bbfe0be82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Mikael",
+            "real_name": "Mikael Manukyan",
+            "display_name": "michael",
+            "team": "T040HKJE3",
+            "name": "michael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Academic Torrents",
+                "title": "CS231n: Convolutional Neural Networks for Visual Recognition 2016",
+                "title_link": "http:\/\/academictorrents.com\/details\/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7",
+                "text": "View the details of \"CS231n: Convolutional Neural Networks for Visual Recognition 2016\" on Academics Torrents. We are a community-maintained distributed repository for datasets and scientific knowledge.",
+                "fallback": "Academic Torrents: CS231n: Convolutional Neural Networks for Visual Recognition 2016",
+                "image_url": "http:\/\/academictorrents.com\/res\/img\/logo--1200x630.jpg",
+                "from_url": "http:\/\/academictorrents.com\/details\/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 60752,
+                "id": 1
+            }
+        ]
+    }
+]

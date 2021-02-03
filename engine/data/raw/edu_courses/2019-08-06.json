@@ -1,0 +1,517 @@
+[
+    {
+        "client_msg_id": "56BA3DE5-6287-4835-A1ED-8289899B3D78",
+        "type": "message",
+        "text": "Может CS50 от Гарварда подойдёт? Там вроде основы основ были, часто слышал об этом курсе",
+        "user": "U4N7G9RQA",
+        "ts": "1565076296.219600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565030658.140000",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UBRKXHMJB",
+                    "UHSBA8F35",
+                    "U4UPKHJQP",
+                    "ULMNL6VNU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3de6054f-7781-4594-9bd3-dda3bb68e4d7",
+        "type": "message",
+        "text": "<https:\/\/stepik.org\/course\/73\/syllabus> - для дебилов, но про сообщение между двумя серваками есть только чучуть ssh",
+        "user": "UDK41MN5U",
+        "ts": "1565076675.225800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "03ebdceaea90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-30\/856888539526_03ebdceaea9053b57b47_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Miroshnikova",
+            "display_name": "glycosylase",
+            "team": "T040HKJE3",
+            "name": "miffka1992",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stepik: online education",
+                "title": "Введение в Linux",
+                "title_link": "https:\/\/stepik.org\/course\/73\/syllabus",
+                "text": "Курс знакомит слушателей с операционной системой Linux и основами её использования. В рамках курса мы покажем как установить Linux на ваш компьютер, расскажем о программах в нем, поработаем в терминале, зайдем на удаленный сервер и рассмотрим еще несколько продвинутых тем. Стоит отметить, что курс не является исчерпывающим и рассказывает только о базовых возможностях Linux, но, несмотря на это, рассказанного материала достаточно для успешного выполнения разноплановых задач в системе Linux.",
+                "fallback": "Stepik: online education: Введение в Linux",
+                "image_url": "https:\/\/stepik.org\/media\/cache\/images\/courses\/73\/cover\/0a19136134b286df4fa3213af466e370.png",
+                "image_width": 230,
+                "from_url": "https:\/\/stepik.org\/course\/73\/syllabus",
+                "image_height": 230,
+                "image_bytes": 6359,
+                "service_icon": "https:\/\/stepik.org\/static\/classic\/ico\/favicon_152.png?v=1565025765",
+                "id": 1,
+                "original_url": "https:\/\/stepik.org\/course\/73\/syllabus"
+            }
+        ],
+        "thread_ts": "1565059593.143900",
+        "parent_user_id": "UAL8CA2TF",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UAL8CA2TF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDHJKLGLR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7c52439-a9c0-4f1c-8573-1112dd5769d5",
+        "type": "message",
+        "text": "<https:\/\/aiducation.ru\/>",
+        "user": "U302AALBS",
+        "ts": "1565078483.246700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Машинное обучение для всех",
+                "title_link": "https:\/\/aiducation.ru\/",
+                "text": "Обзорный мини-курс о машинном обучении",
+                "fallback": "Машинное обучение для всех",
+                "image_url": "https:\/\/static.tildacdn.com\/tild3263-3964-4239-b238-643862613036\/-\/resize\/504x\/__2019-06-02__174504.png",
+                "from_url": "https:\/\/aiducation.ru\/",
+                "image_width": 384,
+                "image_height": 250,
+                "image_bytes": 129803,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild6563-3931-4366-b732-346535633939\/favicon.ico",
+                "service_name": "aiducation.ru",
+                "id": 1,
+                "original_url": "https:\/\/aiducation.ru\/"
+            }
+        ],
+        "thread_ts": "1565030658.140000",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "client_msg_id": "D7EF74B6-1C24-4010-8D11-0BAE698E5B97",
+        "type": "message",
+        "text": "Ох соорян прочитал как аи. Курс про мл, а не про айти",
+        "user": "U302AALBS",
+        "ts": "1565078677.251400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c366c37001c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-16\/1193921128180_7c366c37001c886dc893_72.jpg",
+            "first_name": "Владимир",
+            "real_name": "Владимир Яшин",
+            "display_name": "vdyashin",
+            "team": "T040HKJE3",
+            "name": "vdyashin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565030658.140000",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "client_msg_id": "21cd6b61-1dc6-4dcc-be4c-01363422c7c3",
+        "type": "message",
+        "text": "За недельку даже все способы общения между двум серваками не рассказать",
+        "user": "UL2QESVPB",
+        "ts": "1565095937.259200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "67337de0c917",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-09\/689251905696_67337de0c917b0d587d1_72.jpg",
+            "first_name": "PuffOfSmoke",
+            "real_name": "PuffOfSmoke",
+            "display_name": "PuffOfSmoke",
+            "team": "T040HKJE3",
+            "name": "roman.grigorov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565059593.143900",
+        "parent_user_id": "UAL8CA2TF"
+    },
+    {
+        "client_msg_id": "117a4841-e63a-4845-9985-10c65a79525c",
+        "type": "message",
+        "text": "ну мне не важно все,а одно, и чтоб работало. один уже разобрала, норм. мне же для себя, линукс админом я становиться не собираюсь )",
+        "user": "UAL8CA2TF",
+        "ts": "1565099621.259700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "47e11a645608",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-31\/1461363661430_47e11a645608a4ec635d_72.jpg",
+            "first_name": "Таня",
+            "real_name": "Таня",
+            "display_name": "Tati Gabru",
+            "team": "T040HKJE3",
+            "name": "tatihabru",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565059593.143900",
+        "parent_user_id": "UAL8CA2TF"
+    },
+    {
+        "client_msg_id": "eb4d49a4-f208-4aa5-aa09-b13ed399fcfa",
+        "type": "message",
+        "text": "Всем привет! Такой вопрос: залез в архив на гите, чтобы порешать домашки, и оказалось, что в jupyter_russian\/assignment_demo\/assignment02_habr_visual_analysis.ipynb используется файл howpop_train.csv, который должен лежать в data. Но его там.... нет. Кто в курсе, его удалили случайно или нарочно?",
+        "user": "UM37VCDAL",
+        "ts": "1565101286.262100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd8ed04e7df2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e9d8ed04e7df22f56518e2026b79b9a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Penitto",
+            "display_name": "Penitto",
+            "team": "T040HKJE3",
+            "name": "penkov-ant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1565117990.265900",
+        "reply_users": [
+            "U6LSE0FT9",
+            "UM37VCDAL",
+            "UD8S69UQM",
+            "UBJ10K86A"
+        ],
+        "replies": [
+            {
+                "user": "U6LSE0FT9",
+                "ts": "1565101466.262200"
+            },
+            {
+                "user": "UM37VCDAL",
+                "ts": "1565101544.262400"
+            },
+            {
+                "user": "UM37VCDAL",
+                "ts": "1565101557.262600"
+            },
+            {
+                "user": "UD8S69UQM",
+                "ts": "1565101572.263000"
+            },
+            {
+                "user": "UM37VCDAL",
+                "ts": "1565101667.263400"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1565117934.265700"
+            },
+            {
+                "user": "UM37VCDAL",
+                "ts": "1565117990.265900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "61795caf-0f39-4016-a782-6b31249f5b0f",
+        "type": "message",
+        "text": "какой курс то хоть? никто не вкурсе какие ты там курсы проходишь",
+        "user": "U6LSE0FT9",
+        "ts": "1565101466.262200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "06717ff99377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-06\/928517272019_06717ff99377b174f4bf_72.jpg",
+            "first_name": "Nikolai",
+            "real_name": "Nikolai Popov",
+            "display_name": "kolya",
+            "team": "T040HKJE3",
+            "name": "kolya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL"
+    },
+    {
+        "client_msg_id": "aefd4e70-f713-4478-839e-5415f37e547a",
+        "type": "message",
+        "text": "я беру из постов на хабре",
+        "user": "UM37VCDAL",
+        "ts": "1565101544.262400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd8ed04e7df2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e9d8ed04e7df22f56518e2026b79b9a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Penitto",
+            "display_name": "Penitto",
+            "team": "T040HKJE3",
+            "name": "penkov-ant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL"
+    },
+    {
+        "client_msg_id": "94136d70-adb4-4398-b76f-a6672f4ef1e6",
+        "type": "message",
+        "text": "<https:\/\/nbviewer.jupyter.org\/github\/Yorko\/mlcourse.ai\/blob\/master\/jupyter_russian\/assignments_demo\/assignment02_habr_visual_analysis.ipynb>",
+        "user": "UM37VCDAL",
+        "ts": "1565101557.262600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd8ed04e7df2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e9d8ed04e7df22f56518e2026b79b9a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Penitto",
+            "display_name": "Penitto",
+            "team": "T040HKJE3",
+            "name": "penkov-ant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Notebook on nbviewer",
+                "title_link": "https:\/\/nbviewer.jupyter.org\/github\/Yorko\/mlcourse.ai\/blob\/master\/jupyter_russian\/assignments_demo\/assignment02_habr_visual_analysis.ipynb",
+                "text": "Check out this Jupyter notebook!",
+                "fallback": "Notebook on nbviewer",
+                "from_url": "https:\/\/nbviewer.jupyter.org\/github\/Yorko\/mlcourse.ai\/blob\/master\/jupyter_russian\/assignments_demo\/assignment02_habr_visual_analysis.ipynb",
+                "service_icon": "https:\/\/nbviewer.jupyter.org\/static\/ico\/apple-touch-icon-144-precomposed.png?v=5a3c9ede93e2a8b8ea9e3f8f3da1a905",
+                "service_name": "nbviewer.jupyter.org",
+                "id": 1,
+                "original_url": "https:\/\/nbviewer.jupyter.org\/github\/Yorko\/mlcourse.ai\/blob\/master\/jupyter_russian\/assignments_demo\/assignment02_habr_visual_analysis.ipynb"
+            }
+        ],
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL"
+    },
+    {
+        "client_msg_id": "822ebb77-1b85-44d0-878b-db3b53c604c2",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Discipe\/mlcourse_open\/blob\/master\/data\/howpop_train.csv>",
+        "user": "UD8S69UQM",
+        "ts": "1565101572.263000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "688feaf730a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-08\/451341635797_688feaf730a0cdf8aecd_72.jpg",
+            "first_name": "Nicky",
+            "real_name": "Nicky",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "nikita.data.scientist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UD8S69UQM",
+            "ts": "1565101578.000000"
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UM37VCDAL",
+                    "UCTKF6TV0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b43a287-aef0-4bfa-9823-2dde4b4600a5",
+        "type": "message",
+        "text": "спасибо",
+        "user": "UM37VCDAL",
+        "ts": "1565101667.263400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd8ed04e7df2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e9d8ed04e7df22f56518e2026b79b9a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Penitto",
+            "display_name": "Penitto",
+            "team": "T040HKJE3",
+            "name": "penkov-ant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL"
+    },
+    {
+        "client_msg_id": "d3414209-59c4-460f-b7fb-128f94e17a74",
+        "type": "message",
+        "text": "Разве :andrewng: хоть как-то фигурирует в специализации? Мне казалось, там все курсы какие-то другие челы из <http:\/\/deeplearning.ai|deeplearning.ai> читают",
+        "user": "UBRKXHMJB",
+        "ts": "1565106033.264600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de59d1f494ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/597490261649_de59d1f494ad69f0a2c2_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Barysevich",
+            "display_name": "devvindan",
+            "team": "T040HKJE3",
+            "name": "devvindan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564604083.126200",
+        "parent_user_id": "U9BDT48M8"
+    },
+    {
+        "client_msg_id": "2483b4f7-b893-40d0-8e71-25b1179931ae",
+        "type": "message",
+        "text": "<@UM37VCDAL> тебе в чат <#CG4KJ0UC9|mlcourse_ai_rus> лучше\nтам все поспрашивать сможешь, дадут развернутые ответы",
+        "user": "UBJ10K86A",
+        "ts": "1565117934.265700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UBS459X19"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9abd88b2-ea31-4557-8c4b-ba23981b5757",
+        "type": "message",
+        "text": "спасибо за наводку",
+        "user": "UM37VCDAL",
+        "ts": "1565117990.265900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd8ed04e7df2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e9d8ed04e7df22f56518e2026b79b9a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Penitto",
+            "display_name": "Penitto",
+            "team": "T040HKJE3",
+            "name": "penkov-ant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565101286.262100",
+        "parent_user_id": "UM37VCDAL"
+    },
+    {
+        "client_msg_id": "0fe3d5e6-9679-4544-b1b6-f9216bc73a42",
+        "type": "message",
+        "text": "Курс на степике правда слегка для дебилов. Вроде бы и есть полезные темы вроде шелл скриптинга, с другой стороны учат через графическую оболочку OpenOffice открывать :facepalm:",
+        "user": "U3K7PNTML",
+        "ts": "1565133398.266300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565059593.143900",
+        "parent_user_id": "UAL8CA2TF",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U86SY88EP",
+                    "UA1KQL1BM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

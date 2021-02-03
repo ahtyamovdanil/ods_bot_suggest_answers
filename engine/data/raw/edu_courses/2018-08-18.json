@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "9874cb15-2d56-41d5-88aa-ec3c682cbd2d",
+        "type": "message",
+        "text": "Кому-нибудь понравилось?",
+        "user": "UC7HU032N",
+        "ts": "1534607309.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge47e799fd5d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3fe47e799fd5de4f81a00feba22b3af4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Valera Mironov",
+            "display_name": "MBkkt",
+            "team": "T040HKJE3",
+            "name": "valera.mironow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1534431044.000100",
+        "parent_user_id": "U60G8A37G"
+    },
+    {
+        "client_msg_id": "4c690316-c626-4911-bb3b-2f8bf84d477f",
+        "type": "message",
+        "text": "Кто проходил <https:\/\/www.coursera.org\/specializations\/big-data-engineering>, как впечатления?",
+        "user": "U3K7PNTML",
+        "ts": "1534629130.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Big Data for Data Engineers | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/big-data-engineering",
+                "text": "Big Data for Data Engineers from Yandex. This specialization is made for people working with data (either small or big). If you are a Data Analyst, Data Scientist, Data Engineer or Data Architect (or you want to become one) — don’t miss the ...",
+                "fallback": "Coursera: Big Data for Data Engineers | Coursera",
+                "thumb_url": "https:\/\/d15cw65ipctsrr.cloudfront.net\/b4\/a4b270a14411e78aa07dc9a47a1790\/Yandex-466_______________5.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/big-data-engineering",
+                "thumb_width": 1500,
+                "thumb_height": 430,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coursera.org\/specializations\/big-data-engineering"
+            }
+        ],
+        "thread_ts": "1534629130.000100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1535014636.000100",
+        "reply_users": [
+            "U8W6RA8B0",
+            "U5H0L5T98",
+            "U3K7PNTML",
+            "U0K4Y1JAK"
+        ],
+        "replies": [
+            {
+                "user": "U8W6RA8B0",
+                "ts": "1534659325.000100"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1534670773.000100"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1534672991.000100"
+            },
+            {
+                "user": "U0K4Y1JAK",
+                "ts": "1535014636.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "957f1ab0-921a-4ed4-aea0-22e3ebb18ec7",
+        "type": "message",
+        "text": "Вот да, мне тоже интересно!",
+        "user": "U8W6RA8B0",
+        "ts": "1534659325.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2394fea23578",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520028156499_2394fea235787722909d_72.jpg",
+            "first_name": "Arsenii",
+            "real_name": "Arsenii Begliak",
+            "display_name": "atercygnus",
+            "team": "T040HKJE3",
+            "name": "knot.locality",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1534629130.000100",
+        "parent_user_id": "U3K7PNTML"
+    }
+]

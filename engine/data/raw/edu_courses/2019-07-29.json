@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "c13e5f98-9486-40cf-969a-a1a46e40cb9f",
+        "type": "message",
+        "text": "Ребят, всем привет! Может у вас есть каике-то годные ссылки на задачки, чтобы набить руку на pytorch (желательно с solution-ами). А то туториалы смотрю на том же офишал сайте, всю суть понимаю, однако из отсутствия практики (задачек) все это понимание улетучится через неделю. Банальное набирание кода из туториалов или просто копи-паст не приносит никакого энтузиазма, а запоминании синтаксиса достаточно поверхностное - через пару часов могу забыть, где этот чертов даталоадер или трансформер сидит, чтобы заимпортить.",
+        "user": "U8LQCCNF2",
+        "ts": "1564385660.117700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gaad6cf58453",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8eaad6cf5845338d7c2be8fe5ffb4211.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Voometin",
+            "real_name": "Voometin",
+            "display_name": "eb1con",
+            "team": "T040HKJE3",
+            "name": "voometin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564385660.117700",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1571122961.091400",
+        "reply_users": [
+            "U33G91CMV",
+            "U4ZRFG1V0",
+            "UBA7N1YSG",
+            "U8LQCCNF2",
+            "UBJ10K86A",
+            "U7VDWFSG3"
+        ],
+        "replies": [
+            {
+                "user": "U33G91CMV",
+                "ts": "1564385787.117900"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1564385812.118100"
+            },
+            {
+                "user": "UBA7N1YSG",
+                "ts": "1564385817.118400"
+            },
+            {
+                "user": "U8LQCCNF2",
+                "ts": "1564385905.118900"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1564388798.120100"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1564388953.120400"
+            },
+            {
+                "user": "U7VDWFSG3",
+                "ts": "1571122556.091200"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1571122961.091400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pytorch",
+                "users": [
+                    "U8LQCCNF2",
+                    "UCNCULHSP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "UBJ10K86A",
+                    "U21MU5ATE",
+                    "U6ZVBULGG",
+                    "U7DEPRKCZ",
+                    "U76NZ83L1",
+                    "U60EETE7N",
+                    "U53E5MFNU",
+                    "UBRKXHMJB"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79bbf310-9762-4d15-8a2a-cefbb64f2969",
+        "type": "message",
+        "text": "Задачи здесь смотрел? <https:\/\/dlcourse.ai\/>",
+        "user": "U33G91CMV",
+        "ts": "1564385787.117900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e40f20cf067d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-07\/472850304240_e40f20cf067df00945d6_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Kolodezev",
+            "display_name": "d_key",
+            "team": "T040HKJE3",
+            "name": "d_key",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U8LQCCNF2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d8caba8-05bf-4263-90ce-a1464d17fc08",
+        "type": "message",
+        "text": "<https:\/\/github.com\/udacity\/deep-learning-v2-pytorch>\nрепозиторий курса deeplearning nanodegree от udacity. Задачки и решения",
+        "user": "U4ZRFG1V0",
+        "ts": "1564385812.118100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "udacity\/deep-learning-v2-pytorch",
+                "text": "Projects and exercises for the latest Deep Learning ND program <https:\/\/www.udacity.com\/course\/deep-learning-nanodegree--nd101>",
+                "title": "udacity\/deep-learning-v2-pytorch",
+                "footer": "<https:\/\/github.com\/udacity\/deep-learning-v2-pytorch|udacity\/deep-learning-v2-pytorch>",
+                "id": 1,
+                "ts": 1536083630,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "2040",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/udacity\/deep-learning-v2-pytorch",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2",
+        "reactions": [
+            {
+                "name": "fireball",
+                "users": [
+                    "UBA7N1YSG",
+                    "U8LQCCNF2",
+                    "U6UNGFSMQ",
+                    "UE61U6DCL",
+                    "U21MU5ATE",
+                    "U0546DHDK"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U8LQCCNF2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f11b137e-7590-4869-be2d-c5d64ca65526",
+        "type": "message",
+        "text": "Привет) на твоем месте я бы сам придумал себе задачку \/ взял откуда-то, похожую из туториалов, и порешал. На практике рука набивается отлично. Например, написал бы на торче решение <https:\/\/www.kaggle.com\/c\/digit-recognizer>",
+        "user": "UBA7N1YSG",
+        "ts": "1564385817.118400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ac5134a99fab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/752813953649_ac5134a99fabc746dd20_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Kovalev",
+            "display_name": "Kovalev Evgeny",
+            "team": "T040HKJE3",
+            "name": "evgeny_96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UBA7N1YSG",
+            "ts": "1564385833.000000"
+        },
+        "attachments": [
+            {
+                "title": "Digit Recognizer",
+                "title_link": "https:\/\/www.kaggle.com\/c\/digit-recognizer",
+                "text": "Learn computer vision fundamentals with the famous MNIST data",
+                "fallback": "Digit Recognizer",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-competitions\/kaggle\/3004\/logos\/thumb76_76.png",
+                "from_url": "https:\/\/www.kaggle.com\/c\/digit-recognizer",
+                "thumb_width": 76,
+                "thumb_height": 76,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/c\/digit-recognizer"
+            }
+        ],
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2"
+    },
+    {
+        "client_msg_id": "922a5920-1bf6-4e69-83eb-b9e051daf546",
+        "type": "message",
+        "text": "<@U33G91CMV> поверхностно глянул 5 минут назад, толком даже не смотрел",
+        "user": "U8LQCCNF2",
+        "ts": "1564385905.118900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gaad6cf58453",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8eaad6cf5845338d7c2be8fe5ffb4211.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Voometin",
+            "real_name": "Voometin",
+            "display_name": "eb1con",
+            "team": "T040HKJE3",
+            "name": "voometin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2"
+    },
+    {
+        "client_msg_id": "ff0a3cbb-00a8-4024-9501-3915b188cf2f",
+        "type": "message",
+        "text": "<@U4ZRFG1V0> подскажи плз этот курс <https:\/\/www.udacity.com\/course\/deep-learning-pytorch--ud188> является частью той спецухи или нет?",
+        "user": "UBJ10K86A",
+        "ts": "1564388798.120100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d19140781e0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-22\/403048527557_d19140781e0ae0de4336_72.jpg",
+            "first_name": "mrmailperson",
+            "real_name": "mrmailperson",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "vialpando95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Intro to Deep Learning with PyTorch | Udacity",
+                "title_link": "https:\/\/www.udacity.com\/course\/deep-learning-pytorch--ud188",
+                "text": "Learn the basics of deep learning and implement your own deep neural networks with PyTorch",
+                "fallback": "Intro to Deep Learning with PyTorch | Udacity",
+                "image_url": "https:\/\/d20vrrgs8k4bvw.cloudfront.net\/images\/courses\/thumbnails\/ud188_thumbnail.jpg",
+                "from_url": "https:\/\/www.udacity.com\/course\/deep-learning-pytorch--ud188",
+                "image_width": 280,
+                "image_height": 240,
+                "image_bytes": 130039,
+                "service_icon": "https:\/\/www.udacity.com\/favicon.ico",
+                "service_name": "udacity.com",
+                "id": 1,
+                "original_url": "https:\/\/www.udacity.com\/course\/deep-learning-pytorch--ud188"
+            }
+        ],
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2"
+    },
+    {
+        "client_msg_id": "c032e17f-c466-4f55-818b-04abc1ece103",
+        "type": "message",
+        "text": "Да, он часть nanodegree.\nЯ сейчас как раз пишу и публикую серию блог-постов с подробным описанием того, что есть в nanodegree:\n<https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384>",
+        "user": "U4ZRFG1V0",
+        "ts": "1564388953.120400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "PyTorch Deep Learning Nanodegree: Introduction",
+                "title_link": "https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384",
+                "text": "Last autumn Udacity and Facebook have announced PyTorch Scholarship Challenge. People from all over the world could apply to this…",
+                "fallback": "Medium: PyTorch Deep Learning Nanodegree: Introduction",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*-ciy0ItBNlvEFFcaC81pgQ.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1563436579,
+                "from_url": "https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 197086,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@artgor\/pytorch-deep-learning-nanodegree-introduction-161817c22384"
+            }
+        ],
+        "thread_ts": "1564385660.117700",
+        "parent_user_id": "U8LQCCNF2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6Z21KSBC",
+                    "U929LR336",
+                    "U0546DHDK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

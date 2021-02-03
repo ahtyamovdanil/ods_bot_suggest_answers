@@ -1,0 +1,981 @@
+[
+    {
+        "client_msg_id": "a9717203-dcd0-4329-bd4e-00a53c4adccd",
+        "type": "message",
+        "text": "Добрый день ! Подскажите, пожалуйста, курсы по SQL и БД)",
+        "user": "UNQJ4V4ES",
+        "ts": "1587629495.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g30de4c8ee9f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/30de4c8ee9f3635e6d1b228a7cfbaead.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ales",
+            "real_name": "Ales Binkevich",
+            "display_name": "Claptar",
+            "team": "T040HKJE3",
+            "name": "aleksandr.binkevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Добрый день ! Подскажите, пожалуйста, курсы по SQL и БД)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "reply_count": 17,
+        "reply_users_count": 9,
+        "latest_reply": "1587790345.061600",
+        "reply_users": [
+            "U70TZK6Q3",
+            "UNQJ4V4ES",
+            "UCMC5J36D",
+            "U15V81K6V",
+            "UHY5KKK6D",
+            "ULA93B882",
+            "U973F8TLJ",
+            "UT4HRM073",
+            "U0122QYJVV5"
+        ],
+        "replies": [
+            {
+                "user": "U70TZK6Q3",
+                "ts": "1587629831.007500"
+            },
+            {
+                "user": "UNQJ4V4ES",
+                "ts": "1587629999.007900"
+            },
+            {
+                "user": "UCMC5J36D",
+                "ts": "1587644607.009100"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1587645801.009400"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1587645871.010000"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1587645920.010200"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1587646118.010400"
+            },
+            {
+                "user": "UNQJ4V4ES",
+                "ts": "1587646145.010900"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1587649875.011500"
+            },
+            {
+                "user": "UNQJ4V4ES",
+                "ts": "1587664394.012700"
+            },
+            {
+                "user": "ULA93B882",
+                "ts": "1587675280.013500"
+            },
+            {
+                "user": "U973F8TLJ",
+                "ts": "1587701860.015000"
+            },
+            {
+                "user": "UNQJ4V4ES",
+                "ts": "1587718127.016200"
+            },
+            {
+                "user": "UT4HRM073",
+                "ts": "1587735817.017300"
+            },
+            {
+                "user": "UNQJ4V4ES",
+                "ts": "1587740671.017700"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1587752252.017900"
+            },
+            {
+                "user": "U0122QYJVV5",
+                "ts": "1587790345.061600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1f9d3ac6-35f0-44c9-925c-f7dfc2a8c429",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1587562594497800>",
+        "user": "U70TZK6Q3",
+        "ts": "1587629831.007500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2428994d97a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fe2428994d97aa38df4b6efee3aa88a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Matyukov",
+            "display_name": "nmatyukov",
+            "team": "T040HKJE3",
+            "name": "nmatyukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1587562594497800",
+                "fallback": "[April 22nd, 2020 6:36 AM] nov.dm.konst: <https:\/\/stepik.org\/course\/70710\/syllabus> :fireball:",
+                "ts": "1587562594.497800",
+                "author_id": "UHY5KKK6D",
+                "author_subname": "Dmitriy Novikov",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/stepik.org\/course\/70710\/syllabus> :fireball:",
+                "author_name": "Dmitriy Novikov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UHY5KKK6D",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-02-09\/943451570432_a8f64ef98beffcfef751_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1587562594497800",
+                "footer": "Posted in #edu_courses"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/C04DP7BUY\/p1587562594497800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U709XK88H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f5fe58e-59d8-45be-a7c3-47b300d646ce",
+        "type": "message",
+        "text": "<@U70TZK6Q3>, спасибо)",
+        "user": "UNQJ4V4ES",
+        "ts": "1587629999.007900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g30de4c8ee9f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/30de4c8ee9f3635e6d1b228a7cfbaead.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ales",
+            "real_name": "Ales Binkevich",
+            "display_name": "Claptar",
+            "team": "T040HKJE3",
+            "name": "aleksandr.binkevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LG+5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U70TZK6Q3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", спасибо)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "client_msg_id": "3641e489-ba6f-4373-b35c-33339f45ac6f",
+        "type": "message",
+        "text": "окей,спасибо",
+        "user": "UTB85ATA5",
+        "ts": "1587637358.008400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g675d5a0d8da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/675d5a0d8da39ab293ad0abdf0f489ff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "V4lde",
+            "real_name": "V4lde",
+            "display_name": "Vladimir Salnikov",
+            "team": "T040HKJE3",
+            "name": "salnikov2004",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nMue0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "окей,спасибо"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587496767.488000",
+        "parent_user_id": "ULRR6A6KU"
+    },
+    {
+        "client_msg_id": "8d9bb356-795c-4e8d-a9fa-49ec6e56da81",
+        "type": "message",
+        "text": "<@UEVA1NXGT> видимо, Ваше мнение как раз таки популярное))",
+        "user": "ULBFK2MEH",
+        "ts": "1587643249.008800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g637ef86cb2a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/80637ef86cb2a5b708bdd69d9d885e39.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Vadym",
+            "real_name": "Vadym Kozlovskyi",
+            "display_name": "Viva",
+            "team": "T040HKJE3",
+            "name": "vadzimka955",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UEVA1NXGT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " видимо, Ваше мнение как раз таки популярное))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587377139.458300",
+        "parent_user_id": "ULBFK2MEH"
+    },
+    {
+        "client_msg_id": "bcb76464-f62e-444d-8fd1-0842f0f46358",
+        "type": "message",
+        "text": "<http:\/\/sql-ex.ru|sql-ex.ru> -- по sql только\nДля себя я присмотрел еще вот этот -- <https:\/\/www.edx.org\/course\/hacking-postgresql-data-access-methods>\nТам чуть ли не на уровне исходников особенности pg изучаются.",
+        "user": "UCMC5J36D",
+        "ts": "1587644607.009100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gcf81247abb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84cf81247abb10c1c30e8ea1d0827481.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Sharov Anton",
+            "display_name": "sharov_am",
+            "team": "T040HKJE3",
+            "name": "sharov_am",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "edX",
+                "title": "Hacking PostgreSQL: Data Access Methods",
+                "title_link": "https:\/\/www.edx.org\/course\/hacking-postgresql-data-access-methods",
+                "text": "Learn the science, engineering practices and hacking techniques of data access – core aspects of information processing in a database.",
+                "fallback": "edX: Hacking PostgreSQL: Data Access Methods",
+                "thumb_url": "https:\/\/prod-discovery.edx-cdn.org\/media\/course\/image\/6ce81ee0-4e9c-4eb7-bfdc-15d93570c662-1a9e8e69c5ee.small.jpg",
+                "from_url": "https:\/\/www.edx.org\/course\/hacking-postgresql-data-access-methods",
+                "thumb_width": 378,
+                "thumb_height": 212,
+                "service_icon": "https:\/\/www.edx.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.edx.org\/course\/hacking-postgresql-data-access-methods"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sql-ex.ru",
+                                "text": "sql-ex.ru"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- по sql только\nДля себя я присмотрел еще вот этот -- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.edx.org\/course\/hacking-postgresql-data-access-methods"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nТам чуть ли не на уровне исходников особенности pg изучаются."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U70TZK6Q3",
+                    "U6Z21KSBC",
+                    "U8TBPUS56",
+                    "U4YEK80R1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F012DFEK4KU",
+                "created": 1587645792,
+                "timestamp": 1587645792,
+                "name": "D49996GC20_sg2_d_Oracle_Database_11g_SQL_Oracle_SQL.pdf",
+                "title": "D49996GC20_sg2_d_Oracle_Database_11g_SQL_Oracle_SQL.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U15V81K6V",
+                "editable": false,
+                "size": 4108441,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012DFEK4KU\/d49996gc20_sg2_d_oracle_database_11g_sql_oracle_sql.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012DFEK4KU\/download\/d49996gc20_sg2_d_oracle_database_11g_sql_oracle_sql.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012DFEK4KU-3e76faf53c\/d49996gc20_sg2_d_oracle_database_11g_sql_oracle_sql_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U15V81K6V\/F012DFEK4KU\/d49996gc20_sg2_d_oracle_database_11g_sql_oracle_sql.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F012DFEK4KU-cc046cccd9",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F012C48QTGD",
+                "created": 1587645792,
+                "timestamp": 1587645792,
+                "name": "SQL Fundamentals I - Volumen I - D49996GC11_sg1.pdf",
+                "title": "SQL Fundamentals I - Volumen I - D49996GC11_sg1.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U15V81K6V",
+                "editable": false,
+                "size": 2092227,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012C48QTGD\/sql_fundamentals_i_-_volumen_i_-_d49996gc11_sg1.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012C48QTGD\/download\/sql_fundamentals_i_-_volumen_i_-_d49996gc11_sg1.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012C48QTGD-91f5468505\/sql_fundamentals_i_-_volumen_i_-_d49996gc11_sg1_thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U15V81K6V\/F012C48QTGD\/sql_fundamentals_i_-_volumen_i_-_d49996gc11_sg1.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F012C48QTGD-d8e3c19e0e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15V81K6V",
+        "ts": "1587645801.009400",
+        "client_msg_id": "2b8dffed-1e78-40d3-97cf-b620d46dd0d1",
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U70TZK6Q3",
+                    "UDWRHJB2L",
+                    "UNQJ4V4ES",
+                    "UBQELFC8K",
+                    "U012G64J7NZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e61f5389-e9bc-42e7-9491-4ee7be54d1ad",
+        "type": "message",
+        "text": "сертификация по ораклу, наверное лучшее что видел и почему учил, в целом 1я часть подходит для 99% реляционных баз данных...2я по-моему, больше уже в специфике самого оракла....все на примере встроенной базы hr так что сможешь потренить",
+        "user": "U15V81K6V",
+        "ts": "1587645871.010000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U15V81K6V",
+            "ts": "1587646204.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jb35g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "сертификация по ораклу, наверное лучшее что видел и почему учил, в целом 1я часть подходит для 99% реляционных баз данных...2я по-моему, больше уже в специфике самого оракла....все на примере встроенной базы hr так что сможешь потренить"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "client_msg_id": "583bf174-ac7b-420d-9dd2-afd2965362b7",
+        "type": "message",
+        "text": "но практика шикарная и раскрыто очень много аспектов...",
+        "user": "U15V81K6V",
+        "ts": "1587645920.010200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvLgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "но практика шикарная и раскрыто очень много аспектов..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "client_msg_id": "a466c1f2-6022-4c9a-a909-4029b241b4a4",
+        "type": "message",
+        "text": "а главное потом можешь пройти еще и проф. сертификацию... ну и курс покрывает 95% вопросов на собесах",
+        "user": "U15V81K6V",
+        "ts": "1587646118.010400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C28",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а главное потом можешь пройти еще и проф. сертификацию... ну и курс покрывает 95% вопросов на собесах"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "client_msg_id": "93049045-0f1e-43d8-8e7e-a75350454f2a",
+        "type": "message",
+        "text": "Опыта нет, но вот вариант дешевле, чем у Гарварда: <https:\/\/micromasters.mit.edu\/ds\/>\nЭто micromasters, масштаб меньше, поэтому, собственно и дешевле",
+        "user": "U012GDLQPMX",
+        "ts": "1587646118.010600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2230ebfd38d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2230ebfd38dc9c593585ce10050a12cf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Logvinata",
+            "display_name": "Logvinata",
+            "team": "T040HKJE3",
+            "name": "logvinata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Statistics and Data Science MicroMasters",
+                "title_link": "https:\/\/micromasters.mit.edu\/ds\/",
+                "text": "From probability and statistics to data analysis and machine learning, master the skills needed to solve complex challenges with data.",
+                "fallback": "Statistics and Data Science MicroMasters",
+                "thumb_url": "https:\/\/do5zh7b0lqdye.cloudfront.net\/original_images\/idss_hero3.jpg",
+                "from_url": "https:\/\/micromasters.mit.edu\/ds\/",
+                "thumb_width": 1310,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/do5zh7b0lqdye.cloudfront.net\/static\/images\/favicon.ico",
+                "service_name": "micromasters.mit.edu",
+                "id": 1,
+                "original_url": "https:\/\/micromasters.mit.edu\/ds\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ol=uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Опыта нет, но вот вариант дешевле, чем у Гарварда: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/micromasters.mit.edu\/ds\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЭто micromasters, масштаб меньше, поэтому, собственно и дешевле"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587361360.452200",
+        "parent_user_id": "UL2PYMQRX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL2PYMQRX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65739be5-f78b-48d6-98a1-cfcc4e656612",
+        "type": "message",
+        "text": "Спасибо большое, прям классная тема смотрю)",
+        "user": "UNQJ4V4ES",
+        "ts": "1587646145.010900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g30de4c8ee9f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/30de4c8ee9f3635e6d1b228a7cfbaead.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ales",
+            "real_name": "Ales Binkevich",
+            "display_name": "Claptar",
+            "team": "T040HKJE3",
+            "name": "aleksandr.binkevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спасибо большое, прям классная тема смотрю)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "client_msg_id": "b0fc9348-95c7-455d-a729-2638f97c0255",
+        "type": "message",
+        "text": "Вот прям пару сообщений выше.... серьезно :slightly_smiling_face:",
+        "user": "UHY5KKK6D",
+        "ts": "1587649875.011500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f3d7bb88461c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1433476246342_f3d7bb88461c31e1bf92_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Novikov",
+            "display_name": "Dmitriy Novikov",
+            "team": "T040HKJE3",
+            "name": "nov.dm.konst",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETETd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот прям пару сообщений выше.... серьезно "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587657362.012400",
+        "user": "UG9DZ9AJJ",
+        "text": "<@UG9DZ9AJJ> has joined the channel",
+        "inviter": "U06J1LG1M"
+    },
+    {
+        "client_msg_id": "6cc973d7-9ecd-4685-9697-496e902e0c12",
+        "type": "message",
+        "text": "Ага, спасибо, я видел) Просто хотелось побольше разных годных курсов глянуть)",
+        "user": "UNQJ4V4ES",
+        "ts": "1587664394.012700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g30de4c8ee9f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/30de4c8ee9f3635e6d1b228a7cfbaead.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ales",
+            "real_name": "Ales Binkevich",
+            "display_name": "Claptar",
+            "team": "T040HKJE3",
+            "name": "aleksandr.binkevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOuPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ага, спасибо, я видел) Просто хотелось побольше разных годных курсов глянуть)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<http:\/\/Sql-ex.ru|Sql-ex.ru> классический вариант ",
+        "user": "ULA93B882",
+        "ts": "1587675280.013500",
+        "thread_ts": "1587629495.007400",
+        "root": {
+            "client_msg_id": "a9717203-dcd0-4329-bd4e-00a53c4adccd",
+            "type": "message",
+            "text": "Добрый день ! Подскажите, пожалуйста, курсы по SQL и БД)",
+            "user": "UNQJ4V4ES",
+            "ts": "1587629495.007400",
+            "team": "T040HKJE3",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tV5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Добрый день ! Подскажите, пожалуйста, курсы по SQL и БД)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1587629495.007400",
+            "reply_count": 17,
+            "reply_users_count": 9,
+            "latest_reply": "1587790345.061600",
+            "reply_users": [
+                "U70TZK6Q3",
+                "UNQJ4V4ES",
+                "UCMC5J36D",
+                "U15V81K6V",
+                "UHY5KKK6D",
+                "ULA93B882",
+                "U973F8TLJ",
+                "UT4HRM073",
+                "U0122QYJVV5"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Sql-ex.ru",
+                                "text": "Sql-ex.ru"
+                            },
+                            {
+                                "type": "text",
+                                "text": " классический вариант "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D56EEF8C-A47F-4B9C-875F-E879110F5AAB",
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "UEVA1NXGT",
+                    "UCMC5J36D",
+                    "U60EETE7N",
+                    "UBXD6L81E",
+                    "U930VKGMC",
+                    "UDZC02ATZ",
+                    "U9W1PD5QD",
+                    "UCQ1YNU9M",
+                    "U7DTGC4PL",
+                    "UK181SL1H",
+                    "UT4HRM073",
+                    "UNQJ4V4ES",
+                    "UJ5ESHK35",
+                    "U53E5MFNU"
+                ],
+                "count": 14
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UB4F4DZGV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "073CA01A-6752-4BE5-9C61-78A37813A471",
+        "type": "message",
+        "text": "<https:\/\/www.databasestar.com\/learn-sql\/|https:\/\/www.databasestar.com\/learn-sql\/> ",
+        "user": "U973F8TLJ",
+        "ts": "1587701860.015000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4a254330cab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/624a254330cab48a618143947e1dc3b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Smart5172",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "smart5172",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Database Star",
+                "title": "59 Best Resources for Learning SQL",
+                "title_link": "https:\/\/www.databasestar.com\/learn-sql\/",
+                "text": "Are you looking for the best way to learn SQL? Are you unsure where to begin? The good news is that there are a lot of SQL tutorials online. There are many ways to learn SQL that are suitable for d…",
+                "fallback": "Database Star: 59 Best Resources for Learning SQL",
+                "thumb_url": "https:\/\/www.databasestar.com\/wp-content\/uploads\/2018\/10\/Database-Star.png",
+                "ts": 1540810836,
+                "from_url": "https:\/\/www.databasestar.com\/learn-sql\/",
+                "thumb_width": 400,
+                "thumb_height": 236,
+                "service_icon": "https:\/\/www.databasestar.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.databasestar.com\/learn-sql\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxht",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.databasestar.com\/learn-sql\/",
+                                "text": "https:\/\/www.databasestar.com\/learn-sql\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587629495.007400",
+        "parent_user_id": "UNQJ4V4ES"
+    }
+]

@@ -1,0 +1,859 @@
+[
+    {
+        "type": "message",
+        "text": "Кто-нибудь знает хорошие курсы\/ссылки про связку RL for Robotics? Это гуглится, но может кто-то может посоветовать что-нибудь очень крутое, было бы здорово :robot_face:",
+        "user": "U061VLHH7",
+        "ts": "1490083704.501365",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07e5bc640ef6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-07\/6063870082_07e5bc640ef6553e5d15_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Persiyanov",
+            "display_name": "persiyanov",
+            "team": "T040HKJE3",
+            "name": "persiyanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "мб <@U4LSAJSQM>  чего присоветует",
+        "user": "U041P485A",
+        "ts": "1490083808.516798",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "879160093776",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-03-23\/4152528200_879160093776cf8dd92b_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ovcharenko",
+            "display_name": "sovcharenko",
+            "team": "T040HKJE3",
+            "name": "sovcharenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4LSAJSQM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Каждая статья Berkeley про RL про robotics",
+        "user": "U1CGKK865",
+        "ts": "1490085975.880176",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "50eb7435e2e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-01\/539191661796_50eb7435e2e86bba5cfd_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Bobyrev",
+            "display_name": "kirillbobyrev",
+            "team": "T040HKJE3",
+            "name": "omtcyfz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U061VLHH7>\n<http:\/\/rll.berkeley.edu\/deeprlcourse\/> - долго, но от лучших рисечеров области и понятно, много лекций по статьям лабы Левина\n<https:\/\/channel9.msdn.com\/Events\/Neural-Information-Processing-Systems-Conference\/Neural-Information-Processing-Systems-Conference-NIPS-2016\/Deep-Reinforcement-Learning-Through-Policy-Optimization> - почти исчерпывающий туториал с нипса по полиси оптимизэйшн от Шульмана и Аббила, наверно лучше всего смотреть до\/после чтения соответствующих пэйп",
+        "user": "U4LSAJSQM",
+        "ts": "1490086542.988328",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cb0dac4e07f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-20\/156840649570_cb0dac4e07f8705587d0_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Pashevich",
+            "display_name": "alexpashevich",
+            "team": "T040HKJE3",
+            "name": "alexpashevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Channel 9",
+                "title": "Deep Reinforcement Learning Through Policy Optimization",
+                "title_link": "https:\/\/channel9.msdn.com\/Events\/Neural-Information-Processing-Systems-Conference\/Neural-Information-Processing-Systems-Conference-NIPS-2016\/Deep-Reinforcement-Learning-Through-Policy-Optimization",
+                "text": "Reinforcement Learning (Deep RL) has seen several breakthroughs in recent years. In this tutorial we will focus on recent advances in Deep RL through policy gradient methods and actor critic methods.",
+                "fallback": "Channel 9: Deep Reinforcement Learning Through Policy Optimization",
+                "thumb_url": "https:\/\/sec.ch9.ms\/ch9\/045d\/94e12d70-3c8f-467f-a5f6-d5b1f865045d\/DeepReinforcementLearningThroughPolicyOptimizatio_960.jpg",
+                "video_html_width": "512",
+                "video_html_height": "288",
+                "video_url": "https:\/\/sec.ch9.ms\/ch9\/045d\/94e12d70-3c8f-467f-a5f6-d5b1f865045d\/DeepReinforcementLearningThroughPolicyOptimizatio_mid.mp4",
+                "from_url": "https:\/\/channel9.msdn.com\/Events\/Neural-Information-Processing-Systems-Conference\/Neural-Information-Processing-Systems-Conference-NIPS-2016\/Deep-Reinforcement-Learning-Through-Policy-Optimization",
+                "thumb_width": 960,
+                "thumb_height": 540,
+                "service_icon": "https:\/\/channel9.msdn.com\/favicon-129x129.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1D4RRA7K",
+                    "U14CTBLFJ",
+                    "U4BT189UJ",
+                    "U4GN64T09"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Нипсовый туториал смотрел, спасибо что курс Беркли напомнили, там ж и правда с уклоном в роботов и self-driving.\n\nА что про этот скажете?\n\n<https:\/\/www.class-central.com\/mooc\/319\/udacity-artificial-intelligence-for-robotics#reviews>\n\nНашел в гитхабе awesome-rl по-моему",
+        "user": "U061VLHH7",
+        "ts": "1490086934.069216",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07e5bc640ef6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-07\/6063870082_07e5bc640ef6553e5d15_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Persiyanov",
+            "display_name": "persiyanov",
+            "team": "T040HKJE3",
+            "name": "persiyanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Class Central",
+                "title": "Reviews for Artificial Intelligence for Robotics from Udacity | Class Central",
+                "title_link": "https:\/\/www.class-central.com\/mooc\/319\/udacity-artificial-intelligence-for-robotics#reviews",
+                "text": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control.",
+                "fallback": "Class Central: Reviews for Artificial Intelligence for Robotics from Udacity | Class Central",
+                "thumb_url": "https:\/\/d3f1iyfxxz8i1e.cloudfront.net\/courses\/course_image\/48073c114c8a.",
+                "fields": [
+                    {
+                        "title": "NEXT SESSION",
+                        "value": "Self paced",
+                        "short": true
+                    },
+                    {
+                        "title": "RATING",
+                        "value": "★★★★★",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.class-central.com\/mooc\/319\/udacity-artificial-intelligence-for-robotics#reviews",
+                "thumb_width": 4680,
+                "thumb_height": 968,
+                "service_icon": "https:\/\/www.class-central.com\/bundles\/classcentralsite\/slashpixel\/images\/favicon.ico?90",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U061VLHH7> судя по силлабасу там рл нету или минимально, это скорее общее роботикс с калман фильтрами, сламом, возможно оптимал контролу. лишним не будет в общем, но как курс рл + роботикс не стоит рассматривать наверно)",
+        "user": "U4LSAJSQM",
+        "ts": "1490087104.103964",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cb0dac4e07f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-20\/156840649570_cb0dac4e07f8705587d0_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Pashevich",
+            "display_name": "alexpashevich",
+            "team": "T040HKJE3",
+            "name": "alexpashevich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В РЛ больше знаний, чем в общем роботикс, поэтому наверн полезно будет=)\n\nСпасибо!",
+        "user": "U061VLHH7",
+        "ts": "1490087296.143331",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07e5bc640ef6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-07\/6063870082_07e5bc640ef6553e5d15_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Persiyanov",
+            "display_name": "persiyanov",
+            "team": "T040HKJE3",
+            "name": "persiyanov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4LSAJSQM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490089407.590309",
+        "user": "U4MB7E745",
+        "text": "<@U4MB7E745> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Что можно почитать про временные ряды? Интересует что-нибудь вроде “bayesian time series models” Barber, Cemgil, Chiappa",
+        "user": "U24MQAZ9P",
+        "ts": "1490094403.656231",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac90c496fd8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26ac90c496fd8d1b1c69307034138a1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Petrenko",
+            "display_name": "npetrenko97",
+            "team": "T040HKJE3",
+            "name": "npetrenko97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "или, еще лучше, послушать",
+        "user": "U24MQAZ9P",
+        "ts": "1490094417.658851",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac90c496fd8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26ac90c496fd8d1b1c69307034138a1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Petrenko",
+            "display_name": "npetrenko97",
+            "team": "T040HKJE3",
+            "name": "npetrenko97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.springer.com\/gp\/book\/9780387947259>",
+        "user": "U2D4XJL3A",
+        "ts": "1490094899.752013",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "53dcc050b600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-25\/108328945824_53dcc050b60000d4d7be_72.jpg",
+            "first_name": "Semion",
+            "real_name": "Semion VP",
+            "display_name": "psv",
+            "team": "T040HKJE3",
+            "name": "psv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.crcpress.com\/Bayesian-Data-Analysis-Third-Edition\/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin\/p\/book\/9781439840955>",
+        "user": "U2D4XJL3A",
+        "ts": "1490095060.782091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "53dcc050b600",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-25\/108328945824_53dcc050b60000d4d7be_72.jpg",
+            "first_name": "Semion",
+            "real_name": "Semion VP",
+            "display_name": "psv",
+            "team": "T040HKJE3",
+            "name": "psv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U24MQAZ9P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=u433nrxdf5k&amp;feature=youtu.be>",
+        "user": "U0U2ENJ4U",
+        "ts": "1490097320.211089",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "14882ebdc4fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-18\/60657636951_14882ebdc4fa3a51a76d_72.png",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lyashenko",
+            "display_name": "andrey",
+            "team": "T040HKJE3",
+            "name": "andrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Лекция 10 Прогнозирование временных рядов",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=u433nrxdf5k&amp;feature=youtu.be",
+                "author_name": "Data Mining in Action",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCop3CelRVvrchG5lsPyxvHg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/u433nrxdf5k\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Лекция 10 Прогнозирование временных рядов",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/u433nrxdf5k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=u433nrxdf5k&amp;feature=youtu.be",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4F7XRTR7",
+                    "U47HXC0UR",
+                    "U2N853RGF",
+                    "U0DA4J82H",
+                    "U2FM0GQUE",
+                    "U17US0M9C",
+                    "U44J8KC13"
+                ],
+                "count": 7
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U28J6CP29",
+                    "U17US0M9C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Спасибо!",
+        "user": "U24MQAZ9P",
+        "ts": "1490098110.369726",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac90c496fd8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26ac90c496fd8d1b1c69307034138a1d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Petrenko",
+            "display_name": "npetrenko97",
+            "team": "T040HKJE3",
+            "name": "npetrenko97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Подскажите годные курсы по Spark. Мне советовали этот <https:\/\/www.edx.org\/xseries\/data-science-engineering-apacher-sparktm>  ,но там Enrollment is closed :fffffffuuuuuuuuuuuu:.",
+        "user": "U24N3AB96",
+        "ts": "1490122310.938661",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U24N3AB96",
+            "ts": "1490122334.000000"
+        },
+        "thread_ts": "1490122310.938661",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1490125036.852451",
+        "reply_users": [
+            "U317QLU7K",
+            "U24N3AB96",
+            "U4D9XA668"
+        ],
+        "replies": [
+            {
+                "user": "U317QLU7K",
+                "ts": "1490122520.012134"
+            },
+            {
+                "user": "U24N3AB96",
+                "ts": "1490122635.052035"
+            },
+            {
+                "user": "U317QLU7K",
+                "ts": "1490122819.117811"
+            },
+            {
+                "user": "U24N3AB96",
+                "ts": "1490123237.262061"
+            },
+            {
+                "user": "U4D9XA668",
+                "ts": "1490123305.284611"
+            },
+            {
+                "user": "U4D9XA668",
+                "ts": "1490123334.293708"
+            },
+            {
+                "user": "U24N3AB96",
+                "ts": "1490123471.338640"
+            },
+            {
+                "user": "U4D9XA668",
+                "ts": "1490123548.364764"
+            },
+            {
+                "user": "U4D9XA668",
+                "ts": "1490123555.367181"
+            },
+            {
+                "user": "U4D9XA668",
+                "ts": "1490123558.368288"
+            },
+            {
+                "user": "U317QLU7K",
+                "ts": "1490124009.516632"
+            },
+            {
+                "user": "U24N3AB96",
+                "ts": "1490125036.852451"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "lepton: Ну видел и ноутбуки и так доступны",
+        "user": "U317QLU7K",
+        "ts": "1490122520.012134",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "32fdb4246a8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118972318131_32fdb4246a8a484c6c73_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Tsibin",
+            "display_name": "andrew_tsibin",
+            "team": "T040HKJE3",
+            "name": "andrew_tsibin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Они есть там на сайте или где? На сайте я в упор не вижу никаких открытых материалов по этому курсу.",
+        "user": "U24N3AB96",
+        "ts": "1490122635.052035",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Если залогинишься, увидишь. Ещё есть немного про Спарк в курсе от мейла на степике + неделю назад на курсере запустился курс Big Data Analysis with Scala and Spark (по нему пока фидбек дать не могу, но он хотя бы на правильном языке).",
+        "user": "U317QLU7K",
+        "ts": "1490122819.117811",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "32fdb4246a8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118972318131_32fdb4246a8a484c6c73_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Tsibin",
+            "display_name": "andrew_tsibin",
+            "team": "T040HKJE3",
+            "name": "andrew_tsibin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Я смотрел залогиненым. Кнопка start the series ведет к списку из 3 курсов, по каждому из которых материалов нет. Можешь мне скинуть ссылку на материалы?",
+        "user": "U24N3AB96",
+        "ts": "1490123237.262061",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "<@U24N3AB96> у меня получилось так: на странице курса, где Enrollments is closed, есть внизу ревью. Нажимаешь see more, тебя перебрасывает на другой сайт, на котором кнопка Enroll активна",
+        "user": "U4D9XA668",
+        "ts": "1490123305.284611",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga67e6b586cb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3a67e6b586cb4da92a4c43ce9228a25.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Erofeev",
+            "display_name": "alexerofeev",
+            "team": "T040HKJE3",
+            "name": "alexerofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Флоу конечно создали чужие для хищников",
+        "user": "U4D9XA668",
+        "ts": "1490123334.293708",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga67e6b586cb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3a67e6b586cb4da92a4c43ce9228a25.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Erofeev",
+            "display_name": "alexerofeev",
+            "team": "T040HKJE3",
+            "name": "alexerofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "&gt;на странице курса, где Enrollments is closed, есть внизу ревью. Нажимаешь see more, тебя перебрасывает на другой сайт, на котором кнопка Enroll активна\nВсе так, только после нажатия активной кнопки Enrollменя перебрасывет на страницу \"You are not enrolled in any courses yet.\" :pepe_sad:",
+        "user": "U24N3AB96",
+        "ts": "1490123471.338640",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Да, похоже, я на какой-то из них был записан просто раньше)",
+        "user": "U4D9XA668",
+        "ts": "1490123548.364764",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga67e6b586cb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3a67e6b586cb4da92a4c43ce9228a25.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Erofeev",
+            "display_name": "alexerofeev",
+            "team": "T040HKJE3",
+            "name": "alexerofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/spark-mooc>",
+        "user": "U4D9XA668",
+        "ts": "1490123555.367181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga67e6b586cb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3a67e6b586cb4da92a4c43ce9228a25.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Erofeev",
+            "display_name": "alexerofeev",
+            "team": "T040HKJE3",
+            "name": "alexerofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Spark MOOC",
+                "title_link": "https:\/\/github.com\/spark-mooc",
+                "text": "GitHub is where people build software. More than 20 million people use GitHub to discover, fork, and contribute to over 55 million projects.",
+                "fallback": "GitHub: Spark MOOC",
+                "from_url": "https:\/\/github.com\/spark-mooc",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/12368613?v=3&s=280",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "вот их гитхаб",
+        "user": "U4D9XA668",
+        "ts": "1490123558.368288",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga67e6b586cb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3a67e6b586cb4da92a4c43ce9228a25.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Erofeev",
+            "display_name": "alexerofeev",
+            "team": "T040HKJE3",
+            "name": "alexerofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U24N3AB96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Попробуй по ссылке нажать resume course <https:\/\/courses.edx.org\/courses\/course-v1:BerkeleyX+CS105x+1T2016\/info>",
+        "user": "U317QLU7K",
+        "ts": "1490124009.516632",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "32fdb4246a8a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-20\/118972318131_32fdb4246a8a484c6c73_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Tsibin",
+            "display_name": "andrew_tsibin",
+            "team": "T040HKJE3",
+            "name": "andrew_tsibin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "text": "Там только пдф-ки доступны. По большинству ссылок перебрасывает вникуда.",
+        "user": "U24N3AB96",
+        "ts": "1490125036.852451",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g00937d2c865",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0f00937d2c865ac905d78e6cc65af877.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Odnobokov",
+            "display_name": "lepton",
+            "team": "T040HKJE3",
+            "name": "lepton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1490122310.938661",
+        "parent_user_id": "U24N3AB96"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490132351.157884",
+        "user": "U4M0CB0PJ",
+        "text": "<@U4M0CB0PJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490132535.205379",
+        "user": "U4MM734LA",
+        "text": "<@U4MM734LA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490132826.279569",
+        "user": "U4M1BV8QZ",
+        "text": "<@U4M1BV8QZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490133071.341572",
+        "user": "U4MPXUFA9",
+        "text": "<@U4MPXUFA9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490133432.432333",
+        "user": "U4MKDSYD9",
+        "text": "<@U4MKDSYD9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490133882.544498",
+        "user": "U4M1LL709",
+        "text": "<@U4M1LL709> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490134138.604274",
+        "user": "U4MKKKD19",
+        "text": "<@U4MKKKD19> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490137157.223017",
+        "user": "U4MPAMM2Q",
+        "text": "<@U4MPAMM2Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490151119.133503",
+        "user": "U4M3E86DN",
+        "text": "<@U4M3E86DN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490152954.334441",
+        "user": "U4MRJFP4L",
+        "text": "<@U4MRJFP4L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490156694.701197",
+        "user": "U4M40G22U",
+        "text": "<@U4M40G22U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490158249.842148",
+        "user": "U4M5170SD",
+        "text": "<@U4M5170SD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1490163695.345101",
+        "user": "U4M5HSH6D",
+        "text": "<@U4M5HSH6D> has joined the channel"
+    }
+]

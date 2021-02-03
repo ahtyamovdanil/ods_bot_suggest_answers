@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "text": "курс о том как пилить в <#C5VQ222UX|article_essence>\n<https:\/\/twitter.com\/hadleywickham\/status\/978775402423320576>",
+        "user": "U599Q2S6A",
+        "ts": "1522270132.000074",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d4b29b330e1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-15\/255890666384_d4b29b330e1a6a822cd4_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex F",
+            "display_name": "alejandro",
+            "team": "T040HKJE3",
+            "name": "alexfaliv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/hadleywickham|@hadleywickham>: Next week I'll be offering a course at Stanford called \"Readings in applied data science\" — the complete syllabus is now available at <https:\/\/github.com\/hadley\/stats337#readings>. Thanks to everyone on twitter who has helped me find good readings!",
+                "ts": 1522193215,
+                "author_name": "Hadley Wickham",
+                "author_link": "https:\/\/twitter.com\/hadleywickham\/status\/978775402423320576",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/905186381995147264\/7zKAG5sY_normal.jpg",
+                "author_subname": "@hadleywickham",
+                "text": "Next week I'll be offering a course at Stanford called \"Readings in applied data science\" — the complete syllabus is now available at <https:\/\/github.com\/hadley\/stats337#readings>. Thanks to everyone on twitter who has helped me find good readings!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/hadleywickham\/status\/978775402423320576",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1522270132.000074",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1522315524.000208",
+        "reply_users": [
+            "U1HHX1QS3",
+            "U48B3EN87"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1522270250.000177"
+            },
+            {
+                "user": "U48B3EN87",
+                "ts": "1522315524.000208"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "молодец такой, свои книжки вставил",
+        "user": "U1HHX1QS3",
+        "ts": "1522270250.000177",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1522270132.000074",
+        "parent_user_id": "U599Q2S6A"
+    }
+]

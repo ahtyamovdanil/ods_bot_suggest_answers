@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429469216.000068",
+        "user": "U041X9JT0",
+        "text": "<@U041X9JT0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1429479018.000069",
+        "user": "U04ELJ0FC",
+        "text": "<@U04ELJ0FC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[April 17th, 2015 7:00 AM] tushkanova: вот этот курс еще очень жду <https:\/\/www.edx.org\/course\/scalable-machine-learning-uc-berkeleyx-cs190-1x>",
+                "ts": "1429279250.000054",
+                "author_id": "U04EWL8PH",
+                "author_subname": "Olga Tushkanova",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "вот этот курс еще очень жду <https:\/\/www.edx.org\/course\/scalable-machine-learning-uc-berkeleyx-cs190-1x>",
+                "author_name": "Olga Tushkanova",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U04EWL8PH",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/1cb8d6e64a5ce77c44303d3f44a243ce.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1429499279.000070"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[April 17th, 2015 6:55 AM] tushkanova: ну про этот курс тут, наверное, все знают <https:\/\/www.edx.org\/course\/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x>",
+                "ts": "1429278930.000043",
+                "author_id": "U04EWL8PH",
+                "author_subname": "Olga Tushkanova",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "ну про этот курс тут, наверное, все знают <https:\/\/www.edx.org\/course\/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x>",
+                "author_name": "Olga Tushkanova",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U04EWL8PH",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/1cb8d6e64a5ce77c44303d3f44a243ce.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1429499296.000071"
+    }
+]

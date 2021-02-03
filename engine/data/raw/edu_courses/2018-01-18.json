@@ -1,0 +1,886 @@
+[
+    {
+        "type": "message",
+        "text": "Коллеги, подскажите, пожалуйста, какие есть в Москве платные или бесплатные, но очные, курсы по Биг дата в связке с питоном (ну или не обязательно с питоном)?\n*Если что, это не мне, я умею довольствоваться онлайн курсами и книгами.",
+        "user": "U6BH6UR0E",
+        "ts": "1516266317.000448",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6BH6UR0E",
+            "ts": "1516266475.000000"
+        },
+        "thread_ts": "1516266317.000448",
+        "reply_count": 24,
+        "reply_users_count": 8,
+        "latest_reply": "1516305687.000344",
+        "reply_users": [
+            "U6BH6UR0E",
+            "U27HU84H4",
+            "U04725QK7",
+            "U4Z9Q18QH",
+            "U5S11SHM4",
+            "U3TF60E65",
+            "U8H2CS34N",
+            "U7UP85B3J"
+        ],
+        "replies": [
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516266431.000362"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1516266484.000431"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516266517.000253"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516266671.000050"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1516266915.000031"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1516266923.000672"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1516269201.000238"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1516278910.000107"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1516279332.000205"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516281984.000615"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516282008.000142"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1516289667.000065"
+            },
+            {
+                "user": "U3TF60E65",
+                "ts": "1516298568.000219"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516299036.000408"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1516299404.000091"
+            },
+            {
+                "user": "U3TF60E65",
+                "ts": "1516299772.000135"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516301045.000074"
+            },
+            {
+                "user": "U8H2CS34N",
+                "ts": "1516301198.000072"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516301784.000661"
+            },
+            {
+                "user": "U3TF60E65",
+                "ts": "1516302502.000067"
+            },
+            {
+                "user": "U4Z9Q18QH",
+                "ts": "1516303388.000090"
+            },
+            {
+                "user": "U3TF60E65",
+                "ts": "1516304561.000893"
+            },
+            {
+                "user": "U6BH6UR0E",
+                "ts": "1516305507.000286"
+            },
+            {
+                "user": "U7UP85B3J",
+                "ts": "1516305687.000344"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U04725QK7",
+                    "U0JHK9001",
+                    "U09JEC7V0",
+                    "U1NLYUY5N",
+                    "U1CMPEWPQ",
+                    "U19EZ8L5D",
+                    "U8J5NUBQX",
+                    "U1G303UTW",
+                    "U17UDV31D",
+                    "U1CEDPJSU",
+                    "U09NC5XLN",
+                    "U84N2PN00"
+                ],
+                "count": 12
+            },
+            {
+                "name": "eight",
+                "users": [
+                    "U04725QK7",
+                    "U0JHK9001",
+                    "U09JEC7V0",
+                    "U1NLYUY5N",
+                    "U1CMPEWPQ",
+                    "U19EZ8L5D",
+                    "U1G303UTW",
+                    "U17UDV31D",
+                    "U09NC5XLN",
+                    "U84N2PN00"
+                ],
+                "count": 10
+            },
+            {
+                "name": "zero",
+                "users": [
+                    "U04725QK7",
+                    "U0JHK9001",
+                    "U09JEC7V0",
+                    "U1NLYUY5N",
+                    "U1CMPEWPQ",
+                    "U19EZ8L5D",
+                    "U1G303UTW",
+                    "U17UDV31D",
+                    "U09NC5XLN",
+                    "U84N2PN00"
+                ],
+                "count": 10
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U7ME8TN49",
+                    "U84N2PN00",
+                    "U90CHUHUZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Шо значат эти циферки :scream:",
+        "user": "U6BH6UR0E",
+        "ts": "1516266431.000362",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "moneys",
+                "users": [
+                    "U0JHK9001",
+                    "U17UDV31D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":trollface: что поиск по слаку работает ;) и им можно пользоваться",
+        "user": "U27HU84H4",
+        "ts": "1516266484.000431",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Поняла! \n",
+        "user": "U6BH6UR0E",
+        "ts": "1516266517.000253",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Ну по ключу big data ищутся только вакансии :pepe_sad: ",
+        "user": "U6BH6UR0E",
+        "ts": "1516266671.000050",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/messages\/C0804BS5Q\/convo\/C0804BS5Q-1501139910.208525\/>",
+        "user": "U04725QK7",
+        "ts": "1516266915.000031",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "по реакшенам тоже искать можно",
+        "user": "U04725QK7",
+        "ts": "1516266923.000672",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/newprolab.com\/ru\/bigdata\/>",
+        "user": "U4Z9Q18QH",
+        "ts": "1516269201.000238",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<@U6BH6UR0E> у каждого из нас есть такой \"друг\", которому мы ищем курсы",
+        "user": "U5S11SHM4",
+        "ts": "1516278910.000107",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U17UDV31D",
+                    "U5F198S75",
+                    "U4WM1939Q",
+                    "U8313GG7M",
+                    "U30A6KZLH"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "а что такого в том чтобы признаться, что ищешь курсы?",
+        "user": "U27HU84H4",
+        "ts": "1516279332.000205",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U8H2CS34N",
+                    "U5F198S75"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U5S11SHM4>, я настолько богата, что могу позволить курсы за 180!",
+        "user": "U6BH6UR0E",
+        "ts": "1516281984.000615",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<@U27HU84H4>, не знаю. Когда мне надо, я признаюсь ",
+        "user": "U6BH6UR0E",
+        "ts": "1516282008.000142",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<@U6BH6UR0E> курсы для тех, кому за 180\nты ж выше указывала и бесплатные, так что 180, не 180, все хочешь узнать)",
+        "user": "U5S11SHM4",
+        "ts": "1516289667.000065",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "client_msg_id": "fdaf1f9d-8ef1-40f6-b487-453eba2b720d",
+        "type": "message",
+        "text": "Приходи к нам работать! Заодно и научишься :kekeke:",
+        "user": "U3TF60E65",
+        "ts": "1516298568.000219",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4635202f1762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-24\/262052201462_4635202f1762f9a7ad39_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Zhukov",
+            "display_name": "fall_out_bug",
+            "team": "T040HKJE3",
+            "name": "a_v_zhukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3TF60E65",
+            "ts": "1516298584.000000"
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Серьезно не мне же :joy::joy::joy:",
+        "user": "U6BH6UR0E",
+        "ts": "1516299036.000408",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U04725QK7",
+                    "U8H2CS34N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Господа, ваши реплики могли бы сойти за сарказм, и было бы даже смешно. Однако вам надо знать, что <@U6BH6UR0E> - лидер рейтинга недавно закончившегося курса <#C39147V60|mlcourse_open> , так что спрашивает, очевидно, не для себя.",
+        "user": "U4Z9Q18QH",
+        "ts": "1516299404.000091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U04725QK7",
+                    "U040HKJE7",
+                    "U0JHK9001",
+                    "U6QD48HHS",
+                    "U5S11SHM4",
+                    "U7073F929"
+                ],
+                "count": 6
+            },
+            {
+                "name": "you-dont-say",
+                "users": [
+                    "U3TF60E65",
+                    "U040HKJE7",
+                    "U4WM1939Q",
+                    "U6QD48HHS",
+                    "U5S11SHM4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U8H2CS34N",
+                    "U6QD48HHS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "trollface",
+                "users": [
+                    "U7UP85B3J",
+                    "U6QD48HHS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kekeke",
+                "users": [
+                    "U7UP85B3J",
+                    "U6QD48HHS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8142523-1cc7-4eae-bc9a-a4a45270e755",
+        "type": "message",
+        "text": "Где бигдата и где mlcourse open,  тащемта? ",
+        "user": "U3TF60E65",
+        "ts": "1516299772.000135",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4635202f1762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-24\/262052201462_4635202f1762f9a7ad39_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Zhukov",
+            "display_name": "fall_out_bug",
+            "team": "T040HKJE3",
+            "name": "a_v_zhukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "<@U4Z9Q18QH>, благодарю)\nНо мы все стреляные воробьи, так что не верим в \"спрошу для друга\")\nНо блин, это тот случай, когда надо ему, а лазить по поиску слака буду я :facepalm: ",
+        "user": "U6BH6UR0E",
+        "ts": "1516301045.000074",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Да ладно, ищет курсы для #ЕдуВСтэнфорд - все ок, чего стесняться то :smile:",
+        "user": "U8H2CS34N",
+        "ts": "1516301198.000072",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2716dadb421d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-18\/288363278741_2716dadb421dd1ee0af0_72.png",
+            "first_name": "ghost",
+            "real_name": "ghost",
+            "display_name": "ghost",
+            "team": "T040HKJE3",
+            "name": "data.man1243",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U8H2CS34N",
+            "ts": "1516301308.000000"
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Однажды вы меня убедите и я уеду в Стенфорд!",
+        "user": "U6BH6UR0E",
+        "ts": "1516301784.000661",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Это навярняка <@U4Z9Q18QH> ищет!",
+        "user": "U3TF60E65",
+        "ts": "1516302502.000067",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4635202f1762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-24\/262052201462_4635202f1762f9a7ad39_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Zhukov",
+            "display_name": "fall_out_bug",
+            "team": "T040HKJE3",
+            "name": "a_v_zhukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "надо б нас на полиграфе проверить, да? :trollface:",
+        "user": "U4Z9Q18QH",
+        "ts": "1516303388.000090",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "95875022ed15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-02\/540316626243_95875022ed151e1998d5_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Trunov",
+            "display_name": "datamove",
+            "team": "T040HKJE3",
+            "name": "datamove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kekeke",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec015c2a-4f2e-4597-aeb3-7224bf0d3268",
+        "type": "message",
+        "text": "Да,  мы уже думаем собеседования прямо с полиграфом совмещать! ",
+        "user": "U3TF60E65",
+        "ts": "1516304561.000893",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "4635202f1762",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-24\/262052201462_4635202f1762f9a7ad39_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Zhukov",
+            "display_name": "fall_out_bug",
+            "team": "T040HKJE3",
+            "name": "a_v_zhukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E",
+        "reactions": [
+            {
+                "name": "why",
+                "users": [
+                    "U27HU84H4",
+                    "U6QD48HHS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kekeke",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Не вы первые бггг",
+        "user": "U6BH6UR0E",
+        "ts": "1516305507.000286",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a01337376624",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/809127231571_a013373766240f6635b2_72.jpg",
+            "first_name": "Valentina",
+            "real_name": "Valentina Biryukova",
+            "display_name": "myltykritik",
+            "team": "T040HKJE3",
+            "name": "myltykritik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Месье знает толк в троллировании",
+        "user": "U7UP85B3J",
+        "ts": "1516305687.000344",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbd1abf6eba5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26bd1abf6eba510a18fb44f095f0c1ba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Daler",
+            "real_name": "Daler Bakhriev",
+            "display_name": "Daler",
+            "team": "T040HKJE3",
+            "name": "dalerbakhriev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516266317.000448",
+        "parent_user_id": "U6BH6UR0E"
+    },
+    {
+        "type": "message",
+        "text": "Цициклис из MIT",
+        "user": "U7KHK3TTP",
+        "ts": "1516306888.000317",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6b962f6f3d5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-17\/257602345013_6b962f6f3d5d80bafe87_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Chirikov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "d.chirikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516129338.000337",
+        "parent_user_id": "U7KDVG6LS"
+    }
+]

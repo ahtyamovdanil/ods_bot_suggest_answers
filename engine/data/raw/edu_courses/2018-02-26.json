@@ -1,0 +1,272 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1519659411.000263",
+        "thread_ts": "1519659411.000263",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1519733656.000321",
+        "reply_users": [
+            "U436BP343",
+            "U4ZRFG1V0",
+            "U1UNFRQ1K",
+            "U6XCTTGUB",
+            "U6YDWF4UB",
+            "U1BMURR5G",
+            "U4U4GFDNK"
+        ],
+        "replies": [
+            {
+                "user": "U436BP343",
+                "ts": "1519659620.000838"
+            },
+            {
+                "user": "U4ZRFG1V0",
+                "ts": "1519659637.000160"
+            },
+            {
+                "user": "U1UNFRQ1K",
+                "ts": "1519674037.000690"
+            },
+            {
+                "user": "U6XCTTGUB",
+                "ts": "1519713763.000210"
+            },
+            {
+                "user": "U6YDWF4UB",
+                "ts": "1519720471.000391"
+            },
+            {
+                "user": "U1BMURR5G",
+                "ts": "1519723292.000344"
+            },
+            {
+                "user": "U4U4GFDNK",
+                "ts": "1519733656.000321"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "содержательнее, но быстрее к освоению? Как это? Я бы выбрал Стенфорд.",
+        "user": "U436BP343",
+        "ts": "1519659620.000838",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d375b186641d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-30\/307710703127_d375b186641d96929247_72.jpg",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii Kustikov",
+            "display_name": "waniz",
+            "team": "T040HKJE3",
+            "name": "waniz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519659411.000263",
+        "parent_user_id": "U5R5Y6ZJP"
+    },
+    {
+        "type": "message",
+        "text": "Второе содержательнее.\nПродвинутая специализация часто дает слишком продвинутый материал. И ещё часто вопросы на тестах отличаются от того, что на лекциях рассказывают.",
+        "user": "U4ZRFG1V0",
+        "ts": "1519659637.000160",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6345700e36e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-29\/355308316530_6345700e36e2a605f712_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Lukyanenko",
+            "display_name": "artgor",
+            "team": "T040HKJE3",
+            "name": "artgor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519659411.000263",
+        "parent_user_id": "U5R5Y6ZJP",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U436BP343",
+                    "U1UNFRQ1K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "конечно, стэнфорд",
+        "user": "U1UNFRQ1K",
+        "ts": "1519674037.000690",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519659411.000263",
+        "parent_user_id": "U5R5Y6ZJP"
+    },
+    {
+        "type": "message",
+        "text": "cs231n – в <#C7TS10ND6|class_cs231n>  с 20-го апреля. думаю, после этих двух курсов далее можно чисто статьи читать, но отчасти с дивана – cs224 не проходил, в cs231n еще не все домашки сделал",
+        "user": "U1UNFRQ1K",
+        "ts": "1519674171.000492",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ae220b01b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-11\/378543497681_ae220b01b503b2d1bfe8_72.jpg",
+            "first_name": "Yury",
+            "real_name": "Yury Kashnitsky",
+            "display_name": "yorko",
+            "team": "T040HKJE3",
+            "name": "yorko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1516359076.000419",
+        "parent_user_id": "U3P82LKDK"
+    },
+    {
+        "type": "message",
+        "text": "О первом только наслышан нелестные отзывы, а из второго проходил cs231n, так что советую второе.",
+        "user": "U6XCTTGUB",
+        "ts": "1519713763.000210",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b08f39422b52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-24\/245986594740_b08f39422b5243bb4659_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Канашов",
+            "display_name": "scientist",
+            "team": "T040HKJE3",
+            "name": "scientist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519659411.000263",
+        "parent_user_id": "U5R5Y6ZJP"
+    },
+    {
+        "type": "message",
+        "text": "Возможно кому-то будет интересным\/полезным Telegram канал про машинное обучение, нейронные сети, искусственный интеллект и другие направления DataScience. Канал <https:\/\/t.me\/ds_notes> собирает материалы по этому направлению \n:books: Книги\n:book: Статьи\n:female-scientist: Лекции\n:male-technologist: Онлайн курсы",
+        "user": "U493HGBRC",
+        "ts": "1519717939.000039",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9ec950ca1a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6ea9ec950ca1a20f5e648af891870cd6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Zhuvagin",
+            "real_name": "Zhuvagin Pavel",
+            "display_name": "zhuvagin_pv",
+            "team": "T040HKJE3",
+            "name": "zhuvagin_pv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "Data Science Notes",
+                "title_link": "https:\/\/t.me\/ds_notes",
+                "text": "Материалы по Data Science. Наши каналы: + Книги по Frontend – @frontend_textbooks + Книги по Python – @python_textbooks Отблагодарить <https:\/\/www.patreon.com\/holistic> Куратор: @mashagoroshik",
+                "fallback": "Telegram: Data Science Notes",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/BQPiaGwkvICRQWN8zvUiyAwDdkA1Tk7EaSfkUq4Hbh1BFrTx8pQ_FqA0zIq66z8DNTTIU_uHX2tn-uombmR9339THsmCUuxkWGr2xTppZlOpEukckQ-qKNdiT_DniDulenlqfkTi4i3hW0qydb2FyNZtiW9HcqP9zqfBph_vGTciGHfcR7DuktuICerbhoDp6x4QT4QwwIJPv4PdBteXSrZc_4Zor4Pbp37ybNRNcIu1KiXmIse65CNdKrS4LuMj37LqGk5AwQ55ttqvwlkyesSM5W-tBrUF_f6wtnb5uVs7IgekwVewIT269gy0G0zI_mAStxvCHh9ucLhMZjn02w.jpg",
+                "from_url": "https:\/\/t.me\/ds_notes",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ban",
+                "users": [
+                    "U1NLYUY5N",
+                    "U09JEC7V0",
+                    "U1H5CMTU0",
+                    "U0JHK9001",
+                    "U97RMH3HQ",
+                    "U0M39M6LS",
+                    "U6ME568D7",
+                    "U3K7PNTML",
+                    "U53E5MFNU",
+                    "U27SUBTB9",
+                    "U4C11PX1A",
+                    "U1FQS0MNU",
+                    "U459QGLVD",
+                    "U2AL40SAH",
+                    "U436BP343",
+                    "U049NHC4X",
+                    "U34Q3KU8H",
+                    "U1DURF02E",
+                    "U6XL8PYR3",
+                    "U5ZKCNKA7"
+                ],
+                "count": 20
+            },
+            {
+                "name": "ods",
+                "users": [
+                    "U1BMURR5G",
+                    "U6XBP3VEE",
+                    "U0M39M6LS",
+                    "U5H055U0J",
+                    "U6ME568D7",
+                    "U3S96B5QF"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U9E4NRPST",
+                    "U8JSBF5U3",
+                    "U98BN7XRV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "neutral_face",
+                "users": [
+                    "U30A6KZLH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U9S763RL2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1480589614.002521",
+        "user": "U2TNYDLRL",
+        "text": "<@U2TNYDLRL> has left the channel",
+        "reactions": [
+            {
+                "name": "ragequit",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U040M0W0S> pinned a message to this channel.",
+        "user": "U040M0W0S",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 30th, 2016 8:14 PM] hvost101: <@U14BPHDK6>:  <https:\/\/youtube.com\/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl> и <https:\/\/compscicenter.ru\/courses\/deep-learning\/2016-summer\/> - первая введение в вероятностный язык машинного обучения, второе - летняя школа DL",
+                "ts": "1480565677.002518",
+                "author_id": "U19HATM25",
+                "author_subname": "hvost101",
+                "channel_id": "C04DP7BUY",
+                "channel_name": "edu_courses",
+                "is_msg_unfurl": true,
+                "text": "<@U14BPHDK6>:  <https:\/\/youtube.com\/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl> и <https:\/\/compscicenter.ru\/courses\/deep-learning\/2016-summer\/> - первая введение в вероятностный язык машинного обучения, второе - летняя школа DL",
+                "author_name": "hvost101",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U19HATM25",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/4619276ba193199858ea85b612eacca5.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1480628479.002523"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/bigdatauniversity.com\/courses\/deep-learning-tensorflow\/>\nЕщё один курс по :tensorflow:, не знаю, правда, зачем он нужен, если есть курс от гугла ",
+        "user": "U04ELQZAU",
+        "ts": "1480630803.002524",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Deep Learning With Tensorflow Course by Big Data University",
+                "title_link": "https:\/\/bigdatauniversity.com\/courses\/deep-learning-tensorflow\/",
+                "text": "This free Deep Learning with TensorFlow course provides a solid introduction to the use of TensorFlow to analyze unstructured data.",
+                "fallback": "Deep Learning With Tensorflow Course by Big Data University",
+                "thumb_url": "https:\/\/bigdatauniversity.com\/wp-content\/uploads\/2016\/11\/Deep-Learning-with-TensorFlow-380x200.png",
+                "from_url": "https:\/\/bigdatauniversity.com\/courses\/deep-learning-tensorflow\/",
+                "thumb_width": 380,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/bigdatauniversity.com\/favicon.ico",
+                "service_name": "bigdatauniversity.com",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "filosoraptor",
+                "users": [
+                    "U040M0W0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "moneybag",
+                "users": [
+                    "U0DA4J82H",
+                    "U0L4KM9R9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480661177.002526",
+        "user": "U392BKU2D",
+        "text": "<@U392BKU2D> has joined the channel"
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "type": "message",
+        "text": "<@U4TD199M4>  Проходил первую итерацию этого курса. После, насколько мне известно, программа была чуть изменена в сторону увеличения часов.\n\nПрограмма и временное ограничение не позволяют «нянчиться» с новичками, поэтому через вступительный час ликбеза Гриша уже рассказывал про разные архитектуры сеток. Пробовали запускать их на моделях из зоопарка.\n\nЦену обсуждать бессмысленно, так как целевой платящей аудиторией чаще является работодатель, а не учащийся.\n\nКурс хорошо зайдёт для общего развития, если уже где-то ковырялся, например, с CNN, но не крутил RNN, LSTM.\n\nОтдельно хочется выделить само общение, комментарии и дальнейшую возможность контактировать с Гришей, иногда уже это стоит больше половины от стоимости курса.",
+        "user": "U32TKU2TX",
+        "ts": "1501831400.536006",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cef564056a8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-29\/160690675249_cef564056a8e9fbb0202_72.jpg",
+            "first_name": "Evgeny",
+            "real_name": "Evgeny Akintev",
+            "display_name": "eakintev",
+            "team": "T040HKJE3",
+            "name": "eakintev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1DNPLGR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U04CH4QBD> супер! :+1: мне сказали в следующий раз курс будет проходить в янв-февр 2018. посмотрим, будет ли релевантно к этому моменту.",
+        "user": "U4TD199M4",
+        "ts": "1501831927.683184",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48414fb77596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1116567300358_48414fb77596f56581de_72.jpg",
+            "first_name": "Ali",
+            "real_name": "Ali Aliev",
+            "display_name": "alievk",
+            "team": "T040HKJE3",
+            "name": "aaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760642.953013",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "<@U4M771QHX> спасибо за отзыв, буду иметь в виду :+1:",
+        "user": "U4TD199M4",
+        "ts": "1501832016.709493",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "48414fb77596",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-14\/1116567300358_48414fb77596f56581de_72.jpg",
+            "first_name": "Ali",
+            "real_name": "Ali Aliev",
+            "display_name": "alievk",
+            "team": "T040HKJE3",
+            "name": "aaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501760564.930323",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "Я ходил на этот курс:\n1) <http:\/\/digitaltech.school\/product-category\/machine_learning_big_data\/>\nмне понравился\n\n2) Также сейчас стартует вторая часть курса <http:\/\/expressml.ru\/>\nНейронки.\nДумаю тоже будет хороший.\nПервую часть курса слушал - мне понравилось.",
+        "user": "U51SRULNL",
+        "ts": "1501832410.823254",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "165a265b91b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-13\/226976464727_165a265b91b383c88a31_72.png",
+            "first_name": "Eduard",
+            "real_name": "Eduard",
+            "display_name": "PolEd",
+            "team": "T040HKJE3",
+            "name": "edvard2901",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U51SRULNL",
+            "ts": "1501832484.000000"
+        },
+        "thread_ts": "1501760564.930323",
+        "parent_user_id": "U4TD199M4"
+    },
+    {
+        "type": "message",
+        "text": "скажите а есть какие-то материалы на русском и\/или для совсем начинающих по probability programming - pymc3 и тп",
+        "user": "U1HHX1QS3",
+        "ts": "1501856630.531764",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1501908216.020812",
+        "reply_users": [
+            "U53E5MFNU",
+            "U2GTUS0CB",
+            "U1HHX1QS3",
+            "U1LNBRZ29",
+            "U49A8JCKW"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1501856722.583626"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1501856979.733028"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1501857685.148925"
+            },
+            {
+                "user": "U2GTUS0CB",
+                "ts": "1501858560.663837"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1501858633.707955"
+            },
+            {
+                "user": "U1LNBRZ29",
+                "ts": "1501859822.421498"
+            },
+            {
+                "user": "U1LNBRZ29",
+                "ts": "1501859946.495107"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1501860131.604842"
+            },
+            {
+                "user": "U1LNBRZ29",
+                "ts": "1501860157.620850"
+            },
+            {
+                "user": "U1LNBRZ29",
+                "ts": "1501860242.670824"
+            },
+            {
+                "user": "U49A8JCKW",
+                "ts": "1501908216.020812"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/habrahabr.ru\/company\/ods\/blog\/322716\/>",
+        "user": "U53E5MFNU",
+        "ts": "1501856722.583626",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "PyMC3 — MCMC и не только",
+                "title_link": "https:\/\/habrahabr.ru\/company\/ods\/blog\/322716\/",
+                "text": "PyMC3 — МСМС и не только Привет, Хабрахабр! В этом посте уже упоминался PyMC3. Там можно почитать про основы MCMC-сэмплирования. Здесь я расскажу про...",
+                "fallback": "PyMC3 — MCMC и не только",
+                "thumb_url": "https:\/\/raw.githubusercontent.com\/pymc-devs\/pymc3\/master\/docs\/pymc3_logo.jpg",
+                "from_url": "https:\/\/habrahabr.ru\/company\/ods\/blog\/322716\/",
+                "thumb_width": 604,
+                "thumb_height": 339,
+                "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Хабрахабр",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2GTUS0CB",
+                    "U1HHX1QS3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "на не русском, мне еще нравится блог этого парня <http:\/\/twiecki.github.io\/> - он вроде один из авторов пакета",
+        "user": "U53E5MFNU",
+        "ts": "1501856979.733028",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1501857028.000000"
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "в частности полезно почитать - MCMC sampling for dummies -  <http:\/\/twiecki.github.io\/blog\/2015\/11\/10\/mcmc-sampling\/>",
+        "user": "U53E5MFNU",
+        "ts": "1501857685.148925",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "Может быть <@U1LNBRZ29> может что-нибудь полезное подсказать.",
+        "user": "U2GTUS0CB",
+        "ts": "1501858560.663837",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c1f58413ecce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-22\/246378982615_c1f58413eccee5da6375_72.jpg",
+            "first_name": "Андрей",
+            "real_name": "Андрей Оськин",
+            "display_name": "skoffer",
+            "team": "T040HKJE3",
+            "name": "skoffer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": ":+1:",
+        "user": "U1HHX1QS3",
+        "ts": "1501858633.707955",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "На русском вряд ли подскажу. На англ порекомендовал бы примерно то же самое. Еще скажу, что у нас в репозитории есть папка с jupyter ноутбуками разобранными, там примеры на любой вкус (<https:\/\/github.com\/pymc-devs\/pymc3\/tree\/master\/docs\/source\/notebooks>). Есть и просто intro (<https:\/\/github.com\/pymc-devs\/pymc3\/blob\/master\/docs\/source\/notebooks\/api_quickstart.ipynb>)",
+        "user": "U1LNBRZ29",
+        "ts": "1501859822.421498",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "57f8d7537aa5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-22\/291293774966_57f8d7537aa5770070a7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Kochurov",
+            "display_name": "ferres",
+            "team": "T040HKJE3",
+            "name": "ferres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1LNBRZ29",
+            "ts": "1501859851.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "pymc-devs\/pymc3",
+                "title_link": "https:\/\/github.com\/pymc-devs\/pymc3\/tree\/master\/docs\/source\/notebooks",
+                "text": "pymc3 - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano",
+                "fallback": "GitHub: pymc-devs\/pymc3",
+                "from_url": "https:\/\/github.com\/pymc-devs\/pymc3\/tree\/master\/docs\/source\/notebooks",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/81121?v=4&s=400",
+                "thumb_width": 186,
+                "thumb_height": 186,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1HHX1QS3",
+                    "U53E5MFNU",
+                    "U5R6WCSBU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "еще есть вот, Крис пишет книгу <https:\/\/github.com\/fonnesbeck\/PyMC3_DataScienceLA>",
+        "user": "U1LNBRZ29",
+        "ts": "1501859946.495107",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "57f8d7537aa5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-22\/291293774966_57f8d7537aa5770070a7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Kochurov",
+            "display_name": "ferres",
+            "team": "T040HKJE3",
+            "name": "ferres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "fonnesbeck\/PyMC3_DataScienceLA",
+                "title_link": "https:\/\/github.com\/fonnesbeck\/PyMC3_DataScienceLA",
+                "text": "PyMC3_DataScienceLA - PyMC3 tutorial for DataScience LA (January 2017)",
+                "fallback": "GitHub: fonnesbeck\/PyMC3_DataScienceLA",
+                "from_url": "https:\/\/github.com\/fonnesbeck\/PyMC3_DataScienceLA",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/81476?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Спасибо!",
+        "user": "U1HHX1QS3",
+        "ts": "1501860131.604842",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "самым актуальным источником инфы остается документация, как бы это странно не звучало.",
+        "user": "U1LNBRZ29",
+        "ts": "1501860157.620850",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "57f8d7537aa5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-22\/291293774966_57f8d7537aa5770070a7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Kochurov",
+            "display_name": "ferres",
+            "team": "T040HKJE3",
+            "name": "ferres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "text": "есть еще discourse, там можно задавать общие вопросы и просто общаться <https:\/\/discourse.pymc.io\/>",
+        "user": "U1LNBRZ29",
+        "ts": "1501860242.670824",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "57f8d7537aa5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-22\/291293774966_57f8d7537aa5770070a7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Kochurov",
+            "display_name": "ferres",
+            "team": "T040HKJE3",
+            "name": "ferres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1LNBRZ29",
+            "ts": "1501860274.000000"
+        },
+        "attachments": [
+            {
+                "title": "PyMC Discourse",
+                "title_link": "https:\/\/discourse.pymc.io\/",
+                "text": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano <http:\/\/pymc-devs.github.io\/pymc3\/>",
+                "fallback": "PyMC Discourse",
+                "thumb_url": "https:\/\/raw.githubusercontent.com\/pymc-devs\/pymc3\/master\/docs\/logos\/PyMC3.png",
+                "from_url": "https:\/\/discourse.pymc.io\/",
+                "thumb_width": 186,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/raw.githubusercontent.com\/pymc-devs\/pymc3\/master\/docs\/logos\/PyMC3.png",
+                "service_name": "discourse.pymc.io",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1501868381.120801",
+        "user": "U6HNJVCP2",
+        "text": "<@U6HNJVCP2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Занекропостю, но я думаю, что будет полезно. В этом году сдавал экзамен Сколтеха (последняя волна) на slt, но экзамен был для всех DS один(всего два варианта), сразу скажу, что раскрывать задачи я не буду, но темы подскажу. Сложилось мнение, что варианты год от года могут меняться чуть меньше, чем полностью и в этом году был довольно не сложный экзамен (по сравнению с Вышкой на ту же программу)\nПервые несколько задач чисто на Демидовича, нужно уметь брать хитрые производные(трюк с логарифмом, от интеграла с переменными пределами интегрирования, много chain rule), знать что такое разложение Тейлора, уметь пользоваться эквивалентностями.\nДалее из линейной алгебры нужны были как всегда собственные значения\/вектора, была интересная постановка задачи, где нужно было уметь приводить квадратичную форму к главным осям ортогональным преобразованием, и ещё нужно было знать, что максимизация чего то там(мотивированный человек найдет) эквивалентна максимизации квадратичной формы на векторе длины один(я не знал такой факт, но дошёл до него, жаль, что так до конца и не решил), а так же тот факт, что ортогональное преобразование сохраняет длины векторов и углы между ними. Оказалось, что это довольно банальная задача и всякие РЭШ экономисты её проходят.\nДалее диффур простенький, который решался обычными методами. (В отличие от Вышкинского, который подпалил мне пердак, там нужно было делать замену x^2*exp(y)=z). Задачника Филиппова за глаза.\nЗадача на теорию вероятности была не обычная для DS программы, но стандартная для курса теорвера, нужно было хорошо понимать что такое вероятность геометрически. Советую посмотреть различные задачи с иголкой и окружностями.\nДалее шла спец часть из одной задачи, где нужно по моему ощущению нужно было знать что такое сортировка пузырьком и уметь  доказывать её сложность. \nВ целом ощущения очень положительные, в основном эта была проверка базовых методов, но в отличие от экзамена на DS(не на STL) в Вышке, где помимо методов нужно было уметь и считать без ошибок(какое-нибудь возьмите шесть раз по частям интеграл, но я уже и на Олимпиаде понял, что там любят давать жесть для хомячков (по типу меня), кто привык решать стандартные задачи понятными методами), вычисления были простые и адекватные. \nЕщё в процесс отбора входит собеседование, так что нужно нарабатывать то, чем Вы сможете выделиться среди остальных: статьи, олимпиады, крутой диплом по классной теме. Всё на английском, так что его знания было бы тоже неплохо подкачать. Очень понравился case study в командах, у меня и до этого был опыт, но когда у команд есть реальная мотивация в баллах, то это совсем другое и тема была очень интересная, я реально ушёл от туда немного больше осознав, причем о той сфере, о которой я раньше не задумывался. Подробности не могу, там черным по белому было написано о том, что распространять нельзя. Боятся не стоит, стоит получить кайф, я даже особо не замечал, что бегают тьютеры и смотрят на тебя, как ты участвуешь (хотя я всегда такие вещи вижу). \nВот такое эссе.",
+        "user": "U36Q9NJMD",
+        "ts": "1501884347.167277",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1501885164.000000"
+        },
+        "thread_ts": "1501016361.890459",
+        "parent_user_id": "U411PKASW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU",
+                    "U1UC11GGN",
+                    "U44A57Q1G",
+                    "U31S67ZC5",
+                    "U32LFQJLR",
+                    "U1GMCNV3M"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/CamDavidsonPilon\/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers>",
+        "user": "U49A8JCKW",
+        "ts": "1501908216.020812",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5320e5adbef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f5320e5adbefd6da627bddbc4dba6e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Rustam",
+            "real_name": "Rustam Agzamov",
+            "display_name": "agzamovr",
+            "team": "T040HKJE3",
+            "name": "agzamovr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "CamDavidsonPilon\/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "title_link": "https:\/\/github.com\/CamDavidsonPilon\/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "text": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers - aka &amp;quot;Bayesian Methods for Hackers&amp;quot;: An introduction to Bayesian methods + probabilistic programming with a computation\/underst...",
+                "fallback": "GitHub: CamDavidsonPilon\/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "from_url": "https:\/\/github.com\/CamDavidsonPilon\/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/884032?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1501856630.531764",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1HHX1QS3",
+                    "U1G303UTW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

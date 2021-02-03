@@ -1,0 +1,589 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487151821.002415",
+        "user": "U450M3R96",
+        "text": "<@U450M3R96> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "kd: В итоге сертификат то выдали?:blush:\nПросто сам сейчас активно подумываю начать проходить данный курс, хотелось бы знать о   всех подводных камнях.",
+        "user": "U44H5N3C1",
+        "ts": "1487157791.002416",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "963eb223a909",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-14\/140811777729_963eb223a9099fb57b50_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Kondratev",
+            "display_name": "ksenon2611",
+            "team": "T040HKJE3",
+            "name": "ksenon2611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1482320262.000296",
+        "parent_user_id": "U126TCE79"
+    },
+    {
+        "type": "message",
+        "text": "Выдали, да. У них был трэш из-за запуска новых нанодигри, поэтому сертификата пришлось ждать месяц.",
+        "user": "U126TCE79",
+        "ts": "1487158092.002418",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1482320262.000296",
+        "parent_user_id": "U126TCE79"
+    },
+    {
+        "type": "message",
+        "text": "Там, в общем-то, нет подводных камней :slightly_smiling_face: Единственное, что курс может показаться простым, но никто не мешает придумывать себе прямо там задачи посложнее. Ну и реально упор надо делать на capstone, там можно разгуляться как следует",
+        "user": "U126TCE79",
+        "ts": "1487158155.002420",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1482320262.000296",
+        "parent_user_id": "U126TCE79"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487159174.002422",
+        "user": "U46DLEJ23",
+        "text": "<@U46DLEJ23> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487159178.002423",
+        "user": "U46D9854N",
+        "text": "<@U46D9854N> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "У меня главная цель - понять структуру (поэтапный процесс) решения задач на Kaggle, понять как в Питоне работают различные методы (preprocessing, feature engineering, stacking, xgboost, NN),  в теории вроде понятно, а как реализовать это в Питоне - знаний и опыта нет.\nНадеюсь, что этот курс даст мне эти знания.",
+        "user": "U44H5N3C1",
+        "ts": "1487159303.002424",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "963eb223a909",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-14\/140811777729_963eb223a9099fb57b50_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Kondratev",
+            "display_name": "ksenon2611",
+            "team": "T040HKJE3",
+            "name": "ksenon2611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1482320262.000296",
+        "parent_user_id": "U126TCE79"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487161028.002426",
+        "user": "U45R9VBC4",
+        "text": "<@U45R9VBC4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487161723.002427",
+        "user": "U46E0DNNB",
+        "text": "<@U46E0DNNB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487165762.002428",
+        "user": "U45MSU60K",
+        "text": "<@U45MSU60K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487169086.002430",
+        "user": "U45SXGR60",
+        "text": "<@U45SXGR60> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487171382.002431",
+        "user": "U46G6KEDV",
+        "text": "<@U46G6KEDV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "ребят, какой есть хороший крус по ооп на питоне ? или даже так, какой хорошй курс подойдет, чтоб поднять свои навыки в питоне от рисеча в ноутбуках к проду ?:good-enough:",
+        "user": "U1NLYUY5N",
+        "ts": "1487172044.002432",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5587a8952dad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-04\/56716271136_5587a8952dad95d9f920_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Danilchenko",
+            "display_name": "leonid.danilchenko",
+            "team": "T040HKJE3",
+            "name": "leonid.danilchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1NLYUY5N",
+            "ts": "1487172151.000000"
+        },
+        "thread_ts": "1487172044.002432",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1487266625.002515",
+        "reply_users": [
+            "U1D4RRA7K",
+            "U14DA0Y4U",
+            "U40N03RGC"
+        ],
+        "replies": [
+            {
+                "user": "U1D4RRA7K",
+                "ts": "1487172511.002439"
+            },
+            {
+                "user": "U14DA0Y4U",
+                "ts": "1487175890.002457"
+            },
+            {
+                "user": "U1D4RRA7K",
+                "ts": "1487176232.002461"
+            },
+            {
+                "user": "U40N03RGC",
+                "ts": "1487266625.002515"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Если хочешь научиться решать Кагл, то идёшь и решаешь Кагл :slightly_smiling_face: Курс тут если и поможет, то как-то сбоку",
+        "user": "U126TCE79",
+        "ts": "1487172494.002437",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9724d1dce640",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91444268375_9724d1dce64024a58c39_72.png",
+            "first_name": "Kirill",
+            "real_name": "Kirill Danilyuk",
+            "display_name": "kd",
+            "team": "T040HKJE3",
+            "name": "kd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1482320262.000296",
+        "parent_user_id": "U126TCE79"
+    },
+    {
+        "type": "message",
+        "text": "leonid.danilchenko: <https:\/\/compscicenter.ru\/courses\/python\/2015-autumn\/>\nмне кажется очень клевым, так как Сережа оч круто ведет",
+        "user": "U1D4RRA7K",
+        "ts": "1487172511.002439",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b5f74273bbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-01\/47160668965_b5f74273bbb87e4a1f8d_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Pershin",
+            "display_name": "pershinmr",
+            "team": "T040HKJE3",
+            "name": "pershinmr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1487172044.002432",
+        "parent_user_id": "U1NLYUY5N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1FLG6YR1",
+                    "U3PETUSSE",
+                    "U19EZ8L5D",
+                    "U342T2PT2",
+                    "U14DA0Y4U",
+                    "U04ELQZAU",
+                    "U1D6DT6HE",
+                    "U08AQT606"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/mipt.ru\/news\/mashinnoe_obuchenie_i_analiz_dannykh_pervyy_vypusk_spetsializatsii>",
+        "user": "U27H0D18B",
+        "ts": "1487173210.002442",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g246ddba40e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/99246ddba40e9ae44cdadb016fd68a94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Slava",
+            "real_name": "Slava Smirnov",
+            "display_name": "slava.smirnov",
+            "team": "T040HKJE3",
+            "name": "slava.smirnov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27H0D18B",
+            "ts": "1487173246.000000"
+        },
+        "attachments": [
+            {
+                "title": "«Машинное обучение и анализ данных»: первый выпуск специализации",
+                "title_link": "https:\/\/mipt.ru\/news\/mashinnoe_obuchenie_i_analiz_dannykh_pervyy_vypusk_spetsializatsii",
+                "text": "Состоялся первый выпуск специализации «Машинное обучение и анализ данных», созданной совместно МФТИ и Yandex и запущенной на Coursera почти год назад.",
+                "fallback": "«Машинное обучение и анализ данных»: первый выпуск специализации",
+                "image_url": "http:\/\/mipt.ru\/upload\/iblock\/b81\/zvv_6062.jpg",
+                "from_url": "https:\/\/mipt.ru\/news\/mashinnoe_obuchenie_i_analiz_dannykh_pervyy_vypusk_spetsializatsii",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 1076810,
+                "service_icon": "https:\/\/mipt.ru\/images\/logo_120p.png",
+                "service_name": "mipt.ru",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1487173210.002442",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1487438664.002564",
+        "reply_users": [
+            "U404R1FL7",
+            "U451HS4H5",
+            "U14BPHDK6",
+            "U27H0D18B",
+            "U44EV6XFX"
+        ],
+        "replies": [
+            {
+                "user": "U404R1FL7",
+                "ts": "1487239841.002484"
+            },
+            {
+                "user": "U451HS4H5",
+                "ts": "1487240918.002486"
+            },
+            {
+                "user": "U404R1FL7",
+                "ts": "1487245547.002492"
+            },
+            {
+                "user": "U451HS4H5",
+                "ts": "1487249561.002496"
+            },
+            {
+                "user": "U451HS4H5",
+                "ts": "1487249603.002498"
+            },
+            {
+                "user": "U14BPHDK6",
+                "ts": "1487264581.002510"
+            },
+            {
+                "user": "U27H0D18B",
+                "ts": "1487321239.002538"
+            },
+            {
+                "user": "U44EV6XFX",
+                "ts": "1487438241.002560"
+            },
+            {
+                "user": "U14BPHDK6",
+                "ts": "1487438664.002564"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U040M0W0S",
+                    "U2ZAVPXND",
+                    "U19EZ8L5D",
+                    "U3P21SHSR",
+                    "U1UNFRQ1K",
+                    "U1Z40FGQ6",
+                    "U3U0AKQ0Y",
+                    "U14BPHDK6",
+                    "U0L4KM9R9",
+                    "U3XDRJZ9A",
+                    "U1D6DT6HE",
+                    "U3P28DQ5T",
+                    "U1BMURR5G",
+                    "U29EQRRSP",
+                    "U0ZJ45AD8"
+                ],
+                "count": 15
+            },
+            {
+                "name": "likeaboss",
+                "users": [
+                    "U2ZAVPXND",
+                    "U19EZ8L5D",
+                    "U3NV5ADL4",
+                    "U14D53D2Q",
+                    "U14BPHDK6",
+                    "U1D6DT6HE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "izbranniy",
+                "users": [
+                    "U1UM6S9KN",
+                    "U14BPHDK6",
+                    "U48SE2GAK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Похоже, сотня человек закончила первую спецуху на курсере ",
+        "user": "U27H0D18B",
+        "ts": "1487173250.002445",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g246ddba40e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/99246ddba40e9ae44cdadb016fd68a94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Slava",
+            "real_name": "Slava Smirnov",
+            "display_name": "slava.smirnov",
+            "team": "T040HKJE3",
+            "name": "slava.smirnov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27H0D18B",
+            "ts": "1487173358.000000"
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1UM6S9KN",
+                    "U14BPHDK6",
+                    "U1D6DT6HE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Я летом как раз такое число и прогнозировал. Думаю, что это будет самый большой выпуск.",
+        "user": "U1UM6S9KN",
+        "ts": "1487173820.002450",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf93d79acd22",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65f93d79acd22d4013e301d493fcdd69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick",
+            "display_name": "notabene",
+            "team": "T040HKJE3",
+            "name": "notabene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "задач не хватает правда",
+        "user": "U14DA0Y4U",
+        "ts": "1487175890.002457",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7c15b46aaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179636334660_7c15b46aaddd3e6e9f69_72.jpg",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Kassym",
+            "display_name": "vla",
+            "team": "T040HKJE3",
+            "name": "vla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1487172044.002432",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "text": "<@U14DA0Y4U> можно поступить в CSC — откроется доступ ко вкладке с заданиями :kekeke:",
+        "user": "U1D4RRA7K",
+        "ts": "1487176232.002461",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b5f74273bbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-01\/47160668965_b5f74273bbb87e4a1f8d_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Pershin",
+            "display_name": "pershinmr",
+            "team": "T040HKJE3",
+            "name": "pershinmr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1487172044.002432",
+        "parent_user_id": "U1NLYUY5N"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487177450.002463",
+        "user": "U456FU272",
+        "text": "<@U456FU272> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487177581.002464",
+        "user": "U45R918SF",
+        "text": "<@U45R918SF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487177632.002465",
+        "user": "U46HWH9L6",
+        "text": "<@U46HWH9L6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487177885.002466",
+        "user": "U460L21NZ",
+        "text": "<@U460L21NZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487178118.002467",
+        "user": "U46J2852A",
+        "text": "<@U46J2852A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487179325.002468",
+        "user": "U46JFER38",
+        "text": "<@U46JFER38> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487180944.002470",
+        "user": "U46JYA72A",
+        "text": "<@U46JYA72A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487191426.002473",
+        "user": "U46N2PAF8",
+        "text": "<@U46N2PAF8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487193031.002475",
+        "user": "U45BZ5DNV",
+        "text": "<@U45BZ5DNV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487219994.002478",
+        "user": "U46T36RAA",
+        "text": "<@U46T36RAA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487223087.002479",
+        "user": "U46TQJ77H",
+        "text": "<@U46TQJ77H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487225494.002480",
+        "user": "U46TYAANT",
+        "text": "<@U46TYAANT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487229543.002482",
+        "user": "U45HFJLC9",
+        "text": "<@U45HFJLC9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1487231080.002483",
+        "user": "U0XR20SA1",
+        "text": "<@U0XR20SA1> has left the channel"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "ac822a3d-0020-4117-a77c-5adf2266148b",
+        "type": "message",
+        "text": "<@U600Q839S> а там есть домашки, и как они?",
+        "user": "U9V48C738",
+        "ts": "1576487960.033000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78092502e20b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-02\/427031868208_78092502e20bb23c87f6_72.jpg",
+            "first_name": "Insaf",
+            "real_name": "Insaf",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "oopx",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=4kZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U600Q839S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а там есть домашки, и как они?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "0364af02-0453-4eed-936c-f0789ebfdaf0",
+        "type": "message",
+        "text": "Нет, там только видео. Во второй части вроде какието проекты появились",
+        "user": "U600Q839S",
+        "ts": "1576488036.033300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Нет, там только видео. Во второй части вроде какието проекты появились"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U9V48C738"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7aead6b-8cde-49a1-a446-912c4ada2475",
+        "type": "message",
+        "text": "<@U600Q839S> добрый день!\nВы случайно не знакомы с этим курсом?\nИнтересует сравнение с курсом который вы хвалите.\n<https:\/\/www.youtube.com\/watch?v=f79MRyMsjrQ&amp;list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f>",
+        "user": "UMKQYEXV1",
+        "ts": "1576497588.034300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fac068451158",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-01\/772694208737_fac06845115818cfeaff_72.jpg",
+            "first_name": "",
+            "real_name": "Zurab",
+            "display_name": "Zurab",
+            "team": "T040HKJE3",
+            "name": "kavtaradzezurab2018",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UMKQYEXV1",
+            "ts": "1576497620.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Python Tutorial for Programmers - Python Crash Course",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=f79MRyMsjrQ",
+                "author_name": "Programming with Mosh",
+                "author_link": "https:\/\/www.youtube.com\/user\/programmingwithmosh",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/f79MRyMsjrQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Python Tutorial for Programmers - Python Crash Course",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/f79MRyMsjrQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=f79MRyMsjrQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=f79MRyMsjrQ&amp;list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Zk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U600Q839S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " добрый день!\nВы случайно не знакомы с этим курсом?\nИнтересует сравнение с курсом который вы хвалите.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=f79MRyMsjrQ&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    },
+    {
+        "client_msg_id": "6cbef6be-7892-44d0-a870-1065999d9671",
+        "type": "message",
+        "text": "<@UMKQYEXV1> нет, не знаком",
+        "user": "U600Q839S",
+        "ts": "1576497990.034700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "75ddcb06c7e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249200141216_75ddcb06c7e1e502b440_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Elizarov",
+            "display_name": "mikh_e",
+            "team": "T040HKJE3",
+            "name": "melizarov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UMKQYEXV1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " нет, не знаком"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576360310.023200",
+        "parent_user_id": "U600Q839S"
+    }
+]

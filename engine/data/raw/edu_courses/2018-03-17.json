@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "6c40ff74-f0c8-4d0b-ad84-e3ab08ddd2e8",
+        "type": "message",
+        "text": "Я проходил по Питону курс, вполне годно. Как точка старта с нуля хорошо, если заниматься. По пхп работу найдёт после курса 100%",
+        "user": "U4U4GFDNK",
+        "ts": "1521275484.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3797934893b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-03\/162756909904_3797934893b3f4ee0ac4_72.jpg",
+            "first_name": "Belskikh",
+            "real_name": "Belskikh Aleksandr",
+            "display_name": "belskikh",
+            "team": "T040HKJE3",
+            "name": "belskikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521025567.000378",
+        "parent_user_id": "U41LXEY3Z"
+    },
+    {
+        "type": "message",
+        "text": "А у нас есть отдельный канал по <https:\/\/www.deeplearning.ai\/> от Andrew Ng? Ожидаемый и реальный output с функций идентичен, но грейдеру не нравится что-то, а его сообщение `Sorry, your submission was incorrect. Please try again.` не направляет в какую сторону смотреть",
+        "user": "U5S11SHM4",
+        "ts": "1521299527.000075",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5S11SHM4",
+            "ts": "1521299534.000000"
+        },
+        "thread_ts": "1521299527.000075",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1521451865.000206",
+        "reply_users": [
+            "U53E5MFNU",
+            "U2LF67NRH",
+            "U5S11SHM4",
+            "U27SUBTB9"
+        ],
+        "replies": [
+            {
+                "user": "U53E5MFNU",
+                "ts": "1521302195.000132"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1521303075.000140"
+            },
+            {
+                "user": "U2LF67NRH",
+                "ts": "1521306148.000028"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1521315021.000078"
+            },
+            {
+                "user": "U53E5MFNU",
+                "ts": "1521315223.000009"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1521317000.000040"
+            },
+            {
+                "user": "U27SUBTB9",
+                "ts": "1521366550.000032"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1521448883.000005"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1521450483.000486"
+            },
+            {
+                "user": "U5S11SHM4",
+                "ts": "1521451865.000206"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "какой курс и какое дз?",
+        "user": "U53E5MFNU",
+        "ts": "1521302195.000132",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "там бывает то что синтаксис надо сохранять, к примеру умножение прописывать чз tf. вместо прямого a*b итд",
+        "user": "U53E5MFNU",
+        "ts": "1521303075.000140",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U53E5MFNU",
+            "ts": "1521303082.000000"
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "на форуме все такие кейсы описаны. из последнего помню что не была пройдена проверка на неравенство нулю",
+        "user": "U2LF67NRH",
+        "ts": "1521306148.000028",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "087122207b96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-06\/150135983251_087122207b966be41b0b_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Pleskov",
+            "display_name": "ppleskov",
+            "team": "T040HKJE3",
+            "name": "ppleskov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U53E5MFNU> <@U2LF67NRH> курс 1, неделя 4, `Programming Assignment: Building your deep neural network: Step by Step`,  `L Model Forward`, хотя все функции, которые юзает эта функция - прошли. и `L model backward` - аналогично",
+        "user": "U5S11SHM4",
+        "ts": "1521315021.000078",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/Kulbear\/deep-learning-coursera\/blob\/master\/Neural%20Networks%20and%20Deep%20Learning\/Deep%20Neural%20Network%20-%20Application.ipynb>",
+        "user": "U53E5MFNU",
+        "ts": "1521315223.000009",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f2d2baa7f63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-02\/715176588101_1f2d2baa7f63cc36e48c_72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Shvets",
+            "display_name": "shvetsiya",
+            "team": "T040HKJE3",
+            "name": "shvetsiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4"
+    },
+    {
+        "type": "message",
+        "text": "<@U53E5MFNU> мне <https:\/\/github.com\/Kulbear\/deep-learning-coursera\/blob\/master\/Neural%20Networks%20and%20Deep%20Learning\/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb> нужен. спасибо, буду смотреть!",
+        "user": "U5S11SHM4",
+        "ts": "1521317000.000040",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e9d132aa68d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-12\/632724357748_e9d132aa68d0bc971621_72.jpg",
+            "first_name": "iamtodor",
+            "real_name": "iamtodor",
+            "display_name": "iamtodor",
+            "team": "T040HKJE3",
+            "name": "iamtodor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Neural Networks and Deep Learning\/Building your Deep Neural Network - Step by Step.ipynb",
+                "text": "```\n{\n \"cells\": [\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},\n   \"source\": [\n    \"# Building your Deep Neural Network: Step by Step\\n\",\n    \"\\n\",\n    \"Welcome to your week 4 assignment (part 1 of 2)! You have previously trained a 2-layer Neural Network (with a single hidden layer). This week, you will build a deep neural network, with as many layers as you want!\\n\",\n    \"\\n\",\n    \"- In this notebook, you will implement all the functions required to build a deep neural network.\\n\",\n    \"- In the next assignment, you will use these functions to build a deep neural network for image classification.\\n\",\n    \"\\n\",\n    \"**After this assignment you will be able to:**\\n\",\n    \"- Use non-linear units like ReLU to improve your model\\n\",\n    \"- Build a deeper neural network (with more than 1 hidden layer)\\n\",\n    \"- Implement an easy-to-use neural network class\\n\",\n    \"\\n\",\n    \"**Notation**:\\n\",\n    \"- Superscript $[l]$ denotes a quantity associated with the $l^{th}$ layer. \\n\",\n    \"    - Example: $a^{[L]}$ is the $L^{th}$ layer activation. $W^{[L]}$ and $b^{[L]}$ are the $L^{th}$ layer parameters.\\n\",\n    \"- Superscript $(i)$ denotes a quantity associated with the $i^{th}$ example. \\n\",\n    \"    - Example: $x^{(i)}$ is the $i^{th}$ training example.\\n\",\n    \"- Lowerscript $i$ denotes the $i^{th}$ entry of a vector.\\n\",\n    \"    - Example: $a^{[l]}_i$ denotes the $i^{th}$ entry of the $l^{th}$ layer's activations).\\n\",\n    \"\\n\",\n    \"Let's get started!\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},\n   \"source\": [\n    \"## 1 - Packages\\n\",\n    \"\\n\",\n    \"Let's first import all the packages that you will need during this assignment. \\n\",\n    \"- [numpy](<http:\/\/www.numpy.org|www.numpy.org>) is the main package for scientific computing with Python.\\n\",\n    \"- [matplotlib](<http:\/\/matplotlib.org>) is a library to plot graphs in Python.\\n\",\n    \"- dnn_utils provides some necessary functions for this notebook.\\n\",\n    \"- testCases provides some test cases to assess the correctness of your functions\\n\",\n    \"- np.random.seed(1) is used to keep all the random function calls consistent. It will help us grade your work. Please don't change the seed. \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 1,\n   \"metadata\": {\n    \"collapsed\": false\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"import numpy as np\\n\",\n    \"import h5py\\n\",\n    \"import matplotlib.pyplot as plt\\n\",\n    \"from testCases import *\\n\",\n    \"from dnn_utils import sigmoid, sigmoid_backward, relu, relu_backward\\n\",\n    \"\\n\",\n    \"%matplotlib inline\\n\",\n    \"plt.rcParams['figure.figsize'] = (5.0, 4.0) # set default size of plots\\n\",\n    \"plt.rcParams['image.interpolation'] = 'nearest'\\n\",\n    \"plt.rcParams['image.cmap'] = 'gray'\\n\",\n    \"\\n\",\n    \"%load_ext autoreload\\n\",\n    \"%autoreload 2\\n\",\n    \"\\n\",\n    \"np.random.seed(1)\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"collapsed\": true\n   },\n   \"source\": [\n    \"## 2 - Outline of the Assignment\\n\",\n    \"\\n\",\n    \"To build your neural network, you will be implementing several \\\"helper functions\\\". These helper functions will be used in the next assignment to build a two-layer neural network and an L-layer neural network. Each small helper function you will implement will have detailed instructions that will walk you through the necessary steps. Here is an outline of this assignment, you will:\\n\",\n    \"\\n\",\n    \"- Initialize the parameters for a two-layer network and for an $L$-layer neural network.\\n\",\n    \"- Implement the forward propagation module (shown in purple in the figure below).\\n\",\n    \"     - Complete the LINEAR part of a layer's forward propagation step (resulting in $Z^{[l]}$).\\n\",\n    \"     - We give you the ACTIVATION function (relu\/sigmoid).\\n\",\n    \"     - Combine the previous two steps into a new [LINEAR-&gt;ACTIVATION] forward function.\\n\",\n    \"     - Stack the [LINEAR-&gt;RELU] forward function L-1 time (for layers 1 through L-1) and add a [LINEAR-&gt;SIGMOID] at the end (for the final layer $L$). This gives you a new L_model_forward function.\\n\",\n    \"- Compute the loss.\\n\",\n    \"- Implement the backward propagation module (denoted in red in the figure below).\\n\",\n    \"    - Complete the LINEAR part of a layer's backward propagation step.\\n\",\n    \"    - We give you the gradient of the ACTIVATE function (relu_backward\/sigmoid_backward) \\n\",\n    \"    - Combine the previous two steps into a new [LINEAR-&gt;ACTIVATION] backward function.\\n\",\n    \"    - Stack [LINEAR-&gt;RELU] backward L-1 times and add [LINEAR-&gt;SIGMOID] backward in a new L_model_backward function\\n\",\n    \"- Finally update the parameters.\\n\",\n    \"\\n\",\n    \"&lt;img src=\\\"images\/final outline.png\\\" style=\\\"width:800px;height:500px;\\\"&gt;\\n\",\n    \"&lt;caption&gt;&lt;center&gt; **Figure 1**&lt;\/center&gt;&lt;\/caption&gt;&lt;br&gt;\\n\",\n    \"\\n\",\n    \"\\n\",\n    \"**Note** that for every forward function, there is a corresponding backward function. That is why at every step of your forward module you will be storing some values in a cache. The cached values are useful for computing gradients. In the backpropagation module you will then use the cache to calculate the gradients. This assignment will show you exactly how to carry out each of these steps. \"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {\n    \"collapsed\": true\n   },\n   \"source\": [\n    \"## 3 - Initialization\\n\",\n    \"\\n\",\n    \"You will write two helper functions that will initialize the parameters for your model. The first function will be used to initialize parameters for a two layer model. The second one will generalize this initialization process to $L$ layers.\\n\",\n    \"\\n\",\n    \"### 3.1 - 2-layer Neural Network\\n\",\n    \"\\n\",\n    \"**Exercise**: Create and initialize the parameters of the 2-layer neural network.\\n\",\n    \"\\n\",\n    \"**Instructions**:\\n\",\n    \"- The model's structure is: *LINEAR -&gt; RELU -&gt; LINEAR -&gt; SIGMOID*. \\n\",\n    \"- Use random initialization for the weight matrices. Use `np.random.randn(shape)*0.01` with the correct shape.\\n\",\n    \"- Use zero initialization for the biases. Use `np.zeros(shape)`.\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 2,\n   \"metadata\": {\n    \"collapsed\": true\n   },\n   \"outputs\": [],\n   \"source\": [\n    \"# GRADED FUNCTION: initialize_parameters\\n\",\n    \"\\n\",\n    \"def initialize_parameters(n_x, n_h, n_y):\\n\",\n    \"    \\\"\\\"\\\"\\n\",\n    \"    Argument:\\n\",\n    \"    n_x -- size of the input layer\\n\",\n    \"    n_h -- size of the hidden layer\\n\",\n    \"    n_y -- size of the output layer\\n\",\n    \"    \\n\",\n    \"    Returns:\\n\",\n    \"    parameters -- python dictionary containing your parameters:\\n\",\n    \"                    W1 -- weight matrix of shape (n_h, n_x)\\n\",\n    \"                    b1 -- bias vector of shape (n_h, 1)\\n\",\n    \"                    W2 -- weight matrix of shape (n_y, n_h)\\n\",\n    \"                    b2 -- bias vector of shape (n_y, 1)\\n\",\n    \"    \\\"\\\"\\\"\\n\",\n    \"    \\n\",\n    \"    np.random.seed(1)\\n\",\n    \"    \\n\",\n    \"    ### START CODE HERE ### (≈ 4 lines of code)\\n\",\n    \"    W1 = np.random.randn(n_h, n_x) * 0.01\\n\",\n    \"    b1 = np.zeros(shape=(n_h, 1))\\n\",\n    \"    W2 = np.random.randn(n_y, n_h) * 0.01\\n\",\n    \"    b2 = np.zeros(shape=(n_y, 1))\\n\",\n    \"    ### END CODE HERE ###\\n\",\n    \"    \\n\",\n    \"    assert(W1.shape == (n_h, n_x))\\n\",\n    \"    assert(b1.shape == (n_h, 1))\\n\",\n    \"    assert(W2.shape == (n_y, n_h))\\n\",\n    \"    assert(b2.shape == (n_y, 1))\\n\",\n    \"    \\n\",\n    \"    parameters = {\\\"W1\\\": W1,\\n\",\n    \"                  \\\"b1\\\": b1,\\n\",\n    \"                  \\\"W2\\\": W2,\\n\",\n    \"                  \\\"b2\\\": b2}\\n\",\n    \"    \\n\",\n    \"    return parameters    \"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 3,\n   \"metadata\": {\n    \"collapsed\": false,\n    \"scrolled\": true\n   },\n   \"outputs\": [\n    {\n     \"name\": \"stdout\",\n     \"output_type\": \"stream\",\n     \"text\": [\n      \"W1 = [[ 0.01624345 -0.00611756]\\n\",\n      \" [-0.00528172 -0.01072969]]…",
+                "title": "Neural Networks and Deep Learning\/Building your Deep Neural Network - Step by Step.ipynb",
+                "footer": "<https:\/\/github.com\/Kulbear\/deep-learning-coursera|Kulbear\/deep-learning-coursera>",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/Kulbear\/deep-learning-coursera\/blob\/master\/Neural%20Networks%20and%20Deep%20Learning\/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb",
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/Kulbear\/deep-learning-coursera\/blob\/master\/Neural%20Networks%20and%20Deep%20Learning\/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb",
+                "is_app_unfurl": true
+            }
+        ],
+        "thread_ts": "1521299527.000075",
+        "parent_user_id": "U5S11SHM4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U53E5MFNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,887 @@
+[
+    {
+        "client_msg_id": "ce70c4a3-7b3c-4166-a415-da3e31669791",
+        "type": "message",
+        "text": "<@U9ZU1CYUD> тут есть много отзывово об этом курсе. Сам я его не прошел. Занялcя и повяз в классическом ML.",
+        "user": "U5FUU47GA",
+        "ts": "1531215003.000103",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "64ea41e6c5f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-27\/608920976338_64ea41e6c5f958d27292_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Yermakov",
+            "display_name": "Lasteg",
+            "team": "T040HKJE3",
+            "name": "lasteg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502875650.000332",
+        "parent_user_id": "U5FUU47GA"
+    },
+    {
+        "client_msg_id": "7c4b138b-6b6b-4d02-84ac-cf6dd765c067",
+        "type": "message",
+        "text": "Коллеги, привет! \nУже спрашивал тут про SQL, штудирую, нужен совет. Как эффективно прокачаться и подготовиться к боевому проекту? Что нужно будет делать: разбираться и править чужой код, оптимизировать запросы по использованию памяти и процессора. Может, что-то еще. На данный момент прошел «Joining Data in PostgreSQL» на datacamp и решаю задачи на <http:\/\/sql-ex.ru|sql-ex.ru>  но есть ощущение, что этого недостаточно. Время на раскачку – 2 – 3 недели. Очень нужно!",
+        "user": "U93S7NL76",
+        "ts": "1531219839.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "reply_count": 22,
+        "reply_users_count": 9,
+        "latest_reply": "1531310255.000104",
+        "reply_users": [
+            "U5R6WCSBU",
+            "U44J8KC13",
+            "U6URRB952",
+            "U93S7NL76",
+            "U14CTBLFJ",
+            "U0JKYTE4B",
+            "U15V81K6V",
+            "U3K7PNTML",
+            "U8GGBPGR3"
+        ],
+        "replies": [
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1531219995.000134"
+            },
+            {
+                "user": "U44J8KC13",
+                "ts": "1531220072.000091"
+            },
+            {
+                "user": "U6URRB952",
+                "ts": "1531220124.000075"
+            },
+            {
+                "user": "U93S7NL76",
+                "ts": "1531220206.000069"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1531220294.000290"
+            },
+            {
+                "user": "U93S7NL76",
+                "ts": "1531220400.000128"
+            },
+            {
+                "user": "U5R6WCSBU",
+                "ts": "1531220471.000081"
+            },
+            {
+                "user": "U93S7NL76",
+                "ts": "1531220563.000156"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1531221570.000135"
+            },
+            {
+                "user": "U14CTBLFJ",
+                "ts": "1531221839.000071"
+            },
+            {
+                "user": "U93S7NL76",
+                "ts": "1531222206.000083"
+            },
+            {
+                "user": "U44J8KC13",
+                "ts": "1531222381.000287"
+            },
+            {
+                "user": "U93S7NL76",
+                "ts": "1531225098.000111"
+            },
+            {
+                "user": "U0JKYTE4B",
+                "ts": "1531226557.000225"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531230386.000346"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531230389.000294"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531230422.000241"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531230450.000250"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531231187.000033"
+            },
+            {
+                "user": "U15V81K6V",
+                "ts": "1531231209.000738"
+            },
+            {
+                "user": "U3K7PNTML",
+                "ts": "1531243385.000549"
+            },
+            {
+                "user": "U8GGBPGR3",
+                "ts": "1531310255.000104"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "371d378b-9cb4-4803-86c9-3acb6b82703d",
+        "type": "message",
+        "text": "этот курс был хороший <https:\/\/stepik.org\/course\/3203\/syllabus>",
+        "user": "U5R6WCSBU",
+        "ts": "1531219995.000134",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1531220004.000000"
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8GGBPGR3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b340333-63c3-4586-9a07-19d9a774e7f1",
+        "type": "message",
+        "text": "погугли на хабре статьи про постгрес, у него много своих фичей которые выходят за рамки стандарта SQL но очень нужные. особенно про FTS (полнотекстовый поиск) и еще про работу со временем. у него есть расширение - время с таймзоной (в стандарте без таймзоны). очень классная вещь",
+        "user": "U44J8KC13",
+        "ts": "1531220072.000091",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "a3c24c3a-1011-4df5-8c25-9ac2094131fe",
+        "type": "message",
+        "text": "курс больше про проектирование БД, как понимаю, но человеку же нужны скиллы по запросам? <@U93S7NL76>, верно? Советую еще почитать и понять как делаются оконные функции: <https:\/\/blog.statsbot.co\/sql-window-functions-tutorial-b5075b87d129>\nНу и вообще почитать медиум",
+        "user": "U6URRB952",
+        "ts": "1531220124.000075",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "614c9761a45b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-27\/972889469392_614c9761a45be78305c7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Keremet",
+            "display_name": "maximkeremet",
+            "team": "T040HKJE3",
+            "name": "maximkeremet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6URRB952",
+            "ts": "1531220151.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stats and Bots",
+                "title": "SQL Window Functions Tutorial for Business Analysis",
+                "title_link": "https:\/\/blog.statsbot.co\/sql-window-functions-tutorial-b5075b87d129",
+                "text": "The most popular business problems solved with SQL",
+                "fallback": "Stats and Bots: SQL Window Functions Tutorial for Business Analysis",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*ZzaWDzG9BnL9gE5GP-yCcA.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "12 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1512657513,
+                "from_url": "https:\/\/blog.statsbot.co\/sql-window-functions-tutorial-b5075b87d129",
+                "image_width": 668,
+                "image_height": 250,
+                "image_bytes": 83244,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*nxO9neYPs2h2_JuVO5yUow.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.statsbot.co\/sql-window-functions-tutorial-b5075b87d129"
+            }
+        ],
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "818b681e-a0bd-4231-83e2-2b7c8e2072a1",
+        "type": "message",
+        "text": "я подписался со старта, кое как первую неделю дорешал через баги и забил. Какие то проблемы были с проверяющей системой, точно уже не помню и никто не реагировал.\n\n Наверно наличие хорошего преподавателя и команды должно компенсировать их занятость и отсутсвие поддержки, но что -то пошло не так.",
+        "user": "U5R6WCSBU",
+        "ts": "1531220173.000201",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531121591.000239",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "bfef0163-2cf5-4e2d-8af4-be6068b5362a",
+        "type": "message",
+        "text": "Да, нужны скилы по запросам, на уровне выше начального.",
+        "user": "U93S7NL76",
+        "ts": "1531220206.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "6704c290-2460-4b01-9135-c735f520eac0",
+        "type": "message",
+        "text": "курс на степике даст все, там довольно продуманные задания и как раз запросов средней сложности написать придется не так уж и мало. Более того он подготовлен людьми причастными к <http:\/\/postgrespro.ru|postgrespro.ru> , а у них опыта достаточно чтобы дать хороший материал.\n\nтам что то было и про оптимизацию и про проектирование, но точно уже не помню, можно по темам посмотреть.",
+        "user": "U5R6WCSBU",
+        "ts": "1531220294.000290",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5R6WCSBU",
+            "ts": "1531220340.000000"
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7G86DMM3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b3653ab-f231-4f01-bc61-b0f0e052d3ab",
+        "type": "message",
+        "text": "А сколько по времени нужно откладывать на этот курс?",
+        "user": "U93S7NL76",
+        "ts": "1531220400.000128",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "8693d448-e9dc-441a-bc3b-12bf28402946",
+        "type": "message",
+        "text": "ну я его делал с дедлайнами вроде проблем небыло со временем, ничего такого, что пришлось бы отложить на потом не помню, хотя пара заданий была довольно сложных. Думаю тут сильно зависит от базы, но если не напрягаться то в течении недели думаю пройти можно. В крайнем случае можно просмотреть лекции ускоренно, чтобы понимать суть и если интересно -делать задачи.",
+        "user": "U5R6WCSBU",
+        "ts": "1531220471.000081",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "31fde2319188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-23\/201862069921_31fde2319188e11e6836_72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Zinoviev",
+            "display_name": "artem_z",
+            "team": "T040HKJE3",
+            "name": "artem_z",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "5a864a9d-9590-4a87-bcb5-e164bce59429",
+        "type": "message",
+        "text": "ну может что-то правят со временем) хочется верить в лучшее",
+        "user": "U1X9AEGV6",
+        "ts": "1531220519.000058",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7459d3827d17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-06\/208665998978_7459d3827d17608741b8_72.jpg",
+            "first_name": "Shumilin2604",
+            "real_name": "Shumilin2604 Alexandr",
+            "display_name": "unicod3",
+            "team": "T040HKJE3",
+            "name": "unicod3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531121591.000239",
+        "parent_user_id": "U1X9AEGV6"
+    },
+    {
+        "client_msg_id": "6d9d91c7-697d-4c43-86f1-34f6b660648a",
+        "type": "message",
+        "text": "на <http:\/\/blog.statsbot.co|blog.statsbot.co> статья хорошая, но нет практики. нужно же руку набить, а не только понять",
+        "user": "U93S7NL76",
+        "ts": "1531220563.000156",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "85b811c4-c0e3-438f-919e-d6e15f4a5ee7",
+        "type": "message",
+        "text": "- разобраться с индексами, движками БД\/таблиц, пронс\/конс\n- шардирование\n- как правильно делать джоины, когда правильно не делать джоины, как читать план выполнения запроса\n- аггрегаты и оконные функции, да\n\nДля практики можно взять нагенерить faker`ом(либа Python)БД на пару десятков ГБ и начать её нормализировать\/тюнить(см <#C16CCPQCS|edu_books>, например, я там книгу небольшую положил). Прикрутить индексы, замутить шардирование, всё покрыть планами выполнения(да хоть <http:\/\/tatiyants.com\/pev\/#\/plans>). \nВеселья хватит отсюда и до воскресенья.",
+        "user": "U14CTBLFJ",
+        "ts": "1531221570.000135",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "14b88bfe-9962-467e-a48b-e8b5d9e1a92a",
+        "type": "message",
+        "text": "+ Как правило, в проекте данные не живут в вакууме и к ним прилетают запросы, которые могут положить бекенд даже не из-за тупяжа БД, а просто потому, что нет кэша\/он сломался\/етк. Полезно также представлять почему БД является узким местом в \"типичном нагруженном REST\" и как этого можно избежать на уровне БД и бекенда.\nУ <http:\/\/Mail.ru|Mail.ru> на Youtube есть про это в курсе Highload, есть записи конференции Highload и есть что-то по теме в паре курсов того же <http:\/\/Mail.ru|Mail.ru> про БД.",
+        "user": "U14CTBLFJ",
+        "ts": "1531221839.000071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g02622ad2441",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea02622ad2441f0c9f7f0351773a1c34.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem",
+            "display_name": "artem",
+            "team": "T040HKJE3",
+            "name": "artem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U14CTBLFJ",
+            "ts": "1531221855.000000"
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "5cf35783-991c-418a-883a-91d9a2befabb",
+        "type": "message",
+        "text": "За книгу спасибо, сразу нашел в ней вопрос, который был на собесе. оптимизировать SELECT count(*) FROM tab",
+        "user": "U93S7NL76",
+        "ts": "1531222206.000083",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "7c5b47c8-59c2-42e1-bb03-ce48e3027cee",
+        "type": "message",
+        "text": "и еще посмотри работу с форматом JSONB",
+        "user": "U44J8KC13",
+        "ts": "1531222381.000287",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ee63abe6fa1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-08\/150900557329_ee63abe6fa1a64bfe7b4_72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Selunin",
+            "display_name": "aideveloper",
+            "team": "T040HKJE3",
+            "name": "aideveloper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U44J8KC13",
+            "ts": "1531222436.000000"
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "bec1b22b-5c9f-4fb2-866a-9add09ab8c5d",
+        "type": "message",
+        "text": "Коллеги, спасибо, буду пробовать.",
+        "user": "U93S7NL76",
+        "ts": "1531225098.000111",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ga9866180e0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2a9866180e0d65b9ab5ebcb8c1b5ab4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Saponov",
+            "display_name": "Dmitry",
+            "team": "T040HKJE3",
+            "name": "dsaponov1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "377dd719-954b-48dc-a12d-601043030db4",
+        "type": "message",
+        "text": "Подписаться на pg-hackers :white_check_mark: <https:\/\/www.postgresql.org\/list\/pgsql-hackers\/>",
+        "user": "U0JKYTE4B",
+        "ts": "1531226557.000225",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3d6641a379dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1403130875956_3d6641a379dd5c317d0b_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Khvostishkov",
+            "display_name": "ivan.khvostishkov",
+            "team": "T040HKJE3",
+            "name": "ivan.khvostishkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "49d73e87-907e-4b74-b85a-d023d0755614",
+        "type": "message",
+        "text": "1Z0-054 : Oracle Database 11g: Performance Tuning",
+        "user": "U15V81K6V",
+        "ts": "1531230386.000346",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "39c8fc5f-e1cc-473b-881d-a6ba88385371",
+        "type": "message",
+        "text": "1Z0-071: Oracle Database 12c SQL: Oracle Certification",
+        "user": "U15V81K6V",
+        "ts": "1531230389.000294",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "390941b7-2061-45da-8f5d-f2c97d50ed0b",
+        "type": "message",
+        "text": "подготовся и сдай, в 90% случаев больше не нужно....",
+        "user": "U15V81K6V",
+        "ts": "1531230422.000241",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "fcaed485-fd3f-4e03-9aaa-aedb857fbfbf",
+        "type": "message",
+        "text": "тюнинг, конечно, больше в специфике оракла, но там есть и общие подходы",
+        "user": "U15V81K6V",
+        "ts": "1531230450.000250",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "95d79059-4fdf-483a-a971-d5be814702b7",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/Expert-Oracle-Database-Architecture-Thomas\/dp\/1430262982?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&amp;tag=duckduckgo-d-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1430262982>",
+        "user": "U15V81K6V",
+        "ts": "1531231187.000033",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "6adbbc5f-6529-4fc9-9d3a-590e6c7bb2ef",
+        "type": "message",
+        "text": "и вот такую штуку почитать и попрактиковаться в шардингах и других интересных вещах",
+        "user": "U15V81K6V",
+        "ts": "1531231209.000738",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "18d795dcd924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354719253015_18d795dcd924d344b8fe_72.jpg",
+            "first_name": "exotol",
+            "real_name": "exotol",
+            "display_name": "exotol",
+            "team": "T040HKJE3",
+            "name": "exotol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76"
+    },
+    {
+        "client_msg_id": "8eeb3225-5de0-4428-a97e-a2394cde306a",
+        "type": "message",
+        "text": "почитать для общего развития <https:\/\/habr.com\/company\/mailru\/blog\/266811\/>",
+        "user": "U3K7PNTML",
+        "ts": "1531243385.000549",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8d51f0926361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-01-17\/128278815266_8d51f0926361c573895b_72.jpg",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Ribitskiy",
+            "display_name": "ribitskiyb",
+            "team": "T040HKJE3",
+            "name": "ribitskiyb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Как работает реляционная БД",
+                "title_link": "https:\/\/habr.com\/company\/mailru\/blog\/266811\/",
+                "text": "Реляционные базы данных (РБД) используются повсюду. Они бывают самых разных видов, от маленьких и полезных SQLite до мощных Teradata. Но в то же время...",
+                "fallback": "Как работает реляционная БД",
+                "image_url": "https:\/\/habrastorage.org\/files\/1e7\/e05\/af0\/1e7e05af0dc24cf2977fdd6e2bd69e9a.jpg",
+                "from_url": "https:\/\/habr.com\/company\/mailru\/blog\/266811\/",
+                "image_width": 234,
+                "image_height": 250,
+                "image_bytes": 29789,
+                "service_icon": "https:\/\/habr.com\/images\/apple-touch-icon.png",
+                "service_name": "Хабр",
+                "id": 1,
+                "original_url": "https:\/\/habr.com\/company\/mailru\/blog\/266811\/"
+            }
+        ],
+        "thread_ts": "1531219839.000070",
+        "parent_user_id": "U93S7NL76",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U14CTBLFJ",
+                    "U93S7NL76",
+                    "U15V81K6V"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2537aacd-136e-4aea-b5e7-ccf4e0326f9d",
+        "type": "message",
+        "text": "Вообще есть учебник Стрэнга по линейке на русском, мне понравился, прямо \"на пальцах\".  Но я прорешал две главы, пока отложил.",
+        "user": "U8YN9Q1FS",
+        "ts": "1531257238.000384",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d25b46d5dbd8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-03\/936618012503_d25b46d5dbd8f9484c0c_72.jpg",
+            "first_name": "Efim",
+            "real_name": "Efim",
+            "display_name": "hangon",
+            "team": "T040HKJE3",
+            "name": "luboshnikovefim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1530304430.000213",
+        "parent_user_id": "UBE08013Q"
+    },
+    {
+        "client_msg_id": "c769e889-7642-4af4-ba76-377643387f56",
+        "type": "message",
+        "text": "Чем раньше ты откажешься от русского как языка обучения, тем быстрее будет развитие. Думаю, не стоит говорить насколько мало толковых курсов, и часто информация с запозданием 3-5 лет что порой важно, да и спектр предложенных услуг просто скуднее и уже.",
+        "user": "U9ZU1CYUD",
+        "ts": "1531277008.000058",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531135961.000108",
+        "parent_user_id": "U2VBC4HEX"
+    },
+    {
+        "client_msg_id": "070e549c-7ded-40c2-8a63-05a505c6ec8b",
+        "type": "message",
+        "text": "Лучше потратить 3-6 месяцев усиленно на английский и уже потом заниматься всем этим",
+        "user": "U9ZU1CYUD",
+        "ts": "1531277044.000139",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531135961.000108",
+        "parent_user_id": "U2VBC4HEX"
+    },
+    {
+        "client_msg_id": "ed6cbf38-4b8a-4427-b832-785304aa790b",
+        "type": "message",
+        "text": "большое спасибо, из курсов нашёл релевантные у \n<http:\/\/newprolab.com|newprolab.com>\nно цены там конечно очень высокие,\nпоэтому думаю да, самое адекватное курсы на английском))",
+        "user": "U2VBC4HEX",
+        "ts": "1531285224.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g4cf6122f8be",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7d4cf6122f8be3a70fa2260ea1b6946e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Roman",
+            "real_name": "Roman Zakharov",
+            "display_name": "roman.zakharov",
+            "team": "T040HKJE3",
+            "name": "roman.zakharov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1531135961.000108",
+        "parent_user_id": "U2VBC4HEX"
+    },
+    {
+        "client_msg_id": "2D6B2C3C-574A-4172-8C52-33310A518B6F",
+        "type": "message",
+        "text": "Согласен, курс плохой, задания некорректные, как оформлять не написано и вообще почти ничего не написано",
+        "user": "U0NQXK023",
+        "ts": "1531286897.000047",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2def134afe6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-04\/429109690725_2def134afe6fbb4a5b4d_72.jpg",
+            "first_name": "Жора",
+            "real_name": "Жора Григорьев",
+            "display_name": "thepowerfuldeez",
+            "team": "T040HKJE3",
+            "name": "thepowerfuldeez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1530818472.000183",
+        "parent_user_id": "U6MNDLDT7"
+    }
+]

@@ -1,0 +1,601 @@
+[
+    {
+        "client_msg_id": "027f83bc-0c0b-41d1-90fe-ae12b19becce",
+        "type": "message",
+        "text": "почему так хотелось туда попасть?",
+        "user": "U1TQW3DRT",
+        "ts": "1556784231.123600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ebed6346c62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-21\/61928474896_7ebed6346c625490f1a5_72.png",
+            "first_name": "Dmytro",
+            "real_name": "Dmytro Fishman",
+            "display_name": "skyfallen",
+            "team": "T040HKJE3",
+            "name": "skyfallen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556756347.120900",
+        "parent_user_id": "U8Q72GC15"
+    },
+    {
+        "client_msg_id": "1a9fd54a-a7fa-42d0-a64e-39e6d0a22787",
+        "type": "message",
+        "text": "Видео же можно посмотреть!",
+        "user": "UD2EX7JP9",
+        "ts": "1556793582.124300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "71226a5e344e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-29\/466480102403_71226a5e344ef3be9f38_72.jpg",
+            "first_name": "Natalia",
+            "real_name": "Natalia Pavlovskaia",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ya-ne-bo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556756347.120900",
+        "parent_user_id": "U8Q72GC15",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98",
+                    "U17UDV31D",
+                    "U9BDT48M8",
+                    "UBQELFC8K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5229a48-e389-42f8-8069-7884a1404e2f",
+        "type": "message",
+        "text": "Всем привет!\nКто-нибудь проходил \"Практический курс Machine Learning\" от BigDataTeam?\n<https:\/\/bigdatateam.org\/ml_course>\nСудя по программе довольно интенсивный. Свой проект, лучшим студентам организуем собеседования и т.п.. Стоит ли он своих денег?",
+        "user": "UH1GA3UQ6",
+        "ts": "1556794903.126800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f5e31af47992",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628186078592_f5e31af47992f5aab785_72.jpg",
+            "first_name": "Anokhin",
+            "real_name": "Anokhin Andrey",
+            "display_name": "Anokhin Andrey",
+            "team": "T040HKJE3",
+            "name": "anokhin.andrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Очные курсы по машинному обучению в Москве",
+                "title_link": "https:\/\/bigdatateam.org\/ml_course",
+                "text": "Месячный интенсив с нагрузкой 16 часов \/ неделю. Помощь в трудоустройстве",
+                "fallback": "Очные курсы по машинному обучению в Москве",
+                "image_url": "https:\/\/static.tildacdn.com\/tild6434-3232-4764-a133-326137646634\/9ff5427d-a8fe-429c-8.jpg",
+                "from_url": "https:\/\/bigdatateam.org\/ml_course",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 11502,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild3737-6139-4334-a431-646463343836\/favicon.ico",
+                "service_name": "bigdatateam.org",
+                "id": 1,
+                "original_url": "https:\/\/bigdatateam.org\/ml_course"
+            }
+        ],
+        "thread_ts": "1556794903.126800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1556889030.153400",
+        "reply_users": [
+            "UDK41MN5U",
+            "U7K3TTC5T"
+        ],
+        "replies": [
+            {
+                "user": "UDK41MN5U",
+                "ts": "1556814008.139800"
+            },
+            {
+                "user": "U7K3TTC5T",
+                "ts": "1556889030.153400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "UDK41MN5U",
+                    "U6SHTGD5X",
+                    "U8BV7PKHP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba1c60e2-cebb-4ab7-b687-ab218790496c",
+        "type": "message",
+        "text": "Добрый день.\nПосоветуйте пожалуйста хороший курс по tensorflow, желательно с большим количеством задач. Умею писать сети на keras, но хочу освоить tensorflow с его сессиями, плейсхолдерами, лосами и остальными низкоуровневыми штуками. Или посоветуйте пожалуйста, как его изучать. Т.к. чтение официальной документации не помогает :(",
+        "user": "U6020H37E",
+        "ts": "1556798202.132900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "98783c1fd197",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-18\/729979326309_98783c1fd1979dba50a6_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Taleckij",
+            "display_name": "anton.taleckij",
+            "team": "T040HKJE3",
+            "name": "bymytry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556798202.132900",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1557575433.251000",
+        "reply_users": [
+            "U1J7A5067",
+            "UCK3XJ1DM",
+            "U4N7G9RQA",
+            "U6KGETZ40",
+            "UBJ10K86A"
+        ],
+        "replies": [
+            {
+                "user": "U1J7A5067",
+                "ts": "1556798353.135200"
+            },
+            {
+                "user": "UCK3XJ1DM",
+                "ts": "1556798778.135600"
+            },
+            {
+                "user": "U4N7G9RQA",
+                "ts": "1556798830.136000"
+            },
+            {
+                "user": "U1J7A5067",
+                "ts": "1556799596.137500"
+            },
+            {
+                "user": "U6KGETZ40",
+                "ts": "1556806224.138600"
+            },
+            {
+                "user": "UBJ10K86A",
+                "ts": "1557575433.251000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pytorch1-0",
+                "users": [
+                    "U4ZRFG1V0",
+                    "U677CBGH2",
+                    "U1G303UTW",
+                    "U19EZ8L5D",
+                    "UB4BD0R6W",
+                    "U7CAU0GMU",
+                    "UAF1W2R3M",
+                    "U49MGP9MX",
+                    "U21MU5ATE",
+                    "U6NG0K2BW",
+                    "U2N853RGF",
+                    "UBNBNAQS2",
+                    "UEM4VP9JA",
+                    "U832HJCUV",
+                    "UGTEL0CJH",
+                    "U5TGT5SQ2",
+                    "UB4F4DZGV",
+                    "U8B3VR7UK",
+                    "UHGUXSJRK"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "client_msg_id": "570C783B-F8B5-4DB6-A8BE-6F3E58FC6B1C",
+        "type": "message",
+        "text": "Подожди пару месяцев пока релизнут тф 2, там нет сессий, плейсхолдеров и много чего ещё изменилось, стало не так больно",
+        "user": "U1J7A5067",
+        "ts": "1556798353.135200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f9e7e05ec111",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-16\/578819505908_f9e7e05ec11159300048_72.png",
+            "first_name": "Евгений",
+            "real_name": "Евгений Кашин",
+            "display_name": "digitman",
+            "team": "T040HKJE3",
+            "name": "digitman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556798202.132900",
+        "parent_user_id": "U6020H37E",
+        "reactions": [
+            {
+                "name": "zhdun_face",
+                "users": [
+                    "U6QDDUH4L",
+                    "U6LSE0FT9",
+                    "UDK41MN5U"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ed92ea5-b2a8-43ea-96df-69aacf2b4e5a",
+        "type": "message",
+        "text": "на курсэре недавно новый появился по tf, но он для бегиннеров вроде как",
+        "user": "UCK3XJ1DM",
+        "ts": "1556798778.135600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2d68748d886",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/382d68748d88673bb7761a1d6dd7ce8d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Artem",
+            "real_name": "Artem Abzaliev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "artem.abzaliev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556798202.132900",
+        "parent_user_id": "U6020H37E"
+    },
+    {
+        "client_msg_id": "d2dbbc49-96e0-43e4-a2c5-44322476f8ab",
+        "type": "message",
+        "text": "Вот он\n<https:\/\/ru.coursera.org\/learn\/introduction-tensorflow>\n\nи второй курс этой спецухи\n<https:\/\/ru.coursera.org\/learn\/convolutional-neural-networks-tensorflow>",
+        "user": "U4N7G9RQA",
+        "ts": "1556798830.136000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ef166fa49a7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-06\/360076123318_7ef166fa49a7291a6fc1_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Itkin",
+            "display_name": "antoni",
+            "team": "T040HKJE3",
+            "name": "antoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4N7G9RQA",
+            "ts": "1556798842.000000"
+        },
+        "thread_ts": "1556798202.132900",
+        "parent_user_id": "U6020H37E"
+    },
+    {
+        "client_msg_id": "236DA2FA-2F03-4E6F-8994-D23721A2D4F3",
+        "type": "message",
+        "text": "А он кстати на первом или втором тф?",
+        "user": "U1J7A5067",
+        "ts": "1556799596.137500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f9e7e05ec111",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-16\/578819505908_f9e7e05ec11159300048_72.png",
+            "first_name": "Евгений",
+            "real_name": "Евгений Кашин",
+            "display_name": "digitman",
+            "team": "T040HKJE3",
+            "name": "digitman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556798202.132900",
+        "parent_user_id": "U6020H37E"
+    },
+    {
+        "client_msg_id": "de92118d-d0a0-401d-b77d-2ee2476df119",
+        "type": "message",
+        "text": "Эту спецуху специально под второй тф делают... но вообще говоря хороший код на первом тф отличается от второго тф несильно. А владение керасом - это уже значимая часть от всего тф",
+        "user": "U6KGETZ40",
+        "ts": "1556806224.138600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g1d87937c0c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e91d87937c0c021c2cdae52b031b9be6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Nikolay",
+            "real_name": "Nikolay Bushkov",
+            "display_name": "nab",
+            "team": "T040HKJE3",
+            "name": "nab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556798202.132900",
+        "parent_user_id": "U6020H37E"
+    },
+    {
+        "client_msg_id": "bbf6d648-c6fc-4d39-9a23-f0e62f439676",
+        "type": "message",
+        "text": "60к за 1 месяц? По 4 часа в среду и по 6 - в субботу? Программа выглядит как усеченные <http:\/\/mlcourse.ai|mlcourse.ai> + <http:\/\/dlcourse.ai|dlcourse.ai> + курс про Hadoop на <http:\/\/stepik.org|stepik.org>, только галопом за месяц. Кажется, что прорешать эти курсы и зайти на PetProjects\/хакатон за проектом было бы полезнее.",
+        "user": "UDK41MN5U",
+        "ts": "1556814008.139800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "03ebdceaea90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-30\/856888539526_03ebdceaea9053b57b47_72.jpg",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Miroshnikova",
+            "display_name": "glycosylase",
+            "team": "T040HKJE3",
+            "name": "miffka1992",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556794903.126800",
+        "parent_user_id": "UH1GA3UQ6",
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "UCKTJQG9K",
+                    "U71BFU50Q",
+                    "U5H0L5T98",
+                    "UBM4B8CBU",
+                    "UAB419GAW",
+                    "U27SUBTB9",
+                    "UC7F2BVR9",
+                    "U60EETE7N"
+                ],
+                "count": 8
+            },
+            {
+                "name": "povar",
+                "users": [
+                    "UEWF6GGMN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UD2NGFPHD",
+                    "U50EVF538",
+                    "U9BDT48M8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UH1GA3UQ6",
+                    "UC7F2BVR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f808ab05-e757-466c-bf97-8fbd5065167b",
+        "type": "message",
+        "text": "Коллеги, порекомендуете пожалуйста максимально полезный в прикладном смысле и относительно доступный для восприятия учебник по матстату и терверу. Заранее крайне благодарен.",
+        "user": "UDCV4LB7T",
+        "ts": "1556826370.145700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8cbdb32ee8a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-13\/456970852022_8cbdb32ee8a466ab41d8_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Stolyarevskiy",
+            "display_name": "igorek097",
+            "team": "T040HKJE3",
+            "name": "igorek097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556826370.145700",
+        "reply_count": 14,
+        "reply_users_count": 10,
+        "latest_reply": "1558292576.300300",
+        "reply_users": [
+            "UHSBA8F35",
+            "UGF8L176H",
+            "UA7D8TN9F",
+            "UC7F2BVR9",
+            "U6SHTGD5X",
+            "U94QQBVFZ",
+            "UDCV4LB7T",
+            "UHT8VUKCM",
+            "U4YEK80R1",
+            "UHY5KKK6D"
+        ],
+        "replies": [
+            {
+                "user": "UHSBA8F35",
+                "ts": "1556826959.146300"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1556835658.148000"
+            },
+            {
+                "user": "UA7D8TN9F",
+                "ts": "1556882745.152200"
+            },
+            {
+                "user": "UGF8L176H",
+                "ts": "1556882921.152500"
+            },
+            {
+                "user": "UA7D8TN9F",
+                "ts": "1556883054.153100"
+            },
+            {
+                "user": "UC7F2BVR9",
+                "ts": "1556889748.154100"
+            },
+            {
+                "user": "U6SHTGD5X",
+                "ts": "1556900837.155500"
+            },
+            {
+                "user": "U94QQBVFZ",
+                "ts": "1556994878.162500"
+            },
+            {
+                "user": "UDCV4LB7T",
+                "ts": "1557253228.212100"
+            },
+            {
+                "user": "UHT8VUKCM",
+                "ts": "1557516022.247100"
+            },
+            {
+                "user": "U4YEK80R1",
+                "ts": "1557520834.247400"
+            },
+            {
+                "user": "UHT8VUKCM",
+                "ts": "1557529436.250000"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1558292564.300100"
+            },
+            {
+                "user": "UHY5KKK6D",
+                "ts": "1558292576.300300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Мне вот этот нравиться. Плюс он используется в курсе <https:\/\/ocw.mit.edu\/courses\/electrical-engineering-and-computer-science\/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010\/index.htm> можно лекции посмотреть и задачки порешать.",
+        "files": [
+            {
+                "id": "FJ6JM6FH7",
+                "created": 1556826957,
+                "timestamp": 1556826957,
+                "name": "introduction to probability (bertsekas, 2nd, 2008).pdf",
+                "title": "introduction to probability (bertsekas, 2nd, 2008).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHSBA8F35",
+                "editable": false,
+                "size": 18212191,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FJ6JM6FH7\/introduction_to_probability__bertsekas__2nd__2008_.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FJ6JM6FH7\/download\/introduction_to_probability__bertsekas__2nd__2008_.pdf?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FJ6JM6FH7-8772d32c2f\/introduction_to_probability__bertsekas__2nd__2008__thumb_pdf.png?t=xoxe-4017664479-1528041857335-1528041888263-c6f0d1c7b78b79c836ad17c1ca92c58b",
+                "thumb_pdf_w": 770,
+                "thumb_pdf_h": 1209,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UHSBA8F35\/FJ6JM6FH7\/introduction_to_probability__bertsekas__2nd__2008_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FJ6JM6FH7-2c569aa077",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHSBA8F35",
+        "display_as_bot": false,
+        "ts": "1556826959.146300",
+        "client_msg_id": "ad4b0dbe-42da-4dfa-89cf-f6aefb7ffa15",
+        "thread_ts": "1556826370.145700",
+        "parent_user_id": "UDCV4LB7T",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UFVMPLMLN",
+                    "UDCV4LB7T",
+                    "U6QDDUH4L",
+                    "UGY8Z3Z32",
+                    "U4YEK80R1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "grammar",
+                "users": [
+                    "U6QDDUH4L",
+                    "U24N3AB96",
+                    "UG2L1B44F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6bba3a0-71f3-42b3-ad82-065e5649b796",
+        "type": "message",
+        "text": "J.Rice. Mathematical statistics and data analysis.",
+        "user": "UGF8L176H",
+        "ts": "1556835658.148000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gab35c96aa34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3ab35c96aa34f6dc54ee0dc781c1167.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Viacheslav",
+            "real_name": "Viacheslav",
+            "display_name": "Exzotick",
+            "team": "T040HKJE3",
+            "name": "spitcyn-slava",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556826370.145700",
+        "parent_user_id": "UDCV4LB7T",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U6QDDUH4L",
+                    "UDCV4LB7T",
+                    "UGY8Z3Z32"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

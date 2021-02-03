@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600764846.094500",
+        "user": "UG2QM1EHE",
+        "text": "<@UG2QM1EHE> has joined the channel",
+        "inviter": "U0FEJNBGQ"
+    },
+    {
+        "client_msg_id": "e7124304-528f-4ea2-b026-a05abbf92894",
+        "type": "message",
+        "text": "<https:\/\/docs.scipy.org\/doc\/scipy\/reference\/stats.html|https:\/\/docs.scipy.org\/doc\/scipy\/reference\/stats.html>\nБез шуток, сам бы хотел изучить",
+        "user": "U75FYQZC7",
+        "ts": "1600808322.098800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3128428a7b93",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-20\/1360677625623_3128428a7b932403a38d_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Kremnev",
+            "display_name": "iakremnev",
+            "team": "T040HKJE3",
+            "name": "iakremnev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.scipy.org\/doc\/scipy\/reference\/stats.html",
+                                "text": "https:\/\/docs.scipy.org\/doc\/scipy\/reference\/stats.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nБез шуток, сам бы хотел изучить"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600727109.091000",
+        "parent_user_id": "UDA191BHU"
+    }
+]

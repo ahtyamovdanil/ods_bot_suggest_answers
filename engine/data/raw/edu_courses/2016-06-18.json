@@ -1,0 +1,508 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466260688.000165",
+        "user": "U1J5L3NDP",
+        "text": "<@U1J5L3NDP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466262708.000166",
+        "user": "U1J56K7RA",
+        "text": "<@U1J56K7RA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466263056.000167",
+        "user": "U1J59H3SA",
+        "text": "<@U1J59H3SA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466263852.000168",
+        "user": "U1J5E9HJL",
+        "text": "<@U1J5E9HJL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466266124.000169",
+        "user": "U1J5NFZN1",
+        "text": "<@U1J5NFZN1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Вообщем про бесплатную учебу в Европе. \n\nСамый простой способ - учиться в Германии. Учеба для всех бесплатная, в тч и для иностранцев, при себе надо иметь 8 тыс евро на год для визы. Студенты могут работать 20 часов в неделю и работы много. Из универов могу порекомендовать технический университет Берлина, именно его я и закончил.  Говорят в Мюнхене и Дрездене тоже неплохие технические универы. Есть слухи, что в Чехии образование тоже бесплатное, но на чешском.",
+        "user": "U0DA4J82H",
+        "ts": "1466269017.000170",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1466271931.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0KQ5M6KX",
+                    "U0952QCHE",
+                    "U1D6DT6HE",
+                    "U043J44Q5",
+                    "U0QPYUM5M",
+                    "U0G29N5U4"
+                ],
+                "count": 6
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U0JHK9001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H>: а в Германии на английском обучение есть?",
+        "user": "U1J5NFZN1",
+        "ts": "1466269196.000171",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b725a4bb2d18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-18\/52182218500_b725a4bb2d184b1c6180_72.png",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Rybin",
+            "display_name": "vladislav.rybin",
+            "team": "T040HKJE3",
+            "name": "vladislav.rybin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Еще есть варианты сложнее - со стипендий. Самые хорошие стипендии на программах Erasmus mundus, обычно это обучение в нескольких университетах, и платят хорошую стипендию. Именно такую стипендию я и получал, а программа называлась Erasmus mundus IT4BI ",
+        "user": "U0DA4J82H",
+        "ts": "1466269270.000172",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Да, в Германии есть обучение и на английском",
+        "user": "U0DA4J82H",
+        "ts": "1466269322.000173",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1466269377.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вот список программ на которые я подавал документы, все со стипендий <http:\/\/www.itshared.org\/2015\/01\/european-master-programs-in-data.html?m=1>",
+        "user": "U0DA4J82H",
+        "ts": "1466269460.000175",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А я вообще слышал про технический универ Мюнхена, входит в QS TOP 60, только там исключительно на немецком если не ошибаюсь)",
+        "user": "U1J5L3NDP",
+        "ts": "1466269605.000176",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1J5L3NDP",
+            "ts": "1466269624.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Что касается бигдаты, то TU Berlin очень хорош в этом плане. Нам лекции читали создатели Apache Flink и коммитеры в Mahout",
+        "user": "U0DA4J82H",
+        "ts": "1466269658.000178",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А машинное обучение вел вот этот мужик: <https:\/\/scholar.google.de\/citations?user=jplQac8AAAAJ&amp;hl=ru>",
+        "user": "U0DA4J82H",
+        "ts": "1466269697.000179",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Не думаю, что про \"исключительно на немецком\" полностью правда. Почти все магистерские курсы в CS ведутся на английском, по крайней мере в университетах Берлина",
+        "user": "U0DA4J82H",
+        "ts": "1466269792.000180",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Кстати, получить стипендию не так уж и сложно, главное заморочиться с подготовкой документов и подать на несколько программ. Ничего выдающегося у меня не было, публикаций никаких и вуз из зажопинска",
+        "user": "U0DA4J82H",
+        "ts": "1466270163.000181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DA4J82H",
+            "ts": "1466270199.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466270242.000183",
+        "user": "U1J5JCGKE",
+        "text": "<@U1J5JCGKE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U0DA4J82H>: Круто, спасибо за инфу. А какие экзамены туда нужны?",
+        "user": "U1J5NFZN1",
+        "ts": "1466270262.000184",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b725a4bb2d18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-18\/52182218500_b725a4bb2d184b1c6180_72.png",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Rybin",
+            "display_name": "vladislav.rybin",
+            "team": "T040HKJE3",
+            "name": "vladislav.rybin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Никаких",
+        "user": "U0DA4J82H",
+        "ts": "1466270529.000185",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А ну разве что IELTS",
+        "user": "U0DA4J82H",
+        "ts": "1466270550.000186",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А тоефл прокатывает?",
+        "user": "U1J5NFZN1",
+        "ts": "1466270622.000187",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b725a4bb2d18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-06-18\/52182218500_b725a4bb2d184b1c6180_72.png",
+            "first_name": "Vladislav",
+            "real_name": "Vladislav Rybin",
+            "display_name": "vladislav.rybin",
+            "team": "T040HKJE3",
+            "name": "vladislav.rybin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Короче, нашёл годную программу с двумя опциями: <http:\/\/www.data-master.tum.de\/index.php?id=5>",
+        "user": "U1J5L3NDP",
+        "ts": "1466270622.000188",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mathematics in Data Science или Data Engineering and Analytics",
+        "user": "U1J5L3NDP",
+        "ts": "1466270644.000189",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Честно говоря не знаю, что перспективнее, тут надо спросить гуру",
+        "user": "U1J5L3NDP",
+        "ts": "1466270666.000190",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вот слайду о программах: <https:\/\/www.ma.tum.de\/foswiki\/pub\/Studium\/MScDSEn\/INFO-Day-DEA-MSD.pdf>",
+        "user": "U1J5L3NDP",
+        "ts": "1466270685.000191",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "061a443676d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-26\/957969934610_061a443676d74b6656ba_72.jpg",
+            "first_name": "Petr",
+            "real_name": "Petr Fedosov",
+            "display_name": "peterfedosov",
+            "team": "T040HKJE3",
+            "name": "peterfedosov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Toefl и CAE тоже прокатывают",
+        "user": "U0DA4J82H",
+        "ts": "1466270740.000192",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я думаю в плане перспективности одинаково",
+        "user": "U0DA4J82H",
+        "ts": "1466271190.000193",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gec7013c3d5b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28ec7013c3d5b5cbd9633d12c1407eff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Алексей",
+            "real_name": "Алексей Ололоев",
+            "display_name": "ololo",
+            "team": "T040HKJE3",
+            "name": "ololo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040HKJE7> из TUMa. ",
+        "user": "U041LH06L",
+        "ts": "1466271197.000194",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gf5a130f07dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/50f5a130f07dc1a3d1363ad59e14995e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Semenov",
+            "display_name": "semenoffalex",
+            "team": "T040HKJE3",
+            "name": "semenoffalex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1466277610.000196",
+        "user": "U0P95857C",
+        "text": "<@U0P95857C> has joined the channel"
+    }
+]

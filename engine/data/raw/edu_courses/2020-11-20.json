@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "f3b5fbbb-4d4c-4717-a118-c76b9d9b15ee",
+        "type": "message",
+        "text": "<@UKJH49YNM>, добра тебе, умный человек.\n^_^",
+        "user": "U50FY1AG6",
+        "ts": "1605902594.052000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ff9e4d2371a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-19\/214760058354_ff9e4d2371a5d20508fe_72.gif",
+            "first_name": "Alexey",
+            "real_name": "Alexey",
+            "display_name": "kitekat",
+            "team": "T040HKJE3",
+            "name": "kitekat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Abh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKJH49YNM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", добра тебе, умный человек.\n^_^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605738763.033700",
+        "parent_user_id": "U50FY1AG6"
+    }
+]

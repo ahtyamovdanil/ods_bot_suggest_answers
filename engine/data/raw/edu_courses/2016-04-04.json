@@ -1,0 +1,465 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0QB98BB9>: в противовес Ng посоветую курс Hastie плюс его книжку ISLR: <https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about>",
+        "user": "U0QTS1LRF",
+        "ts": "1459758466.000131",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ad582ed9eda5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-19\/288895674802_ad582ed9eda51c4da9fc_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Dubovikov",
+            "display_name": "kdubovikov",
+            "team": "T040HKJE3",
+            "name": "kdubovikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Statistical Learning",
+                "title_link": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "text": "Learn some of the main tools used in statistical modeling and data science. We cover both traditional as well as exciting new methods, and how to use them in R.",
+                "fallback": "Statistical Learning",
+                "from_url": "https:\/\/lagunita.stanford.edu\/courses\/HumanitiesSciences\/StatLearning\/Winter2016\/about",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0QTS1LRF>: спасибо. студент уже начал Ng, возможно перескочит на Воронцова. На счет ISLR, мне кажется у Мерфи более правильный подход.",
+        "user": "U0QB98BB9",
+        "ts": "1459762779.000133",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "кстати, давно вышла вот эта книжка",
+        "user": "U0QB98BB9",
+        "ts": "1459762841.000134",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mohri, foundation of machine learning: <http:\/\/www.cs.nyu.edu\/~mohri\/mlbook\/>",
+        "user": "U0QB98BB9",
+        "ts": "1459762855.000135",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U04ELQZAU",
+                    "U0SBLSTJ4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "я со своим слабым матаном на 3-й главе застрял",
+        "user": "U0QB98BB9",
+        "ts": "1459762877.000136",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "кто-нибудь пробовал?",
+        "user": "U0QB98BB9",
+        "ts": "1459762890.000137",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(я лично разговаривал с автором, веселый и умный дядя)",
+        "user": "U0QB98BB9",
+        "ts": "1459762958.000138",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d60600266f60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-09\/605667366087_d60600266f6092a58b9b_72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin Selivanov",
+            "display_name": "constantine",
+            "team": "T040HKJE3",
+            "name": "constantine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Сам ее не проходил, но поставил в очередь, т.к. от некоторых серьезных людей слышал, что книжка очень правильная.",
+        "user": "U0SBLSTJ4",
+        "ts": "1459777406.000139",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbdb00072a64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/84bdb00072a64b353fe59311ccd7b68d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Maxim",
+            "real_name": "Maxim Panov",
+            "display_name": "altrav",
+            "team": "T040HKJE3",
+            "name": "altrav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а есть пдфка?",
+        "user": "U06J1LG1M",
+        "ts": "1459777672.000140",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "loh",
+                "users": [
+                    "U04CH4QBD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U06J1LG1M>: <http:\/\/gen.lib.rus.ec|gen.lib.rus.ec>",
+        "user": "U04ELQZAU",
+        "ts": "1459782681.000141",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459786361.000142",
+        "user": "U0XQJK3NJ",
+        "text": "<@U0XQJK3NJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459788063.000143",
+        "user": "U0XR20SA1",
+        "text": "<@U0XR20SA1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1459796517.000144",
+        "user": "U0XST7YJW",
+        "text": "<@U0XST7YJW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Вот не пойму, почему ни один знакомый курс по ML не начинается с вероятностей, правдоподобия и Байеса вообще (кроме PGM)... Включая Воронцова, если я правильно понимаю syllabus. Вот и с <@U0K4S432S> поспорили на эту тему. А при этом само сообщество ML близко к консенсусу, что лучшие книжки - у Бишопа и Мерфи. Студент хлипкий пошёл, не хотят теорию, хотят сразу готовые рецепты?",
+        "user": "U0G29N5U4",
+        "ts": "1459810038.000145",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0KQ5M6KX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ибо тервер подход это всего лишь один из",
+        "user": "U06J1LG1M",
+        "ts": "1459810164.000146",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "или считают теорвер дефолтным pre-requisite",
+        "user": "U040HKJE7",
+        "ts": "1459814268.000147",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U040HKJE7",
+            "ts": "1459814276.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "\"Один из подходов\" - но на нём практически всё основано. Ну разве что кроме SVM. Либо правдоподобие, либо KL-дивергенция обязательно в статьях есть. А если prerequisite, то были бы отсылки. А то реально смешно, когда объясняют метод наименьших квадратов как \"так удобнее считать\" или \"пружинки\".",
+        "user": "U0G29N5U4",
+        "ts": "1459815252.000150",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0G29N5U4",
+            "ts": "1459816793.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Что касается процента не закончивших, мне кажется, что если человек не понимает, почему оно так работает, то меньше мотивирован продолжать. Ну и можно очень по-разному объяснять. В этом плане Мерфи большой молодец.",
+        "user": "U0G29N5U4",
+        "ts": "1459815344.000151",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Третьей главой",
+        "user": "U0G29N5U4",
+        "ts": "1459815398.000154",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "923acfae8ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-12-08\/16169641553_923acfae8ceb65b022d7_72.jpg",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Tuzoff",
+            "display_name": "tuzoff",
+            "team": "T040HKJE3",
+            "name": "tuzoff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Третья глава Мерфи безумно крутая, подтверждаю. Я даже не поленился и вот такую штуку залепил <https:\/\/github.com\/omikad\/studying-ml\/blob\/master\/KMM_LAPP\/Chapter3\/bayesian_concept_learning.md>",
+        "user": "U07JH63AA",
+        "ts": "1459824150.000156",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd59a757ab4a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d8d59a757ab4a2c58089c091d0057489.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey",
+            "display_name": "omikad",
+            "team": "T040HKJE3",
+            "name": "omikad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "omikad\/studying-ml",
+                "title_link": "https:\/\/github.com\/omikad\/studying-ml\/blob\/master\/KMM_LAPP\/Chapter3\/bayesian_concept_learning.md",
+                "text": "Contribute to studying-ml development by creating an account on GitHub.",
+                "fallback": "GitHub: omikad\/studying-ml",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/2854160?v=3&s=400",
+                "from_url": "https:\/\/github.com\/omikad\/studying-ml\/blob\/master\/KMM_LAPP\/Chapter3\/bayesian_concept_learning.md",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0G29N5U4",
+                    "U0AF2AZCM",
+                    "U040M0W0S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0G29N5U4>: ну тогда придётся ещё и матан и линейную алгебру объяснять (вроде, так делают на яндексовской специализации на курсере). Всё же нужно либо считать теорвер prerequisite, либо пытаться объяснять без него, целясь на какое-то полуинтуитивное понимание сдающими. В годных настоящих оффлайновых курсах практикуется первый подход, а онлайновые же целятся на очень широкую аудиторию и не столь хардкорны (Я вообще считаю любые онлайновые курсы пригодными лишь для первичного ознакомления)",
+        "user": "U04ELQZAU",
+        "ts": "1459832521.000158",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f6bc50fa5754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-10-20\/93944572805_f6bc50fa575469918b41_72.png",
+            "first_name": "Артём",
+            "real_name": "Артём Соболев",
+            "display_name": "asobolev",
+            "team": "T040HKJE3",
+            "name": "asobolev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0DA4J82H",
+                    "U0KQ5M6KX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

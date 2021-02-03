@@ -1,0 +1,163 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478079092.001814",
+        "user": "U2XCQ9NEP",
+        "text": "<@U2XCQ9NEP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478088623.001815",
+        "user": "U2XF4UQCT",
+        "text": "<@U2XF4UQCT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ребят, кто-нибудь проходит курс UvA по DL ?\n<http:\/\/uvadlc.github.io\/>",
+        "user": "U0ZHCGY5T",
+        "ts": "1478106732.001816",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a495ad6bdbb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1107339042337_a495ad6bdbb8353894c2_72.jpg",
+            "first_name": "Егор",
+            "real_name": "Егор Лабинцев",
+            "display_name": "egor_labintcev",
+            "team": "T040HKJE3",
+            "name": "egor_labintcev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09JEC7V0",
+                    "U1BMURR5G",
+                    "U049NHC4X",
+                    "U298B1T19"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "looks interesting",
+        "user": "U1BMURR5G",
+        "ts": "1478108515.001817",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "78bdbdf9989f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-22\/756216085810_78bdbdf9989fa2981625_72.jpg",
+            "first_name": "Borys",
+            "real_name": "Borys Zibrov",
+            "display_name": "borowis",
+            "team": "T040HKJE3",
+            "name": "borowis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "коллеги, а кто-нибудь проходил специализацию от University of Washington, <https:\/\/www.coursera.org\/specializations\/machine-learning>",
+        "user": "U2F68DB26",
+        "ts": "1478141390.001818",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5023337790b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9f5023337790b2c05d36c516d43974dc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Kryuchkov",
+            "display_name": "xelibrion",
+            "team": "T040HKJE3",
+            "name": "xelibrion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Machine Learning | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/machine-learning",
+                "text": "Explore Machine Learning Certificate offered by University of Washington. Build Intelligent Applications - Master machine learning fundamentals in five hands-on courses.. This Specialization provides a case-based introduction to the exciting, high-demand field of machine learning. You’ll learn to analyze large and complex datasets, build applications that can make predictions from data, and create systems that adapt and improve over time. In the final Capstone Project, you’ll apply your skills to solve an original, real-world problem through implementation of machine learning algorithms. 1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.",
+                "fallback": "Coursera: Machine Learning | Coursera",
+                "thumb_url": "https:\/\/d396qusza40orc.cloudfront.net\/phoenixassets\/machine-learning-s12n\/machinelearning.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/machine-learning",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/d3njjcbhbojbot.cloudfront.net\/web\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U2F68DB26> да, я прохожу и мне очень нравится. Правда, новый курс по рекомендательным системам никак не откроют. Задерживаются.",
+        "user": "U0Q3USC0Z",
+        "ts": "1478148858.001820",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Мы тут это обсуждали раза два уже, по-моему. В поиске можно найти.",
+        "user": "U0Q3USC0Z",
+        "ts": "1478148879.001821",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2571b86d14a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-03-04\/24474691108_2571b86d14a0ba622397_72.jpg",
+            "first_name": "Ирина",
+            "real_name": "Ирина Голощапова",
+            "display_name": "irina_g",
+            "team": "T040HKJE3",
+            "name": "irina_g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "сильно отличается от специализации МФТИ?",
+        "user": "U2F68DB26",
+        "ts": "1478148902.001822",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g5023337790b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9f5023337790b2c05d36c516d43974dc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Kryuchkov",
+            "display_name": "xelibrion",
+            "team": "T040HKJE3",
+            "name": "xelibrion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
