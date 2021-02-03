@@ -8,9 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v1  
       - run: ls -la .
-      - run: docker build ../engine -t engine
+      - run: docker build ./engine -t engine
       - run: docker run -p 5000:5000 -d engine
-      # - uses: wei/curl@master
-        # with:
-          # args: http://localhost:5000/api/get_messages
+      - uses: wei/curl@master
+        with:
+          args: http://localhost:5000/api/get_messages
       
