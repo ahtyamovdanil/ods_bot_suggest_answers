@@ -6,7 +6,8 @@ jobs:
     name: test engine
     runs-on: ubuntu-latest
     steps:
-      - run: ls -la ..
+      - uses: actions/checkout@v1  
+      - run: ls -la .
       - run: docker build ../engine -t engine
       - run: docker run -p 5000:5000 -d engine
       # - uses: wei/curl@master
