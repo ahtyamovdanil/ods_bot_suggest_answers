@@ -1,0 +1,11 @@
+name: test workflow
+on: push
+
+jobs:
+  test:
+    name: test engine
+    runs-on: ubuntu-latest
+    steps:
+      - run: docker build ./engine -t engine
+      - run: docker run -p 5000:5000 -d engine
+      - run: curl --header "Content-Type: application/json" --request POST --data '{"text": "Всем привет, посоветуйте курсы по python пожалуйста", "top_k": 3}' http://localhost:5000/api/get_messages

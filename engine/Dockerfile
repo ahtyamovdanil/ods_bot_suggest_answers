@@ -16,5 +16,6 @@ WORKDIR /usr/src/app
 COPY ./data/embeddings ./data/embeddings
 COPY ./data/prepared ./data/prepared
 COPY ./app ./
+EXPOSE 5000
 
 CMD ["python", "engine_api.py"]
