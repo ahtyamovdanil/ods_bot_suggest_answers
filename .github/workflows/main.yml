@@ -6,7 +6,7 @@ jobs:
     name: test engine
     runs-on: ubuntu-latest
     steps:
-      - run: docker build ./engine -t engine
+      - run: docker build ../engine -t engine
       - run: docker run -p 5000:5000 -d engine
       - uses: wei/curl@master
         with:
