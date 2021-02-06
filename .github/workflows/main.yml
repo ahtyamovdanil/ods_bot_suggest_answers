@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v1  
       - run: ls -la .
       - run: docker build ./engine -t engine
-      - run: docker run -v $(pwd)/engine/data:/usr/src/app/data -v $(pwd)/engine/models/:/root/.cache/torch/sentence_transformers/ -d engine -t engine
+      - run: docker run --name engine -v $(pwd)/engine/data:/usr/src/app/data -v $(pwd)/engine/models/:/root/.cache/torch/sentence_transformers/ -d engine
       - run: sleep 120
       - run: docker logs engine
       - run: |
