@@ -8,9 +8,8 @@ app.config["DEBUG"] = True
 
 df = pd.read_csv("./data/prepared/edu_courses.tsv", sep="\t", dtype=str)
 df.dropna(inplace=True)
-engine = SemanticEngine(text_df=df)
+engine = SemanticEngine(text_df=df, model = "distiluse-base-multilingual-cased-v2")
 engine.load_embeddings("./data/embeddings/edu_courses.pkl")
-
 
 @app.route("/api/get_messages", methods=["GET", "POST"])
 def get_messages():
