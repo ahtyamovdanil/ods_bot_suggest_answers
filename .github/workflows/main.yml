@@ -10,7 +10,7 @@ jobs:
       - run: ls -la .
       - run: docker build ./engine -t engine
       - run: docker run -v $(pwd)/engine/data:/usr/src/app/data -v $(pwd)/engine/models/:/root/.cache/torch/sentence_transformers/ -d engine
-      - run: sleep 60
+      - run: sleep 120
       - run: |
           curl -X POST -H 'Content-type: application/json' --data '{"text":"привет всем, подскажите пожалуйста курсы по питону", "top_k": 3}' http://localhost:5000/api/get_messages
       
