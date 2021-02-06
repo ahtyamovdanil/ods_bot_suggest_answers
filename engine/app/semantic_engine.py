@@ -5,7 +5,7 @@ from typing import List, Dict
 
 
 class SemanticEngine:
-    def __init__(self, text_df: pd.DataFrame, model=None) -> None:
+    def __init__(self, text_df: pd.DataFrame, model="distiluse-base-multilingual-cased-v2") -> None:
         """
         Args:
             text_df (pd.DataFrame): pandas dataframe with fields: ts, text
