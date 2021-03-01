@@ -46,19 +46,19 @@ class SemanticEngine:
                 text: message text
             }
         Example 1: calculate embeddings, save them and get top 5 sentences :: 
-            >>> df = pd.read_csv("./data/prepared/edu_courses.tsv", sep="\t")
+            >>> df = pd.read_csv("data/prepared/edu_courses.tsv", sep="\t")
             >>> engine = SemanticEngine(text_df=df)
             >>> engine.calc_embeddings(df.text.tolist())
-            >>> engine.save_embeddings("./data/embeddings/edu_courses.pkl")
+            >>> engine.save_embeddings("data/embeddings/edu_courses.pkl")
             >>> query = "посоветуйте каких-нибудь курсов по pytorch"
             >>> result = engine.get_top_k(query, k=5)
             >>> for res in result:
             ...     print(res["ts"], res["text"], res["score"], sep="\n")
 
         Example 2: load embeddings from file, and get top 5 sentences
-            >>> df = pd.read_csv("./data/prepared/edu_courses.tsv", sep="\t")
+            >>> df = pd.read_csv("data/prepared/edu_courses.tsv", sep="\t")
             >>> engine = SemanticEngine(text_df=df)
-            >>> engine.load_embeddings("./data/embeddings/edu_courses.pkl")
+            >>> engine.load_embeddings("data/embeddings/edu_courses.pkl")
             >>> query = "посоветуйте каких-нибудь курсов по pytorch"
             >>> result = engine.get_top_k(query, k=5)
             >>> for res in result:
@@ -83,4 +83,3 @@ class SemanticEngine:
             if hit["score"] != 1
         ]
         return result
-        
