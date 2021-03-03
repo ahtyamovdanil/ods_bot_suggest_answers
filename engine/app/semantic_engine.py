@@ -5,12 +5,12 @@ from typing import List, Dict
 
 
 class SemanticEngine:
-    def __init__(self, text_df: pd.DataFrame, model=None) -> None:
+    def __init__(self, text_df: pd.DataFrame, model="distiluse-base-multilingual-cased-v2") -> None:
         """
         Args:
             text_df (pd.DataFrame): pandas dataframe with fields: ts, text
         """
-        self.model = SentenceTransformer("paraphrase-distilroberta-base-v1")
+        self.model = SentenceTransformer(model)
         self.text_df = text_df.to_numpy()
         self.embeddings = None
 

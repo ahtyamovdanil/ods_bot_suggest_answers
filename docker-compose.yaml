@@ -1,12 +1,24 @@
 version: "3"
 services:
   engine:
-    build: ./engine
+    build: 
+      context: engine/
     restart: always
-    expose:
+    network_mode: host
+    expose: 
       - 5000
-
+    image: care1e55/engine:latest
+    container_name: engine
   telebot:
-    build: ./telegram_bot
-    env_file:
-      - ./telegram_bot/.env
+    build: 
+      context: telegram_bot/
+    depends_on:
+      - engine
+    network_mode: host
+    healthcheck:
+      test: ["CMD", "curl", "-X", "GET", "-f", "http://localhost:5000/api/ready"]
+      interval: 30s
+      timeout: 5s
+      retries: 10
+    image: care1e55/telegram_bot:latest
+    container_name: telegram_bot
