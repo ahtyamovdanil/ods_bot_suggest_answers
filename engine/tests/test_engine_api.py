@@ -18,8 +18,8 @@ def get_messages(client, text, k):
 
 
 def test_get_messages(client):
-    text = "Подскажите, а есть ли ветка почитать отзыв о курсе DataScience от SkillBox?"
+    text = "посоветуйте курсов по python"
     k = 3
     response = get_messages(client, text, k)
-    print(response)
-    assert True
+    assert response.status_code == 200
+    assert len(response.json) == k

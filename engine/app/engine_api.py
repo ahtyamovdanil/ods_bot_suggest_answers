@@ -31,7 +31,6 @@ def create_app(data_path: Union[str, os.PathLike], embeddings_path: Union[str, o
 
 
 if __name__ == "__main__":
-
     app = create_app(
         data_path="data/prepared/edu_courses.tsv",
         embeddings_path="data/embeddings/edu_courses.pkl"

@@ -1,11 +1,10 @@
-from pytest import fixture
-from distutils import dir_util
-from testfixtures import tempdir
-import pandas as pd
 import tempfile
 import shutil
 import os
+from distutils import dir_util
+from pytest import fixture
 from pathlib import Path
+
 
 @fixture(scope="module", autouse=True)
 def datadir(request):
@@ -22,8 +21,3 @@ def datadir(request):
 
     yield tmpdir
     shutil.rmtree(tmpdir)
-
-
-@fixture(scope="module", autouse=True)
-def get_df(datadir):
-    yield pd.read_csv(datadir.joinpath("data.tsv"), sep="\t")

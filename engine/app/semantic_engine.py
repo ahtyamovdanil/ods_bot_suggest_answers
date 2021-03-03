@@ -1,5 +1,6 @@
 import pandas as pd
 import pickle
+import warnings
 from sentence_transformers import SentenceTransformer, util
 from typing import List, Dict
 
@@ -26,6 +27,9 @@ class SemanticEngine:
 
     def calc_embeddings(self, corpus: List[str]):
         """ calculate new embeddings """
+        if len(corpus) == 0:
+            raise ValueError("corpus is empty")
+
         corpus_embeddings = self.model.encode(
             corpus, convert_to_tensor=True, show_progress_bar=False
         )
@@ -68,6 +72,14 @@ class SemanticEngine:
             raise ValueError(
                 "embeddings are not initialized. Call `load_embeddings` or `calc_embeddings` first"
             )
+        if k > len(self.embeddings):
+            warnings.warn(
+                f"""`k` with value of {k} is bigger then number of 
+                sentences with value of {len(self.embeddings)}.
+                Value of k is set to {len(self.embeddings)}
+                """)
+            k = len(self.embeddings)
+
         query_embedding = self.model.encode(
             [query], convert_to_tensor=True, show_progress_bar=False
         )
@@ -80,6 +92,5 @@ class SemanticEngine:
                 "text": self.text_df[hit["corpus_id"]][1],
             }
             for hit in hits
-            if hit["score"] != 1
         ]
         return result
