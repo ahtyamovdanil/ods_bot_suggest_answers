@@ -1,12 +1,20 @@
-FROM python:3.8.7-alpine
+FROM ubuntu:latest
+RUN apt update
+RUN apt install -y python3.8-dev
+RUN apt install -y python3-pip
 
 COPY . /app
 WORKDIR /app
 
-RUN pip install -r requirements.txt
+RUN pip3 install -r requirements.txt
 
 ARG ENGINE_IP
 ARG ENGINE_PORT
-ARG BOT_TOKEN
+ARG TELEGRAM_BOT_TOKEN
+ENV ENGINE_IP=$ENGINE_IP
+ENV ENGINE_PORT=$ENGINE_PORT
+ENV TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN
+RUN apt update
+RUN apt install -y curl
 
-CMD ["python", "bot.py"]
+CMD ["python3.8", "bot.py"]
