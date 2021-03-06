@@ -26,7 +26,11 @@ def create_app(data_path: Union[str, os.PathLike], embeddings_path: Union[str, o
         top_k = content["top_k"]
         result = app.config["ENGINE"].get_top_k(query, k=top_k)
         return jsonify(result)
-
+    
+    @app.route("/api/ready", methods=["GET"])
+    def ready():
+        return 'OK', 200
+  
     return app
 
 
@@ -36,3 +40,4 @@ if __name__ == "__main__":
         embeddings_path="data/embeddings/edu_courses.pkl"
     )
     app.run(host="0.0.0.0")
+    
