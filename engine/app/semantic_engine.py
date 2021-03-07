@@ -11,7 +11,7 @@ class SemanticEngine:
         Args:
             text_df (pd.DataFrame): pandas dataframe with fields: ts, text
         """
-        self.model = SentenceTransformer(model="distiluse-base-multilingual-cased-v2")
+        self.model = SentenceTransformer("paraphrase-distilroberta-base-v1")
         self.text_df = text_df.to_numpy()
         self.embeddings = None
 

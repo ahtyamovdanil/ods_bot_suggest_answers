@@ -14,7 +14,7 @@ def datadir(request):
     tests can use them freely.
     """
     tmpdir = Path(tempfile.mkdtemp())
-    test_dir = Path(os.path.join(request.fspath.dirname, 'data'))
+    test_dir = Path(os.path.join(request.fspath.dirname, 'data_test'))
 
     if os.path.isdir(test_dir):
         dir_util.copy_tree(test_dir, str(tmpdir))
