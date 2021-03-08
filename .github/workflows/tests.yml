@@ -29,4 +29,5 @@ jobs:
     - name: Test with pytest
       run: |
         mkdir /tmp
-        pytest
+        pytest --basetemp=./engine/tests/tmpdir
+
