@@ -28,6 +28,5 @@ jobs:
         pip install -r ./engine/tests/test-requirements.txt
     - name: Test with pytest
       run: |
-        mkdir /tmp
         pytest --basetemp=./engine/tests/tmpdir
 
