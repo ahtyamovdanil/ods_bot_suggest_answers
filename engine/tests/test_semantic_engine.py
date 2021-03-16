@@ -1,7 +1,7 @@
 import pytest
 import torch
 import pandas as pd
-from engine.app.semantic_engine import SemanticEngine
+from app.semantic_engine import SemanticEngine
 
 
 @pytest.fixture(scope="module", autouse=True)
