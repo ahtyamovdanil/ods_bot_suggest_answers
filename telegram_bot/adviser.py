@@ -1,15 +1,8 @@
-# import nltk
-# from pymystem3 import Mystem
-import requests
 import os
+import requests
 
 ENGINE_IP = os.environ.get("ENGINE_IP")
 ENGINE_PORT = os.environ.get("ENGINE_PORT")
-
-# try:
-#     nltk.corpus.stopwords.words("russian")
-# except LookupError:
-#     nltk.download("stopwords")
 
 
 class Adviser:

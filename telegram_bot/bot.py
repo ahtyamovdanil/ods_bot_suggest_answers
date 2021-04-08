@@ -1,9 +1,6 @@
 import os
 import telebot
-import telebot
-import time
 from adviser import Adviser
-import os
 
 
 token = os.environ.get("TELEGRAM_BOT_TOKEN")

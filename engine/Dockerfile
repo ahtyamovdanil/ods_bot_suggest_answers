@@ -16,6 +16,8 @@ COPY --from=base-image /opt/venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 ARG AWS_ACCESS_KEY_ID
 ARG AWS_SECRET_ACCESS_KEY
+
+
 ENV AWS_DEFAULT_REGION=ru-central1
 ENV PYTHONPATH "${PYTHONPATH}:/usr/src/"
 
